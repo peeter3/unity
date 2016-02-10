@@ -16,7 +16,11 @@ Introduction
 
 <center>OUR FATHER, WHO ART IN HEAVEN</center>
 
-1. If you say only these words, almost everyone knows what follows.
+1. If you say only the words “our Father,” almost everyone knows what follows.
+    1. These may be the best-known words in the English language.
+    2. You could just as well say, “my Father,” but everyone knows “our Father.”
+    3. The next thing everyone knows about “our Father” is that He's in heaven.
+1. Our good Father in heaven is the One we turn to in need.
 
 ## Wed 2016‑02‑17
 
