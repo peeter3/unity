@@ -13,7 +13,7 @@
 
 ## Scripture [Ps 30:5 ESV]
 
-> For his anger is but for a moment,  
+> His anger is but for a moment,  
 > and his favor is for a lifetime.  
 > Weeping may tarry for the night,  
 > but joy comes with the morning.
@@ -43,6 +43,25 @@ that our Lord Jesus gave to us to teach us to pray.
 
 You could just as well say, “my Father”—“my Father who is in heaven”—for He truly is your personal Father—after all,
 He named you after Himself when He baptized you.
+But it would be strange to hear “my Father who is in heaven” because you have always
+heard “_our_ Father who art in heaven.” We remember “our.”
+Your Father in heaven is the God and Father of all mankind; not only “your”—“our.”
+It is good to remember that the good that you would like to ask your Father to do
+to you is also the good He would want to do for everyone else, for He loves them all.
+This is an important thing when you are praying about your enemies—about those who
+trespass against you.
+
+Of course, the next thing everyone knows about “our Father” is that He's in heaven,
+and heaven is a good place—heaven is a good place we all want to be.
+“Our Father's” being in heaven means He's a good Father, and that is what we will
+focus on. What is our good Father like?
+
+> **His anger is but for a moment,**  
+> **and his favor is for a lifetime.**  
+> **Weeping may tarry for the night,**  
+> **but joy comes with the morning.**
+
+
 
 AMEN.
 
