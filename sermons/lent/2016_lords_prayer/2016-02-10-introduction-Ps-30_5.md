@@ -27,7 +27,22 @@
 
 ## Sermon
 
-Beloved in the Lord, when you say the words “our Father” in a Lutheran church, I would say that automatically for practically anyone, the rest of the Lord's Prayer comes up.
+Beloved in the Lord, when you say the words “our Father” in a Lutheran church, I would say that for everyone,
+the rest of the Lord's Prayer comes up. **“Our Father, who art in heaven, hallowed be Thy name …”**
+When you say the words “our Father” in _any Christian church_, the rest of the Lord's Prayer comes up.
+When you say the words “our Father” to _any English-speaking person_, I still say it is likely that
+the rest of the Lord's Prayer comes up.
+For this year's Lenten sermons, we will slowly and carefully digest this prayer—the Lord's Prayer—this jewel
+that our Lord Jesus gave to us to teach us to pray.
+
+> **Our Father who art in heaven, hallowed be Thy name, Thy kingdom come,
+> Thy will be done on earth as it is in heaven. Give us this day our daily bread;
+> and forgive us our trespasses as we forgive those who trespass against us;
+> and lead us not into temptation, but deliver us from evil.
+> For thine is the kingdom and the power and the glory forever and ever. Amen.**
+
+You could just as well say, “my Father”—“my Father who is in heaven”—for He truly is your personal Father—after all,
+He named you after Himself when He baptized you.
 
 AMEN.
 
