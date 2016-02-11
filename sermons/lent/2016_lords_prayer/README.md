@@ -14,15 +14,7 @@ td { border: 1px solid black; padding: 10px; }
 
 Introduction
 
-<center>HIS ANGER IS BUT FOR A MOMENT, AND HIS FAVOR IS FOR A LIFETIME.</center>
-
-1. If you say only the words “our Father,” almost everyone knows what follows.
-    1. These may be the best-known words in the English language.
-    2. You could just as well say, “my Father,” but everyone knows “our Father.”
-    3. The next thing everyone knows about “our Father” is that He's in heaven.
-1. Our good Father in heaven is the One we turn to in need.
-    1. We remember our own good fathers: strict and loving.
-    1. “His anger is but for a moment, and His favor is for a lifetime.”
+See file <kbd>2016-02-10-introduction-Ps-30_5.md</kbd>.
 
 ## Wed 2016‑02‑17
 
