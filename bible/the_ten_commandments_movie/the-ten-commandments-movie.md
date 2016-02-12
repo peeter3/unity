@@ -55,3 +55,21 @@ Nefertiri has a crush on Moses. Moses proclaimed son of the Pharaoh's sister.
 
 ### 7. King and Queen of Ethiopia
 
+
+## Selection of Bible passages
+
+### Dt 26:1‑11
+
+This was the Old Testament reading for the First Sunday in Lent. It contains the Israelite confession of faith in vv 5‑10. This confession was to be spoken whenever an Israelite brought his firstfruits to the LORD:
+
+> **A wandering Aramean was my father.**  
+> **And he went down into Egypt and sojourned there, few in number,**  
+> **and there he became a nation, great, mighty, and populous.**  
+> **And the Egyptians treated us harshly and humiliated us and laid on us hard labor.**  
+> **Then we cried to the LORD, the God of our fathers,**  
+> **and the LORD heard our voice and saw our affliction, our toil, and our oppression.**  
+> **And the LORD brought us out of Egypt with a mighty hand and an outstretched arm,**  
+> **with great deeds of terror, with signs and wonders.**  
+> **And he brought us into this place and gave us this land,**  
+> **a land flowing with milk and honey.**  
+> **And behold, now I bring the first of the fruit of the ground, which you, O LORD, have given me.**
