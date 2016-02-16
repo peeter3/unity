@@ -18,7 +18,7 @@ See file <kbd>2016-02-10-introduction-Ps-30_5.md</kbd>.
 
 ## Wed 2016‑02‑17
 
-1st Petition, Part 1
+1st Petition, Part 1, Psalm 138
 
 <center>O LORD, REGARD OUR PRAYERS</center>
 
