@@ -55,11 +55,11 @@ What is _our Father_ like and how are we to pray to Him? Well, He might be a bit
 Now the father who taught his daughter to sing also told her not to put the poisoned oats
 by the fence so the horses do not get into it.
 (The poisoned oats were for killing prairie dogs.)
-Well, this daughter put the poisoned oats away from the fence, she thought,
-but later that day, four of them were dead!
+Well, this daughter put the poisoned oats away from the fence, she thought.
+But later that day, four of them were dead!
 Her father said, “I told you not to put the oats by the fence.” And that was it.
 His anger must have burned for a moment, but his daughter never heard it.
-(And she never poisoned any more horses.)
+(And she never poisoned any more horses, either.)
 
 > **His anger is but for a moment,**  
 > **and his favor is for a lifetime.**  
@@ -74,7 +74,7 @@ This is what the Scriptures reveal to us about _our Father_ in heaven to whom we
 His anger toward our sins is real, which Jesus absorbed on the Cross. It is over.
 Now His favor toward us never ends.
 Let us turn to Him in prayer confessing our sins and clinging to our Baptism,
-by which we call Him “our Father.” _God would by these words tenderly invite us to believe
+by which we call Him **“our Father.”** _God would by these words tenderly invite us to believe
 that He is our true Father, and we are His true children, so that we may with all boldness and confidence
 ask Him as dear children ask their dear father_.<sup>[<a name="id0002" href="#ftn.id0002">§</a>]</sup>
 AMEN.
@@ -84,7 +84,6 @@ AMEN.
 <center>HIS ANGER IS BUT FOR A MOMENT, AND HIS FAVOR IS FOR A LIFETIME.</center>
 
 1. If you say only the words “our Father,” almost everyone knows what follows.
-    1. These may be the best-known words in the English language.
     2. You could just as well say, “my Father,” but everyone knows “our Father.”
     3. The next thing everyone knows about “our Father” is that He's in heaven.
         1. Want to forget about the father in hell.
