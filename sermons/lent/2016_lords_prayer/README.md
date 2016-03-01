@@ -39,16 +39,13 @@ Introduction, Psalm 30:5
 
 ## Wed 2016‑02‑24
 
-1st Petition, Part 2
+1st Petition, Part 2, Psalm 66
 
-<center>TO PRAY PROPERLY IS TO HONOR GOD'S NAME</center>
-
-1. We come to God's name through the 2nd Commandment
-1. We honor God's name by praying.
+No outline
 
 ## Wed 2016‑03‑02
 
-2nd Petition
+2nd Petition, Psalm 147
 
 ## Wed 2016‑03‑09
 
