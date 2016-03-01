@@ -45,7 +45,7 @@ No outline
 
 ## Wed 2016‑03‑02
 
-2nd Petition
+2nd Petition, Psalm 147
 
 ## Wed 2016‑03‑09
 
