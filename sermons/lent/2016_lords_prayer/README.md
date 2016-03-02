@@ -59,7 +59,6 @@ No outline
 
 5th Petition
 
-
 <center>FORGIVENESS IS THE GREATEST EXPRESSION OF LOVE</center>
 
 1. Jesus commanded us on this day to love one another.
