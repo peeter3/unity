@@ -141,15 +141,16 @@ O Lord God; through Jesus Christ, Your Son, our Lord, who lives and reigns with 
 
 ## Hymns
 
-* Before the First Word: _TLH_ 177 _Te Deum_ st 1‑2
-* Before the Second Word: _TLH_ 172 _Te Deum_ st 1, 3
-* Before the Third Word: _TLH_ 153 _Te Deum_ st 1, 3
-* Before the Fourth Word: _TLH_ 158 _Te Deum_ st 1, 2
+* Before the Collect: _TLH_ 175 *When I Survey the Wondrous Cross* st 1‑3
+* Before the First Word: _TLH_ 177 *Our Blessed Savior Seven Times Spoke* st 1‑2
+* Before the Second Word: _TLH_ 172 *O Sacred Head, Now Wounded* st 1, 3
+* Before the Third Word: _TLH_ 153 *Stricken, Smitten, and Afflicted* st 1, 3
+* Before the Fourth Word: _TLH_ 158 *Glory Be to Jesus* st 1, 2
 * Before the Fifth Word: Organ solo
-* Before the Sixth Word: _TLH_ 184 _Te Deum_ st 1‑3
-* Before the Seventh Word: _TLH_ 172 _Te Deum_ st 8
-* After the Seventh Word: _TLH_ 171 _Te Deum_ st 1, 12
-* After the Lord's Prayer: _TLH_ 167 _Te Deum_ st 1‑2, 6‑7
+* Before the Sixth Word: _TLH_ 184 *Jesus, in Thy Thirst and Pain* st 1‑3
+* Before the Seventh Word: _TLH_ 172 *O Sacred Head, Now Wounded* st 8
+* After the Seventh Word: _TLH_ 171 *Upon the Cross Extended* st 1, 12
+* After the Lord's Prayer: _TLH_ 167 *O Darkest Woe* st 1‑2, 6‑7
 
 ## Sermon
 
