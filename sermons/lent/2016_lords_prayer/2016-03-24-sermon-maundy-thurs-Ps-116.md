@@ -100,7 +100,7 @@ O Lord God; through Jesus Christ, Your Son, our Lord, who lives and reigns with 
 
 * Opening hymn: _TLH_ 164 _Twas on that Dark, That Doleful Night_
 * Sermon hymn: _TLH_ 999 _Te Deum_ st 1‑3, 6‑7
-* Communion hymn: _TLH_ 313 _O Lord, We Praise Thee_
+* Communion hymn: _TLH_ 163 _The Death of Jesus Christ, Our Lord_
 * Closing hymn: _TLH_ 153 _Stricken, Smitten, and Afflicted_
 
 ## Sermon
