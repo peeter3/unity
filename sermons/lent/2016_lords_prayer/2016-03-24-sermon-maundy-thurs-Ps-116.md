@@ -31,10 +31,10 @@
 
 Put this psalm in the order of service in the place of the Introit.
 
-> I love the LORD, because he has heard  
-> my voice and my pleas for mercy.  
-> Because he inclined his ear to me,  
-> therefore I will call on him as long as I live.  
+> I love the LORD, because | he has heard*  
+> my voice and my pleas for | mercy.  
+> Because he inclined his | ear to me,*  
+> therefore I will call on him as long | as I live.  
 > The snares of death encompassed me;  
 > the pangs of Sheol laid hold on me;  
 > I suffered distress and anguish.  
@@ -80,10 +80,10 @@ O Lord God; through Jesus Christ, Your Son, our Lord, who lives and reigns with 
 
 ## Hymns
 
-* Opening hymn: _TLH_ 999 _Te Deum_ st 1‑4
+* Opening hymn: _TLH_ 164 _Twas on that Dark, That Doleful Night_
 * Sermon hymn: _TLH_ 999 _Te Deum_ st 1‑3, 6‑7
-* Communion hymn: _TLH_ 999 _Te Deum_ st 6‑10
-* Closing hymn: _TLH_ 999 _Te Deum_ st 5‑7
+* Communion hymn: _TLH_ 313 _O Lord, We Praise Thee_
+* Closing hymn: _TLH_ 153 _Stricken, Smitten, and Afflicted_
 
 ## Sermon
 
@@ -99,7 +99,12 @@ Beloved in the Lord, AMEN.
 
 ## Notes
 
-ZZZ
+Ps 116:14. What vow will I make to the Lord for all His benefits to me?
+What vow shall I make as I take up the cup of salvation and partake of the true body and blood of Jesus?
+I vow to forgive my neighbor. I vow to love him.
+
+Ps 116:15. Even death, when done by faith, pleases God.
+Partaking of Christ's living body is great comfort when I am dying.
 
 ZZZ<sup>[<a name="id0002" href="#ftn.id0002">§</a>]</sup>
 
