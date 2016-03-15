@@ -49,15 +49,15 @@ No outline
 
 ## Wed 2016‑03‑09
 
-3rd Petition
+3rd Petition, Psalm 94
 
 ## Wed 2016‑03‑16
 
-4th Petition
+4th Petition, Psalm 104
 
 ## Thu 2016‑03‑24 (Maundy Thursday)
 
-5th Petition
+5th Petition, Psalm 116
 
 <center>FORGIVENESS IS THE GREATEST EXPRESSION OF LOVE</center>
 

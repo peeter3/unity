@@ -24,7 +24,7 @@ Otherwise you will be in trouble.
 <td align="right">2 cups</td><td>from Jeremiah 6:20 (first sentence)</td>
 </tr>
 <tr>
-<td align="right">2 cups</td><td>from 1 Samuel (WHICH CHAPTER AND VERSE?) (second mentioned item)</td>
+<td align="right">2 cups</td><td>from 1 Samuel 30:12 (second mentioned item)</td>
 </tr>
 <tr>
 <td align="right">2 cups</td><td>from Nahum 3:12</td>
