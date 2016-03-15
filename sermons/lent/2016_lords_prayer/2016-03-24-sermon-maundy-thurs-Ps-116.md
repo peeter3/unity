@@ -1,15 +1,33 @@
 <head>
 <meta charset="utf-8">
 <style>
+th { text-align: center; font-weight: bold; vertical-align: baseline; border: 3px solid blue; }
+td { border: 1px solid black; padding: 10px; }
+.h { visibility: hidden; }
 </style>
 <title>sermon</title>
 </head>
 
 # Maundy Thursday
 
+## Checklist
+
+<table>
+<tr>
+<th>To do</th><th>Who will do it?</th><th>Is it done?</th>
+</tr>
+<tr>
+<td>Prepare Altar Guild for stripping of the altar</td><td>Altar Guild</td><td></td>
+</tr>
+<tr>
+<td>Put stripping of the altar reading in the lectern</td><td>Altar Guild</td><td></td>
+</tr>
+</table>
+
 ## During the service
 
 * For this service, the Introit has been replaced by Ps 116.
+* The altar is stripped at the end of the service.
 
 ## Announcements
 
@@ -112,3 +130,5 @@ ZZZ<sup>[<a name="id0002" href="#ftn.id0002">§</a>]</sup>
 
 <sup>[<a name="ftn.id0002" href="#id0002">§</a>]</sup>
 ZZZ
+
+
