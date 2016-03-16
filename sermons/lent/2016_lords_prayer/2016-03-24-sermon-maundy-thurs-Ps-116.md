@@ -33,7 +33,7 @@ td { border: 1px solid black; padding: 10px; }
 
 * ZZZ
 
-## Old Testament [Ex 12:1‑4 ESV]
+## Old Testament [Ex 12:1‑14 ESV]
 
 
 
