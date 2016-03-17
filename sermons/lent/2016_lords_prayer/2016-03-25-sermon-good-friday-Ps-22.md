@@ -43,18 +43,23 @@ td { border: 1px solid black; padding: 10px; }
 
 ## Third Word [Jn 19:25‑27 ESV]
 
+[25] Standing by the cross of Jesus were his mother and his mother's sister, Mary the wife of Clopas, and Mary Magdalene. [26] When Jesus saw his mother and the disciple whom he loved standing nearby, he said to his mother, “Woman, behold, your son!” [27] Then he said to the disciple, “Behold, your mother!” And from that hour the disciple took her to his own home.
 
 ## Fourth Word [Mt 27:45‑46 ESV]
 
+[45] Now from the sixth hour there was darkness over all the land until the ninth hour. [46] And about the ninth hour Jesus cried out with a loud voice, saying, “Eli, Eli, lema sabachthani?” that is, “My God, my God, why have you forsaken me?”
 
 ## Fifth Word [Jn 19:28‑29 ESV]
 
+[28] After this, Jesus, knowing that all was now finished, said (to fulfill the Scripture), “I thirst.” [29] A jar full of sour wine stood there, so they put a sponge full of the sour wine on a hyssop branch and held it to his mouth.
 
 ## Sixth Word [Jn 19:30 ESV]
 
+[30] When Jesus had received the sour wine, he said, “It is finished,” and he bowed his head and gave up his spirit.
 
 ## Seventh Word [Lk 23:44‑47 ESV]
 
+[44] It was now about the sixth hour, and there was darkness over the whole land until the ninth hour, [45] while the sun's light failed. And the curtain of the temple was torn in two. [46] Then Jesus, calling out with a loud voice, said, “Father, into your hands I commit my spirit!” And having said this he breathed his last. [47] Now when the centurion saw what had taken place, he praised God, saying, “Certainly this man was innocent!”
 
 ## Psalm [Ps 22 in its entirety; sermon text]
 
@@ -62,31 +67,30 @@ Put this psalm in the order of service in the place of the Introit.
 
 > My God, my God, why have you for- | saken me?*  
 > Why are you so far from saving me, from the words of my | groaning?  
-> O my God, I cry by day, but you do not answer,  
-> and by night, but I find no rest.  
-> Yet you are holy,  
-> enthroned on the praises of Israel.  
-> In you our fathers trusted;  
-> they trusted, and you delivered them.  
-> To you they cried and were rescued;  
-> in you they trusted and were not put to shame.  
-> But I am a worm and not a man,  
-> scorned by mankind and despised by the people.  
-> All who see me mock me;  
-> they make mouths at me; they wag their heads;  
-> “He trusts in the LORD; let him deliver him;  
-> let him rescue him, for he delights in him!”  
-> Yet you are he who took me from the womb;  
-> you made me trust you at my mother's breasts.  
-> On you was I cast from my birth,  
-> and from my mother's womb you have been my God.  
-> Be not far from me,  
-> for trouble is near,  
-> and there is none to help.  
-> Many bulls encompass me;  
-> strong bulls of Bashan surround me;  
-> they open wide their mouths at me,  
-> like a ravening and roaring lion.  
+> O my God, I cry by day, but you do not | answer,*  
+> and by night, but I | find no rest.  
+> Yet you are | holy,*  
+> enthroned on the praises of | Israel.  
+> In you our fathers | trusted;*  
+> they trusted, and you de- | livered them.  
+> To you they cried and were | rescued;*  
+> in you they trusted and were not | put to shame.  
+> But I am a worm and | not a man,*  
+> scorned by mankind and despised by the | people.  
+> All who see me | mock me;*  
+> they make mouths at me; they | wag their heads;  
+> “He trusts in the LORD; let him de- | liver him;*  
+> let him rescue him, for he de- | lights in him!”  
+> Yet you are he who took me | from the womb;*  
+> you made me trust you at my | mother's breasts.  
+> On you was I cast | from my birth,*  
+> and from my mother's womb you have | been my God.  
+> Be not far from me, for trouble | is near,*  
+> and there is | none to help.  
+> Many bulls en- | compass me;*  
+> strong bulls of Bashan sur- | round me;  
+> they open wide their | mouths at me,*  
+> like a ravening and roaring | lion.  
 > I am poured out like water,  
 > and all my bones are out of joint;  
 > my heart is like wax;  
