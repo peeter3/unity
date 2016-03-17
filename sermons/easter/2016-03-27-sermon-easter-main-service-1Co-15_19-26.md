@@ -23,7 +23,7 @@ td { border: 1px solid black; padding: 10px; }
 
 ## During the service
 
-* ZZZ
+* Youth Choir sings TLH 199 during the offering
 
 ## Announcements
 
@@ -89,10 +89,10 @@ through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the 
 
 ## Hymns
 
-* Opening hymn: _TLH_ 999 _Te Deum_
+* Opening hymn: _TLH_ 199 _Jesus Christ is Risen Today, Alleluia!_
 * Sermon hymn: _TLH_ 999 _Te Deum_
-* Communion hymn: _TLH_ 999 _Te Deum_
-* Closing hymn: _TLH_ 999 _Te Deum_ st 1-3, 6
+* Communion hymn: NO COMMUNION TODAY
+* Closing hymn: _TLH_ 200 _I Know that My Redeemer Lives_ 
 
 ## Sermon
 
