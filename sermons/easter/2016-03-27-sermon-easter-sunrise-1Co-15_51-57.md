@@ -4,6 +4,10 @@
 th { text-align: center; font-weight: bold; vertical-align: baseline; border: 3px solid blue; }
 td { border: 1px solid black; padding: 10px; }
 .h { visibility: hidden; }
+p.liturgy {
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
 </style>
 <title>sermon</title>
 </head>
@@ -24,26 +28,28 @@ td { border: 1px solid black; padding: 10px; }
 ## During the service
 
 * Service at the columbarium at the Lutheran Cemetery. Have the congregation face east.
+* Pastor Kavouras liturgist; Pastor Pirn preacher
 
 ## Announcements
 
 * Do not announce Unity's Easter breakfast.
 
-## Old Testament [Jb 19:23-27 NKJV<sup>[<a name="id0002" href="#ftn.id0002">§</a>]</sup>]
+## Opening Hymn
 
-> [23] “Oh, that my words were written!  
-> Oh, that they were inscribed in a book!  
-> [24] That they were engraved on a rock  
-> With an iron pen and lead, forever!  
-> [25] For I know that my Redeemer lives,  
-> And He shall stand at last on the earth;  
-> [26] And after my skin is destroyed, this I know,  
-> That in my flesh I shall see God,  
-> [27] Whom I shall see for myself,  
-> And my eyes shall behold, and not another.  
-> How my heart yearns within me!
+_LSB_ 461 _I Know That My Redeemer Lives_
 
-## Epistle [1Co 15:51-57 ESV; sermon text]
+## Responsive reading
+
+<!-- There are two non-breaking space Unicode characters after the first character ("P" or "C"). -->
+<p class="liturgy">P  This is the day which the Lord hath made:</p>
+
+<p class="liturgy">C  We will rejoice and be glad in it.</p>
+
+<p class="liturgy">P  He is risen!</p>
+
+<p class="liturgy">C  The Lord is risen indeed. Alleluia!</p>
+
+## First Lesson [1Co 15:51-57 ESV; sermon text]
 
 [51] Behold! I tell you a mystery. We shall not all sleep, but we shall all be changed, [52] in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we shall be changed. [53] For this perishable body must put on the imperishable, and this mortal body must put on immortality. [54] When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written:
 
@@ -53,7 +59,7 @@ td { border: 1px solid black; padding: 10px; }
 	
 [56] The sting of death is sin, and the power of sin is the law. [57] But thanks be to God, who gives us the victory through our Lord Jesus Christ.
 
-## Holy Gospel [Jn 20:1-18 ESV]
+## Second Lesson [Jn 20:1-18 ESV]
 
 [1] Now on the first day of the week Mary Magdalene came to the tomb early, while it was still dark, and saw that the stone had been taken away from the tomb. [2] So she ran and went to Simon Peter and the other disciple, the one whom Jesus loved, and said to them, “They have taken the Lord out of the tomb, and we do not know where they have laid him.” [3] So Peter went out with the other disciple, and they were going toward the tomb. [4] Both of them were running together, but the other disciple outran Peter and reached the tomb first. [5] And stooping to look in, he saw the linen cloths lying there, but he did not go in. [6] Then Simon Peter came, following him, and went into the tomb. He saw the linen cloths lying there, [7] and the face cloth, which had been on Jesus' head, not lying with the linen cloths but folded up in a place by itself. [8] Then the other disciple, who had reached the tomb first, also went in, and he saw and believed; [9] for as yet they did not understand the Scripture, that he must rise from the dead. [10] Then the disciples went back to their homes.
 
@@ -72,7 +78,6 @@ through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the 
 
 ## Hymns
 
-* Opening hymn: _TLH_ 999 _Te Deum_
 * Sermon hymn: _TLH_ 999 _Te Deum_
 * Communion hymn: _TLH_ 999 _Te Deum_
 * Closing hymn: _TLH_ 999 _Te Deum_ st 1-3, 6
