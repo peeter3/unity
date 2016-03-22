@@ -44,20 +44,20 @@ _LSB_ 461 _I Know That My Redeemer Lives_
 <!-- There are two non-breaking space Unicode characters after the first character ("P" or "C"). -->
 <p class="liturgy">P  This is the day which the Lord hath made:</p>
 
-<p class="liturgy">C  We will rejoice and be glad in it.</p>
+<p class="liturgy">C  <b>We will rejoice and be glad in it.</b></p>
 
 <p class="liturgy">P  He is risen!</p>
 
-<p class="liturgy">C  The Lord is risen indeed. Alleluia!</p>
+<p class="liturgy">C  <b>The Lord is risen indeed. Alleluia!</b></p>
 
 <p class="liturgy">P  Oh, sing unto the Lord a new song:</p>
 
-<p class="liturgy">C  For He hath done marvelous things.</p>
+<p class="liturgy">C  <b>For He hath done marvelous things.</b></p>
 
 <p class="liturgy">P  Our Lord Jesus said: I am the Resurrection and the Life; he that
 believeth in Me, though he were dead, yet shall he live:</p>
 
-<p class="liturgy">C  And he that liveth and believeth in Me shall never die.</p>
+<p class="liturgy">C  <b>And he that liveth and believeth in Me shall never die.</b></p>
 
 ## First Lesson [1Co 15:51-57 ESV; sermon text]
 
@@ -74,12 +74,28 @@ believeth in Me, though he were dead, yet shall he live:</p>
 <p class="liturgy">P  Worthy is the Lamb that was slain to receive power and riches
 and wisdom:</p>
 
-<p class="liturgy">C  and strength and honor and glory and blessing.</p>
+<p class="liturgy">C  <b>and strength and honor and glory and blessing.</b></p>
 
 <p class="liturgy">P  Blessing and honor and glory and power be unto Him that sitteth
 upon the throne:</p>
 
-<p class="liturgy">C  and unto the Lamb forever and ever.</p>
+<p class="liturgy">C  <b>and unto the Lamb forever and ever.</b></p>
+
+<p class="liturgy">P  Great and marvelous are Thy works, Lord God Almighty;</p>
+
+<p class="liturgy">C  <b>just and true are Thy ways, Thou King of saints.</b></p>
+
+<p class="liturgy">P  Who shall not fear Thee, O Lord, and glorify Thy name?</p>
+
+<p class="liturgy">C  <b>For Thou only are holy.</b></p>
+
+<p class="liturgy">P  Praise our God, all ye His servants:</p>
+
+<p class="liturgy">C  <b>and ye that fear Him, both small and great.</b></p>
+
+<p class="liturgy">P  Alleluia! For the Lord God Omnipotent reigneth.</p>
+
+<p class="liturgy">C  <b>Alleluia, Alleluia! Amen.</b></p>
 
 ## Second Lesson [Jn 20:1-18 ESV]
 
@@ -90,6 +106,34 @@ upon the throne:</p>
 ## Sermon
 
 Beloved in the Lord, AMEN.
+
+## Responsive reading 3
+
+<p class="liturgy">P  This is the day which the Lord hath made</p>
+
+<p class="liturgy">C  <b>Let us rejoice and be glad in it.</b></p>
+
+<p class="liturgy">P  Almighty Father, we praise Thee for the glorious resurrection
+and exaltation of Thy Son, our Savior</p>
+
+<p class="liturgy">C  <b>Who was delivered unto death for our offenses, and raised
+again for our justification.</b></p>
+
+<p class="liturgy">P  Therefore, we beseech Thee, grant us grace to keep the Passover
+of the New Covenant with solemn joy.</p>
+
+<p class="liturgy">C  <b>And kindle within us heavenly desires that we may ever thirst for the fountain of Life:</b></p>
+
+<p class="liturgy">P  Lead us to be grateful for our Savior's victory over death and the
+grave.</p>
+
+<p class="liturgy">C  <b>That we grow strong in His might, continually subduing the
+evil within us;</b></p>
+
+<p class="liturgy">P  and make us ever hopeful of our own resurrection, the final casting off of the sinful flesh, the beatific vision, and the marriage supper of the Lamb.</p>
+
+<p class="liturgy">C  <b>To whom with Thee and the Holy Ghost be honor, power,
+glory, and dominion, world without end. Amen.</b></p>
 
 ## Final hymn
 
