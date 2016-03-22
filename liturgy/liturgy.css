@@ -1,0 +1,22 @@
+p.liturgy {
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+
+p.liturgy-new-paragraph {
+  padding-left: 1.5em;
+}
+
+.dark-background-bold {
+  background-color: teal;
+  color: white;
+  font-weight: bold;
+}
+
+.response {
+  font-weight: bold;
+}
+
+.rubric {
+  font-style: italic;
+}
