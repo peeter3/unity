@@ -107,6 +107,10 @@ O Lord God; through Jesus Christ, Your Son, our Lord, who lives and reigns with 
 
 Beloved in the Lord, AMEN.
 
+## Stripping of the altar
+
+[See here.](./../../../liturgy/maundy-thursday-stripping-of-the-altar.html)
+
 ## Outline
 
 <center>ZZZ</center>

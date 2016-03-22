@@ -19,6 +19,12 @@ td { border: 1px solid black; padding: 10px; }
 <tr>
 <td>Have book set out and ready in the pastor's sacrity for sealing the tomb</td><td>Pastor Pirn</td><td></td>
 </tr>
+<tr>
+<td>Acolyte #1, carry out Christ candle at end of service</td><td></td><td></td>
+</tr>
+<tr>
+<td>Acolyte #2, carry out candle holder at end of service</td><td></td><td></td>
+</tr>
 </table>
 
 ## During the service

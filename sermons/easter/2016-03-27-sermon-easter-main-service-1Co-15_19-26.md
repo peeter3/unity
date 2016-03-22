@@ -27,7 +27,7 @@ td { border: 1px solid black; padding: 10px; }
 
 ## Announcements
 
-* Easter lilies can be picked up when?
+* Easter lilies can be picked up after the service. Come to the front of the church and pick up your lilies at the foot of the chancel.
 
 ## Old Testament [Is 65:17-25 ESV]
 

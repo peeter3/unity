@@ -5,4 +5,6 @@
 # Remove all backup files created by gedit, which have a `~' at the end of the filename.
 find . -type f -name "*~" -exec rm {} +
 # `.html' files are generated from `.md' files and need not be added to the repository.
-find . -type f -name "*.html" -exec rm {} +
+# However, in the `liturgy` directory, there are `.html` files that are not generated;
+# we want to keep these.
+find . -path ./liturgy -prune -o -type f -name "*.html" -exec rm {} +
