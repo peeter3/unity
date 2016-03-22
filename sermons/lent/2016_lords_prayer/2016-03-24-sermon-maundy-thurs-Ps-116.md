@@ -100,7 +100,7 @@ Put this psalm in the order of service in the place of the Introit.
 
 ## Collect
 
-O Lord God; through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+O Lord, in this wondrous Sacrament You have left us a remembrance of Your passion. Grant that we may so receive the sacred mystery of Your body and blood that the fruits of Your redemption may continually be manifest in us; for You live and reign with the Father and the Holy Spirit, one God, now and forever.
 
 ## Hymns
 
