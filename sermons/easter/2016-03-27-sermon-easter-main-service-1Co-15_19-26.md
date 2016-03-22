@@ -24,6 +24,7 @@ td { border: 1px solid black; padding: 10px; }
 ## During the service
 
 * Youth Choir sings TLH 199 during the offering
+* Joan Stefan is reader
 
 ## Announcements
 
