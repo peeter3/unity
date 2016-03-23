@@ -24,10 +24,12 @@ td { border: 1px solid black; padding: 10px; }
 ## During the service
 
 * Youth Choir sings TLH 199 during the offering
+* Joan Stefan is reader
 
 ## Announcements
 
 * Easter lilies can be picked up after the service. Come to the front of the church and pick up your lilies at the foot of the chancel.
+* Children participating in the Easter egg hunt should go to the gym after the service to decorate your Easter egg bag.
 
 ## Old Testament [Is 65:17-25 ESV]
 
