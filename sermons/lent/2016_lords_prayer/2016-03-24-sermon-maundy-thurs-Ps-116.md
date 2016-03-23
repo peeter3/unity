@@ -28,6 +28,7 @@ td { border: 1px solid black; padding: 10px; }
 
 * For this service, the Introit has been replaced by Ps 116.
 * The altar is stripped at the end of the service.
+* Tell congregation to be seated before stripping of the altar
 
 ## Announcements
 
