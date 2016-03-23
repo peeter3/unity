@@ -35,17 +35,9 @@ td { border: 1px solid black; padding: 10px; }
 
 ## Old Testament [Ex 12:1‑14 ESV]
 
-[1] The LORD said to Moses and Aaron in the land of Egypt, [2] “This month shall be for you the beginning of months. It shall be the first month of the year for you. [3] Tell all the congregation of Israel that on the tenth day of this month every man shall take a lamb according to their fathers' houses, a lamb for a household. [4] And if the household is too small for a lamb, then he and his nearest neighbor shall take according to the number of persons; according to what each can eat you shall make your count for the lamb. [5] Your lamb shall be without blemish, a male a year old. You may take it from the sheep or from the goats, [6] and you shall keep it until the fourteenth day of this month, when the whole assembly of the congregation of Israel shall kill their lambs at twilight.
-
-[7] “Then they shall take some of the blood and put it on the two doorposts and the lintel of the houses in which they eat it. [8] They shall eat the flesh that night, roasted on the fire; with unleavened bread and bitter herbs they shall eat it. [9] Do not eat any of it raw or boiled in water, but roasted, its head with its legs and its inner parts. [10] And you shall let none of it remain until the morning; anything that remains until the morning you shall burn. [11] In this manner you shall eat it: with your belt fastened, your sandals on your feet, and your staff in your hand. And you shall eat it in haste. It is the LORD's Passover. [12] For I will pass through the land of Egypt that night, and I will strike all the firstborn in the land of Egypt, both man and beast; and on all the gods of Egypt I will execute judgments: I am the LORD. [13] The blood shall be a sign for you, on the houses where you are. And when I see the blood, I will pass over you, and no plague will befall you to destroy you, when I strike the land of Egypt.
-
-[14] “This day shall be for you a memorial day, and you shall keep it as a feast to the LORD; throughout your generations, as a statute forever, you shall keep it as a feast.
 
 ## Epistle [1Co 11:23‑32 ESV]
 
-[23] For I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread, [24] and when he had given thanks, he broke it, and said, “This is my body which is for you. Do this in remembrance of me.” [25] In the same way also he took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.” [26] For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes.
-
-[27] Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord. [28] Let a person examine himself, then, and so eat of the bread and drink of the cup. [29] For anyone who eats and drinks without discerning the body eats and drinks judgment on himself. [30] That is why many of you are weak and ill, and some have died. [31] But if we judged ourselves truly, we would not be judged. [32] But when we are judged by the Lord, we are disciplined so that we may not be condemned along with the world.
 
 ## Holy Gospel [Jn 13:1‑17, 31b‑35 ESV]
 
