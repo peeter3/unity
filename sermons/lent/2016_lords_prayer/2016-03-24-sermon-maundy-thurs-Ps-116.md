@@ -111,7 +111,7 @@ O Lord, in this wondrous Sacrament You have left us a remembrance of Your passio
 ## Hymns
 
 * Opening hymn: _TLH_ 164 _Twas on that Dark, That Doleful Night_
-* Sermon hymn: _TLH_458  _Our Father, Thou in Heaven Above_ st 1‑6
+* Sermon hymn: _TLH_ 458  _Our Father, Thou in Heaven Above_ st 1‑6
 * Communion hymn: _TLH_ 163 _The Death of Jesus Christ, Our Lord_
 * Closing hymn: _TLH_ 153 _Stricken, Smitten, and Afflicted_
 
@@ -232,16 +232,22 @@ Let each one pay attention and consider it a serious matter; for St. Paul write
 
 ## Sermon
 
-Beloved in the Lord, we will soon to partake together in the Lord's Supper, Holy Communion.
-You may be aware that there is a warning in our Epistle reading about receiving the Lord's Supper in an unworthy manner:
+Beloved in the Lord, we will soon to partake together of the Lord's Supper, Holy Communion.
+You may already be aware of the warning in our Epistle reading about receiving the Lord's Supper in an unworthy manner:
 
 > **Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord. Let a person examine himself, then, and so eat of the bread and drink of the cup.** [(1Co 11:27‑28)](http://www.esvbible.org/1%20Corinthians%2011%3A27-28/)
 
-It is my job, as your called pastor, to administer Holy Communion, the body and blood of the Lord, at this altar according to the Word of God.
-In order to avoid eating the bread and drinking the cup of the Lord in an unworthy manner,
-it is written, **“Let a person examine himself, then, and so eat of the bread and drink of the cup.”**
+That is why the Church has always been careful with Holy Communion: someone could receive Holy Communion in an unworthy manner and hurt himself.
+It is my job, as your called pastor, to administer Holy Communion, the body and blood of the Lord, at this altar according to the Word of God, and that no one receive it in an unworthy manner.
+
+It is written, **“Let a person examine himself, then, and so eat of the bread and drink of the cup.”**
 “How do I examine myself?” you may ask.
-There is a section at the end of your catechism, entitled *Christian Questions with Their Answers*. *Christian Questions with Their Answers* is a guide for examining yourself before you receive Holy Communion, and Trina has added it to tonight's bulletin for your reference.
+This is part of what we go over in confirmation class.
+(For adults I often call it *adult instruction class*.)
+Confirmation class is to teach you the basics, and we use the catechism along with the Bible because the catechism boils it down to the basics.
+But did you know there is a section at the end of the catechism, entitled *Christian Questions with Their Answers*?
+I have had it printed in the bulletin for you to look at.
+*Christian Questions with Their Answers* is a guide for examining yourself before you receive Holy Communion, and Trina has added it to tonight's bulletin for your reference.
 You may turn to the back of your bulletin and look at it now.
 
 “Pastor, why didn't you teach this to us in confirmation class?”
@@ -255,7 +261,7 @@ What does this mean—**to forgive us our trespasses as we forgive those who tre
 
 > **“For if you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others their trespasses, neither will your Father forgive your trespasses.”** [(Mt 6:14‑15)](http://www.esvbible.org/Matthew%206%3A14-15/)
 
-Forgiveness is at the core of Holy Communion.
+Forgiveness is at the core of Holy Communion. It is implied in question 18 in *Christian Questions with Their Answers*.
 
 AMEN.
 
@@ -274,6 +280,10 @@ AMEN.
 ## Notes
 
 Fifth Petition of the Lord's Prayer
+
+Ex 12:5. The Passover lamb can also be a goat.
+
+Ex 12:11. Eat it in haste.
 
 Ps 116:14. What vow will I make to the Lord for all His benefits to me?
 What vow shall I make as I take up the cup of salvation and partake of the true body and blood of Jesus?
