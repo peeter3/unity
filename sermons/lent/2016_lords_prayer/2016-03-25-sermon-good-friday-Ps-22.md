@@ -23,7 +23,7 @@ td { border: 1px solid black; padding: 10px; }
 <td>Acolyte #1, carry out Christ candle at end of service</td><td>Trevon Preston</td><td></td>
 </tr>
 <tr>
-<td>Acolyte #2, carry out candle holder at end of service</td><td></td><td></td>
+<td>Acolyte #2, carry out candle holder at end of service</td><td>Jaan Pirn</td><td></td>
 </tr>
 </table>
 
