@@ -16,6 +16,7 @@ td { border: 1px solid black; padding: 10px; }
 <tr>
 <th>To do</th><th>Who will do it?</th><th>Is it done?</th>
 </tr>
+Service opens with choir singing by piano (choral call to worship)
 <tr>
 <td>Have book set out and ready in the pastor's sacrity for sealing the tomb</td><td>Pastor Pirn</td><td></td>
 </tr>
@@ -151,7 +152,7 @@ O Lord God; through Jesus Christ, Your Son, our Lord, who lives and reigns with 
 
 ## Hymns
 
-* Before the Collect: _TLH_ 175 *When I Survey the Wondrous Cross* st 1‑3
+* After the Collect: _TLH_ 175 *When I Survey the Wondrous Cross* st 1‑3
 * Before the First Word: _TLH_ 177 *Our Blessed Savior Seven Times Spoke* st 1‑2
 * Before the Second Word: _TLH_ 172 *O Sacred Head, Now Wounded* st 1, 3
 * Before the Third Word: _TLH_ 153 *Stricken, Smitten, and Afflicted* st 1, 3
