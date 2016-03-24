@@ -111,7 +111,7 @@ O Lord, in this wondrous Sacrament You have left us a remembrance of Your passio
 ## Hymns
 
 * Opening hymn: _TLH_ 164 _Twas on that Dark, That Doleful Night_
-* Sermon hymn: _TLH_458  _Our Father, Thou in Heaven Above_ st 1‑6
+* Sermon hymn: _TLH_ 458  _Our Father, Thou in Heaven Above_ st 1‑6
 * Communion hymn: _TLH_ 163 _The Death of Jesus Christ, Our Lord_
 * Closing hymn: _TLH_ 153 _Stricken, Smitten, and Afflicted_
 
@@ -232,8 +232,8 @@ Let each one pay attention and consider it a serious matter; for St. Paul write
 
 ## Sermon
 
-Beloved in the Lord, we will soon to partake together in the Lord's Supper, Holy Communion.
-You may be aware that there is a warning in our Epistle reading about receiving the Lord's Supper in an unworthy manner:
+Beloved in the Lord, we will soon to partake together of the Lord's Supper, Holy Communion.
+You may already be aware that there is a warning in our Epistle reading about receiving the Lord's Supper in an unworthy manner:
 
 > **Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord. Let a person examine himself, then, and so eat of the bread and drink of the cup.** [(1Co 11:27‑28)](http://www.esvbible.org/1%20Corinthians%2011%3A27-28/)
 
@@ -255,7 +255,7 @@ What does this mean—**to forgive us our trespasses as we forgive those who tre
 
 > **“For if you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others their trespasses, neither will your Father forgive your trespasses.”** [(Mt 6:14‑15)](http://www.esvbible.org/Matthew%206%3A14-15/)
 
-Forgiveness is at the core of Holy Communion.
+Forgiveness is at the core of Holy Communion. It is implied in question 18 in *Christian Questions with Their Answers*.
 
 AMEN.
 
@@ -274,6 +274,10 @@ AMEN.
 ## Notes
 
 Fifth Petition of the Lord's Prayer
+
+Ex 12:5. The Passover lamb can also be a goat.
+
+Ex 12:11. Eat it in haste.
 
 Ps 116:14. What vow will I make to the Lord for all His benefits to me?
 What vow shall I make as I take up the cup of salvation and partake of the true body and blood of Jesus?
