@@ -92,8 +92,7 @@ through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the 
 ## Hymns
 
 * Opening hymn: _TLH_ 199 _Jesus Christ is Risen Today, Alleluia!_
-* Sermon hymn: _TLH_ 999 _Te Deum_
-* Communion hymn: NO COMMUNION TODAY
+* Sermon hymn: _TLH_ 193 _Christ the Lord is Risen Today_
 * Closing hymn: _TLH_ 200 _I Know that My Redeemer Lives_ 
 
 ## Sermon
