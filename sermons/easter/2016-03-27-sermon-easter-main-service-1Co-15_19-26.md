@@ -80,14 +80,24 @@ td { border: 1px solid black; padding: 10px; }
 
 ## Introit [Ps 999:9-9; antiphon: Ps 999:9]
 
-> Salvation belongs | to the LORD;*  
-> your blessing be on your | people!.  
+> I will sing to the LORD, for he has triumphed | gloriously;*
+> the horse and his rider he has thrown in- | to the sea.
+> The LORD is my strength | and my song,*
+> and he has become my sal- | vation;
+> Your right hand, O LORD, glorious | in power,*
+> your right hand, O LORD, shatters the | enemy.
+> You have led in your steadfast love the people whom you | have redeemed;*
+> you have guided them by your strength to your ho- | ly abode.
+> You will bring them in and plant them on your own | mountain,*
+> the place, O LORD, which you have made for | your abode,
+> the sanctuary, O LORD, which your hands have es- | tablished.*
+> The LORD will reign forever and | ever.
 
 
 ## Collect
 
-Almighty God;
-through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+O God, for our redemption You gave Your only-begotten Son to the death of the cross and by His glorious resurrection delivered us from the power of the enemy. Grant that all our sin may be drowned through daily repentance and that day by day we may arise to live before You in righteousness and purity forever;
+through Jesus Christ, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
 
 ## Hymns
 
