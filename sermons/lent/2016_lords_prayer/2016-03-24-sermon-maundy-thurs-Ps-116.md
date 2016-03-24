@@ -27,14 +27,14 @@ td { border: 1px solid black; padding: 10px; }
 ## During the service
 
 * For this service, the Introit has been replaced by Ps 116.
-* Trina is reader
+* Trina is reader.
 * The altar is stripped at the end of the service.
-* Tell congregation to be seated before stripping of the altar
+* Tell congregation to be seated before stripping of the altar.
 
 ## Announcements
 
 * Good Friday service tomorrow night at 7. Easter sunrise 7 a.m., Easter breakfast 8 a.m., Easter main service 9:30 a.m., Easter egg hunt 11 a.m.
-* Please remain seated for all stanzas of all hymns
+* Please remain seated for all stanzas of all hymns.
 
 ## Old Testament [Ex 12:1‑14 ESV]
 
@@ -78,8 +78,7 @@ Put this psalm in the order of service in the place of the Introit.
 > Return, O my soul, | to your rest;*  
 > for the LORD has dealt bountifully | with you.  
 > For you have delivered my | soul from death,*  
-> my eyes from tears,  
-> my feet from | stumbling;  
+> my eyes from tears, my feet from | stumbling;  
 > I will walk be- | fore the LORD*  
 > in the land of the | living.  
 > I believed, even | when I spoke:*  
@@ -233,14 +232,17 @@ Let each one pay attention and consider it a serious matter; for St. Paul write
 
 ## Sermon
 
-Beloved in the Lord, we will soon to partake together in the Lord's Supper, Holy Communion. There is a warning in our Epistle reading about receiving the Lord's Supper in an unworthy manner:
+Beloved in the Lord, we will soon to partake together in the Lord's Supper, Holy Communion.
+You may be aware that there is a warning in our Epistle reading about receiving the Lord's Supper in an unworthy manner:
 
 > **Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord. Let a person examine himself, then, and so eat of the bread and drink of the cup.** [(1Co 11:27‑28)](http://www.esvbible.org/1%20Corinthians%2011%3A27-28/)
 
-It is my job, as your called pastor, to administer the body and blood of the Lord at this altar according to the Word of God.
-It is written, **“Let a person examine himself, then, and so eat of the bread and drink of the cup.”**
-And you may ask, “How do I examine myself?”
-There is a section at the end of your catechism, entitled *Christian Questions with Their Answers* that is a guide for examining yourself before you receive Holy Communion.
+It is my job, as your called pastor, to administer Holy Communion, the body and blood of the Lord, at this altar according to the Word of God.
+In order to avoid eating the bread and drinking the cup of the Lord in an unworthy manner,
+it is written, **“Let a person examine himself, then, and so eat of the bread and drink of the cup.”**
+“How do I examine myself?” you may ask.
+There is a section at the end of your catechism, entitled *Christian Questions with Their Answers*. *Christian Questions with Their Answers* is a guide for examining yourself before you receive Holy Communion, and Trina has added it to tonight's bulletin for your reference.
+You may turn to the back of your bulletin and look at it now.
 
 “Pastor, why didn't you teach this to us in confirmation class?”
 Well, that is on me.
@@ -271,6 +273,8 @@ AMEN.
 
 ## Notes
 
+Fifth Petition of the Lord's Prayer
+
 Ps 116:14. What vow will I make to the Lord for all His benefits to me?
 What vow shall I make as I take up the cup of salvation and partake of the true body and blood of Jesus?
 I vow to forgive my neighbor. I vow to love him.
@@ -278,15 +282,17 @@ I vow to forgive my neighbor. I vow to love him.
 Ps 116:15. Even death, when done by faith, pleases God.
 Partaking of Christ's living body is great comfort when I am dying.
 
+Ps 116:14, 18. **“I will pay my vows to the LORD in the presence of all his people.”** This is repeated twice in the psalm.
+“For we can return nothing to God except the vows of praise and confession,
+for we have all things from Him and He needs nothing of our goods.”<sup>[<a name="id0002" href="#ftn.id0002">§</a>]</sup>
+
 1Co 6:7. [7] To have lawsuits at all with one another is already a defeat for you. Why not rather suffer wrong? Why not rather be defrauded?
 
 Col 3:13‑14. [13] bearing with one another and, if one has a complaint against another, forgiving each other; as the Lord has forgiven you, so you also must forgive. [14] And above all these put on love, which binds everything together in perfect harmony.
 
-ZZZ<sup>[<a name="id0002" href="#ftn.id0002">§</a>]</sup>
-
 ## Footnotes
 
 <sup>[<a name="ftn.id0002" href="#id0002">§</a>]</sup>
-ZZZ
+Martin Luther, *AE* 11:404
 
 

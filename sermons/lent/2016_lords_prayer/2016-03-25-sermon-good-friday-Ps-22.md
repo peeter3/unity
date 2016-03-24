@@ -164,7 +164,9 @@ O Lord God; through Jesus Christ, Your Son, our Lord, who lives and reigns with 
 
 ## Sermon
 
-Beloved in the Lord, AMEN.
+Beloved in the Lord, 
+
+AMEN.
 
 ## Outline
 
@@ -176,10 +178,24 @@ Beloved in the Lord, AMEN.
 
 ## Notes
 
+Sixth and Seventh Petitions of the Lord's Prayer
 
-ZZZ<sup>[<a name="id0002" href="#ftn.id0002">§</a>]</sup>
+Lk 23:31. **“For if they do these things when the wood is green, what will happen when it is dry?”**  As if to say: Learn from my martyrdom what you have merited and how you should be rewarded.<sup>[<a name="id0002" href="#ftn.id0002">§</a>]</sup>
+
+*Look at what you did!* Jesus of Nazareth, a righteous man, nailed to a cross after He had been beaten and whipped.
+If you ever neglected to push in a chair, someone may have tripped on it and fallen down.
+*Look at what you did.*
+
+If a man had just committed mass murder in a school in your town, you would be appalled at the crime and at the perpetrator.
+But then you found out he accessed the school through the back door which does not even have a handle for pulling it open.
+And then you realize that the day before you had stuffed a towel between the back door and the door frame to keep the door open and you forgot to take it out and you went home for the night.
+*You let the murderer in the school by sticking the towel in the door!*
+Who are you appalled at now?<sup>[<a name="id0001" href="#ftn.id0001">*</a>]</sup>
 
 ## Footnotes
 
 <sup>[<a name="ftn.id0002" href="#id0002">§</a>]</sup>
-ZZZ
+Martin Luther, _Complete Sermons of Martin Luther_, vol. 1.2 (Grand Rapids MI: Baker Books, 2000) 186
+
+<sup>[<a name="ftn.id0001" href="#id0001">*</a>]</sup>
+Illustration an idea from Luther, 187
