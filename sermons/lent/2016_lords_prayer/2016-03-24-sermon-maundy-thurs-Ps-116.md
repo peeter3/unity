@@ -266,11 +266,11 @@ Now please take a look at question 18.
 > *Finally, why do you wish to go to the Sacrament?* That I may learn to believe that Christ, out of great love, died for my sin, and also learn from Him to love God and my neighbor.
 
 The Sacrament is intimately connected to Jesus—you receive the body and blood of Jesus on your lips.
-And He would have you to learn from Him to love God and each other.
+And He would have you learn from Him to love God and each other—love God for forgiving you and love each other for God having forgiven all of you.
 Of all days, today is Maundy Thursday, and on this day our Lord gave us the commandment to love each other [(Jn 13:34)](http://www.esvbible.org/John%2013%3A34/).
 We take that seriously.
 We washed each other's feet already today so that we would learn to serve each other, and that is certainly a part of love.
-But *the biggest part of love is to forgive each other as Christ forgave you* [(Eph 4:32)](http://www.esvbible.org/Ephesians+4:32/).
+But *the biggest part of love is to forgive each other as Christ has forgiven you* [(Eph 4:32)](http://www.esvbible.org/Ephesians+4:32/).
 
 Our *final* preparation for Holy Communion, as you know, is to pray the Lord's Prayer, where we pray, **“Forgive us our trespasses *as we forgive those who trespass against us*.”**
 This is final preparation for receiving the Sacrament.
@@ -280,33 +280,35 @@ But do you remember what Jesus says after He gives us the Lord's Prayer in Matth
 
 In other words, *you are forgiven … as far as you forgive*.
 This is what our Lord teaches: *You are forgiven as far as you forgive*.
-God forbid, but a grudge blocks your forgiveness even if you pray the Lord's Prayer.
+God forbid, but a grudge *blocks* your forgiveness even if you pray the Lord's Prayer.
 
 “But wait a minute, Pastor. Good Friday is tomorrow and I believe that I am forgiven as sure as Jesus died on the Cross for my sins.”
 
-“Then you forgiven, for the Bible teaches that *you are forgiven as far as you believe*.”
+Then you are forgiven, for the Bible does teach that *you are forgiven as far as you believe*.
 
 * _You are forgiven as far as you believe._
 * _You are forgiven as far as you forgive._
 
 The Bible teaches both, so *both are true*.
+You are forgiven as far as you believe; you are forgiven as far as you forgive.
 *To believe is to forgive.*
+And you might as well throw this in there, too: *To believe is to love.*
+You cannot disconnect your faith in Jesus from forgiving your neighbor.
+You cannot disconnect your faith in Jesus from loving your neighbor.
 What is it that you believe?
 *That Jesus died on the Cross for my sins.*
-And what does Jesus say from the Cross?
+And what does Jesus say to you from the Cross?
 **“Father, forgive them”** [(Lk 23:34)](http://www.esvbible.org/Luke%2023%3A34/).
 What does Jesus say of the wine you are about to receive in Holy Communion?
-**“Drink of it, all of you, ror this is my blood of the covenant, which is poured out for many for the forgiveness of sins”** [(Mt 26:27‑28)](http://www.esvbible.org/Matthew%2026%3A27-28/).
+**“Drink of it, all of you, for this is my blood of the covenant, which is poured out for many for the forgiveness of sins”** [(Mt 26:27‑28)](http://www.esvbible.org/Matthew%2026%3A27-28/).
 By the blood of Jesus—by the new covenant in His blood—you are forgiven all your sins.
 
-But to believe is to forgive: to believe is to forgive others: to believe it too forgive you *enemy*.
-Yes, when it comes faith in Christ, it comes to love.
-And when it comes to love, it comes down to your enemy. Do you love him or not?
-Do you forgive him or not?
+But to believe is to forgive; to believe is to forgive others;
+to believe is to forgive your *enemy*; to believe is to *love* your enemy.
+Let the final word come from the mouth of our Lord as you prepare to receive His body and blood, given and shed for you for the forgiveness of your sins.
 
 > **“If you love those who love you, what benefit is that to you? For even sinners love those who love them. And if you do good to those who do good to you, what benefit is that to you? For even sinners do the same. … But love your enemies, and do good, and lend, expecting nothing in return, and your reward will be great, and you will be sons of the Most High, for he is kind to the ungrateful and the evil. Be merciful, even as your Father is merciful.”** [(Lk 6:32‑36 ESV)](http://www.esvbible.org/Luke%206%3A32-36/)
 
-Again, to believe that your Father is merciful makes you merciful to your enemy.
 AMEN.
 
 ## Stripping of the altar
