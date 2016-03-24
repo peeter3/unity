@@ -249,7 +249,7 @@ It is printed in the bulletin for you to look at.
 *Christian Questions with Their Answers* is a guide for examining yourself before you receive Holy Communion. Please take a look at it now.
 
 “Pastor, why didn't you teach this to us in confirmation class?”
-If I did not, it is on me.
+If I did not, it is on me.<sup>[<a name="id0001" href="#ftn.id0001">†</a>]</sup>
 So let us look at it now.
 
 > Question number 1: *Do you believe that you are a sinner?* Yes, I believe it. I am a sinner.
@@ -261,40 +261,52 @@ There are twenty questions altogether along with Bible passages to pray over bef
 If you have prepared yourself according to these twenty questions, you will receive Holy Communion in a worthy manner.
 This is most certainly true.
 
-Please take a look at question 18.
+Now please take a look at question 18.
 
 > *Finally, why do you wish to go to the Sacrament?* That I may learn to believe that Christ, out of great love, died for my sin, and also learn from Him to love God and my neighbor.
 
 The Sacrament is intimately connected to Jesus—you receive the body and blood of Jesus on your lips.
 And He would have you to learn from Him to love God and each other.
-Of all days, today is Maundy Thursday, and on this day, our Lord gave us the commandment to love each other [(Jn 13:34)](http://www.esvbible.org/John%2013%3A34/).
+Of all days, today is Maundy Thursday, and on this day our Lord gave us the commandment to love each other [(Jn 13:34)](http://www.esvbible.org/John%2013%3A34/).
 We take that seriously.
 We washed each other's feet already today so that we would learn to serve each other, and that is certainly a part of love.
 But *the biggest part of love is to forgive each other as Christ forgave you* [(Eph 4:32)](http://www.esvbible.org/Ephesians+4:32/).
 
-Our *final* preparation for Holy Communion, as you know, is to pray the Lord's Prayer, where we pray, **“Forgive us our trespasses *as we forgive those who tresspass against us*.”**
+Our *final* preparation for Holy Communion, as you know, is to pray the Lord's Prayer, where we pray, **“Forgive us our trespasses *as we forgive those who trespass against us*.”**
 This is final preparation for receiving the Sacrament.
-You may remember what Jesus says after He gives us the Lord's Prayer in Matthew, chapter 6. He says,
+But do you remember what Jesus says after He gives us the Lord's Prayer in Matthew, chapter 6? He says,
 
 > **“If you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others their trespasses, neither will your Father forgive your trespasses.”** [(Mt 6:14‑15)](http://www.esvbible.org/Matthew%206%3A14-15/)
 
-In other words, *you **are** forgiven … as far as you forgive*.
-This is what the Bible teaches: *You are forgiven as far as you forgive*.
-God forbid, but a grudge blocks your own forgiveness even if you pray the Lord's Prayer.
+In other words, *you are forgiven … as far as you forgive*.
+This is what our Lord teaches: *You are forgiven as far as you forgive*.
+God forbid, but a grudge blocks your forgiveness even if you pray the Lord's Prayer.
 
-“But wait a minute, Pastor. Good Friday is tomorrow and I know that I am forgiven as sure as Jesus died on the Cross for my sins.”
+“But wait a minute, Pastor. Good Friday is tomorrow and I believe that I am forgiven as sure as Jesus died on the Cross for my sins.”
 
-“Quite true. Do you believe it?”
+“Then you forgiven, for the Bible teaches that *you are forgiven as far as you believe*.”
 
-“Yes, I do.”
+* _You are forgiven as far as you believe._
+* _You are forgiven as far as you forgive._
 
-“Then why do you hold a grudge?”
+The Bible teaches both, so *both are true*.
+*To believe is to forgive.*
+What is it that you believe?
+*That Jesus died on the Cross for my sins.*
+And what does Jesus say from the Cross?
+**“Father, forgive them”** [(Lk 23:34)](http://www.esvbible.org/Luke%2023%3A34/).
+What does Jesus say of the wine you are about to receive in Holy Communion?
+**“Drink of it, all of you, ror this is my blood of the covenant, which is poured out for many for the forgiveness of sins”** [(Mt 26:27‑28)](http://www.esvbible.org/Matthew%2026%3A27-28/).
+By the blood of Jesus—by the new covenant in His blood—you are forgiven all your sins.
 
-Yes, when it comes to love, it comes down to your enemy. Do you love him or not?
+But to believe is to forgive: to believe is to forgive others: to believe it too forgive you *enemy*.
+Yes, when it comes faith in Christ, it comes to love.
+And when it comes to love, it comes down to your enemy. Do you love him or not?
 Do you forgive him or not?
 
 > **“If you love those who love you, what benefit is that to you? For even sinners love those who love them. And if you do good to those who do good to you, what benefit is that to you? For even sinners do the same. … But love your enemies, and do good, and lend, expecting nothing in return, and your reward will be great, and you will be sons of the Most High, for he is kind to the ungrateful and the evil. Be merciful, even as your Father is merciful.”** [(Lk 6:32‑36 ESV)](http://www.esvbible.org/Luke%206%3A32-36/)
 
+Again, to believe that your Father is merciful makes you merciful to your enemy.
 AMEN.
 
 ## Stripping of the altar
@@ -337,4 +349,6 @@ Col 3:13‑14. [13] bearing with one another and, if one has a complaint agains
 <sup>[<a name="ftn.id0002" href="#id0002">§</a>]</sup>
 Martin Luther, *AE* 11:404
 
+<sup>[<a name="ftn.id0001" href="#id0001">†</a>]</sup>
+I have taught some confirmands *Christian Questions with Their Answers*, some I have not.
 
