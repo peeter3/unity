@@ -16,7 +16,6 @@ td { border: 1px solid black; padding: 10px; }
 <tr>
 <th>To do</th><th>Who will do it?</th><th>Is it done?</th>
 </tr>
-Service opens with choir singing by piano (choral call to worship)
 <tr>
 <td>Have book set out and ready in the pastor's sacrity for sealing the tomb</td><td>Pastor Pirn</td><td></td>
 </tr>
@@ -30,6 +29,7 @@ Service opens with choir singing by piano (choral call to worship)
 
 ## During the service
 
+* Service opens with choir singing by piano (choral call to worship)
 * For this service, the Introit has been replaced by Ps 22.
 * The tomb is sealed at the end of the service.
 * The congregation leaves in silence at the end of the service.
