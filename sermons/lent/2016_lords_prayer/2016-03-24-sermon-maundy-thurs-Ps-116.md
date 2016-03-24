@@ -245,14 +245,22 @@ It is written, **“Let a person examine himself, then, and so eat of the bread 
 This is part of what we go over in confirmation class.
 (For adults I often call it *adult instruction class*.)
 Confirmation class is to teach you the basics, and we use the catechism along with the Bible because the catechism boils it down to the basics.
-But did you know there is a section at the end of the catechism, entitled *Christian Questions with Their Answers*?
-I have had it printed in the bulletin for you to look at.
-*Christian Questions with Their Answers* is a guide for examining yourself before you receive Holy Communion, and Trina has added it to tonight's bulletin for your reference.
-You may turn to the back of your bulletin and look at it now.
+But did you know there is a section at the end of the catechism entitled *Christian Questions with Their Answers*?
+It is printed in the bulletin for you to look at.
+*Christian Questions with Their Answers* is a guide for examining yourself before you receive Holy Communion. Please, take a look at it now.
 
 “Pastor, why didn't you teach this to us in confirmation class?”
-Well, that is on me.
-If you were received as a member through adult instruction, I probably did not take time to go through *Christian Questions with Their Answers* with you.
+If I did not, it is on me.
+So let us look at it now.
+
+> Question number 1: *Do you believe that you are a sinner?* Yes, I believe it. I am a sinner.
+
+> Question number 2: *How do you know this?* From the Ten Commandments, which I have not kept.
+
+And so on.
+There are twenty questions altogether with Bible passages to pray over before you receive Holy Communion.
+If you have prepared yourself according to these questions, you will receive Holy Communion in a worthy manner.
+This is most certainly true.
 
 And I would like to point out that we pray the Lord's Prayer before receiving Holy Communion.
 *[Point to Sermon on the Mount window]* Jesus teaches us the Lord's Prayer in the Sermon on the Mount. He says, **“Pray then like this: Our Father … And lead us not into tempataion, but deliver us from evil.**
