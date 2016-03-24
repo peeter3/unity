@@ -233,15 +233,21 @@ Let each one pay attention and consider it a serious matter; for St. Paul write
 ## Sermon
 
 Beloved in the Lord, we will soon to partake together of the Lord's Supper, Holy Communion.
-You may already be aware that there is a warning in our Epistle reading about receiving the Lord's Supper in an unworthy manner:
+You may already be aware of the warning in our Epistle reading about receiving the Lord's Supper in an unworthy manner:
 
 > **Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord. Let a person examine himself, then, and so eat of the bread and drink of the cup.** [(1Co 11:27‑28)](http://www.esvbible.org/1%20Corinthians%2011%3A27-28/)
 
-It is my job, as your called pastor, to administer Holy Communion, the body and blood of the Lord, at this altar according to the Word of God.
-In order to avoid eating the bread and drinking the cup of the Lord in an unworthy manner,
-it is written, **“Let a person examine himself, then, and so eat of the bread and drink of the cup.”**
+That is why the Church has always been careful with Holy Communion: someone could receive Holy Communion in an unworthy manner and hurt himself.
+It is my job, as your called pastor, to administer Holy Communion, the body and blood of the Lord, at this altar according to the Word of God, and that no one receive it in an unworthy manner.
+
+It is written, **“Let a person examine himself, then, and so eat of the bread and drink of the cup.”**
 “How do I examine myself?” you may ask.
-There is a section at the end of your catechism, entitled *Christian Questions with Their Answers*. *Christian Questions with Their Answers* is a guide for examining yourself before you receive Holy Communion, and Trina has added it to tonight's bulletin for your reference.
+This is part of what we go over in confirmation class.
+(For adults I often call it *adult instruction class*.)
+Confirmation class is to teach you the basics, and we use the catechism along with the Bible because the catechism boils it down to the basics.
+But did you know there is a section at the end of the catechism, entitled *Christian Questions with Their Answers*?
+I have had it printed in the bulletin for you to look at.
+*Christian Questions with Their Answers* is a guide for examining yourself before you receive Holy Communion, and Trina has added it to tonight's bulletin for your reference.
 You may turn to the back of your bulletin and look at it now.
 
 “Pastor, why didn't you teach this to us in confirmation class?”
