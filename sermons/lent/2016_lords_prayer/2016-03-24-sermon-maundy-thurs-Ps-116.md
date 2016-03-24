@@ -232,22 +232,21 @@ Let each one pay attention and consider it a serious matter; for St. Paul write
 
 ## Sermon
 
-Beloved in the Lord, we will soon to partake together of the Lord's Supper, Holy Communion.
-You may already be aware of the warning in our Epistle reading about receiving the Lord's Supper in an unworthy manner:
+Beloved in the Lord, we will soon partake of the Lord's Supper together.
+You may already be aware of the warning in our Epistle reading about receiving Holy Communion in an unworthy manner:
 
 > **Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord. Let a person examine himself, then, and so eat of the bread and drink of the cup.** [(1Co 11:27‑28)](http://www.esvbible.org/1%20Corinthians%2011%3A27-28/)
 
-That is why the Church has always been careful with Holy Communion: someone could receive Holy Communion in an unworthy manner and hurt himself.
-It is my job, as your called pastor, to administer Holy Communion, the body and blood of the Lord, at this altar according to the Word of God, and that no one receive it in an unworthy manner.
+That is why the Church has always been careful with Holy Communion: someone could receive it in an unworthy manner to his own harm.
+It is my job, as your called pastor, to administer Holy Communion, the body and blood of Christ, at this altar according to the Word of God, and that no one receive it in an unworthy manner.
 
 It is written, **“Let a person examine himself, then, and so eat of the bread and drink of the cup.”**
-“How do I examine myself?” you may ask.
+You may ask, “How do I examine myself?”
 This is part of what we go over in confirmation class.
-(For adults I often call it *adult instruction class*.)
-Confirmation class is to teach you the basics, and we use the catechism along with the Bible because the catechism boils it down to the basics.
+Confirmation class is for teaching you the basics, and we use the catechism along with the Bible because the catechism boils it down to the basics.
 But did you know there is a section at the end of the catechism entitled *Christian Questions with Their Answers*?
 It is printed in the bulletin for you to look at.
-*Christian Questions with Their Answers* is a guide for examining yourself before you receive Holy Communion. Please, take a look at it now.
+*Christian Questions with Their Answers* is a guide for examining yourself before you receive Holy Communion. Please take a look at it now.
 
 “Pastor, why didn't you teach this to us in confirmation class?”
 If I did not, it is on me.
@@ -258,18 +257,43 @@ So let us look at it now.
 > Question number 2: *How do you know this?* From the Ten Commandments, which I have not kept.
 
 And so on.
-There are twenty questions altogether with Bible passages to pray over before you receive Holy Communion.
-If you have prepared yourself according to these questions, you will receive Holy Communion in a worthy manner.
+There are twenty questions altogether along with Bible passages to pray over before you receive Holy Communion.
+If you have prepared yourself according to these twenty questions, you will receive Holy Communion in a worthy manner.
 This is most certainly true.
 
-And I would like to point out that we pray the Lord's Prayer before receiving Holy Communion.
-*[Point to Sermon on the Mount window]* Jesus teaches us the Lord's Prayer in the Sermon on the Mount. He says, **“Pray then like this: Our Father … And lead us not into tempataion, but deliver us from evil.**
+Please take a look at question 18.
 
-What does this mean—**to forgive us our trespasses as we forgive those who trespass against us**?
+> *Finally, why do you wish to go to the Sacrament?* That I may learn to believe that Christ, out of great love, died for my sin, and also learn from Him to love God and my neighbor.
 
-> **“For if you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others their trespasses, neither will your Father forgive your trespasses.”** [(Mt 6:14‑15)](http://www.esvbible.org/Matthew%206%3A14-15/)
+The Sacrament is intimately connected to Jesus—you receive the body and blood of Jesus on your lips.
+And He would have you to learn from Him to love God and each other.
+Of all days, today is Maundy Thursday, and on this day, our Lord gave us the commandment to love each other [(Jn 13:34)](http://www.esvbible.org/John%2013%3A34/).
+We take that seriously.
+We washed each other's feet already today so that we would learn to serve each other, and that is certainly a part of love.
+But *the biggest part of love is to forgive each other as Christ forgave you* [(Eph 4:32)](http://www.esvbible.org/Ephesians+4:32/).
 
-Forgiveness is at the core of Holy Communion. It is implied in question 18 in *Christian Questions with Their Answers*.
+Our *final* preparation for Holy Communion, as you know, is to pray the Lord's Prayer, where we pray, **“Forgive us our trespasses *as we forgive those who tresspass against us*.”**
+This is final preparation for receiving the Sacrament.
+You may remember what Jesus says after He gives us the Lord's Prayer in Matthew, chapter 6. He says,
+
+> **“If you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others their trespasses, neither will your Father forgive your trespasses.”** [(Mt 6:14‑15)](http://www.esvbible.org/Matthew%206%3A14-15/)
+
+In other words, *you **are** forgiven … as far as you forgive*.
+This is what the Bible teaches: *You are forgiven as far as you forgive*.
+God forbid, but a grudge blocks your own forgiveness even if you pray the Lord's Prayer.
+
+“But wait a minute, Pastor. Good Friday is tomorrow and I know that I am forgiven as sure as Jesus died on the Cross for my sins.”
+
+“Quite true. Do you believe it?”
+
+“Yes, I do.”
+
+“Then why do you hold a grudge?”
+
+Yes, when it comes to love, it comes down to your enemy. Do you love him or not?
+Do you forgive him or not?
+
+> **“If you love those who love you, what benefit is that to you? For even sinners love those who love them. And if you do good to those who do good to you, what benefit is that to you? For even sinners do the same. … But love your enemies, and do good, and lend, expecting nothing in return, and your reward will be great, and you will be sons of the Most High, for he is kind to the ungrateful and the evil. Be merciful, even as your Father is merciful.”** [(Lk 6:32‑36 ESV)](http://www.esvbible.org/Luke%206%3A32-36/)
 
 AMEN.
 
