@@ -17,13 +17,13 @@ td { border: 1px solid black; padding: 10px; }
 <th>To do</th><th>Who will do it?</th><th>Done?</th>
 </tr>
 <tr>
-<td>Have book set out and ready in the pastor's sacrity for sealing the tomb</td><td>Pastor Pirn</td><td align="center"></td>
+<td>Have book set out and ready in the pastor's sacrity for sealing the tomb</td><td>Pastor Pirn</td><td align="center">✔</td>
 </tr>
 <tr>
-<td>Acolyte #1, carry out Christ candle at end of service</td><td>Trevon Preston</td><td align="center"></td>
+<td>Acolyte #1: carry out Christ candle at end of service</td><td>Trevon</td><td align="center"></td>
 </tr>
 <tr>
-<td>Acolyte #2, carry out candle holder at end of service</td><td>Jaan Pirn</td><td align="center"></td>
+<td>Acolyte #2: extinguish candelabra candles during the reading of the Seven Words of Christ; carry out candle holder at end of service</td><td>Jaan</td><td align="center"></td>
 </tr>
 </table>
 
@@ -31,13 +31,12 @@ td { border: 1px solid black; padding: 10px; }
 
 * Service opens with choir singing by piano (choral call to worship)
 * For this service, the Introit has been replaced by Ps 22.
-* Abby McGreehan will be playing viola.
-* The tomb is sealed at the end of the service.
-* The congregation leaves in silence at the end of the service.
+* Abby will be playing viola; David will be playing trumpet.
+* At the end of the service, lights are extinguished and then the tomb is sealed. Then the congregation leaves in silence.
 
 ## Announcements
 
-* ZZZ
+* Easter sunrise 7 a.m., Easter breakfast 8 a.m., Easter main service 9:30 a.m., Easter egg hunt 11 a.m.
 
 ## First Word [Lk 23:32‑37 ESV]
 
@@ -99,53 +98,42 @@ Put this psalm in the order of service in the place of the Introit.
 > strong bulls of Bashan sur- | round me;  
 > they open wide their | mouths at me,*  
 > like a ravening and roaring | lion.  
-> I am poured out like water,  
-> and all my bones are out of joint;  
-> my heart is like wax;  
-> it is melted within my breast;  
-> my strength is dried up like a potsherd,  
-> and my tongue sticks to my jaws;  
-> you lay me in the dust of death.  
-> For dogs encompass me;  
-> a company of evildoers encircles me;  
-> they have pierced my hands and feet—  
-> I can count all my bones—  
-> they stare and gloat over me;  
-> they divide my garments among them,  
-> and for my clothing they cast lots.  
-> But you, O LORD, do not be far off!  
-> O you my help, come quickly to my aid!  
-> Deliver my soul from the sword,  
-> my precious life from the power of the dog!  
-> Save me from the mouth of the lion!  
-> You have rescued me from the horns of the wild oxen!  
-> I will tell of your name to my brothers;  
-> in the midst of the congregation I will praise you:  
-> You who fear the LORD, praise him!  
-> All you offspring of Jacob, glorify him,  
-> and stand in awe of him, all you offspring of Israel!  
-> For he has not despised or abhorred  
-> the affliction of the afflicted,  
-> and he has not hidden his face from him,  
-> but has heard, when he cried to him.  
-> From you comes my praise in the great congregation;  
-> my vows I will perform before those who fear him.  
-> The afflicted shall eat and be satisfied;  
-> those who seek him shall praise the LORD!  
-> May your hearts live forever!  
-> All the ends of the earth shall remember  
-> and turn to the LORD,  
-> and all the families of the nations  
-> shall worship before you.  
-> For kingship belongs to the LORD,  
-> and he rules over the nations.  
-> All the prosperous of the earth eat and worship;  
-> before him shall bow all who go down to the dust,  
-> even the one who could not keep himself alive.  
-> Posterity shall serve him;  
-> it shall be told of the Lord to the coming generation;  
-> they shall come and proclaim his righteousness to a people yet unborn,  
-> that he has done it.
+> I am poured out like water, and all my bones are | out of joint;*  
+> my heart is like wax; it is melted with- | in my breast;  
+> my strength is dried up like a potsherd, and my tongue sticks | to my jaws;*  
+> you lay me in the | dust of death.  
+> For dogs en- | compass me;*  
+> a company of evildoers encircles me; they have pierced my | hands and feet—  
+> I can count | all my bones—*  
+> they stare and gloat | over me;  
+> they divide my garments a- | mong them,*  
+> and for my clothing they | cast lots.  
+> But you, O LORD, do not be | far off!*  
+> O you my help, come quickly | to my aid!  
+> Deliver my soul | from the sword,*  
+> my precious life from the power | of the dog!  
+> Save me from the mouth of the | lion!*  
+> You have rescued me from the horns of the wild | oxen!  
+> I will tell of your name to my | brothers;*  
+> in the midst of the congregation I will | praise you:  
+> You who fear the LORD, praise him! All you offspring of Jacob, glo- | rify him,*  
+> and stand in awe of him, all you offspring of | Israel!  
+> For he has not despised or abhorred the affliction of the afflicted, and he has not hidden his | face from him,*  
+> but has heard, when he | cried to him.  
+> From you comes my praise in the great congre- | gation;*  
+> my vows I will perform before those who | fear him.  
+> The afflicted shall eat and be satisfied; those who seek him shall | praise the LORD!*  
+> May your hearts live for- | ever!  
+> All the ends of the earth shall remember and turn | to the LORD,*  
+> and all the families of the nations shall worship be- | fore you.  
+> For kingship belongs | to the LORD,*  
+> and he rules over the | nations.  
+> All the prosperous of the earth eat and | worship;*  
+> before him shall bow all who go down to the dust, even the one who could not keep him- | self alive.  
+> Posterity shall | serve him;*  
+> it shall be told of the Lord to the coming gener- | ation;  
+> they shall come and proclaim his righteousness to a people | yet unborn,*  
+> that he has | done it.
 
 ## Collect
 
@@ -158,7 +146,7 @@ Almighty God, graciously behold this Your family for whom our Lord Jesus was wil
 * Before the Second Word: _TLH_ 172 *O Sacred Head, Now Wounded* st 1, 3
 * Before the Third Word: _TLH_ 153 *Stricken, Smitten, and Afflicted* st 1, 3
 * Before the Fourth Word: _TLH_ 158 *Glory Be to Jesus* st 1, 2
-* Before the Fifth Word: Organ solo
+* Before the Fifth Word: Organ solo: *O Sacred Head, Now Wounded*
 * Before the Sixth Word: _TLH_ 184 *Jesus, in Thy Thirst and Pain* st 1‑3
 * Before the Seventh Word: _TLH_ 172 *O Sacred Head, Now Wounded* st 8
 * After the Seventh Word: _TLH_ 171 *Upon the Cross Extended* st 1, 12
@@ -166,21 +154,22 @@ Almighty God, graciously behold this Your family for whom our Lord Jesus was wil
 
 ## Sermon
 
-Beloved in the Lord, 
+Beloved in the Lord, today is the darkest of days, yet we call it _Good Friday_.
 
 AMEN.
 
 ## Outline
 
-<center>ZZZ</center>
+<center>BUT DELIVER US FROM THE EVIL ONE</center>
 
-1. ZZZ
-1. YYY
-    1. XXX
+1. But deliver us from evil.
+    1. Evil is not _bad_—evil is the _evil one_—the devil.
 
 ## Notes
 
 Sixth and Seventh Petitions of the Lord's Prayer
+
+Jesus' seven last words from the Cross
 
 Lk 23:31. **“For if they do these things when the wood is green, what will happen when it is dry?”**  As if to say: Learn from my martyrdom what you have merited and how you should be rewarded.<sup>[<a name="id0002" href="#ftn.id0002">§</a>]</sup>
 
