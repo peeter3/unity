@@ -14,13 +14,13 @@ td { border: 1px solid black; padding: 10px; }
 
 <table>
 <tr>
-<th>To do</th><th>Who will do it?</th><th>Is it done?</th>
+<th>To do</th><th>Who will do it?</th><th>Done?</th>
 </tr>
 <tr>
-<td>Prepare Altar Guild for stripping of the altar</td><td>Altar Guild</td><td></td>
+<td>Prepare Altar Guild for stripping of the altar</td><td>Altar Guild</td><td align="center">✔</td>
 </tr>
 <tr>
-<td>Put stripping of the altar reading in the lectern</td><td>Altar Guild</td><td></td>
+<td>Put stripping of the altar rite in the lectern</td><td>Pastor Pirn</td><td align="center">✔</td>
 </tr>
 </table>
 
@@ -30,6 +30,7 @@ td { border: 1px solid black; padding: 10px; }
 * Trina is reader.
 * The altar is stripped at the end of the service.
 * Tell congregation to be seated before stripping of the altar.
+* The Christ candle is not extinguished at the end of the service.
 
 ## Announcements
 
