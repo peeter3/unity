@@ -14,13 +14,13 @@ td { border: 1px solid black; padding: 10px; }
 
 <table>
 <tr>
-<th>To do</th><th>Who will do it?</th><th>Is it done?</th>
+<th>To do</th><th>Who will do it?</th><th>Done?</th>
 </tr>
 <tr>
-<td>Prepare Altar Guild for stripping of the altar</td><td>Altar Guild</td><td></td>
+<td>Prepare Altar Guild for stripping of the altar</td><td>Altar Guild</td><td align="center">✔</td>
 </tr>
 <tr>
-<td>Put stripping of the altar reading in the lectern</td><td>Altar Guild</td><td></td>
+<td>Put stripping of the altar rite in the lectern</td><td>Pastor Pirn</td><td align="center">✔</td>
 </tr>
 </table>
 
@@ -30,6 +30,7 @@ td { border: 1px solid black; padding: 10px; }
 * Trina is reader.
 * The altar is stripped at the end of the service.
 * Tell congregation to be seated before stripping of the altar.
+* The Christ candle is not extinguished at the end of the service.
 
 ## Announcements
 
@@ -232,25 +233,24 @@ Let each one pay attention and consider it a serious matter; for St. Paul write
 
 ## Sermon
 
-Beloved in the Lord, we will soon to partake together of the Lord's Supper, Holy Communion.
-You may already be aware of the warning in our Epistle reading about receiving the Lord's Supper in an unworthy manner:
+Beloved in the Lord, we will soon partake of the Lord's Supper together.
+You may already be aware of the warning in our Epistle reading about receiving Holy Communion in an unworthy manner:
 
 > **Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord. Let a person examine himself, then, and so eat of the bread and drink of the cup.** [(1Co 11:27‑28)](http://www.esvbible.org/1%20Corinthians%2011%3A27-28/)
 
-That is why the Church has always been careful with Holy Communion: someone could receive Holy Communion in an unworthy manner and hurt himself.
-It is my job, as your called pastor, to administer Holy Communion, the body and blood of the Lord, at this altar according to the Word of God, and that no one receive it in an unworthy manner.
+That is why the Church has always been careful with Holy Communion: someone could receive it in an unworthy manner to his own harm.
+It is my job, as your called pastor, to administer Holy Communion, the body and blood of Christ, at this altar according to the Word of God, and that no one receive it in an unworthy manner.
 
 It is written, **“Let a person examine himself, then, and so eat of the bread and drink of the cup.”**
-“How do I examine myself?” you may ask.
+You may ask, “How do I examine myself?”
 This is part of what we go over in confirmation class.
-(For adults I often call it *adult instruction class*.)
-Confirmation class is to teach you the basics, and we use the catechism along with the Bible because the catechism boils it down to the basics.
+Confirmation class is for teaching you the basics, and we use the catechism along with the Bible because the catechism boils it down to the basics.
 But did you know there is a section at the end of the catechism entitled *Christian Questions with Their Answers*?
 It is printed in the bulletin for you to look at.
-*Christian Questions with Their Answers* is a guide for examining yourself before you receive Holy Communion. Please, take a look at it now.
+*Christian Questions with Their Answers* is a guide for examining yourself before you receive Holy Communion. Please take a look at it now.
 
 “Pastor, why didn't you teach this to us in confirmation class?”
-If I did not, it is on me.
+If I did not, it is on me.<sup>[<a name="id0001" href="#ftn.id0001">†</a>]</sup>
 So let us look at it now.
 
 > Question number 1: *Do you believe that you are a sinner?* Yes, I believe it. I am a sinner.
@@ -258,18 +258,57 @@ So let us look at it now.
 > Question number 2: *How do you know this?* From the Ten Commandments, which I have not kept.
 
 And so on.
-There are twenty questions altogether with Bible passages to pray over before you receive Holy Communion.
-If you have prepared yourself according to these questions, you will receive Holy Communion in a worthy manner.
+There are twenty questions altogether along with Bible passages to pray over before you receive Holy Communion.
+If you have prepared yourself according to these twenty questions, you will receive Holy Communion in a worthy manner.
 This is most certainly true.
 
-And I would like to point out that we pray the Lord's Prayer before receiving Holy Communion.
-*[Point to Sermon on the Mount window]* Jesus teaches us the Lord's Prayer in the Sermon on the Mount. He says, **“Pray then like this: Our Father … And lead us not into tempataion, but deliver us from evil.**
+Now please take a look at question 18.
 
-What does this mean—**to forgive us our trespasses as we forgive those who trespass against us**?
+> *Finally, why do you wish to go to the Sacrament?* That I may learn to believe that Christ, out of great love, died for my sin, and also learn from Him to love God and my neighbor.
 
-> **“For if you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others their trespasses, neither will your Father forgive your trespasses.”** [(Mt 6:14‑15)](http://www.esvbible.org/Matthew%206%3A14-15/)
+The Sacrament is intimately connected to Jesus—you receive the body and blood of Jesus on your lips.
+And He would have you learn from Him to love God and each other—love God for forgiving you and love each other for God having forgiven all of you.
+Of all days, today is Maundy Thursday, and on this day our Lord gave us the commandment to love each other [(Jn 13:34)](http://www.esvbible.org/John%2013%3A34/).
+We take that seriously.
+We washed each other's feet already today so that we would learn to serve each other, and that is certainly a part of love.
+But *the biggest part of love is to forgive each other as Christ has forgiven you* [(Eph 4:32)](http://www.esvbible.org/Ephesians+4:32/).
 
-Forgiveness is at the core of Holy Communion. It is implied in question 18 in *Christian Questions with Their Answers*.
+Our *final* preparation for Holy Communion, as you know, is to pray the Lord's Prayer, where we pray, **“Forgive us our trespasses *as we forgive those who trespass against us*.”**
+This is final preparation for receiving the Sacrament.
+But do you remember what Jesus says after He gives us the Lord's Prayer in Matthew, chapter 6? He says,
+
+> **“If you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others their trespasses, neither will your Father forgive your trespasses.”** [(Mt 6:14‑15)](http://www.esvbible.org/Matthew%206%3A14-15/)
+
+In other words, *you are forgiven … as far as you forgive*.
+This is what our Lord teaches: *You are forgiven as far as you forgive*.
+God forbid, but a grudge *blocks* your forgiveness even if you pray the Lord's Prayer.
+
+“But wait a minute, Pastor. Good Friday is tomorrow and I believe that I am forgiven as sure as Jesus died on the Cross for my sins.”
+
+Then you are forgiven, for the Bible does teach that *you are forgiven as far as you believe*.
+
+* _You are forgiven as far as you believe._
+* _You are forgiven as far as you forgive._
+
+The Bible teaches both, so *both are true*.
+You are forgiven as far as you believe; you are forgiven as far as you forgive.
+*To believe is to forgive.*
+And you might as well throw this in there, too: *To believe is to love.*
+You cannot disconnect your faith in Jesus from forgiving your neighbor—you cannot do it.
+You cannot disconnect your faith in Jesus from loving your neighbor—you cannot do that, either.
+What is it that you believe?
+*That Jesus died on the Cross for my sins.*
+And what does Jesus say to you from the Cross?
+**“Father, forgive them”** [(Lk 23:34)](http://www.esvbible.org/Luke%2023%3A34/).
+What does Jesus say of the wine you are about to receive in Holy Communion?
+**“Drink of it, all of you, for this is my blood of the covenant, which is poured out for many for the forgiveness of sins”** [(Mt 26:27‑28)](http://www.esvbible.org/Matthew%2026%3A27-28/).
+By the blood of Jesus—by the new covenant in His blood—you are forgiven all your sins.
+
+But to believe is to forgive; to believe is to forgive others;
+to believe is to forgive your *enemy*; to believe is to *love* your enemy.
+Let the final word come from the mouth of our Lord as you prepare to receive His body and blood, given and shed for you for the forgiveness of your sins.
+
+> **“If you love those who love you, what benefit is that to you? For even sinners love those who love them. And if you do good to those who do good to you, what benefit is that to you? For even sinners do the same. … But love your enemies, and do good, and lend, expecting nothing in return, and your reward will be great, and you will be sons of the Most High, for he is kind to the ungrateful and the evil. Be merciful, even as your Father is merciful.”** [(Lk 6:32‑36 ESV)](http://www.esvbible.org/Luke%206%3A32-36/)
 
 AMEN.
 
@@ -313,4 +352,6 @@ Col 3:13‑14. [13] bearing with one another and, if one has a complaint agains
 <sup>[<a name="ftn.id0002" href="#id0002">§</a>]</sup>
 Martin Luther, *AE* 11:404
 
+<sup>[<a name="ftn.id0001" href="#id0001">†</a>]</sup>
+I have taught some confirmands *Christian Questions with Their Answers*, some I have not.
 
