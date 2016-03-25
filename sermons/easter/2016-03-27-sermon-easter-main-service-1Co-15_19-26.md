@@ -78,16 +78,26 @@ td { border: 1px solid black; padding: 10px; }
 
 [1] But on the first day of the week, at early dawn, they went to the tomb, taking the spices they had prepared. [2] And they found the stone rolled away from the tomb, [3] but when they went in they did not find the body of the Lord Jesus. [4] While they were perplexed about this, behold, two men stood by them in dazzling apparel. [5] And as they were frightened and bowed their faces to the ground, the men said to them, “Why do you seek the living among the dead? [6] He is not here, but has risen. Remember how he told you, while he was still in Galilee, [7] that the Son of Man must be delivered into the hands of sinful men and be crucified and on the third day rise.” [8] And they remembered his words, [9] and returning from the tomb they told all these things to the eleven and to all the rest. [10] Now it was Mary Magdalene and Joanna and Mary the mother of James and the other women with them who told these things to the apostles, [11] but these words seemed to them an idle tale, and they did not believe them. [12] But Peter rose and ran to the tomb; stooping and looking in, he saw the linen cloths by themselves; and he went home marveling at what had happened.
 
-## Introit [Ps 999:9-9; antiphon: Ps 999:9]
+## Introit [Ex. 15:2a, 6, 13, 17-18; antiphon: Ex. 15:1b]
 
-> Salvation belongs | to the LORD;*  
-> your blessing be on your | people!.  
+> I will sing to the LORD, for he has triumphed | gloriously;*
+> the horse and his rider he has thrown in- | to the sea.
+> The LORD is my strength | and my song,*
+> and he has become my sal- | vation;
+> Your right hand, O LORD, glorious | in power,*
+> your right hand, O LORD, shatters the | enemy.
+> You have led in your steadfast love the people whom you | have redeemed;*
+> you have guided them by your strength to your ho- | ly abode.
+> You will bring them in and plant them on your own | mountain,*
+> the place, O LORD, which you have made for | your abode,
+> the sanctuary, O LORD, which your hands have es- | tablished.*
+> The LORD will reign forever and | ever.
 
 
 ## Collect
 
-Almighty God;
-through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+O God, for our redemption You gave Your only-begotten Son to the death of the cross and by His glorious resurrection delivered us from the power of the enemy. Grant that all our sin may be drowned through daily repentance and that day by day we may arise to live before You in righteousness and purity forever;
+through Jesus Christ, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
 
 ## Hymns
 
