@@ -155,6 +155,14 @@ Almighty God, graciously behold this Your family for whom our Lord Jesus was wil
 ## Sermon
 
 Beloved in the Lord, today is the darkest of days, yet we call it _Good Friday_.
+Today was the day when Satan tried to destroy Jesus, for it is written that Satan had entered into Judas [(Lk 22:3)](http://www.esvbible.org/Luke+22:3/).
+Satan most certainly took control of Judas and then proceeded, it seems, to take control of the whole situation in order to destroy Jesus.
+Jesus was arrested and mocked.
+Barabbas the murderer was released and Jesus was handed over to be crucified.
+It seems like Satan is in control, for great injustice is being done.
+
+What is done to Jesus is appalling.
+Many of you have seen *The Passion of the Christ* and if that portrays at all how Jesus was treated and what was done to Him—and I think it does—it is appalling.
 
 AMEN.
 
@@ -177,16 +185,17 @@ Lk 23:31. **“For if they do these things when the wood is green, what will ha
 If you ever neglected to push in a chair, someone may have tripped on it and fallen down.
 *Look at what you did.*
 
-If a man had just committed mass murder in a school in your town, you would be appalled at the crime and at the perpetrator.
-But then you found out he accessed the school through the back door which does not even have a handle for pulling it open.
-And then you realize that the day before you had stuffed a towel between the back door and the door frame to keep the door open and you forgot to take it out and you went home for the night.
-*You let the murderer in the school by sticking the towel in the door!*
-Who are you appalled at now?<sup>[<a name="id0001" href="#ftn.id0001">*</a>]</sup>
+If an Islamic terrorist had just exploded a bomb and killed dozens of people at the office building where you work, you would be appalled at the crime and at the perpetrator.
+Fortunately, you were not hurt.
+But then you find out that security cameras show that he accessed the building through the back door, which does not even have a handle for pulling it open.
+And then you realize that yesterday you propped that back door open with a piece of styrofoam and you forgot to take it out and you went home for the night.
+*You let the terrorist in the building by your foolishness!*
+Who are you appalled at now?<sup>[<a name="id0001" href="#ftn.id0001">†</a>]</sup>
 
 ## Footnotes
 
 <sup>[<a name="ftn.id0002" href="#id0002">§</a>]</sup>
 Martin Luther, _Complete Sermons of Martin Luther_, vol. 1.2 (Grand Rapids MI: Baker Books, 2000) 186
 
-<sup>[<a name="ftn.id0001" href="#id0001">*</a>]</sup>
-Illustration an idea from Luther, 187
+<sup>[<a name="ftn.id0001" href="#id0001">†</a>]</sup>
+Illustration idea from Luther, 187
