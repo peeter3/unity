@@ -154,15 +154,47 @@ Almighty God, graciously behold this Your family for whom our Lord Jesus was wil
 
 ## Sermon
 
-Beloved in the Lord, today is the darkest of days, yet we call it _Good Friday_.
+Beloved in the Lord, today was the darkest of days, yet we call it _Good Friday_.
 Today was the day when Satan tried to destroy Jesus, for it is written that Satan had entered into Judas [(Lk 22:3)](http://www.esvbible.org/Luke+22:3/).
-Satan most certainly took control of Judas and then proceeded, it seems, to take control of the whole situation in order to destroy Jesus.
-Jesus was arrested and mocked.
-Barabbas the murderer was released and Jesus was handed over to be crucified.
-It seems like Satan is in control, for great injustice is being done.
+And Judas betrayed Jesus to the Sanhedrin.
+The Sanhedrin was glad and paid money to Judas;
+then they sent the mob with swords and clubs to the Garden of Gethsemane and they arrested Jesus.
+Things got out of hand and it would appear that Satan had taken control of the whole situation in order to destroy our Lord.
 
-What is done to Jesus is appalling.
-Many of you have seen *The Passion of the Christ* and if that portrays at all how Jesus was treated and what was done to Him—and I think it does—it is appalling.
+But had not the devil already had his chance to destroy Him in the wilderness?
+Jesus had not eaten for 40 days—He was weak and was tempted by the devil, yet without sin.
+It is written that the devil **departed from Him until an opportune time** [(Lk 4:13)](http://www.esvbible.org/Luke%204%3A13/).
+Now is the opportune time.
+
+He is after Jesus. Jesus is taken away to the Sanhedrin and put on trial.
+
+> **“Are you the Son of God …?”**
+
+> **And [Jesus] said to them, “You say that I am.”**
+
+> **Then they said, “What further testimony do we need? We have heard it ourselves from his own lips.”** [(Lk 22:70‑71)](http://www.esvbible.org/Luke%2022%3A70-71/)
+
+He cannot deny that He is God and for that, He receives the sentence of death.
+
+Jesus is treated horribly; what is done to Jesus is appalling.
+Many of you have seen *The Passion of the Christ* movie, and if it portrays at all how Jesus was treated and what was done to Him—and I think it does—what the Roman soldiers do to Jesus is appalling.
+
+_[Illustration]_ If Islamic terrorists attacked your office building like they attacked Belgium on Tuesday, that would be appalling, too.
+Fortunately, you were not hurt.
+Tragically, dozens were killed.
+Security cameras show that the terrorists accessed the building through the back door. …
+And you realize that *you* propped that back door open with a styrofoam cup to let yourself out for a smoke and you *never took it out* when you came back in.
+*You let the terrorists in the building!*
+Who are you appalled at now?<sup>[<a name="id0001" href="#ftn.id0001">†</a>]</sup>
+
+You are responsible for the Crucifixion of our Lord; your sin put Him there.
+Look at Him mocked, spat upon, scourged, and tortured.
+Your sin put Him there. I put Him there, too.
+
+> *Oh, come and mourn the Crucified!*
+
+Beloved in the Lord, today was the darkest of days, yet we call it _Good Friday_.
+For God is able to use Satan for His own good and gracious will.
 
 AMEN.
 
