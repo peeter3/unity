@@ -67,7 +67,7 @@ No outline
 
 ## Fri 2016‑03‑25 (Good Friday)
 
-6th and 7th Petitions
+6th and 7th Petitions, Psalm 22
 
 <center>BUT DELIVER US FROM THE EVIL ONE</center>
 
