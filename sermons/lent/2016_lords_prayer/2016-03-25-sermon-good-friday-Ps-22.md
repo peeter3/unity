@@ -14,16 +14,16 @@ td { border: 1px solid black; padding: 10px; }
 
 <table>
 <tr>
-<th>To do</th><th>Who will do it?</th><th>Is it done?</th>
+<th>To do</th><th>Who will do it?</th><th>Done?</th>
 </tr>
 <tr>
-<td>Have book set out and ready in the pastor's sacrity for sealing the tomb</td><td>Pastor Pirn</td><td></td>
+<td>Have book set out and ready in the pastor's sacrity for sealing the tomb</td><td>Pastor Pirn</td><td align="center"></td>
 </tr>
 <tr>
-<td>Acolyte #1, carry out Christ candle at end of service</td><td>Trevon Preston</td><td></td>
+<td>Acolyte #1, carry out Christ candle at end of service</td><td>Trevon Preston</td><td align="center"></td>
 </tr>
 <tr>
-<td>Acolyte #2, carry out candle holder at end of service</td><td>Jaan Pirn</td><td></td>
+<td>Acolyte #2, carry out candle holder at end of service</td><td>Jaan Pirn</td><td align="center"></td>
 </tr>
 </table>
 
@@ -31,6 +31,7 @@ td { border: 1px solid black; padding: 10px; }
 
 * Service opens with choir singing by piano (choral call to worship)
 * For this service, the Introit has been replaced by Ps 22.
+* Abby McGreehan will be playing viola.
 * The tomb is sealed at the end of the service.
 * The congregation leaves in silence at the end of the service.
 
@@ -148,7 +149,7 @@ Put this psalm in the order of service in the place of the Introit.
 
 ## Collect
 
-O Lord God; through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+Almighty God, graciously behold this Your family for whom our Lord Jesus was willing to be betrayed and delivered into the hands of sinful men to suffer death upon the cross; through the same Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
 
 ## Hymns
 
