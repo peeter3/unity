@@ -294,8 +294,8 @@ The Bible teaches both, so *both are true*.
 You are forgiven as far as you believe; you are forgiven as far as you forgive.
 *To believe is to forgive.*
 And you might as well throw this in there, too: *To believe is to love.*
-You cannot disconnect your faith in Jesus from forgiving your neighbor.
-You cannot disconnect your faith in Jesus from loving your neighbor.
+You cannot disconnect your faith in Jesus from forgiving your neighbor—you cannot do it.
+You cannot disconnect your faith in Jesus from loving your neighbor—you cannot do that, either.
 What is it that you believe?
 *That Jesus died on the Cross for my sins.*
 And what does Jesus say to you from the Cross?
