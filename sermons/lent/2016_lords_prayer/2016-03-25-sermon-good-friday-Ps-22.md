@@ -20,10 +20,10 @@ td { border: 1px solid black; padding: 10px; }
 <td>Have book set out and ready in the pastor's sacrity for sealing the tomb</td><td>Pastor Pirn</td><td align="center">✔</td>
 </tr>
 <tr>
-<td>Acolyte #1: light Christ candle at beginning of service; carry out lit Christ candle at end of service</td><td>Trevon</td><td align="center"></td>
+<td>Acolyte #1: light Christ candle at beginning of service; carry out lit Christ candle at end of service</td><td>Trevon</td><td align="center">✔</td>
 </tr>
 <tr>
-<td>Acolyte #2: extinguish candelabra candles during the reading of the Seven Words of Christ; carry out candle holder at end of service</td><td>Jaan</td><td align="center"></td>
+<td>Acolyte #2: extinguish candelabra candles during the reading of the Seven Words of Christ; carry out candle holder at end of service</td><td>Jaan</td><td align="center">✔</td>
 </tr>
 </table>
 
