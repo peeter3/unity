@@ -72,17 +72,17 @@ They shall not hurt or destroy in all my holy mountain,” says the LORD.
 
 ## Introit [Ex. 15:2a, 6, 13, 17-18; antiphon: Ex. 15:1b]
 
-> I will sing to the LORD, for he has triumphed | gloriously;*
-> the horse and his rider he has thrown in- | to the sea.
-> The LORD is my strength | and my song,*
-> and he has become my sal- | vation;
-> Your right hand, O LORD, glorious | in power,*
-> your right hand, O LORD, shatters the | enemy.
-> You have led in your steadfast love the people whom you | have redeemed;*
-> you have guided them by your strength to your ho- | ly abode.
-> You will bring them in and plant them on your own | mountain,*
-> the place, O LORD, which you have made for | your abode,
-> the sanctuary, O LORD, which your hands have es- | tablished.*
+> I will sing to the LORD, for he has triumphed | gloriously;*  
+> the horse and his rider he has thrown in- | to the sea.  
+> The LORD is my strength | and my song,*  
+> and he has become my sal- | vation;  
+> Your right hand, O LORD, glorious | in power,*  
+> your right hand, O LORD, shatters the | enemy.  
+> You have led in your steadfast love the people whom you | have redeemed;*  
+> you have guided them by your strength to your ho- | ly abode.  
+> You will bring them in and plant them on your own | mountain,*  
+> the place, O LORD, which you have made for | your abode,  
+> the sanctuary, O LORD, which your hands have es- | tablished.*  
 > The LORD will reign forever and | ever.
 
 
@@ -99,18 +99,37 @@ through Jesus Christ, our Lord, who lives and reigns with You and the Holy Spiri
 
 ## Sermon
 
-Beloved in the Lord, I am asking you to believe in the resurrection of the dead.
+Beloved in the Lord, how many of you have seen the resurrection of the dead?
+You have seen the dead, but how many of you have seen the *resurrection* of the dead?
+I am not here before you to ask you to buy into something you have never seen,
+but I *am* proclaiming what others *have* seen and has been attested in many ways, namely, the Resurrection of Jesus Christ from the dead.
 
-> **If in Christ we have hope in this life only, we are of all people most to be pitied.**
+Yet there are many who only believe what they see and say there is no resurrection of the dead.
 
-For those who do not believe there is a resurrection of the dead, **we[, Christians,] are of all people most to be pitied**.
+> **For if the dead are not raised, not even Christ has been raised. And if Christ has not been raised, your faith is futile and you are still in your sins. Then those also who have fallen asleep in Christ have perished. If in Christ we have hope in this life only, we are of all people most to be pitied.** [(1Co 15:16‑19 ESV)](http://www.esvbible.org/1%20Corinthians%2015%3A16-19/)
+
 So, let us go to the heart of the matter: Is there or is there not a resurrection of the dead?
-Whom among you has seen the resurrection of the dead?
 
-The testimony of the Bible.
-If Jesus was to die for our sins, He had to be raised (Hos 6:2; Ps 16:10; Is 53:10).
+Before Jesus was crucified, He bumped heads with the Sadducees, who teach that there is no resurrection of the dead.
+Jesus told them, **“You are wrong, because you know neither the Scriptures nor the power of God”** [(Mt 22:29)](http://www.esvbible.org/Matthew%2022%3A29/).
+Listen first, then, to the testimony of the Scriptures, for
 
-The testimony of the Holy Spirit for 2,000 years.
+<center>IN FACT CHRIST HAS BEEN RAISED FROM THE DEAD.</center>
+
+Job writes in chapter 19,
+
+> **I know that my Redeemer lives, And He shall stand at last on the earth. And after my skin is destroyed, this I know, That in my flesh I shall see God.** [(Jb 19:25‑26 NKJV)](http://www.biblestudytools.com/nkjv/job/19.html)<sup>[<a name="id0002" href="#ftn.id0002">§</a>]</sup>
+
+David writes in Psalm 16,
+
+> **Therefore my heart is glad, and my whole being rejoices;**  
+> **my flesh also dwells secure.**  
+> **For you will not abandon my soul to Sheol,**  
+> **or let your holy one see corruption.** [(Ps 16:9‑10)](http://www.esvbible.org/Psalm%2016%3A9-10/)
+
+proclaiming a soul who would not die and implying a body that would not decay.
+
+There is more.<sup>[<a name="id0001" href="#ftn.id0001">†</a>]</sup>
 
 AMEN.
 
@@ -118,21 +137,24 @@ AMEN.
 
 <center>BUT IN FACT CHRIST HAS BEEN RAISED FROM THE DEAD.</center>
 
-1. I am asking you to believe in the resurrection of the dead.
+1. Faith in the resurrection of the dead.
     1. Have you seen the resurrection of the dead?
     1. **We are of all people most to be pitied.**
 1. BUT IN FACT CHRIST HAS BEEN RAISED FROM THE DEAD.
-    1. OT testimony
+    1. The Scriptures
+        1. [Jb 19:25‑26 NKJV](http://www.biblestudytools.com/nkjv/job/19.html)
         1. [Ps 16:10](http://www.esvbible.org/Psalm%2016%3A10/)
         1. [Is 53:10](http://www.esvbible.org/Isaiah%2053%3A10/)
         1. [Hos 6:1‑3](http://www.esvbible.org/Hosea%206%3A1-3/)
     1. Testimony of the eyewitnesses
         1. Heretics for hundreds of years have to acknowledge the Resurrection of Jesus.
+            1. Hymenaeus and Philetus taught that the resurrection had already happened [(2Tm 2:17‑18)](http://www.esvbible.org/2%20Timothy%202%3A17-18/) but no doubt did not deny that Jesus had been resurrected.
             1. The Jews who do not believe that Jesus is their Messiah must say at least that the Christians say Jesus is alive—we do not think so, but they do.
             1. Even Mohammed says Jesus is alive.
         1. Many manuscripts
         1. The Resurrection of Jesus is the most attested event in human history.
     1. Testimony of the apostles
+        1. There were some in the church of Corinth who said there was no resurrection of the dead [(1Co 15:12)](http://www.esvbible.org/1%20Corinthians%2015%3A12/). St Paul said they knew nothing of God [(1Co 15:34)](http://www.esvbible.org/1%20Corinthians%2015%3A34/).
         1. They went out in all the world.
         1. They did not fear death.
     1. Testimony of the Holy Spirit throughout the history of the Church
@@ -146,9 +168,12 @@ AMEN.
 If we are to believe in the Resurrection of Christ, is the heart of the Christian faith to believe in something that neither you nor anyone else has seen?
 Not so much as it is to believe that God did it for you.
 
-ZZZ<sup>[<a name="id0002" href="#ftn.id0002">§</a>]</sup>
+ZZZ
 
 ## Footnotes
 
 <sup>[<a name="ftn.id0002" href="#id0002">§</a>]</sup>
-The *LSB Pastoral Care Companion* uses NKJV for Jb 19:23‑27 	in the committal service, so we will have it read publicly in the cemetery for the Easter sunrise service as well.
+The *LSB Pastoral Care Companion* uses NKJV for Jb 19:23‑27 in the committal service, so we will use it here.
+
+<sup>[<a name="ftn.id0001" href="#id0001">†</a>]</sup>
+Franklin rocks.
