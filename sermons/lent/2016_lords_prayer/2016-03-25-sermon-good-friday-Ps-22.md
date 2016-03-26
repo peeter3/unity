@@ -20,10 +20,10 @@ td { border: 1px solid black; padding: 10px; }
 <td>Have book set out and ready in the pastor's sacrity for sealing the tomb</td><td>Pastor Pirn</td><td align="center">✔</td>
 </tr>
 <tr>
-<td>Acolyte #1: carry out Christ candle at end of service</td><td>Trevon</td><td align="center"></td>
+<td>Acolyte #1: light Christ candle at beginning of service; carry out lit Christ candle at end of service</td><td>Trevon</td><td align="center">✔</td>
 </tr>
 <tr>
-<td>Acolyte #2: extinguish candelabra candles during the reading of the Seven Words of Christ; carry out candle holder at end of service</td><td>Jaan</td><td align="center"></td>
+<td>Acolyte #2: extinguish candelabra candles during the reading of the Seven Words of Christ; carry out candle holder at end of service</td><td>Jaan</td><td align="center">✔</td>
 </tr>
 </table>
 
@@ -154,9 +154,69 @@ Almighty God, graciously behold this Your family for whom our Lord Jesus was wil
 
 ## Sermon
 
-Beloved in the Lord, today is the darkest of days, yet we call it _Good Friday_.
+Beloved in the Lord, today was the darkest of days, yet we call it _Good Friday_.
+Today was the day when Satan tried to destroy Jesus, for it is written that Satan entered into Judas [(Lk 22:3)](http://www.esvbible.org/Luke+22:3/).
+And Judas betrayed Jesus to the Sanhedrin.
+The Sanhedrin was glad and paid money to Judas;
+then they sent the mob with swords and clubs to the Garden of Gethsemane and they arrested our Lord there.
+Things got out of hand and it would appear that Satan had taken control of the whole situation in order to destroy our Lord.
 
-AMEN.
+But did not the devil already have his chance to destroy Jesus in the wilderness?
+Our Lord had not eaten for 40 days—He was weak and was tempted by the devil, yet without sin.
+It is written that the devil **departed from Him until an opportune time** [(Lk 4:13)](http://www.esvbible.org/Luke%204%3A13/).
+Now is the opportune time.
+
+The devil is after Jesus. Our Lord is taken away to the Sanhedrin and put on trial.
+
+> **“Are you the Son of God …?”**
+
+> **And [Jesus says] to them, “You say that I am.”**
+
+> **Then they [say], “What further testimony do we need? We have heard it ourselves from his own lips.”** [(Lk 22:70‑71)](http://www.esvbible.org/Luke%2022%3A70-71/)
+
+He cannot deny that He is God and for that, He receives the sentence of death.
+
+Jesus is treated horribly; what is done to Him is appalling.
+Many of you have seen *The Passion of the Christ* movie, and if it portrays at all how Jesus is treated and what is done to Him—and I think it does—what the Roman soldiers do to Jesus is appalling.
+
+_[Illustration]_ If Islamic terrorists attacked your office building like they attacked Belgium on Tuesday, that would be appalling, too.
+Imagine they did, and fortunately you were not hurt.
+Tragically, though, dozens were killed—their bodies torn apart.
+Security cameras show that the terrorists accessed your building through the back door by the loading dock.
+They wheeled in a bomb on a cart; then a blast and death and mourning. …
+And you realize that *you* propped the back door open with a styrofoam cup to let yourself out for a smoke and you *never took the cup out* when you came back in.
+You did it: *you let the terrorists in the building!*
+Who are you appalled at now?<sup>[<a name="id0001" href="#ftn.id0001">†</a>]</sup>
+
+What do you feel when you meditate on your suffering Lord?
+You are responsible; *your sin put Him there*.
+Look at Him mocked, look at Him spat upon, look at Him scourged, and see Him crucified.
+Your sin put Him there. I put Him there, too.
+
+> **My God, my God, why have you forsaken me?**  
+> **Why are you so far from saving me, from the words of my groaning?**
+
+There He is, the utterly obedient Son forsaken by His Father.
+Yet His Father remains a good Father, and He remains a good Son, and this is Good Friday.
+
+It is good because your sins are being punished, but it is not you on the Cross.
+Though it would appear that Satan has taken control of the whole situation in order to destroy our Lord, it is not our Lord that is being destroyed, but your sins.
+For He is momentarily being destroyed together with your sins, but when the smoke clears, your sins will be gone and He will rise from the dead.
+He bears your sins with great love for you, receiving the consequences you deserve.
+He bears your sins with great love for His Father, trusting in Him to the end.
+
+> **Save me from the mouth of the lion!**  
+> **You have rescued me from the horns of the wild oxen!**  
+> **I will tell of your name to my brothers;**  
+> **in the midst of the congregation I will praise you:**  
+> **…**  
+> **From you comes my praise in the great congregation;**  
+> **my vows I will perform before those who fear him.**  
+> **The afflicted shall eat and be satisfied;**  
+> **those who seek him shall praise the LORD!**  
+> **May your hearts live forever!**
+
+Beloved in the Lord, may your hearts live forever by faith in Christ crucified for you! AMEN.
 
 ## Outline
 
@@ -177,16 +237,17 @@ Lk 23:31. **“For if they do these things when the wood is green, what will ha
 If you ever neglected to push in a chair, someone may have tripped on it and fallen down.
 *Look at what you did.*
 
-If a man had just committed mass murder in a school in your town, you would be appalled at the crime and at the perpetrator.
-But then you found out he accessed the school through the back door which does not even have a handle for pulling it open.
-And then you realize that the day before you had stuffed a towel between the back door and the door frame to keep the door open and you forgot to take it out and you went home for the night.
-*You let the murderer in the school by sticking the towel in the door!*
-Who are you appalled at now?<sup>[<a name="id0001" href="#ftn.id0001">*</a>]</sup>
+If an Islamic terrorist had just exploded a bomb and killed dozens of people at the office building where you work, you would be appalled at the crime and at the perpetrator.
+Fortunately, you were not hurt.
+But then you find out that security cameras show that he accessed the building through the back door, which does not even have a handle for pulling it open.
+And then you realize that yesterday you propped that back door open with a piece of styrofoam and you forgot to take it out and you went home for the night.
+*You let the terrorist in the building by your foolishness!*
+Who are you appalled at now?<sup>[<a name="id0001" href="#ftn.id0001">†</a>]</sup>
 
 ## Footnotes
 
 <sup>[<a name="ftn.id0002" href="#id0002">§</a>]</sup>
 Martin Luther, _Complete Sermons of Martin Luther_, vol. 1.2 (Grand Rapids MI: Baker Books, 2000) 186
 
-<sup>[<a name="ftn.id0001" href="#id0001">*</a>]</sup>
-Illustration an idea from Luther, 187
+<sup>[<a name="ftn.id0001" href="#id0001">†</a>]</sup>
+Illustration idea from Luther, 187
