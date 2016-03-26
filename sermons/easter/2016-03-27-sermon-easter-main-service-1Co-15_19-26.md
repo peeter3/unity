@@ -14,7 +14,7 @@ td { border: 1px solid black; padding: 10px; }
 
 <table>
 <tr>
-<th>To do</th><th>Who will do it?</th><th>Is it done?</th>
+<th>To do</th><th>Who will do it?</th><th>Done?</th>
 </tr>
 <tr>
 <td>Process in with Christ candle</td><td></td><td></td>
@@ -33,40 +33,29 @@ td { border: 1px solid black; padding: 10px; }
 
 ## Old Testament [Is 65:17-25 ESV]
 
-	[17] “For behold, I create new heavens  
-	and a new earth,  
-	and the former things shall not be remembered  
-		or come into mind.
-	[18] But be glad and rejoice forever
-		in that which I create;
-	for behold, I create Jerusalem to be a joy,
-		and her people to be a gladness.
-	[19] I will rejoice in Jerusalem
-		and be glad in my people;
-	no more shall be heard in it the sound of weeping
-		and the cry of distress.
-	[20] No more shall there be in it
-		an infant who lives but a few days,
-		or an old man who does not fill out his days,
-	for the young man shall die a hundred years old,
-		and the sinner a hundred years old shall be accursed.
-	[21] They shall build houses and inhabit them;
-		they shall plant vineyards and eat their fruit.
-	[22] They shall not build and another inhabit;
-		they shall not plant and another eat;
-	for like the days of a tree shall the days of my people be,
-		and my chosen shall long enjoy the work of their hands.
-	[23] They shall not labor in vain
-		or bear children for calamity,
-	for they shall be the offspring of the blessed of the LORD,
-		and their descendants with them.
-	[24] Before they call I will answer;
-		while they are yet speaking I will hear.
-	[25] The wolf and the lamb shall graze together;
-		the lion shall eat straw like the ox,
-		and dust shall be the serpent's food.
-	They shall not hurt or destroy
-		in all my holy mountain,” says the LORD.
+[17] “For behold, I create new heavens and a new earth,
+and the former things shall not be remembered or come into mind.
+[18] But be glad and rejoice forever in that which I create;
+for behold, I create Jerusalem to be a joy, and her people to be a gladness.
+[19] I will rejoice in Jerusalem and be glad in my people;
+no more shall be heard in it the sound of weeping and the cry of distress.
+[20] No more shall there be in it an infant who lives but a few days,
+or an old man who does not fill out his days,
+for the young man shall die a hundred years old,
+and the sinner a hundred years old shall be accursed.
+[21] They shall build houses and inhabit them;
+they shall plant vineyards and eat their fruit.
+[22] They shall not build and another inhabit;
+they shall not plant and another eat;
+for like the days of a tree shall the days of my people be,
+and my chosen shall long enjoy the work of their hands.
+[23] They shall not labor in vain or bear children for calamity,
+for they shall be the offspring of the blessed of the LORD,
+and their descendants with them.
+[24] Before they call I will answer; while they are yet speaking I will hear.
+[25] The wolf and the lamb shall graze together;
+the lion shall eat straw like the ox, and dust shall be the serpent's food.
+They shall not hurt or destroy in all my holy mountain,” says the LORD.
 
 ## Epistle [1Co 15:19-26 ESV; sermon text]
 
@@ -107,7 +96,20 @@ through Jesus Christ, our Lord, who lives and reigns with You and the Holy Spiri
 
 ## Sermon
 
-Beloved in the Lord, AMEN.
+Beloved in the Lord,
+
+> **If in Christ we have hope in this life only, we are of all people most to be pitied.**
+
+For those who do not believe there is a resurrection of the dead, **we[, Christians,] are of all people most to be pitied**.
+So, let us go to the heart of the matter: Is there or is there not a resurrection of the dead?
+Whom among you has seen the resurrection of the dead?
+
+The testimony of the Bible.
+If Jesus was to die for our sins, He had to be raised (Hos 6:2; Ps 16:10; Is 53:10).
+
+The testimony of the Holy Spirit for 2,000 years.
+
+AMEN.
 
 ## Outline
 
