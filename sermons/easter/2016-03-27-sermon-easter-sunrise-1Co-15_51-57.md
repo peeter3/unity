@@ -105,7 +105,7 @@ upon the throne:</p>
 
 ## Sermon
 
-Beloved in the Lord, AMEN.
+See sermon for Easter main service.
 
 ## Responsive reading 3
 
@@ -141,11 +141,7 @@ _LSB_ 457 _Jesus Christ Is Risen Today_
 
 ## Outline
 
-<center>ZZZ</center>
-
-1. ZZZ
-1. YYY
-    1. XXX
+See outline for Easter main service.
 
 ## Notes
 
