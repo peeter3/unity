@@ -53,46 +53,50 @@ Beloved in the Lord, sin happens—sometimes small, sometimes big.
 Let us turn our attention to Abraham and Sarah in the book of Genesis.
 You may remember that Ishmael was born *not* to Abraham and Sarah, as God had promised, but to Abraham and *Hagar*.
 Hagar was not Abraham's wife—she was his concubine—today we call it “living together.”
-Sarah had doubted that *she* would have a child and gave Hagar to Abraham as a concubine so that Abraham could have the son that God had promised—that was Sarah's thinking fueled by doubt that God would keep His promise that *she* would have a son.
-Sarah doubted—and Abraham went along with it—and sin jumped in.
+Sarah had doubted what God had promised—that *she* would have a child.
+She doubted and gave Hagar to Abraham as a concubine so that Abraham could have the son that God had promised—that was Sarah's thinking fueled by doubt.
+Sarah doubted—Abraham went along with it—and sin jumped in.
 
-Now would be a fun time to make jokes about old people.
+Now might be a fun time to make jokes about old people.
 Abraham was 86 and Sarah was 76—older than maybe anyone in this room.
 Imagine your grandparents thinking that God promised them they were going to have a baby!
-But *you*—you are *young* people—what has God promised you?
-Look at your school.
-Lutheran West was built and your teachers have come here to teach you that God has promised you the forgiveness of your sins in the name of Jesus Christ and to educate you in the context of that promise—forgiveness in the name of Jesus—that is what God has promised you.
+But *you* are *young* people—what has God promised *you*?
+Look around.
+Lutheran West was built and your teachers have come here to teach you that *God has promised you the forgiveness of your sins in the name of Jesus Christ*, and to educate you in the context of that promise.
 But if you doubt, sin jumps in.
 It could be small, it could be big.
 
-Going back to Abraham and what is recorded in Genesis, Sodom and Gomorrah was big sin—so big that God destroyed those cities with sulfur and fire.
-It must have started with little sins against marriage—perhaps some doubted that marriage was for them and sought physical intimacy outside of marriage.
-But by the time the cities were destroyed, the men unrestrained homosexuals and God destroyed the whole city.
+Going back to Abraham and what is recorded in Genesis, Sodom and Gomorrah was big—their sin was so big that God destroyed those cities with sulfur and fire.
+I suppose it started with little sins against marriage—perhaps some doubted that marriage was for them and sought physical intimacy outside of marriage.
+But by the time the cities were destroyed, all the men of the city were unrestrained homosexuals; and God destroyed them all.
 
-And now, in Genesis, chapter 20, we come back to a smaller sin, but a sin nontheless.
-Abraham doubted that God would protect his wife.
-We have Abraham and Sarah, traveling together with Hagar and Ishmael and all the domestic trouble that went with it.
-King Abimelech takes interest in Sarah, who must have been good-looking in her 80's,
-and Abraham lies to protect his own life.
-He says, **“She is my sister.” And Abimelech king of Gerar sent and took Sarah.**
+And now, the next thing to happen, in Genesis, chapter 20, is that we come back to a smaller sin, but sin nonetheless.
+This time Abraham doubts that God will protect his wife.
+It is not from honor or wisdom that Abraham says to Abimelech, king of Gerar, **“She is my sister.”**
+Sarah must be around 80 by now and good-looking.
+She attracts Abimilech's attention just as years ago she had attracted Pharaoh's attention.
+Abraham, remembering God's promise that Sarah would bear him a son, should have stood up and said proudly, “She is *my wife*,” knowing full well that God will keep them alive and give them their promised son.
+But Abraham is a coward who has not learned well enough to trust God. (By the time He sacrifices Isaac, he will have learned.)
+Abraham lies to protect his own life; instead, he should have protected his wife, and God would have still kept His promise.
+**And Abimelech king of Gerar sent and took Sarah**, but fortunately God warned Abimelech to stay away from her and she was returned to her huband.
 
-Do you remember that Abraham already went through this in Egypt [(Gn 12:10‑20)](http://www.esvbible.org/Genesis%2012%3A10-20/)?
-Abraham said Sarah was his sister and Pharaoh *did* take her as a wife until God plagued Pharaoh and his family until he realized that Sarah was Abraham's wife.
-Pharaoh took Sarah back to Abraham and asked him, **“Why did you say, ‘She is my sister,’ so that I took her for my wife? Now then, here is your wife; take her, and go”** [(Gn 12:19 ESV)](http://www.esvbible.org/Genesis%2012%3A19/).
+Beloved in the Lord, you can take comfort in that Abraham was a sinner just like you.
+And it should be of great comfort to you that elsewhere in the Bible,
+Abraham is praised for his faith and even when our Lord Jesus talks about poor Lazarus going to heaven, He calls heaven “Abraham's side” [(Lk 16:22)](http://www.esvbible.org/Luke%2016%3A22/).
+*Abraham is the one* who comforts poor Lazarus in heaven and tells the rich man in hell that his five brothers left on earth better hear the Bible or they will wind up in hell, too.
 
-Sarah must be in her 80's and the Bible says she was so good looking that Abraham was afraid that King Abimelech would kill him to have her.
+In the end, Isaac is born to Abraham and Sarah, just as God had promised.
+By then, Abraham and Sarah are as old as your *great*-grandparents.
+But it happened, just as God had promised.
+And to Isaac was born Jacob, and to Jacob were born the twelve tribes of Israel, and to the tribe of Judah is born none other than Jesus, the Son of God, our Savior from sin, just as God had promised.
 
-Yet Isaac had to be born.
-Imagine your *great*—grandparents having a baby!
-
-Yet Jesus had to be born.
-
-AMEN.
+Do not doubt what God has promised you in the name of Jesus. AMEN.
 
 ## Prayer
 
-Almighty God;
-through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+Gracious Father, you are merciful to your children and have redeemed us from sin and Satan through Your Son, Jesus.
+Receive our thanks for Him and grant us unwavering faith, grant us Your Holy Spirit to trust all that you have promised and to turn our hearts toward them at all times;
+through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever. Amen.
 
 ## Outline
 
