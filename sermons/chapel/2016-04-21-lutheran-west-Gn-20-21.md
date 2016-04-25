@@ -47,14 +47,56 @@ td { border: 1px solid black; padding: 10px; }
 
 [25] When Abraham reproved Abimelech about a well of water that Abimelech's servants had seized, [26] Abimelech said, “I do not know who has done this thing; you did not tell me, and I have not heard of it until today.” [27] So Abraham took sheep and oxen and gave them to Abimelech, and the two men made a covenant. [28] Abraham set seven ewe lambs of the flock apart. [29] And Abimelech said to Abraham, “What is the meaning of these seven ewe lambs that you have set apart?” [30] He said, “These seven ewe lambs you will take from my hand, that this may be a witness for me that I dug this well.” [31] Therefore that place was called Beersheba, because there both of them swore an oath. [32] So they made a covenant at Beersheba. Then Abimelech and Phicol the commander of his army rose up and returned to the land of the Philistines. [33] Abraham planted a tamarisk tree in Beersheba and called there on the name of the LORD, the Everlasting God. [34] And Abraham sojourned many days in the land of the Philistines.
 
-## Prayer
-
-Almighty God;
-through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
-
 ## Sermon
 
-Beloved in the Lord, AMEN.
+Beloved in the Lord, sin happens—sometimes small, sometimes big.
+Let us turn our attention to Abraham and Sarah in the book of Genesis.
+You may remember that Ishmael was born *not* to Abraham and Sarah, as God had promised, but to Abraham and *Hagar*.
+Hagar was not Abraham's wife—she was his concubine—today we call it “living together.”
+Sarah had doubted what God had promised—that *she* would have a child.
+She doubted and gave Hagar to Abraham as a concubine so that Abraham could have the son that God had promised—that was Sarah's thinking fueled by doubt.
+Sarah doubted—Abraham went along with it—and sin jumped in.
+
+Now might be a fun time to make jokes about old people.
+Abraham was 86 and Sarah was 76—older than maybe anyone in this room.
+Imagine your grandparents thinking that God promised them they were going to have a baby!
+But *you* are *young* people—what has God promised *you*?
+Look around.
+Lutheran West was built and your teachers have come here to teach you that *God has promised you the forgiveness of your sins in the name of Jesus Christ*, and to educate you in the context of that promise.
+But if you doubt, sin jumps in.
+It could be small, it could be big.
+
+Going back to Abraham and what is recorded in Genesis, Sodom and Gomorrah was big—their sin was so big that God destroyed those cities with sulfur and fire.
+I suppose it started with little sins against marriage—perhaps some doubted that marriage was for them and sought physical intimacy outside of marriage.
+But by the time the cities were destroyed, all the men of the city were unrestrained homosexuals; and God destroyed them all.
+
+And now, the next thing to happen, in Genesis, chapter 20, is that we come back to a smaller sin, but sin nonetheless.
+This time Abraham doubts that God will protect his wife.
+It is not from honor or wisdom that Abraham says to Abimelech, king of Gerar, **“She is my sister.”**
+Sarah must be around 80 by now and good-looking.
+She attracts Abimilech's attention just as years ago she had attracted Pharaoh's attention.
+Abraham, remembering God's promise that Sarah would bear him a son, should have stood up and said proudly, “She is *my wife*,” knowing full well that God will keep them alive and give them their promised son.
+But Abraham is a coward who has not learned well enough to trust God. (By the time He sacrifices Isaac, he will have learned.)
+Abraham lies to protect his own life; instead, he should have protected his wife, and God would have still kept His promise.
+**And Abimelech king of Gerar sent and took Sarah**, but fortunately God warned Abimelech to stay away from her and she was returned to her huband.
+
+Beloved in the Lord, you can take comfort in that Abraham was a sinner just like you.
+And it should be of great comfort to you that elsewhere in the Bible,
+Abraham is praised for his faith and even when our Lord Jesus talks about poor Lazarus going to heaven, He calls heaven “Abraham's side” [(Lk 16:22)](http://www.esvbible.org/Luke%2016%3A22/).
+*Abraham is the one* who comforts poor Lazarus in heaven and tells the rich man in hell that his five brothers left on earth better hear the Bible or they will wind up in hell, too.
+
+In the end, Isaac is born to Abraham and Sarah, just as God had promised.
+By then, Abraham and Sarah are as old as your *great*-grandparents.
+But it happened, just as God had promised.
+And to Isaac was born Jacob, and to Jacob were born the twelve tribes of Israel, and to the tribe of Judah is born none other than Jesus, the Son of God, our Savior from sin, just as God had promised.
+
+Do not doubt what God has promised you in the name of Jesus. AMEN.
+
+## Prayer
+
+Gracious Father, you are merciful to your children and have redeemed us from sin and Satan through Your Son, Jesus.
+Receive our thanks for Him and grant us unwavering faith, grant us Your Holy Spirit to trust all that you have promised and to turn our hearts toward them at all times;
+through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever. Amen.
 
 ## Outline
 
