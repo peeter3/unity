@@ -18,7 +18,7 @@ Which is greater: All the money of PNC and Key Bank put together or God allowing
 Were rain never to fall from the sky, there would be no harvest, no Save‑A‑Lot, no food at all.
 We would all die, of course, but before that, all the economies of the world would collapse, and the money held by banks would be worthless.
 When we pray, “Give us this day our daily bread,” we are also praying for rain, without which there is no daily bread, without which there is no human endeavor, no money, no goods and services to buy and sell.
-God allowing a drop of rain from the sky is far greater than all the money of all the banks in the world.
+God allowing rain to fall from the sky is far greater than all the money of all the banks in the world.
 
 Is there any alternative to rain for giving us our daily bread? No. God has ordered our earthly existence to depend on rain and He gives it to us.
 Do not be offended because rain constrains us‒God is good and gives rain even without our prayers, even to evil people.
