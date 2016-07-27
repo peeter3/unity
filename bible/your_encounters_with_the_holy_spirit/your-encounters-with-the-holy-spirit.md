@@ -20,8 +20,14 @@ What are the normal gifts of the Holy Spirit? [Gal 5:22‑23](http://www.esvbib
 St Paul writes against boasting about spiritual experiences [(2Co 12:1‑5)](http://www.esvbible.org/2%20Corinthians%2012%3A1-5/).
 
 
+## Pietism
+
+> The term Pietism connotes a movement in behalf of practical religion within the Lutheran Church of the seventeenth and eighteenth centuries. Established at Halle by Philipp Jakob Spener, and following distinct and individual courses of development in Halle, Württemberg, and Herrnhut, it received a bond of union in its conviction that the type of Christianity then prevailing in Lutheranism stood in urgent need of reform, and that this could be brought about by "piety," or living faith made active and manifest in upright conduct.<sup>[<a name="id0002" href="#ftn.id0002">†</a>]</sup>
 
 ## Footnotes
 
 <sup>[<a name="ftn.id0001" href="#id0001">§</a>]</sup>
 David S. Luecke, _Your Encounters with the Holy Spirit_ (Bloomington, IN: WestBow Press, 2014) location 120 of 3056 in Kindle edition.
+
+<sup>[<a name="ftn.id0002" href="#id0002">†</a>]</sup>
+[Pietism (Christian Classics Ethereal Library)](http://www.ccel.org/ccel/schaff/encyc09.pietism.html#pietism-p45.1), accessed 27 July 2016.
