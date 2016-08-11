@@ -42,6 +42,7 @@ Things to look for:
 
 When you live a genuine Christian life, you may question the faith of another, but beware of the situation of the Pharissee and tax collector[(Lk 18:10‑14)](http://www.esvbible.org/Luke+18:10/).
 Christian faith grows by doing your duty as an unworthy servant [(Lk 17:5‑10)](http://www.esvbible.org/Luke%2017%3A5-10/).
+Gal 5:26; 1Co 12:21‑26.
 
 ## The dangers of private meetings
 
