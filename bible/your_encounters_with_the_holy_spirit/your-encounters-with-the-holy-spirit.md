@@ -47,20 +47,39 @@ Things to look for:
 
 Spener considered himself to be a bad boy when, at the age of twelve, he danced.<sup>[<a name="id0008" href="#ftn.id0008">″</a>]</sup>
 
-### Defects in Civil Authorities
+Spener thought Sundays could be better used to build each other up in faith and holiness.
+Private meetings for the cultivation of holiness were called _collegia pietatis_.<sup>[<a name="id0009" href="#ftn.id0009">‴</a>]</sup>
 
+Spenter pointed out that at Christ's judgment, He will not commend us for being learned theologians but for how faithfully we sought to further the kingdom of God.<sup>[<a name="id0010" href="#ftn.id0010">‸</a>]</sup>
 
-### Defects in the Clergy
+### Defects in Civil Authorities<sup>[<a name="id0011" href="#ftn.id0011">‹</a>]</sup>
 
+Live in sin, debauchery, and self-interest.
 
-### Defects in the Common People
+### Defects in the Clergy<sup>[<a name="id0012" href="#ftn.id0012">›</a>]</sup>
+
+Spener recognizes his own deficiency.
+He also begins to criticize self-promotion and changing from congregation to congregation (45).
+Since some pastors do not show the fruits of the Spirit [(Gal 5:22‑23)](http://www.esvbible.org/Galatians%205%3A22-23/), he questions whether they are believers at all (46).
+
+Spener falsely says that a pastor lacking true and godly faith is unable to perform the duties of their office and awaken faith in his hearers through the Word (47).
+Balaam is a case in point where a wicked prophet effectively prophesied [(Nm 23‑24)](http://www.esvbible.org/Numbers%2023/).
+Furthermore, God's Word has power in itself and never returns empty-handed [(Is 55:11)](http://www.esvbible.org/Isaiah+55:11/).
+
+Spener criticized the over-emphasis on doctrinal agreement (49‑50).
+That raises an important point: When is it right to argue over doctrine?
+Spener raises awareness that it is Satan's own desire that we “try to be smart and clever without the Scriptures or beyond them” (51).
+He laments that scholastic theology has crept back into the Lutheran church after Luther had worked so hard to put biblical theology above it.
+Then he offers the following passages to support biblical theology: [1Tm 1:4‑7](http://www.esvbible.org/1%20Timothy%201%3A4-7/); [1Tm 6:3‑5](http://www.esvbible.org/1%20Timothy%206%3A3-5/); [Col 2:8](http://www.esvbible.org/Colossians%202%3A8/).
+
+### Defects in the Common People<sup>[<a name="id0013" href="#ftn.id0013">‼</a>]</sup>
 
 
 ## Doubting another person's faith
 
-When you live a genuine Christian life, you may question the faith of another, but beware of the situation of the Pharissee and tax collector[(Lk 18:10‑14)](http://www.esvbible.org/Luke+18:10/).
+When you live a genuine Christian life, you may question the faith of another, but beware of the situation of the Pharisee and tax collector [(Lk 18:10‑14)](http://www.esvbible.org/Luke+18:10/).
 Christian faith grows by doing your duty as an unworthy servant [(Lk 17:5‑10)](http://www.esvbible.org/Luke%2017%3A5-10/).
-Gal 5:26; 1Co 12:21‑26.
+[Gal 5:26](http://www.esvbible.org/Galatians%205%3A26/); [1Co 12:21‑26](http://www.esvbible.org/1%20Corinthians%2012%3A21-26/).
 
 ## The dangers of private meetings
 
@@ -92,6 +111,21 @@ Philip Jacob Spener, _Pia Desideria_ (Minneapolis, MN: Fortress Press, 1964) 14�
 
 <sup>[<a name="ftn.id0008" href="#id0008">″</a>]</sup>
 Philip Jacob Spener, _Pia Desideria_ (Minneapolis, MN: Fortress Press, 1964) 10.
+
+<sup>[<a name="ftn.id0009" href="#id0009">‴</a>]</sup>
+Philip Jacob Spener, _Pia Desideria_ (Minneapolis, MN: Fortress Press, 1964) 13.
+
+<sup>[<a name="ftn.id0010" href="#id0010">‸</a>]</sup>
+Philip Jacob Spener, _Pia Desideria_ (Minneapolis, MN: Fortress Press, 1964) 36.
+
+<sup>[<a name="ftn.id0011" href="#id0011">‹</a>]</sup>
+Philip Jacob Spener, _Pia Desideria_ (Minneapolis, MN: Fortress Press, 1964) 43ff.
+
+<sup>[<a name="ftn.id0012" href="#id0012">›</a>]</sup>
+Philip Jacob Spener, _Pia Desideria_ (Minneapolis, MN: Fortress Press, 1964) 44ff.
+
+<sup>[<a name="ftn.id0013" href="#id0013">‼</a>]</sup>
+Philip Jacob Spener, _Pia Desideria_ (Minneapolis, MN: Fortress Press, 1964) 57ff.
 
 <sup>[<a name="ftn.id0004" href="#id0004">‡</a>]</sup>
 Philip Jacob Spener, _Pia Desideria_ (Minneapolis, MN: Fortress Press, 1964) 19‑20.
