@@ -72,8 +72,90 @@ Spener raises awareness that it is Satan's own desire that we “try to be smart
 He laments that scholastic theology has crept back into the Lutheran church after Luther had worked so hard to put biblical theology above it.
 Then he offers the following passages to support biblical theology: [1Tm 1:4‑7](http://www.esvbible.org/1%20Timothy%201%3A4-7/); [1Tm 6:3‑5](http://www.esvbible.org/1%20Timothy%206%3A3-5/); [Col 2:8](http://www.esvbible.org/Colossians%202%3A8/).
 
+(Of course the Bible itself says what the Bible is for in [2Tm 3:15‑17](http://www.esvbible.org/2%20Timothy%203%3A15-17/).)
+
+Spener supports pure doctrine, but questions the spirit with which doctrine is defended.
+In some cases, doctrine becomes obfuscated and then vigorously defended only to show that the defender is superior to the other (56).
+The scriptural antidote to this poison is 1Co 2:4‑5:
+
+> **My speech and my message were not in plausible words of wisdom, but in demonstration of the Spirit and of power, so that your faith might not rest in the wisdom of men but in the power of God.** (1Co 2:4‑5 ESV)
+
+
 ### Defects in the Common People<sup>[<a name="id0013" href="#ftn.id0013">‼</a>]</sup>
 
+If the civil authorities and the clergy are wicked, then the people will follow.
+Here is the Scripture that has not been evident:
+
+> **“By this all people will know that you are my disciples, if you have love for one another.”** (Jn 13:35 ESV)
+
+> **Little children, let us not love in word or talk but in deed and in truth.** (1Jn 3:18 ESV)
+
+Spener criticizes drunkenness, but does not acknowledge [Ps 104:15](http://www.esvbible.org/Psalm%20104%3A15/) nor [Jn 2:6‑11](http://www.esvbible.org/John%202%3A6-11/), where people drank wine freely at a wedding reception.
+He does bring up 1Co 6:9‑10:
+
+> **Or do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice homosexuality, nor thieves, nor the greedy, nor drunkards, nor revilers, nor swindlers will inherit the kingdom of God.** (1Co 6:9-10 ESV)
+
+These verses put a drunkard in together with serious sinful company.
+Spener however is in error when he says that Scripture makes no distinction between intoxication and one's heart being glad under the influence of wine (58‑59).
+(Okay, let us get doctrinal.)
+Theologically, this gets close to being a violation of the doctrine of Christian freedom:
+
+> Christian Freedom 1: With regard to salvation, a Christian is free from all rules.
+
+<TABLE>
+<TR><TH>Verse</TH>
+<TH>Notes</TH>
+</TR>
+<TR><TD>1Co 9:21</TD>
+<TD>To be under Christ’s law (faith) is to be free of the Law.</TD>
+</TR>
+<TR><TD>Rm 10:4</TD>
+<TD>Christ is the end of the Law and brings a righteousness apart from the Law.</TD>
+</TR>
+<TR><TD>Rm 10:10</TD>
+<TD>Faith justifies; no mention of the Law.</TD>
+</TR>
+<TR><TD>Gal 5:4</TD>
+<TD></TD>
+</TR>
+<TR><TD>Col 2:16-17</TD>
+<TD></TD>
+</TR>
+<TR><TD>Col 2:20-23</TD>
+<TD></TD>
+</TR>
+<TR><TD>Heb 4:9-10</TD>
+<TD></TD>
+</TR>
+<TR><TD>Gal 5:1</TD>
+<TD>Quoted in AC XXVIII 51</TD>
+</TR>
+</TABLE>
+
+> Christian Freedom 2: For love of God, a Christian is willing to do what pleases Him; for love of neighbor, he is willing to observe rules.
+
+<TABLE>
+<TR><TH>Verse</TH>
+<TH>Notes</TH>
+</TR>
+<TR><TD>John 14:15</TD>
+<TD></TD>
+</TR>
+<TR><TD>John 14:21</TD>
+<TD></TD>
+</TR>
+<TR><TD>1 Cor. 9:20</TD>
+<TD>Paul, like all Christians, is not under the Law, but for the love of neighbor he lives under the Law.</TD>
+</TR>
+<TR><TD>Romans 14:13</TD>
+<TD></TD>
+</TR>
+<TR><TD>Romans 14:20-21</TD>
+<TD>Don’t let your Christian freedom cause your brother to fall.</TD>
+</TR>
+</TABLE>
+
+Should we argue this doctrine against Spener or leave it alone?
 
 ## Doubting another person's faith
 
