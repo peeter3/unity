@@ -155,7 +155,19 @@ Theologically, this gets close to being a violation of the doctrine of Christian
 </TR>
 </TABLE>
 
-Should we argue this doctrine against Spener or leave it alone?
+<center>SHOULD WE ARGUE THIS DOCTRINE AGAINST SPENER OR LEAVE IT ALONE?</center>
+
+Spener brings up lawsuits among Christians.
+Read [1Co 6:1‑11](http://www.esvbible.org/1%20Corinthians%206%3A1-11/).
+He aptly brings up the issue: what would we be doing in our vocations if we truly loved one another?
+
+<center>SPENER DOES NOT BRING THIS UP, BUT WHAT ABOUT CHARGING INTEREST?</center>
+
+Read [Ex 22:25](http://www.esvbible.org/Exodus+22:25/), [Lv 25:36‑37](http://www.esvbible.org/Leviticus%2025%3A36-37/), [Dt 23:19‑20](http://www.esvbible.org/Deuteronomy%2023%3A19-20/), [Ne 5:7‑10](http://www.esvbible.org/Nehemiah%205%3A7-10/), [Ps 15:5](http://www.esvbible.org/Psalm+15:5/).
+Yet Jesus does acknowledge that banker pay interest in [Lk 19:23](http://www.esvbible.org/Luke+19:23/).
+
+Spener asks, “Whatever happened with the Christian practice of common property?”
+Read [Ac 2:42‑47](http://www.esvbible.org/Acts%202%3A42-47/).<sup>[<a name="id0014" href="#ftn.id0014">‽</a>]</sup>
 
 ## Doubting another person's faith
 
@@ -208,6 +220,9 @@ Philip Jacob Spener, _Pia Desideria_ (Minneapolis, MN: Fortress Press, 1964) 44f
 
 <sup>[<a name="ftn.id0013" href="#id0013">‼</a>]</sup>
 Philip Jacob Spener, _Pia Desideria_ (Minneapolis, MN: Fortress Press, 1964) 57ff.
+
+<sup>[<a name="ftn.id0014" href="#id0014">‽</a>]</sup>
+I once read from a Lutheran source that the time for giving up private property passed soon after the New Testament era. I did not find that to be a powerful argument.
 
 <sup>[<a name="ftn.id0004" href="#id0004">‡</a>]</sup>
 Philip Jacob Spener, _Pia Desideria_ (Minneapolis, MN: Fortress Press, 1964) 19‑20.
