@@ -7,70 +7,68 @@
 
 I want to share with you a story told to me by George Curran.
 
-In the 1920's in Pennsylvania, two boys were born, went to the same school, and graduated from high school.
-One became an auctioneer and the other one an artist.
+Two boys were born in the 1890's in Pennsylvania and grew up in the same town.
+They went to grade school together; they went to high school together.
+One became an auctioneer and the other an artist.
 The artist married and had a son.
-Around 1940, the son joined the Army and was killed overseas.
-The father kept on painting until he died and he left a will for his best friend, the auctioneer, the executor of his will.
+This son, his only child, joined the Army and was killed overseas during World War II.
+His father kept painting until he died and gained some fame as an artist.
+He named his auctioneer friend as executor of his estate.
 
-A few years later, the auctioneer organized an auction to auction off all the paintings, including a painting of the artist's son.
-He rented a building for the auction.
-Everyone who came in was given a paddle with a number for bidding.
-The auctioneer decided to start the auction,
-and the first work of art put on auction was the picture of the artist's son.
+According to the artist's will, his friend organized an auction for his paintings.
+A gallery was rented and the auction began.
+The first work of art put on auction was a portrait of the artist's son, which was not considered to be among his most valuable paintings.
 
 “Can I get $20 for this picture of the artist's son?”
 
-Nobody replied.
+Nobody bid.
 
 “Can I have a $10 bid?”
 
-Nobody replied.
+Nothing.
 
 “I ask for a $5 bid.”
 
-Nobody replied.
+No one raised a paddle.
 
 “Let's take a break for right now and see if any more people come to the auction.”
 
 A few more people did come.
-The auctioneer again attempted to auction of the picture of the son.
-He started at a lower price.
+The auctioneer again showed the portrait of the son.
 
 “Can I get $10 for this picture of the artist's son?”
 
 No one replied.
 
-“Can I get $5 for this picture of the artist's son?”
+“Can I get $5?”
 
-No one replied.
+No one.
 
 “We'll take another 15‑minute break and see if more people come.”
 
-The auctioneer came back and said, “Let's start it all over again.”
+The auction was adjourned for a second time while one more bidder joined the auction.
+When the auctioneer returned, he said, “Let's start all over again.”
 He held up the picture of the artist's son and said,
-“Can I get a bid of $10 for this artist's picture?”
+“Can I get a bid of $10 for this picture?”
 
-Nobody replied.
+No one replied.
 
-“Can I get a bid of $5 for a picture of the artist's son?”
+“Can I get a bid of $5?”
 
-One man in the front row raised his paddle and bid $5.
+Finally, a man in the front row, who had been at the auction all along, raised his paddle.
 The auctioneer looked at him and asked,
 “You've been here right from the beginning.
 Why are you bidding now?”
 
-“I would have been out-bidded.
-I'd like to have a picture of the artist's son as a souveneir.”
+The man answered, “Let's get the bidding started on the rest of the art. I'll take the portrait of the son as a souvenir.”
 
-The auctioneer said, “We're going to take a 10‑minute break.”
-He went back to his office and came back ten minutes later with the will.
-He read some of the will and said,
-“This auction is over with.
-Whoever purchases the picture of the artist's son will inherit the whole collection.”
+The auctioneer said, “Just a minute.”
+He returned with the artist's will in his hand and held it over his head and said,
+“According to the will, this auction is over!
+The man who bought the portrait of the artist's son gets the whole collection.”
 
-In the same way, when we have the Son of God, we inherit the whole collection.
+Though many do not care for Him, when we have the Son of God, we have our heavenly Father's whole collection.
 
-> **He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things?** (Romans 8:32 ESV)
+> **He that spared not his own Son, but delivered Him up for us all, how shall He not with Him also freely give us all things?** (Romans 8:32 KJV)
 
 
