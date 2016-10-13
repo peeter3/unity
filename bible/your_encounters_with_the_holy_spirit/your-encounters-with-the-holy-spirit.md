@@ -168,6 +168,25 @@ Yet Jesus does acknowledge that banker pay interest in [Lk 19:23](http://www.es
 
 Spener asks, “Whatever happened with the Christian practice of common property?”
 Read [Ac 2:42‑47](http://www.esvbible.org/Acts%202%3A42-47/).<sup>[<a name="id0014" href="#ftn.id0014">‽</a>]</sup>
+You may remember that communism appealed to many because of the practice of common property.
+
+<center>SPENER DOES NOT BRING THIS UP, BUT WHAT ABOUT CHRISTIANS TAKING EACH OTHER TO COURT?</center>
+
+Read 1Co 6:1‑11.
+
+After criticizing the over-emphasis of doctrine, Spener makes a confession of orthodox doctrine (63).
+
+Historical demonstration: *Evangelical* is used for *Lutheran* (64).
+Here also, Spener appeals to the confession of our church.
+
+Spener quotes Luther about faith and good works (64‑65); this is an excellent quote!
+
+Spener goes on to criticize *opus operandi* as threatening the Evangelical church.
+Then he quotes Johann Arndt (66), but I consider the Arndt quote to be too vague.
+
+### Offenses Resulting from These Defects<sup>[<a name="id0015" href="#ftn.id0015">⁁</a>]</sup>
+
+People do not want to be Evangelical.
 
 ## Doubting another person's faith
 
@@ -223,6 +242,9 @@ Philip Jacob Spener, _Pia Desideria_ (Minneapolis, MN: Fortress Press, 1964) 57f
 
 <sup>[<a name="ftn.id0014" href="#id0014">‽</a>]</sup>
 I once read from a Lutheran source that the time for giving up private property passed soon after the New Testament era. I did not find that to be a powerful argument.
+
+<sup>[<a name="ftn.id0015" href="#id0015">⁁</a>]</sup>
+Philip Jacob Spener, _Pia Desideria_ (Minneapolis, MN: Fortress Press, 1964) 68ff.
 
 <sup>[<a name="ftn.id0004" href="#id0004">‡</a>]</sup>
 Philip Jacob Spener, _Pia Desideria_ (Minneapolis, MN: Fortress Press, 1964) 19‑20.
