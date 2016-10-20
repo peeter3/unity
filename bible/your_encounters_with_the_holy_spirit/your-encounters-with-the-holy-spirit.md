@@ -169,6 +169,7 @@ Yet Jesus does acknowledge that banker pay interest in [Lk 19:23](http://www.es
 Spener asks, “Whatever happened with the Christian practice of common property?”
 Read [Ac 2:42‑47](http://www.esvbible.org/Acts%202%3A42-47/).<sup>[<a name="id0014" href="#ftn.id0014">‽</a>]</sup>
 You may remember that communism appealed to many because of the practice of common property.
+Christians met regularly for breaking of bread (Holy Communion) and the prayers.
 
 <center>SPENER DOES NOT BRING THIS UP, BUT WHAT ABOUT CHRISTIANS TAKING EACH OTHER TO COURT?</center>
 
@@ -186,7 +187,9 @@ Then he quotes Johann Arndt (66), but I consider the Arndt quote to be too vague
 
 ### Offenses Resulting from These Defects<sup>[<a name="id0015" href="#ftn.id0015">⁁</a>]</sup>
 
-People do not want to be Evangelical.
+People do not want to be Evangelical (Lutheran).
+
+Spener recommends reading the books of Ezra and Nehemiah.
 
 ## Doubting another person's faith
 
