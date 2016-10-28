@@ -26,6 +26,8 @@
 
 ------------
 
+
+
 ## Holy Gospel [Jn 8:31‑36 ESV]
 
 [31] So Jesus said to the Jews who had believed him, “If you abide in my word, you are truly my disciples, [32] and you will know the truth, and the truth will set you free.” [33] They answered him, “We are offspring of Abraham and have never been enslaved to anyone. How is it that you say, ‘You will become free’?”
@@ -33,6 +35,14 @@
 [34] Jesus answered them, “Truly, truly, I say to you, everyone who practices sin is a slave to sin. [35] The slave does not remain in the house forever; the son remains forever. [36] So if the Son sets you free, you will be free indeed.”
 
 ------------
+
+[31] Ἔλεγεν οὖν ὁ Ἰησοῦς πρὸς τοὺς πεπιστευκότας αὐτῷ Ἰουδαίους, Ἐὰν ὑμεῖς μείνητε ἐν τῷ λόγῳ τῷ ἐμῷ, ἀληθῶς μαθηταί μού ἐστε, 
+[32] καὶ γνώσεσθε τὴν ἀλήθειαν, καὶ ἡ ἀλήθεια ἐλευθερώσει ὑμᾶς. 
+[33] ἀπεκρίθησαν πρὸς αὐτόν, Σπέρμα Ἀβραάμ ἐσμεν καὶ οὐδενὶ δεδουλεύκαμεν πώποτε: πῶς σὺ λέγεις ὅτι Ἐλεύθεροι γενήσεσθε; 
+
+[34] ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς, Ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι πᾶς ὁ ποιῶν τὴν ἁμαρτίαν δοῦλός ἐστιν τῆς ἁμαρτίας. 
+[35] ὁ δὲ δοῦλος οὐ μένει ἐν τῇ οἰκίᾳ εἰς τὸν αἰῶνα: ὁ υἱὸς μένει εἰς τὸν αἰῶνα. 
+[36] ἐὰν οὖν ὁ υἱὸς ὑμᾶς ἐλευθερώσῃ, ὄντως ἐλεύθεροι ἔσεσθε.
 
 
 ## Introit [Ps 34:1-2, 11, 22; antiphon: Ps 119:46]
