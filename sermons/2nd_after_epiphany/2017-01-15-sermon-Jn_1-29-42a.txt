@@ -65,7 +65,9 @@ Their headquarters are on 4427 State Road.
 
 ## Holy Gospel [Jn 1:29‑42a ESV; sermon text]
 
-[29] The next day [John the Baptist] saw Jesus coming toward him, and said, “Behold, the Lamb of God, who takes away the sin of the world! [30] This is he of whom I said, ‘After me comes a man who ranks before me, because he was before me.’ [31] I myself did not know him, but for this purpose I came baptizing with water, that he might be revealed to Israel.” [32] And John bore witness: “I saw the Spirit descend from heaven like a dove, and it remained on him. [33] I myself did not know him, but he who sent me to baptize with water said to me, ‘He on whom you see the Spirit descend and remain, this is he who baptizes with the Holy Spirit.’ [34] And I have seen and have borne witness that this is the Son of God.”
+[29] The next day [John the Baptist] saw Jesus coming toward him, and said,
+“Behold, the Lamb of God, who takes away the sin of the world!
+[30] This is he of whom I said, ‘After me comes a man who ranks before me, because he was before me.’ [31] I myself did not know him, but for this purpose I came baptizing with water, that he might be revealed to Israel.” [32] And John bore witness: “I saw the Spirit descend from heaven like a dove, and it remained on him. [33] I myself did not know him, but he who sent me to baptize with water said to me, ‘He on whom you see the Spirit descend and remain, this is he who baptizes with the Holy Spirit.’ [34] And I have seen and have borne witness that this is the Son of God.”
 
 [35] The next day again John was standing with two of his disciples, [36] and he looked at Jesus as he walked by and said, “Behold, the Lamb of God!” [37] The two disciples heard him say this, and they followed Jesus. [38] Jesus turned and saw them following and said to them, “What are you seeking?” And they said to him, “Rabbi” (which means Teacher), “where are you staying?” [39] He said to them, “Come and you will see.” So they came and saw where he was staying, and they stayed with him that day, for it was about the tenth hour. [40] One of the two who heard John speak and followed Jesus was Andrew, Simon Peter's brother. [41] He first found his own brother Simon and said to him, “We have found the Messiah” (which means Christ). [42] He brought him to Jesus. Jesus looked at him and said, “You are Simon the son of John. You shall be called Cephas” (which means Peter).
 
@@ -132,40 +134,68 @@ Their simple conclusion---their simple view of themselves---is that they are mor
 
 [^1]: *Lutheran Study Bible*, footnote on Mk 2:18.
 
-The Pharisees were not just keeping God's Law off on their own---the common people know about them and considered them to be authorities---the Pharisees were powerful---what they said and taught influenced government and how people were expected to live their daily lives.
-The Pharisaic goal for the Jews was that they return to strict observance of the Law of Moses and separate themselves from the Gentiles.
-(So you can imagine what an issue they had when the first Gentiles became Christians.)
+The Pharisees are not just keeping God's Law somewhere off in a corner on their own---the common people know who they are and consider them to be authorities---the Pharisees are powerful---what they say and teach influences government and how people are expected to live their daily lives.
+They have *big* influence on everyone's daily life.
+The Pharisaic goal for the Jews is that they return to strict observance of the Law of Moses and separate themselves from the Gentiles.
+(So you can imagine what an issue they had when the first Gentiles became Christians. But that is another story.)
 
 Now who are the Sadducees?
-The name *Sadducees* might come from the Hebrew word for *righteous*.
-These Jews held to the Law of Moses and the Oral Law[^4] but did *not* accept the traditions of the scribes and the Pharisees.
-So, I would guess that the Sadducees did not fast twice a week like the Pharisees did; they might have fasted only once a year on the Day of Atonement.
-(And you can imagine how the Pharisees could have interpreted their practice of fasting twice a week to be more pleasing to God than the practice of the Saducees.)
-However, the Sadducees *did not believe in the the resurrection of the dead*, the Sadducees did not believe in angels, and the Sadducees did not believe in spirits---maybe like the rationalists of today---or *I'll believe it when I see it*.
-Also, the Sadducees were not as pumped up about the coming Messiah as the Pharisees were.[^3]
+The name *Sadducee* might come from the Hebrew word for *righteous*---I do not know.
+The Sadducees hold to the Law of Moses and the Oral Law[^4] but do *not* accept the traditions of the scribes and the Pharisees.
+I suppose, for example, that the Sadducees do not fast twice a week like the Pharisees do; they might fast once a year on the Day of Atonement.
+(And you can imagine how the Pharisees might interpret their practice of fasting twice a week to be more pleasing to God than the practice of the Saducees---only once a year---“They're not as serious about God's Law as we are.”)
+However, the Sadducees *do not believe in the the resurrection of the dead*, the Sadducees do not believe in angels, and the Sadducees do not believe in spirits. The Sadducees are like the rationalists of today---or *I'll believe it when I see it*.
+Also, the Sadducees are not as pumped up about the coming Messiah as the Pharisees are.[^3]
 
 [^3]: *Lutheran Study Bible*, *Persons and Groups of Early Christianity* [Kindle version] Loc 107662 of 152116.
 
 [^4]: I do not know what the Oral Law was to the Sadducees.
 
-Now the Sadducees and the Pharisees meet John the Baptist.
-The only problem may be that the Sadducees and the Pharisees want John to baptize them without confessing and repenting of their sins.
-They believe that John the Baptist is a prophet and they to out into the wilderness to be baptized by him [(Mt 3:7)](https://www.esv.org/Matthew+3/).
-John, full of the Holy Spirit, calls them out:
+You have a mixed bag with the Sadducees and the Pharisees, but now they both come to John the Baptist.
+But I am afraid that the problem is that the Sadducees and the Pharisees want John to baptize them *without confessing and repenting of their sins*.
+They want to be baptized by John as a good work to add to all their other good works.
+They believe that John the Baptist is a prophet and they go out into the wilderness to be baptized by him [(Mt 3:7)](https://www.esv.org/Matthew+3/), thinking that God would be pleased by yet another one of their good works.
+But John, full of the Holy Spirit, *calls them out*:
 
-> **But when he saw many of the Pharisees and Sadducees coming to his baptism, he said to them, “You brood of vipers! Who warned you to flee from the wrath to come? Bear fruit in keeping with repentance. And do not presume to say to yourselves, ‘We have Abraham as our father,’ for I tell you, God is able from these stones to raise up children for Abraham. Even now the axe is laid to the root of the trees. Every tree therefore that does not bear good fruit is cut down and thrown into the fire.”** [(Mt 3:7‑10)](https://www.esv.org/Matthew+3/)
+> **“You brood of vipers! Who warned you to flee from the wrath to come? Bear fruit in keeping with repentance. And do not presume to say to yourselves, ‘We have Abraham as our father,’ for I tell you, God is able from these _stones_ to raise up children for Abraham. Even now the axe is laid to the root of the trees. Every tree therefore that does not bear good fruit is cut down and thrown into the fire.”** [(Mt 3:7‑10)](https://www.esv.org/Matthew+3/)
 
+How would you like to think of yourself as a religious leader---how would you like to think of yourself as spiritual---and be talked to like that?
+I know I would not.
+But John did---John called the Pharisees and Sadducees a brood of vipers!
+Beloved in the Lord, this example of John's warning the Pharisees and the Sadducees to be truly repentant teaches you and me that
 
-
-> Confession cannot be false, uncertain, or fragmentary.
+> Confession [of our sin] cannot be false, uncertain, or fragmentary.
 > A person who confesses that everything in him is nothing but sin
 > includes all sins, excludes none, forgets none.
-> Neither can the satisfaction [for sin] be uncertain, because it is not
+
+The Pharisees and Sadducees---closer to God, or so they thought, than the common people---were under God's wrath, not God's favor.
+For they had failed to keep God's holy Law as *God* intended it.
+They kept God's Law in a way that they invented themselves---they kept God's Law in a way that made them prominent leaders.
+But unless we confess that everything in us is nothing but sin, we will forget the ones that embarrass us the most and come to the Lord's Table wearing and invented righteousness while we are really wearing dirty laundry.
+Confession of sin cannot be false, uncertain, or fragmentary---it must be complete---**“I, a poor miserable sinner confess all my sins and iniquities with which I have ever offended You.”**---poor in spirit---**“I, a poor miserable sinner.”**
+
+And now, beloved in the Lord, confession of sin cannot be uncertain, but
+
+> neither can the satisfaction [for sin] be uncertain, because it is not
 > our uncertain, sinful work.
-> Rather, it is the suffering and blood of the innocent Lamb of God,
-> who takes away the sin of the world.[^2]
+> Rather, [satifaction for sin] is the suffering and blood of the innocent *Lamb of God, who takes away the sin of the world*.[^2]
 
 [^2]: SA III III 37‑38
+
+Our confession being complete, our satisfaction for sin---that the requirements of God's holy Law has been satisfied *for us* and *on our behalf*---that work was not left for us to do *at all*.
+We were a failure at keeping God's Law, should He trust us with doing something to merit the forgiveness of our sins?
+If the Pharisees and the Sadducees could not keep God's Law, are we better than they are?
+Anyone want to try? No.
+God has to do it Himself to get it right.
+John the Baptist tells us *who it is* that will get it right---John the Baptist declares *who it is* who is born under God's Law to save us from being condemned by God's Law. **“Behold, the Lamb of God, who takes away the sin of the world!”**
+
+For those who heard John say it for the first time, they might have been a bit confused when He pointed at Jesus and said, **“Behold, the Lamb of God, who takes away the sin of the world!”**
+They might have been puzzled that two of John's disciples heard this and Left John and followed Jesus.
+They might have been puzzled that John did not mind that his disciples left him to follow Jesus.
+But you and I, poor in spirit, by faith, know very well who He is.
+He is **the Lamb of God, who takes away the sin of the world**.
+
+There is no uncertainty in who He is and what He comes to do.
 
 AMEN.
 
