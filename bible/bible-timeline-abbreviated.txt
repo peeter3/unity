@@ -1,0 +1,47 @@
+% Bible Timeline 
+
+Approximate Dates
+
+| Date | What Happened | Bible Reference |
+|:-----:|:--------------|:----------------|
+| Before Time | In the Beginning was the Word | John 1 |
+| Before 4000 BC | The Creation | Genesis 1 |
+| Before 2500 BC | The Great Flood | Genesis 7 |
+| 2091 BC | God Sends Abram to Egypt | Genesis 12 |
+| 2081 BC | God's Covenant with Abram | Genesis 15 |
+| 2067 BC | The Destruction of Sodom | Genesis 19 |
+| 2066 BC | Isaac Born | Genesis 21 |
+| 1991 BC | Death of Abraham | Genesis 25:5 |
+| 1906 BC | Jacob Wrestles with God | Genesis 32 |
+| 1875 BC | Jacob and Family to Egypt | Genesis 46 |
+| 1525 BC | The Birth and Adoption of Moses | Exodus 2 |
+| 1446 BC | Moses Receives the Commandments | Exodus 20 |
+| 1407 BC | Balaam and the Angel | Numbers 22 - 25 |
+| 1406 BC | The Israelites Cross the Jordan | Joshua 3 - 5 |
+| 1169 BC | Gideon and the Midianites | Judges 6 - 8 |
+| 1140 BC | Naomi, Ruth and Boaz | Ruth 1 - 4 |
+| 1043 BC | Saul Becomes King | 1 Samuel 8 - 10 |
+| 1003 BC | David Reigns over All Israel | 2 Samuel 5, 1 Chronicles 11 |
+| 967 BC | Solomon Asks for Wisdom | 2 Chronicles 1, 1 Kings 3 |
+| 931 BC | The Kingdom is Divided | 1 Kings 12, 13 |
+| 851 BC | Elijah Taken up to Heaven | 2 Kings 2 |
+| 722 BC | Israel Led into Captivity | 2 Kings 17:6 |
+| 604 BC | Daniel Interprets Nebuchadnezzar Dream | Daniel 2 |
+| 586 BC | The Fall of Jerusalem | 2 Kings 25, Jeremiah 52 |
+| 537 BC | The Exiles Return | Ezra 2 |
+| 473 BC | Esther Prepares a Banquet | Esther 5 |
+| 444 BC | Ezra Reads the Law | Nehemiah 8 |
+| 430 BC | The Word of the LORD by Malachi | Malachi 1 - 4 |
+| 6 BC | Birth of John the Baptist | Luke 1, John 1:6 |
+| 5 BC | Birth of Jesus | Matthew 1, Mark 1, Luke 2:6, John 1:14 |
+| 26 AD | The Baptism of Jesus | Matthew 3:13, Mark 1:9, Luke 3:21 |
+| 30 AD | Good Friday | Matthew 27, Mark 15, Luke 23, John 18, 19 |
+| 34 AD | Saul's Conversion | Acts 9 |
+| 45 AD | James Writes his Letter | James 1 - 5 |
+| 48 AD | Paul's First Missionary Journey | Acts 13 |
+| 49 AD | Paul's Second Missionary Journey | Acts 15:36 |
+| 57 AD | Paul Writes to the Romans | Romans 1 - 16 |
+| 59 AD | Paul Returns to Jerusalem | Acts 21 - 23 |
+| 62 AD | Paul Writes to the Colossians | Colossians 1 - 4 |
+| 90 AD | John Writes his First Letter | 1 John 1 - 5 |
+| 95 AD | John's Revelation on Patmos | Revelation 1 - 22 |
