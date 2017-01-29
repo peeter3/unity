@@ -55,7 +55,7 @@
 
 ## Holy Gospel [Mt 5:1‑12 ESV; sermon text]
 
-[1] Seeing the crowds, he went up on the mountain, and when he sat down, his disciples came to him.
+[1] Seeing the crowds, [Jesus] went up on the mountain, and when he sat down, his disciples came to him.
 
 [2] And he opened his mouth and taught them, saying:
 
@@ -75,7 +75,7 @@
 
 [10] “Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven.
 
-[11] “Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. [12] Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you.
+[11] “Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. [12] Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you.”
 
 ------------
 
@@ -123,7 +123,7 @@ Almighty God, You know we live in the midst of so many dangers that in our frail
 
 ## Hymns
 
-* Opening hymn: _TLH_ 343 _How Lovely Shines the Morning Star_ _St 1, 2, 6, 7_
+* Opening hymn: _TLH_ 343 _How Lovely Shines the Morning Star_ _st 1, 2, 6, 7_
 * Sermon hymn: _TLH_ 392 _Blest Is the Man, Forever Blessed_
 * Closing hymn: _TLH_ 391 _Blessed Are the Sons of God_
 
@@ -146,3 +146,6 @@ AMEN.
     1. ZZZ
 
 ## Notes
+
+Mi 6:5. _Shittim to Gilgal_. Shittim is mentioned for the first time in the Bible in Nm 25:1; this is where the Israelites worshiped Baal of Peor.
+Jsh 14:19‑22 revels that Gilgal is the spot where the Israelites crossed the Jordan River on dry ground to enter the Promised Land.
