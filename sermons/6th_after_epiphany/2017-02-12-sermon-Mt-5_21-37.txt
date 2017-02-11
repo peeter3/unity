@@ -1,0 +1,86 @@
+% 6th after the Epiphany
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Dt 30:15‑20 ESV]
+
+[15] “See, I have set before you today life and good, death and evil. [16] If you obey the commandments of the LORD your God that I command you today, by loving the LORD your God, by walking in his ways, and by keeping his commandments and his statutes and his rules, then you shall live and multiply, and the LORD your God will bless you in the land that you are entering to take possession of it. [17] But if your heart turns away, and you will not hear, but are drawn away to worship other gods and serve them, [18] I declare to you today, that you shall surely perish. You shall not live long in the land that you are going over the Jordan to enter and possess. [19] I call heaven and earth to witness against you today, that I have set before you life and death, blessing and curse. Therefore choose life, that you and your offspring may live, [20] loving the LORD your God, obeying his voice and holding fast to him, for he is your life and length of days, that you may dwell in the land that the LORD swore to your fathers, to Abraham, to Isaac, and to Jacob, to give them.”
+
+## Epistle [1Co 3:1‑9 ESV]
+
+[1] But I, brothers, could not address you as spiritual people, but as people of the flesh, as infants in Christ. [2] I fed you with milk, not solid food, for you were not ready for it. And even now you are not yet ready, [3] for you are still of the flesh. For while there is jealousy and strife among you, are you not of the flesh and behaving only in a human way? [4] For when one says, “I follow Paul,” and another, “I follow Apollos,” are you not being merely human?
+
+[5] What then is Apollos? What is Paul? Servants through whom you believed, as the Lord assigned to each. [6] I planted, Apollos watered, but God gave the growth. [7] So neither he who plants nor he who waters is anything, but only God who gives the growth. [8] He who plants and he who waters are one, and each will receive his wages according to his labor. [9] For we are God's fellow workers. You are God's field, God's building.
+
+## Holy Gospel [Mt 5:21‑37 ESV; sermon text]
+
+[21] “You have heard that it was said to those of old, ‘You shall not murder; and whoever murders will be liable ato judgment.’ [22] But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to the hell of fire. [23] So if you are offering your gift at the altar and there remember that your brother has something against you, [24] leave your gift there before the altar and go. First be reconciled to your brother, and then come and offer your gift. [25] Come to terms quickly with your accuser while you are going with him to court, lest your accuser hand you over to the judge, and the judge to the guard, and you be put in prison. [26] Truly, I say to you, you will never get out until you have paid the last penny.
+
+[27] “You have heard that it was said, ‘You shall not commit adultery.’ [28] But I say to you that everyone who looks at a woman with lustful intent has already committed adultery with her in his heart. [29] If your right eye causes you to sin, tear it out and throw it away. For it is better that you lose one of your members than that your whole body be thrown into mhell. [30] And if your right hand causes you to sin, cut it off and throw it away. For it is better that you lose one of your members than that your whole body go into hell.
+
+[31] “It was also said, ‘Whoever divorces his wife, let him give her a certificate of divorce.’ [32] But I say to you that everyone who divorces his wife, except on the ground of sexual immorality, makes her commit adultery, and whoever marries a divorced woman commits adultery.
+
+[33] “Again hyou have heard that it was said to those of old, ‘You shall not swear falsely, but shall perform to the Lord what you have sworn.’ [34] But I say to you, Do not take an oath at all, either by heaven, for it is the throne of God, [35] or by the earth, for it is his footstool, or by Jerusalem, for it is the city of the great King. [36] And do not take an oath by your head, for you cannot make one hair white or black. [37] Let what you say be simply ‘Yes’ or ‘No’; anything more than this comes from evil.
+
+------------
+
+[21] Ἠκούσατε ὅτι ἐρρέθη τοῖς ἀρχαίοις, Οὐ φονεύσεις: ὃς δ' ἂν φονεύσῃ, ἔνοχος ἔσται τῇ κρίσει. 
+[22] ἐγὼ δὲ λέγω ὑμῖν ὅτι πᾶς ὁ ὀργιζόμενος τῷ ἀδελφῷ αὐτοῦ ἔνοχος ἔσται τῇ κρίσει: ὃς δ' ἂν εἴπῃ τῷ ἀδελφῷ αὐτοῦ, Ῥακά, ἔνοχος ἔσται τῷ συνεδρίῳ: ὃς δ' ἂν εἴπῃ, Μωρέ, ἔνοχος ἔσται εἰς τὴν γέενναν τοῦ πυρός. 
+[23] ἐὰν οὖν προσφέρῃς τὸ δῶρόν σου ἐπὶ τὸ θυσιαστήριον κἀκεῖ μνησθῇς ὅτι ὁ ἀδελφός σου ἔχει τι κατὰ σοῦ, 
+[24] ἄφες ἐκεῖ τὸ δῶρόν σου ἔμπροσθεν τοῦ θυσιαστηρίου, καὶ ὕπαγε πρῶτον διαλλάγηθι τῷ ἀδελφῷ σου, καὶ τότε ἐλθὼν πρόσφερε τὸ δῶρόν σου. 
+[25] ἴσθι εὐνοῶν τῷ ἀντιδίκῳ σου ταχὺ ἕως ὅτου εἶ μετ' αὐτοῦ ἐν τῇ ὁδῷ, μήποτέ σε παραδῷ ὁ ἀντίδικος τῷ κριτῇ, καὶ ὁ κριτὴς τῷ ὑπηρέτῃ, καὶ εἰς φυλακὴν βληθήσῃ: 
+[26] ἀμὴν λέγω σοι, οὐ μὴ ἐξέλθῃς ἐκεῖθεν ἕως ἂν ἀποδῷς τὸν ἔσχατον κοδράντην. 
+
+[27] Ἠκούσατε ὅτι ἐρρέθη, Οὐ μοιχεύσεις. 
+[28] ἐγὼ δὲ λέγω ὑμῖν ὅτι πᾶς ὁ βλέπων γυναῖκα πρὸς τὸ ἐπιθυμῆσαι αὐτὴν ἤδη ἐμοίχευσεν αὐτὴν ἐν τῇ καρδίᾳ αὐτοῦ. 
+[29] εἰ δὲ ὁ ὀφθαλμός σου ὁ δεξιὸς σκανδαλίζει σε, ἔξελε αὐτὸν καὶ βάλε ἀπὸ σοῦ: συμφέρει γάρ σοι ἵνα ἀπόληται ἓν τῶν μελῶν σου καὶ μὴ ὅλον τὸ σῶμά σου βληθῇ εἰς γέενναν. 
+[30] καὶ εἰ ἡ δεξιά σου χεὶρ σκανδαλίζει σε, ἔκκοψον αὐτὴν καὶ βάλε ἀπὸ σοῦ: συμφέρει γάρ σοι ἵνα ἀπόληται ἓν τῶν μελῶν σου καὶ μὴ ὅλον τὸ σῶμά σου εἰς γέενναν ἀπέλθῃ. 
+
+[31] Ἐρρέθη δέ, Ὃς ἂν ἀπολύσῃ τὴν γυναῖκα αὐτοῦ, δότω αὐτῇ ἀποστάσιον. 
+[32] ἐγὼ δὲ λέγω ὑμῖν ὅτι πᾶς ὁ ἀπολύων τὴν γυναῖκα αὐτοῦ παρεκτὸς λόγου πορνείας ποιεῖ αὐτὴν μοιχευθῆναι, καὶ ὃς ἐὰν ἀπολελυμένην γαμήσῃ μοιχᾶται. 
+
+[33] Πάλιν ἠκούσατε ὅτι ἐρρέθη τοῖς ἀρχαίοις, Οὐκ ἐπιορκήσεις, ἀποδώσεις δὲ τῷ κυρίῳ τοὺς ὅρκους σου. 
+[34] ἐγὼ δὲ λέγω ὑμῖν μὴ ὀμόσαι ὅλως: μήτε ἐν τῷ οὐρανῷ, ὅτι θρόνος ἐστὶν τοῦ θεοῦ: 
+[35] μήτε ἐν τῇ γῇ, ὅτι ὑποπόδιόν ἐστιν τῶν ποδῶν αὐτοῦ: μήτε εἰς Ἱεροσόλυμα, ὅτι πόλις ἐστὶν τοῦ μεγάλου βασιλέως: 
+[36] μήτε ἐν τῇ κεφαλῇ σου ὀμόσῃς, ὅτι οὐ δύνασαι μίαν τρίχα λευκὴν ποιῆσαι ἢ μέλαιναν. 
+[37] ἔστω δὲ ὁ λόγος ὑμῶν ναὶ ναί, οὒ οὔ: τὸ δὲ περισσὸν τούτων ἐκ τοῦ πονηροῦ ἐστιν.
+
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TSC_ 44 _God, Who Stretched the Spangled Heavens_
+* Sermon hymn: _TSC_ 67 _We Come, O Christ, to Thee_
+* Communion hymn: _TSC_ 222 _Let Us Break Bread Together_
+* Closing hymn: _TSC_ 28 _Great is Thy Faithfulness_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
