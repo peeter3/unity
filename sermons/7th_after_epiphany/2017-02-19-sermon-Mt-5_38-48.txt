@@ -1,0 +1,84 @@
+% 7th after the Epiphany
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Lv 19:1‑2, 9‑18 ESV]
+
+[1] And the LORD spoke to Moses, saying, [2] “Speak to all the congregation of the people of Israel and say to them, You shall be holy, for I the LORD your God am holy.
+
+[9] “When you reap the harvest of your land, you shall not reap your field right up to its edge, neither shall you gather the gleanings after your harvest. [10] And you shall not strip your vineyard bare, neither shall you gather the fallen grapes of your vineyard. You shall leave them for the poor and for the sojourner: I am the LORD your God.
+
+[11] “You shall not steal; you shall not deal falsely; you shall not lie to one another. [12] You shall not swear by my name falsely, and so profane the name of your God: I am the LORD.
+
+[13] “You shall not oppress your neighbor or rob him. The wages of a hired worker shall not remain with you all night until the morning. [14] You shall not curse the deaf or put a stumbling block before the blind, but you shall fear your God: I am the LORD.
+
+[15] “You shall do no injustice in court. You shall not be partial to the poor or defer to the great, but in righteousness shall you judge your neighbor. [16] You shall not go around as a slanderer among your people, and you shall not stand up against the life of your neighbor: I am the LORD.
+
+[17] “You shall not hate your brother in your heart, but you shall reason frankly with your neighbor, lest you incur sin because of him. [18] You shall not take vengeance or bear a grudge against the sons of your own people, but you shall love your neighbor as yourself: I am the LORD.
+
+## Epistle [1Co 3:10‑23 ESV]
+
+[10] According to the grace of God given to me, like a skilled master builder I laid a foundation, and someone else is building upon it. Let each one take care how he builds upon it. [11] For no one can lay a foundation other than that which is laid, which is Jesus Christ. [12] Now if anyone builds on the foundation with gold, silver, precious stones, wood, hay, straw—[13] each one's work will become manifest, for the Day will disclose it, because it will be revealed by fire, and the fire will test what sort of work each one has done. [14] If the work that anyone has built on the foundation survives, he will receive a reward. [15] If anyone's work is burned up, he will suffer loss, though he himself will be saved, but only as through fire.
+
+[16] Do you not know that you are God's temple and that God's Spirit dwells in you? [17] If anyone destroys God's temple, God will destroy him. For God's temple is holy, and you are that temple.
+
+[18] Let no one deceive himself. If anyone among you thinks that he is wise in this age, let him become a fool that he may become wise. [19] For the wisdom of this world is folly with God. For it is written, “He catches the wise in their craftiness,” [20] and again, “The Lord knows the thoughts of the wise, that they are futile.” [21] So let no one boast in men. For all things are yours, [22] whether Paul or Apollos or Cephas or the world or life or death or the present or the future—all are yours, [23] and you are Christ's, and Christ is God's.
+
+## Holy Gospel [Mt 5:38‑48 ESV; sermon text]
+
+[38] “You have heard that it was said, ‘An eye for an eye and a tooth for a tooth.’ [39] But I say to you, Do not resist the one who is evil. But if anyone slaps you on the right cheek, turn to him the other also. [40] And if anyone would sue you and take your tunic, let him have your cloak as well. [41] And if anyone forces you to go one mile, go with him two miles. [42] Give to the one who begs from you, and do not refuse the one who would borrow from you.
+
+[43] “You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’ [44] But I say to you, Love your enemies and pray for those who persecute you, [45] so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust. [46] For if you love those who love you, what reward do you have? Do not even the tax collectors do the same? [47] And if you greet only your brothers, what more are you doing than others? Do not even the Gentiles do the same? [48] You therefore must be perfect, as your heavenly Father is perfect.
+
+------------
+
+[38] Ἠκούσατε ὅτι ἐρρέθη, Ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ καὶ ὀδόντα ἀντὶ ὀδόντος. 
+[39] ἐγὼ δὲ λέγω ὑμῖν μὴ ἀντιστῆναι τῷ πονηρῷ: ἀλλ' ὅστις σε ῥαπίζει εἰς τὴν δεξιὰν σιαγόνα [σου], στρέψον αὐτῷ καὶ τὴν ἄλλην: 
+[40] καὶ τῷ θέλοντί σοι κριθῆναι καὶ τὸν χιτῶνά σου λαβεῖν, ἄφες αὐτῷ καὶ τὸ ἱμάτιον: 
+[41] καὶ ὅστις σε ἀγγαρεύσει μίλιον ἕν, ὕπαγε μετ' αὐτοῦ δύο. 
+[42] τῷ αἰτοῦντί σε δός, καὶ τὸν θέλοντα ἀπὸ σοῦ δανίσασθαι μὴ ἀποστραφῇς. 
+
+[43] Ἠκούσατε ὅτι ἐρρέθη, Ἀγαπήσεις τὸν πλησίον σου καὶ μισήσεις τὸν ἐχθρόν σου. 
+[44] ἐγὼ δὲ λέγω ὑμῖν, ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν καὶ προσεύχεσθε ὑπὲρ τῶν διωκόντων ὑμᾶς, 
+[45] ὅπως γένησθε υἱοὶ τοῦ πατρὸς ὑμῶν τοῦ ἐν οὐρανοῖς, ὅτι τὸν ἥλιον αὐτοῦ ἀνατέλλει ἐπὶ πονηροὺς καὶ ἀγαθοὺς καὶ βρέχει ἐπὶ δικαίους καὶ ἀδίκους. 
+[46] ἐὰν γὰρ ἀγαπήσητε τοὺς ἀγαπῶντας ὑμᾶς, τίνα μισθὸν ἔχετε; οὐχὶ καὶ οἱ τελῶναι τὸ αὐτὸ ποιοῦσιν; 
+[47] καὶ ἐὰν ἀσπάσησθε τοὺς ἀδελφοὺς ὑμῶν μόνον, τί περισσὸν ποιεῖτε; οὐχὶ καὶ οἱ ἐθνικοὶ τὸ αὐτὸ ποιοῦσιν; 
+[48] Ἔσεσθε οὖν ὑμεῖς τέλειοι ὡς ὁ πατὴρ ὑμῶν ὁ οὐράνιος τέλειός ἐστιν.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 430 _What is the World to Me_
+* Sermon hymn: _TLH_ 134 _Songs of Thankfulness and Praise_
+* Closing hymn: _TLH_ 465 _Christ is our Corner‑Stone_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
