@@ -1,0 +1,76 @@
+% Transfiguration
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Ex 24:8‑18 ESV]
+
+[8] And Moses took the blood and threw it on the people and said, “Behold the blood of the covenant that the LORD has made with you in accordance with all these words.”
+
+[9] Then Moses and Aaron, Nadab, and Abihu, and seventy of the elders of Israel went up, [10] and they saw the God of Israel. There was under his feet as it were a pavement of sapphire stone, like the very heaven for clearness. [11] And he did not lay his hand on the chief men of the people of Israel; they beheld God, and ate and drank.
+
+[12] The LORD said to Moses, “Come up to me on the mountain and wait there, that I may give you the tablets of stone, with the law and the commandment, which I have written for their instruction.” [13] So Moses rose with his assistant Joshua, and Moses went up into the mountain of God. [14] And he said to the elders, “Wait here for us until we return to you. And behold, Aaron and Hur are with you. Whoever has a dispute, let him go to them.”
+
+[15] Then Moses went up on the mountain, and the cloud covered the mountain. [16] The glory of the LORD dwelt on Mount Sinai, and the cloud covered it six days. And on the seventh day he called to Moses out of the midst of the cloud. [17] Now the appearance of the glory of the LORD was like a devouring fire on the top of the mountain in the sight of the people of Israel.
+[18] Moses entered the cloud and went up on the mountain. And Moses was on the mountain forty days and forty nights.
+
+## Epistle [2Pe 1:16‑21 ESV]
+
+[16] For we did not follow cleverly devised myths when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty. [17] For when he received honor and glory from God the Father, and the voice was borne to him by the Majestic Glory, “This is my beloved Son, with whom I am well pleased,” [18] we ourselves heard this very voice borne from heaven, for we were with him on the holy mountain. [19] And we have the prophetic word more fully confirmed, to which you will do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts, [20] knowing this first of all, that no prophecy of Scripture comes from someone's own interpretation. [21] For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit.
+
+## Holy Gospel [Mt 17:1‑9 ESV; sermon text]
+
+[1] And after six days Jesus took with him Peter and James, and John his brother, and led them up a high mountain by themselves. [2] And he was transfigured before them, and his face shone like the sun, and his clothes became white as light. [3] And behold, there appeared to them Moses and Elijah, talking with him. [4] And Peter said to Jesus, “Lord, it is good that we are here. If you wish, I will make three tents here, one for you and one for Moses and one for Elijah.” [5] He was still speaking when, behold, a bright cloud overshadowed them, and a voice from the cloud said, “This is my beloved Son, with whom I am well pleased; listen to him.” [6] When the disciples heard this, they fell on their faces and were terrified. [7] But Jesus came and touched them, saying, “Rise, and have no fear.” [8] And when they lifted up their eyes, they saw no one but Jesus only.
+
+[9] And as they were coming down the mountain, Jesus commanded them, “Tell no one the vision, until the Son of Man is raised from the dead.”
+
+------------
+
+[1] Καὶ μεθ' ἡμέρας ἓξ παραλαμβάνει ὁ Ἰησοῦς τὸν Πέτρον καὶ Ἰάκωβον καὶ Ἰωάννην τὸν ἀδελφὸν αὐτοῦ, καὶ ἀναφέρει αὐτοὺς εἰς ὄρος ὑψηλὸν κατ' ἰδίαν. 
+[2] καὶ μετεμορφώθη ἔμπροσθεν αὐτῶν, καὶ ἔλαμψεν τὸ πρόσωπον αὐτοῦ ὡς ὁ ἥλιος, τὰ δὲ ἱμάτια αὐτοῦ ἐγένετο λευκὰ ὡς τὸ φῶς. 
+[3] καὶ ἰδοὺ ὤφθη αὐτοῖς Μωϋσῆς καὶ Ἠλίας συλλαλοῦντες μετ' αὐτοῦ. 
+[4] ἀποκριθεὶς δὲ ὁ Πέτρος εἶπεν τῷ Ἰησοῦ, Κύριε, καλόν ἐστιν ἡμᾶς ὧδε εἶναι: εἰ θέλεις, ποιήσω ὧδε τρεῖς σκηνάς, σοὶ μίαν καὶ Μωϋσεῖ μίαν καὶ Ἠλίᾳ μίαν. 
+[5] ἔτι αὐτοῦ λαλοῦντος ἰδοὺ νεφέλη φωτεινὴ ἐπεσκίασεν αὐτούς, καὶ ἰδοὺ φωνὴ ἐκ τῆς νεφέλης λέγουσα, Οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα: ἀκούετε αὐτοῦ. 
+[6] καὶ ἀκούσαντες οἱ μαθηταὶ ἔπεσαν ἐπὶ πρόσωπον αὐτῶν καὶ ἐφοβήθησαν σφόδρα. 
+[7] καὶ προσῆλθεν ὁ Ἰησοῦς καὶ ἁψάμενος αὐτῶν εἶπεν, Ἐγέρθητε καὶ μὴ φοβεῖσθε. 
+[8] ἐπάραντες δὲ τοὺς ὀφθαλμοὺς αὐτῶν οὐδένα εἶδον εἰ μὴ αὐτὸν Ἰησοῦν μόνον. 
+
+[9] Καὶ καταβαινόντων αὐτῶν ἐκ τοῦ ὄρους ἐνετείλατο αὐτοῖς ὁ Ἰησοῦς λέγων, Μηδενὶ εἴπητε τὸ ὅραμα ἕως οὗ ὁ υἱὸς τοῦ ἀνθρώπου ἐκ νεκρῶν ἐγερθῇ.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 135 _Tis Good, Lord, to Be Here_
+* Sermon hymn: _TLH_ 619 _Jerusalem, Thou City Fair and High_, st 1‑3, 6‑8
+* Communion hymn: _TLH_ 315 _I Come, O Savior, to Thy Table_
+* Closing hymn: _TLH_ 40 _The God of Abraham Praise_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
