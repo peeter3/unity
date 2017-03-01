@@ -1,0 +1,115 @@
+% 1st in Lent
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Gn 3:1‑21 ESV]
+
+[1] Now the serpent was more crafty than any other beast of the field that the LORD God had made.
+
+He said to the woman, “Did God actually say, ‘You shall not eat of any tree in the garden’?” [2] And the woman said to the serpent, “We may eat of the fruit of the trees in the garden, [3] but God said, ‘You shall not eat of the fruit of the tree that is in the midst of the garden, neither shall you touch it, lest you die.’” [4] But the serpent said to the woman, “You will not surely die. [5] For God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil.” [6] So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate, and she also gave some to her husband who was with her, and he ate. [7] Then the eyes of both were opened, and they knew that they were naked. And they sewed fig leaves together and made themselves loincloths.
+
+[8] And they heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden. [9] But the LORD God called to the man and said to him, “Where are you?” [10] And he said, “I heard the sound of you in the garden, and I was afraid, because I was naked, and I hid myself.” [11] He said, “Who told you that you were naked? Have you eaten of the tree of which I commanded you not to eat?” [12] The man said, “The woman whom you gave to be with me, she gave me fruit of the tree, and I ate.” [13] Then the LORD God said to the woman, “What is this that you have done?” The woman said, “The serpent deceived me, and I ate.”
+
+[14] The LORD God said to the serpent, “Because you have done this,
+cursed are you above all livestock
+and above all beasts of the field;
+on your belly you shall go,
+and dust you shall eat
+all the days of your life.
+[15] I will put enmity between you and the woman,
+and between your offspring and her offspring;
+he shall bruise your head,
+and you shall bruise his heel.”
+
+	
+[16] To the woman he said, “I will surely multiply your pain in childbearing;
+in pain you shall bring forth children.
+Your desire shall be contrary to your husband,
+but he shall rule over you.”
+	
+[17] And to Adam he said, “Because you have listened to the voice of your wife and have eaten of the tree of which I commanded you, ‘You shall not eat of it,’ cursed is the ground because of you;
+in pain you shall eat of it all the days of your life;
+[18] thorns and thistles it shall bring forth for you;
+and you shall eat the plants of the field.
+[19] By the sweat of your face
+you shall eat bread,
+till you return to the ground,
+for out of it you were taken;
+for you are dust,
+and to dust you shall return.”
+
+	
+[20] The man called his wife's name Eve, because she was the mother of all living. [21] And the LORD God made for Adam and for his wife garments of skins and clothed them.
+
+## Epistle [Rm 5:12‑19 ESV]
+
+[12] Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned—[13] for sin indeed was in the world before the law was given, but sin is not counted where there is no law. [14] Yet death reigned from Adam to Moses, even over those whose sinning was not like the transgression of Adam, who was a type of the one who was to come.
+
+[15] But the free gift is not like the trespass. For if many died through one man's trespass, much more have the grace of God and the free gift by the grace of that one man Jesus Christ abounded for many. [16] And the free gift is not like the result of that one man's sin. For the judgment following one trespass brought condemnation, but the free gift following many trespasses brought justification. [17] For if, because of one man's trespass, death reigned through that one man, much more will those who receive the abundance of grace and the free gift of righteousness reign in life through the one man Jesus Christ.
+
+[18] Therefore, as one trespass led to condemnation for all men, so one act of righteousness leads to justification and life for all men. [19] For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous.
+
+## Holy Gospel [Mt 4:1‑11 ESV; sermon text]
+
+[1] Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil. [2] And after fasting forty days and forty nights, he was hungry. [3] And the tempter came and said to him, “If you are the Son of God, command these stones to become loaves of bread.” [4] But he answered, “It is written,
+
+> “‘Man shall not live by bread alone, but by every word that comes from the mouth of God.’”
+	
+	
+[5] Then the devil took him to the holy city and set him on the pinnacle of the temple [6] and said to him, “If you are the Son of God, throw yourself down, for it is written,
+
+> “‘He will command his angels concerning you,’
+	
+and
+
+> “‘On their hands they will bear you up, lest you strike your foot against a stone.’”
+	
+	
+[7] Jesus said to him, “Again it is written, ‘You shall not put the Lord your God to the test.’” [8] Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory. [9] And he said to him, “All these I will give you, if you will fall down and worship me.” [10] Then Jesus said to him, “Be gone, Satan! For it is written,
+
+> “‘You shall worship the Lord your God and him only shall you serve.’”
+	
+	
+[11] Then the devil left him, and behold, angels came and were ministering to him.
+
+------------
+
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 999 _ZZZ_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
