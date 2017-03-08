@@ -1,0 +1,69 @@
+% Face temptation
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+
+## Holy Gospel [Lk 4:1‑12 ESV; sermon text]
+
+Luke 4:1-12
+
+[1] And Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit in the wilderness [2] for forty days, being tempted by the devil. And he ate nothing during those days. And when they were ended, he was hungry. [3] The devil said to him, “If you are the Son of God, command this stone to become bread.” [4] And Jesus answered him, “It is written, ‘Man shall not live by bread alone.’” [5] And the devil took him up and showed him all the kingdoms of the world in a moment of time, [6] and said to him, “To you I will give all this authority and their glory, for it has been delivered to me, and I give it to whom I will. [7] If you, then, will worship me, it will all be yours.” [8] And Jesus answered him, “It is written,
+
+> “‘You shall worship the Lord your God, and him only shall you serve.’”
+
+[9] And he took him to Jerusalem and set him on the pinnacle of the temple and said to him, “If you are the Son of God, throw yourself down from here, [10] for it is written,
+
+> “‘He will command his angels concerning you, to guard you,’
+
+[11] and
+
+> “‘On their hands they will bear you up, lest you strike your foot against a stone.’”
+	
+[12] And Jesus answered him, “It is said, ‘You shall not put the Lord your God to the test.’”
+
+[13] And when the devil had ended every temptation, he departed from him until an opportune time.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Sermon hymn: _TLH_ 402 _O God, Forsake Me Not_
+
+## Sermon
+
+Beloved in the Lord, as you well know, Jesus was tempted by the devil in the wilderness for 40 days and 40 nights.
+For you and me, this is much more than facts to keep straight: Jesus, Satan, 40 days.
+For you and I know very well what it is to be tempted by the devil, and we pray for help against the devil every time we pray,
+**"Lead us not into temptation."**
+
+> *What does this mean?* God tempts no one. We pray in this petition that God would guard and keep us so that the the devil, the world, and our sinful nature may not deceive us or mislead us into false belief, despair, and other great shame and vice. *Although we are attacked by these things*, we pray that we may finally overcome them and win the victory.
+
+Along with protection against the devil, we pray for protection against the world and our flesh.
+But the Bible reveals to us that the devil is the *prince of this world* (Eph 2:2). So, the devil works against us, using the world as his instrument.
+Again, the Bible reveals to us that the devil, through lies, entices our flesh to sin against God (Gn 3:1‑6). So, the devil works against us, using our flesh as his instrument.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
