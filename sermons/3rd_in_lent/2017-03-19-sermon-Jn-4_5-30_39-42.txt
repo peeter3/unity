@@ -1,0 +1,69 @@
+% 3rd in Lent
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Ex 17:1‑7 ESV]
+
+[1] All the congregation of the people of Israel moved on from the wilderness of Sin by stages, according to the commandment of the LORD, and camped at Rephidim, but there was no water for the people to drink. [2] Therefore the people quarreled with Moses and said, “Give us water to drink.” And Moses said to them, “Why do you quarrel with me? Why do you test the LORD?” [3] But the people thirsted there for water, and the people grumbled against Moses and said, “Why did you bring us up out of Egypt, to kill us and our children and our livestock with thirst?” [4] So Moses cried to the LORD, “What shall I do with this people? They are almost ready to stone me.” [5] And the LORD said to Moses, “Pass on before the people, taking with you some of the elders of Israel, and take in your hand the staff with which you struck the Nile, and go. [6] Behold, I will stand before you there on the rock at Horeb, and you shall strike the rock, and water shall come out of it, and the people will drink.” And Moses did so, in the sight of the elders of Israel. [7] And he called the name of the place Massah and Meribah, because of the quarreling of the people of Israel, and because they tested the LORD by saying, “Is the LORD among us or not?”
+
+## Epistle [Rm 5:1‑8 ESV]
+
+[1] Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ. [2] Through him we have also obtained access by faith into this grace in which we stand, and we rejoice in hope of the glory of God. [3] Not only that, but we rejoice in our sufferings, knowing that suffering produces endurance, [4] and endurance produces character, and character produces hope, [5] and hope does not put us to shame, because God's love has been poured into our hearts through the Holy Spirit who has been given to us.
+
+[6] For while we were still weak, at the right time Christ died for the ungodly. [7] For one will scarcely die for a righteous person—though perhaps for a good person one would dare even to die—[8] but God shows his love for us in that while we were still sinners, Christ died for us.
+
+## Holy Gospel [Jn 4:5‑30, 39‑42 ESV; sermon text]
+
+[5] So he came to a town of Samaria called Sychar, near the field that Jacob had given to his son Joseph. [6] Jacob's well was there; so Jesus, wearied as he was from his journey, was sitting beside the well. It was about the sixth hour.
+
+[7] A woman from Samaria came to draw water. Jesus said to her, “Give me a drink.” [8] (For his disciples had gone away into the city to buy food.) [9] The Samaritan woman said to him, “How is it that you, a Jew, ask for a drink from me, a woman of Samaria?” (For Jews have no dealings with Samaritans.) [10] Jesus answered her, “If you knew the gift of God, and who it is that is saying to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.” [11] The woman said to him, “Sir, you have nothing to draw water with, and the well is deep. Where do you get that living water? [12] Are you greater than our father Jacob? He gave us the well and drank from it himself, as did his sons and his livestock.” [13] Jesus said to her, “Everyone who drinks of this water will be thirsty again, [14] but whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life.” [15] The woman said to him, “Sir, give me this water, so that I will not be thirsty or have to come here to draw water.”
+
+[16] Jesus said to her, “Go, call your husband, and come here.” [17] The woman answered him, “I have no husband.” Jesus said to her, “You are right in saying, ‘I have no husband’; [18] for you have had five husbands, and the one you now have is not your husband. What you have said is true.” [19] The woman said to him, “Sir, I perceive that you are a prophet. [20] Our fathers worshiped on this mountain, but you say that in Jerusalem is the place where people ought to worship.” [21] Jesus said to her, “Woman, believe me, the hour is coming when neither on this mountain nor in Jerusalem will you worship the Father. [22] You worship what you do not know; we worship what we know, for salvation is from the Jews. [23] But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth, for the Father is seeking such people to worship him. [24] God is spirit, and those who worship him must worship in spirit and truth.” [25] The woman said to him, “I know that Messiah is coming (he who is called Christ). When he comes, he will tell us all things.” [26] Jesus said to her, “I who speak to you am he.”
+
+[27] Just then his disciples came back. They marveled that he was talking with a woman, but no one said, “What do you seek?” or, “Why are you talking with her?” [28] So the woman left her water jar and went away into town and said to the people, [29] “Come, see a man who told me all that I ever did. Can this be the Christ?” [30] They went out of the town and were coming to him.
+
+...
+
+[39] Many Samaritans from that town believed in him because of the woman's testimony, “He told me all that I ever did.” [40] So when the Samaritans came to him, they asked him to stay with them, and he stayed there two days. [41] And many more believed because of his word. [42] They said to the woman, “It is no longer because of what you said that we believe, for we have heard for ourselves, and we know that this is indeed the Savior of the world.” (ESV)
+
+------------
+
+
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 145 _Jesus, Refuge of the Weary_
+* Sermon hymn: _TLH_ 366 _One Thing's Neeful; Lord, This Treasure_ st. 1‑2, 5‑7
+* Closing hymn: _TLH_ 144 _Jesus, Grant that Balm and Healing_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
