@@ -1,0 +1,78 @@
+% Face fears
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* Service is on the stage tonight.
+
+## Announcements
+
+
+## Holy Gospel [Is 41:8‑13 ESV; sermon text]
+
+[8] But you, Israel, my servant, Jacob, whom I have chosen, the offspring of Abraham, my friend;
+[9] you whom I took from the ends of the earth, and called from its farthest corners, saying to you, “You are my servant, I have chosen you and not cast you off”;
+[10] fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand.
+	
+	
+[11] Behold, all who are incensed against you shall be put to shame and confounded; those who strive against you shall be as nothing and shall perish.
+[12] You shall seek those who contend with you, but you shall not find them; those who war against you shall be as nothing at all.
+[13] For I, the LORD your God, hold your right hand; it is I who say to you, “Fear not, I am the one who helps you.”
+
+## Introit [Ps 46]
+
+	[1] God is our refuge and strength,
+		a very present help in trouble.
+	[2] Therefore we will not fear though the earth gives way,
+		though the mountains be moved into the heart of the sea,
+	[3] though its waters roar and foam,
+		though the mountains tremble at its swelling. Selah
+	
+	
+	[4] There is a river whose streams make glad the city of God,
+		the holy habitation of the Most High.
+	[5] God is in the midst of her; she shall not be moved;
+		God will help her when morning dawns.
+	[6] The nations rage, the kingdoms totter;
+		he utters his voice, the earth melts.
+	[7] The LORD of hosts is with us;
+		the God of Jacob is our fortress. Selah
+	
+	
+	[8] Come, behold the works of the LORD,
+		how he has brought desolations on the earth.
+	[9] He makes wars cease to the end of the earth;
+		he breaks the bow and shatters the spear;
+		he burns the chariots with fire.
+	[10] “Be still, and know that I am God.
+		I will be exalted among the nations,
+		I will be exalted in the earth!”
+	[11] The LORD of hosts is with us;
+		the God of Jacob is our fortress. Selah (ESV)
+
+
+## Collect
+
+
+
+## Hymns
+
+* Opening hymn: 
+* Sermon hymn: _TLH_ 651 _Be Still my Soul_
+* Closing hymn: 
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
