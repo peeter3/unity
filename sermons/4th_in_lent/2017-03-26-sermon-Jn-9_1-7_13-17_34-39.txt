@@ -1,0 +1,124 @@
+% 4th in Lent
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Is 42:14‑21 ESV]
+
+> [14] For a long time I have held my peace;\
+> I have kept still and restrained myself;\
+> now I will cry out like a woman in labor;\
+> I will gasp and pant.\
+> [15] I will lay waste mountains and hills,\
+> and dry up all their vegetation;\
+> I will turn the rivers into islands,\
+> and dry up the pools.\
+> [16] And I will lead the blind\
+> in a way that they do not know,\
+> in paths that they have not known\
+> I will guide them.\
+> I will turn the darkness before them into light,\
+> the rough places into level ground.\
+> These are the things I do,\
+> and I do not forsake them.\
+> [17] They are turned back and utterly put to shame,\
+> who trust in carved idols,\
+> who say to metal images,\
+> “You are our gods.”
+
+
+> [18] Hear, you deaf,\
+> and look, you blind, that you may see!\
+> [19] Who is blind but my servant,\
+> or deaf as my messenger whom I send?\
+> Who is blind as my dedicated one,\
+> or blind as the servant of the LORD?\
+> [20] He sees many things, but does not observe them;\
+> his ears are open, but he does not hear.\
+> [21] The LORD was pleased, for his righteousness' sake,\
+> to magnify his law and make it glorious.
+
+## Epistle [Eph 5:8‑14 ESV]
+
+[8] For at one time you were darkness, but now you are light in the Lord. Walk as children of light [9] (for the fruit of light is found in all that is good and right and true), [10] and try to discern what is pleasing to the Lord. [11] Take no part in the unfruitful works of darkness, but instead expose them. [12] For it is shameful even to speak of the things that they do in secret. [13] But when anything is exposed by the light, it becomes visible, [14] for anything that becomes visible is light. Therefore it says,
+
+> “Awake, O sleeper, and arise from the dead, and Christ will shine on you.”
+
+## Holy Gospel [Jn 9:1‑7, 13‑17, 34‑39 ESV; sermon text]
+
+[1] As he passed by, he saw a man blind from birth. [2] And his disciples asked him, “Rabbi, who sinned, this man or his parents, that he was born blind?” [3] Jesus answered, “It was not that this man sinned, or his parents, but that the works of God might be displayed in him. [4] We must work the works of him who sent me while it is day; night is coming, when no one can work. [5] As long as I am in the world, I am the light of the world.” [6] Having said these things, he spit on the ground and made mud with the saliva. Then he anointed the man's eyes with the mud [7] and said to him, “Go, wash in the pool of Siloam” (which means Sent). So he went and washed and came back seeing.
+
+...
+
+[13] They brought to the Pharisees the man who had formerly been blind. [14] Now it was a Sabbath day when Jesus made the mud and opened his eyes. [15] So the Pharisees again asked him how he had received his sight. And he said to them, “He put mud on my eyes, and I washed, and I see.” [16] Some of the Pharisees said, “This man is not from God, for he does not keep the Sabbath.” But others said, “How can a man who is a sinner do such signs?” And there was a division among them. [17] So they said again to the blind man, “What do you say about him, since he has opened your eyes?” He said, “He is a prophet.”
+
+...
+
+[34] They answered him, “You were born in utter sin, and would you teach us?” And they cast him out.
+
+[35] Jesus heard that they had cast him out, and having found him he said, “Do you believe in the Son of Man?” [36] He answered, “And who is he, sir, that I may believe in him?” [37] Jesus said to him, “You have seen him, and it is he who is speaking to you.” [38] He said, “Lord, I believe,” and he worshiped him. [39] Jesus said, “For judgment I came into this world, that those who do not see may see, and those who see may become blind.”
+
+------------
+
+[1] Καὶ παράγων εἶδεν ἄνθρωπον τυφλὸν ἐκ γενετῆς. 
+[2] καὶ ἠρώτησαν αὐτὸν οἱ μαθηταὶ αὐτοῦ λέγοντες, Ῥαββί, τίς ἥμαρτεν, οὗτος ἢ οἱ γονεῖς αὐτοῦ, ἵνα τυφλὸς γεννηθῇ; 
+[3] ἀπεκρίθη Ἰησοῦς, Οὔτε οὗτος ἥμαρτεν οὔτε οἱ γονεῖς αὐτοῦ, ἀλλ' ἵνα φανερωθῇ τὰ ἔργα τοῦ θεοῦ ἐν αὐτῷ. 
+[4] ἡμᾶς δεῖ ἐργάζεσθαι τὰ ἔργα τοῦ πέμψαντός με ἕως ἡμέρα ἐστίν: ἔρχεται νὺξ ὅτε οὐδεὶς δύναται ἐργάζεσθαι. 
+[5] ὅταν ἐν τῷ κόσμῳ ὦ, φῶς εἰμι τοῦ κόσμου. 
+[6] ταῦτα εἰπὼν ἔπτυσεν χαμαὶ καὶ ἐποίησεν πηλὸν ἐκ τοῦ πτύσματος, καὶ ἐπέχρισεν αὐτοῦ τὸν πηλὸν ἐπὶ τοὺς ὀφθαλμοὺς 
+[7] καὶ εἶπεν αὐτῷ, Υπαγε νίψαι εἰς τὴν κολυμβήθραν τοῦ Σιλωάμ {ὃ ἑρμηνεύεται Ἀπεσταλμένος}. ἀπῆλθεν οὖν καὶ ἐνίψατο, καὶ ἦλθεν βλέπων. 
+
+...
+
+[13] Ἄγουσιν αὐτὸν πρὸς τοὺς Φαρισαίους τόν ποτε τυφλόν. 
+[14] ἦν δὲ σάββατον ἐν ἧ ἡμέρᾳ τὸν πηλὸν ἐποίησεν ὁ Ἰησοῦς καὶ ἀνέῳξεν αὐτοῦ τοὺς ὀφθαλμούς. 
+[15] πάλιν οὖν ἠρώτων αὐτὸν καὶ οἱ Φαρισαῖοι πῶς ἀνέβλεψεν. ὁ δὲ εἶπεν αὐτοῖς, Πηλὸν ἐπέθηκέν μου ἐπὶ τοὺς ὀφθαλμούς, καὶ ἐνιψάμην, καὶ βλέπω. 
+[16] ἔλεγον οὖν ἐκ τῶν Φαρισαίων τινές, Οὐκ ἔστιν οὗτος παρὰ θεοῦ ὁ ἄνθρωπος, ὅτι τὸ σάββατον οὐ τηρεῖ. ἄλλοι [δὲ] ἔλεγον, Πῶς δύναται ἄνθρωπος ἁμαρτωλὸς τοιαῦτα σημεῖα ποιεῖν; καὶ σχίσμα ἦν ἐν αὐτοῖς. 
+[17] λέγουσιν οὖν τῷ τυφλῷ πάλιν, Τί σὺ λέγεις περὶ αὐτοῦ, ὅτι ἠνέῳξέν σου τοὺς ὀφθαλμούς; ὁ δὲ εἶπεν ὅτι Προφήτης ἐστίν. 
+
+...
+
+[34] ἀπεκρίθησαν καὶ εἶπαν αὐτῷ, Ἐν ἁμαρτίαις σὺ ἐγεννήθης ὅλος, καὶ σὺ διδάσκεις ἡμᾶς; καὶ ἐξέβαλον αὐτὸν ἔξω. 
+[35] Ἤκουσεν Ἰησοῦς ὅτι ἐξέβαλον αὐτὸν ἔξω, καὶ εὑρὼν αὐτὸν εἶπεν, Σὺ πιστεύεις εἰς τὸν υἱὸν τοῦ ἀνθρώπου; 
+[36] ἀπεκρίθη ἐκεῖνος καὶ εἶπεν, Καὶ τίς ἐστιν, κύριε, ἵνα πιστεύσω εἰς αὐτόν; 
+[37] εἶπεν αὐτῷ ὁ Ἰησοῦς, Καὶ ἑώρακας αὐτὸν καὶ ὁ λαλῶν μετὰ σοῦ ἐκεῖνός ἐστιν. 
+[38] ὁ δὲ ἔφη, Πιστεύω, κύριε: καὶ προσεκύνησεν αὐτῷ. 
+[39] καὶ εἶπεν ὁ Ἰησοῦς, Εἰς κρίμα ἐγὼ εἰς τὸν κόσμον τοῦτον ἦλθον, ἵνα οἱ μὴ βλέποντες βλέπωσιν καὶ οἱ βλέποντες τυφλοὶ γένωνται.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _LSB_ 744 _Amazing Grace_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
