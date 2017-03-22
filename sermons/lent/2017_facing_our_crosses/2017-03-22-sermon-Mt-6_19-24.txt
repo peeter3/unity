@@ -1,0 +1,79 @@
+% Face worldliness
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+
+## Announcements
+
+
+
+## Holy Gospel [Mt 6:19‑24 ESV; sermon text]
+
+[19] “Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal, [20] but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal. [21] For where your treasure is, there your heart will be also.
+
+[22] “The eye is the lamp of the body. So, if your eye is healthy, your whole body will be full of light, [23] but if your eye is bad, your whole body will be full of darkness. If then the light in you is darkness, how great is the darkness!
+
+[24] “No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money.
+
+## Introit [Ps 96]
+
+> [1] Oh sing to the LORD a new song;\
+> sing to the LORD, all the earth!\
+> [2] Sing to the LORD, bless his name;\
+> tell of his salvation from day to day.\
+> [3] Declare his glory among the nations,\
+> his marvelous works among all the peoples!\
+> [4] For great is the LORD, and greatly to be praised;\
+> he is to be feared above all gods.\
+> [5] For all the gods of the peoples are worthless idols,\
+> but the LORD made the heavens.\
+> [6] Splendor and majesty are before him;\
+> strength and beauty are in his sanctuary.
+
+> [7] Ascribe to the LORD, O families of the peoples,\
+> ascribe to the LORD glory and strength!\
+> [8] Ascribe to the LORD the glory due his name;\
+> bring an offering, and come into his courts!\
+> [9] Worship the LORD in the splendor of holiness;\
+> tremble before him, all the earth!
+
+> [10] Say among the nations, “The LORD reigns!\
+> Yes, the world is established; it shall never be moved;\
+> he will judge the peoples with equity.”
+
+> [11] Let the heavens be glad, and let the earth rejoice;\
+> let the sea roar, and all that fills it;\
+> [12] 	let the field exult, and everything in it!\
+> Then shall all the trees of the forest sing for joy\
+> [13] 	before the LORD, for he comes,\
+> for he comes to judge the earth.\
+> He will judge the world in righteousness,\
+> and the peoples in his faithfulness.
+
+
+## Collect
+
+
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 430 _What is the World to Me_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord,
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
