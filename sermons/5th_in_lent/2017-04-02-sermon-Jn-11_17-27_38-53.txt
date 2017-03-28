@@ -1,0 +1,70 @@
+% 5th in Lent
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Ezk 37:1‑14 ESV]
+
+[1] The hand of the LORD was upon me, and he brought me out in the Spirit of the LORD and set me down in the middle of the valley; it was full of bones. [2] And he led me around among them, and behold, there were very many on the surface of the valley, and behold, they were very dry. [3] And he said to me, “Son of man, can these bones live?” And I answered, “O Lord GOD, you know.” [4] Then he said to me, “Prophesy over these bones, and say to them, O dry bones, hear the word of the LORD. [5] Thus says the Lord GOD to these bones: Behold, I will cause breath to enter you, and you shall live. [6] And I will lay sinews upon you, and will cause flesh to come upon you, and cover you with skin, and put breath in you, and you shall live, and you shall know that I am the LORD.”
+
+[7] So I prophesied as I was commanded. And as I prophesied, there was a sound, and behold, a rattling, and the bones came together, bone to its bone. [8] And I looked, and behold, there were sinews on them, and flesh had come upon them, and skin had covered them. But there was no breath in them. [9] Then he said to me, “Prophesy to the breath; prophesy, son of man, and say to the breath, Thus says the Lord GOD: Come from the four winds, O breath, and breathe on these slain, that they may live.” [10] So I prophesied as he commanded me, and the breath came into them, and they lived and stood on their feet, an exceedingly great army.
+
+[11] Then he said to me, “Son of man, these bones are the whole house of Israel. Behold, they say, ‘Our bones are dried up, and our hope is lost; we are indeed cut off.’ [12] Therefore prophesy, and say to them, Thus says the Lord GOD: Behold, I will open your graves and raise you from your graves, O my people. And I will bring you into the land of Israel. [13] And you shall know that I am the LORD, when I open your graves, and raise you from your graves, O my people. [14] And I will put my Spirit within you, and you shall live, and I will place you in your own land. Then you shall know that I am the LORD; I have spoken, and I will do it, declares the LORD.”
+
+## Epistle [Rm 8:1‑11 ESV]
+
+[1] There is therefore now no condemnation for those who are in Christ Jesus. [2] For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death. [3] For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh, [4] in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit. [5] For those who live according to the flesh set their minds on the things of the flesh, but those who live according to the Spirit set their minds on the things of the Spirit. [6] For to set the mind on the flesh is death, but to set the mind on the Spirit is life and peace. [7] For the mind that is set on the flesh is hostile to God, for it does not submit to God's law; indeed, it cannot. [8] Those who are in the flesh cannot please God.
+
+[9] You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him. [10] But if Christ is in you, although the body is dead because of sin, the Spirit is life because of righteousness. [11] If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.
+
+## Holy Gospel [Jn 11:17‑27, 38‑53 ESV; sermon text]
+
+[17] Now when Jesus came, he found that Lazarus had already been in the tomb four days. [18] Bethany was near Jerusalem, about two miles off, [19] and many of the Jews had come to Martha and Mary to console them concerning their brother. [20] So when Martha heard that Jesus was coming, she went and met him, but Mary remained seated in the house. [21] Martha said to Jesus, “Lord, if you had been here, my brother would not have died. [22] But even now I know that whatever you ask from God, God will give you.” [23] Jesus said to her, “Your brother will rise again.” [24] Martha said to him, “I know that he will rise again in the resurrection on the last day.” [25] Jesus said to her, “I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, [26] and everyone who lives and believes in me shall never die. Do you believe this?” [27] She said to him, “Yes, Lord; I believe that you are the Christ, the Son of God, who is coming into the world.”
+
+...
+
+
+[38] Then Jesus, deeply moved again, came to the tomb. It was a cave, and a stone lay against it. [39] Jesus said, “Take away the stone.” Martha, the sister of the dead man, said to him, “Lord, by this time there will be an odor, for he has been dead four days.” [40] Jesus said to her, “Did I not tell you that if you believed you would see the glory of God?” [41] So they took away the stone. And Jesus lifted up his eyes and said, “Father, I thank you that you have heard me. [42] I knew that you always hear me, but I said this on account of the people standing around, that they may believe that you sent me.” [43] When he had said these things, he cried out with a loud voice, “Lazarus, come out.” [44] The man who had died came out, his hands and feet bound with linen strips, and his face wrapped with a cloth. Jesus said to them, “Unbind him, and let him go.”
+
+[45] Many of the Jews therefore, who had come with Mary and had seen what he did, believed in him, [46] but some of them went to the Pharisees and told them what Jesus had done. [47] So the chief priests and the Pharisees gathered the council and said, “What are we to do? For this man performs many signs. [48] If we let him go on like this, everyone will believe in him, and the Romans will come and take away both our place and our nation.” [49] But one of them, Caiaphas, who was high priest that year, said to them, “You know nothing at all. [50] Nor do you understand that it is better for you that one man should die for the people, not that the whole nation should perish.” [51] He did not say this of his own accord, but being high priest that year he prophesied that Jesus would die for the nation, [52] and not for the nation only, but also to gather into one the children of God who are scattered abroad. [53] So from that day on they made plans to put him to death.
+
+------------
+
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 596 _This Body in the Grave We Lay_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
