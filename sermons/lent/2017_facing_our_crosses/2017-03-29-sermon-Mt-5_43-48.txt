@@ -1,0 +1,80 @@
+% Face one another
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+
+## Announcements
+
+
+## Holy Gospel [Mt 5:43‑48 ESV; sermon text]
+
+[43] “You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’ [44] But I say to you, Love your enemies and pray for those who persecute you, [45] so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust. [46] For if you love those who love you, what reward do you have? Do not even the tax collectors do the same? [47] And if you greet only your brothers, what more are you doing than others? Do not even the Gentiles do the same? [48] You therefore must be perfect, as your heavenly Father is perfect.
+
+--------------------------
+
+[43] Ἠκούσατε ὅτι ἐρρέθη, Ἀγαπήσεις τὸν πλησίον σου καὶ μισήσεις τὸν ἐχθρόν σου. 
+[44] ἐγὼ δὲ λέγω ὑμῖν, ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν καὶ προσεύχεσθε ὑπὲρ τῶν διωκόντων ὑμᾶς, 
+[45] ὅπως γένησθε υἱοὶ τοῦ πατρὸς ὑμῶν τοῦ ἐν οὐρανοῖς, ὅτι τὸν ἥλιον αὐτοῦ ἀνατέλλει ἐπὶ πονηροὺς καὶ ἀγαθοὺς καὶ βρέχει ἐπὶ δικαίους καὶ ἀδίκους. 
+[46] ἐὰν γὰρ ἀγαπήσητε τοὺς ἀγαπῶντας ὑμᾶς, τίνα μισθὸν ἔχετε; οὐχὶ καὶ οἱ τελῶναι τὸ αὐτὸ ποιοῦσιν; 
+[47] καὶ ἐὰν ἀσπάσησθε τοὺς ἀδελφοὺς ὑμῶν μόνον, τί περισσὸν ποιεῖτε; οὐχὶ καὶ οἱ ἐθνικοὶ τὸ αὐτὸ ποιοῦσιν; 
+[48] Ἔσεσθε οὖν ὑμεῖς τέλειοι ὡς ὁ πατὴρ ὑμῶν ὁ οὐράνιος τέλειός ἐστιν.
+
+## Introit [Ps 75]
+
+> [1] We give thanks to you, O God;\
+> we give thanks, for your name is near.\
+> We recount your wondrous deeds.
+
+
+> [2] “At the set time that I appoint\
+> I will judge with equity.\
+> [3] When the earth totters, and all its inhabitants,\
+> it is I who keep steady its pillars. Selah\
+> [4] I say to the boastful, ‘Do not boast,’\
+> and to the wicked, ‘Do not lift up your horn;\
+> [5] do not lift up your horn on high,\
+> or speak with haughty neck.’”
+
+
+> [6] For not from the east or from the west\
+> and not from the wilderness comes lifting up,\
+> [7] but it is God who executes judgment,\
+> putting down one and lifting up another.\
+> [8] For in the hand of the LORD there is a cup\
+> with foaming wine, well mixed,\
+> and he pours out from it,\
+> and all the wicked of the earth\
+> shall drain it down to the dregs.
+
+
+> [9] But I will declare it forever;\
+> I will sing praises to the God of Jacob.\
+> [10] All the horns of the wicked I will cut off,\
+> but the horns of the righteous shall be lifted up.
+
+
+## Collect
+
+O God; through Jesus Christ, Your Son, our Lord, who lives and reigns with you and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 149 _Come to Calvary's Holy Mountain_
+* Sermon hymn: _TLH_ 442 _Lord of Glory, Who hast Bought Us_
+* Closing hymn: _TLH_ 143 _O Dearest Jesus, What Law Hast Thou Broken_, st. 13-15
+
+## Sermon
+
+Beloved in the Lord,
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
