@@ -1,0 +1,99 @@
+% Palm Sunday
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Is 50:4‑9a ESV]
+
+> [4] The Lord GOD has given me\
+> the tongue of those who are taught,\
+> that I may know how to sustain with a word\
+> him who is weary.\
+> Morning by morning he awakens;\
+> he awakens my ear\
+> to hear as those who are taught.\
+> [5] The Lord GOD has opened my ear,\
+> and I was not rebellious;\
+> I turned not backward.\
+> [6] I gave my back to those who strike,\
+> and my cheeks to those who pull out the beard;\
+> I hid not my face\
+> from disgrace and spitting.
+
+> [7] But the Lord GOD helps me;\
+> therefore I have not been disgraced;\
+> therefore I have set my face like a flint,\
+> and I know that I shall not be put to shame.\
+> [8] 	He who vindicates me is near.\
+> Who will contend with me?\
+> Let us stand up together.\
+> Who is my adversary?\
+> Let him come near to me.\
+> [9] Behold, the Lord GOD helps me;\
+> who will declare me guilty?
+
+## Epistle [Php 2:5‑11 ESV]
+
+[5] Have this mind among yourselves, which is yours in Christ Jesus, [6] who, though he was in the form of God, did not count equality with God a thing to be grasped, [7] but emptied himself, by taking the form of a servant, being born in the likeness of men. [8] And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. [9] Therefore God has highly exalted him and bestowed on him the name that is above every name, [10] so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, [11] and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
+
+## Holy Gospel [Jn 12:12‑19 ESV; sermon text]
+
+[12] The next day the large crowd that had come to the feast heard that Jesus was coming to Jerusalem. [13] So they took branches of palm trees and went out to meet him, crying out, “Hosanna! Blessed is he who comes in the name of the Lord, even the King of Israel!” [14] And Jesus found a young donkey and sat on it, just as it is written,
+
+> [15] “Fear not, daughter of Zion;\
+> behold, your king is coming,\
+> sitting on a donkey's colt!”
+	
+[16] His disciples did not understand these things at first, but when Jesus was glorified, then they remembered that these things had been written about him and had been done to him. [17] The crowd that had been with him when he called Lazarus out of the tomb and raised him from the dead continued to bear witness. [18] The reason why the crowd went to meet him was that they heard he had done this sign. [19] So the Pharisees said to one another, “You see that you are gaining nothing. Look, the world has gone after him.”
+
+------------
+
+[12] Τῇ ἐπαύριον ὁ ὄχλος πολὺς ὁ ἐλθὼν εἰς τὴν ἑορτήν, ἀκούσαντες ὅτι ἔρχεται ὁ Ἰησοῦς εἰς Ἱεροσόλυμα, 
+[13] ἔλαβον τὰ βαΐα τῶν φοινίκων καὶ ἐξῆλθον εἰς ὑπάντησιν αὐτῷ, καὶ ἐκραύγαζον, Ὡσαννά: εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου, [καὶ] ὁ βασιλεὺς τοῦ Ἰσραήλ. 
+[14] εὑρὼν δὲ ὁ Ἰησοῦς ὀνάριον ἐκάθισεν ἐπ' αὐτό, καθώς ἐστιν γεγραμμένον, 
+
+> [15] Μὴ φοβοῦ, θυγάτηρ Σιών: ἰδοὺ ὁ βασιλεύς σου ἔρχεται, καθήμενος ἐπὶ πῶλον ὄνου.
+
+[16] ταῦτα οὐκ ἔγνωσαν αὐτοῦ οἱ μαθηταὶ τὸ πρῶτον, ἀλλ' ὅτε ἐδοξάσθη Ἰησοῦς τότε ἐμνήσθησαν ὅτι ταῦτα ἦν ἐπ' αὐτῷ γεγραμμένα καὶ ταῦτα ἐποίησαν αὐτῷ. 
+[17] ἐμαρτύρει οὖν ὁ ὄχλος ὁ ὢν μετ' αὐτοῦ ὅτε τὸν Λάζαρον ἐφώνησεν ἐκ τοῦ μνημείου καὶ ἤγειρεν αὐτὸν ἐκ νεκρῶν. 
+[18] διὰ τοῦτο [καὶ] ὑπήντησεν αὐτῷ ὁ ὄχλος ὅτι ἤκουσαν τοῦτο αὐτὸν πεποιηκέναι τὸ σημεῖον. 
+[19] οἱ οὖν Φαρισαῖοι εἶπαν πρὸς ἑαυτούς, Θεωρεῖτε ὅτι οὐκ ὠφελεῖτε οὐδέν: ἴδε ὁ κόσμος ὀπίσω αὐτοῦ ἀπῆλθεν.
+
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 162 _Ride On, Ride On, in Majesty_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
