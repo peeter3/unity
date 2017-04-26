@@ -1,0 +1,16 @@
+% The Passion of our Lord Jesus Christ Drawn from the Four Gospels
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+*(Copied from "LSB Altar Book.") This conflation of the Gospel accounts of the passion is divided in order to facilitate presentation by a number of readers.
+At each symbol ■, another reader may begin.*
+
+## The Lord's Supper
+
+■ Now the Feast of Unleavened Bread, also called the Passover, drew near, and Jesus said to his disciples: "You know that after two days is the Feast of the Passover, and the Son of Man will be given over to be crucified."[^1]
+
+[^1]: Lk 22:1; Mt 26:2
+
+■ Then the chief priests and scribes assembled with the elders of the people in the palace of the high priest, who was called Caiaphas, and consulted how they might take Jesus craftily and put him to death.
+But they said, "Not on the feast day, lest there be an uproar among the people," for they feared the people.[^2]
+
+[^2]: Mt 26:3‑4

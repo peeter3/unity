@@ -1,0 +1,101 @@
+% 3rd of Easter
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## First Reading [Ac 2:14a, 36‑41 ESV]
+
+Acts 2:14
+
+[14] But Peter, standing with the eleven, lifted up his voice and addressed them:
+
+[36] “Let all the house of Israel therefore know for certain that God has made him both Lord and Christ, this Jesus whom you crucified.”
+
+[37] Now when they heard this they were cut to the heart, and said to Peter and the rest of the apostles, “Brothers, what shall we do?” [38] And Peter said to them, “Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit. [39] For the promise is for you and for your children and for all who are far off, everyone whom the Lord our God calls to himself.” [40] And with many other words he bore witness and continued to exhort them, saying, “Save yourselves from this crooked generation.” [41] So those who received his word were baptized, and there were added that day about three thousand souls.
+
+## Epistle [1Pe 1:17‑25 ESV]
+
+[17] And if you call on him as Father who judges impartially according to each one's deeds, conduct yourselves with fear throughout the time of your exile, [18] knowing that you were ransomed from the futile ways inherited from your forefathers, not with perishable things such as silver or gold, [19] but with the precious blood of Christ, like that of a lamb without blemish or spot. [20] He was foreknown before the foundation of the world but was made manifest in the last times for the sake of you [21] who through him are believers in God, who raised him from the dead and gave him glory, so that your faith and hope are in God.
+
+[22] Having purified your souls by your obedience to the truth for a sincere brotherly love, love one another earnestly from a pure heart, [23] since you have been born again, not of perishable seed but of imperishable, through the living and abiding word of God; [24] for
+
+> “All flesh is like grass\
+> and all its glory like the flower of grass.\
+> The grass withers,\
+> and the flower falls,\
+> [25] but the word of the Lord remains forever.”
+
+And this word is the good news that was preached to you.
+
+## Holy Gospel [Lk 24:13‑35 ESV; sermon text]
+
+[13] That very day two of them were going to a village named Emmaus, about seven miles from Jerusalem, [14] and they were talking with each other about all these things that had happened. [15] While they were talking and discussing together, Jesus himself drew near and went with them. [16] But their eyes were kept from recognizing him. [17] And he said to them, “What is this conversation that you are holding with each other as you walk?” And they stood still, looking sad. [18] Then one of them, named Cleopas, answered him, “Are you the only visitor to Jerusalem who does not know the things that have happened there in these days?” [19] And he said to them, “What things?” And they said to him, “Concerning Jesus of Nazareth, a man who was a prophet mighty in deed and word before God and all the people, [20] and how our chief priests and rulers delivered him up to be condemned to death, and crucified him. [21] But we had hoped that he was the one to redeem Israel. Yes, and besides all this, it is now the third day since these things happened. [22] Moreover, some women of our company amazed us. They were at the tomb early in the morning, [23] and when they did not find his body, they came back saying that they had even seen a vision of angels, who said that he was alive. [24] Some of those who were with us went to the tomb and found it just as the women had said, but him they did not see.” [25] And he said to them, “O foolish ones, and slow of heart to believe all that the prophets have spoken! [26] Was it not necessary that the Christ should suffer these things and enter into his glory?” [27] And beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself.
+
+[28] So they drew near to the village to which they were going. He acted as if he were going farther, [29] but they urged him strongly, saying, “Stay with us, for it is toward evening and the day is now far spent.” So he went in to stay with them. [30] When he was at table with them, he took the bread and blessed and broke it and gave it to them. [31] And their eyes were opened, and they recognized him. And he vanished from their sight. [32] They said to each other, “Did not our hearts burn within us while he talked to us on the road, while he opened to us the Scriptures?” [33] And they rose that same hour and returned to Jerusalem. And they found the eleven and those who were with them gathered together, [34] saying, “The Lord has risen indeed, and has appeared to Simon!” [35] Then they told what had happened on the road, and how he was known to them in the breaking of the bread.
+
+------------
+
+[13] Καὶ ἰδοὺ δύο ἐξ αὐτῶν ἐν αὐτῇ τῇ ἡμέρᾳ ἦσαν πορευόμενοι εἰς κώμην ἀπέχουσαν σταδίους ἑξήκοντα ἀπὸ Ἰερουσαλήμ, ἧ ὄνομα Ἐμμαοῦς, 
+[14] καὶ αὐτοὶ ὡμίλουν πρὸς ἀλλήλους περὶ πάντων τῶν συμβεβηκότων τούτων. 
+[15] καὶ ἐγένετο ἐν τῷ ὁμιλεῖν αὐτοὺς καὶ συζητεῖν καὶ αὐτὸς Ἰησοῦς ἐγγίσας συνεπορεύετο αὐτοῖς, 
+[16] οἱ δὲ ὀφθαλμοὶ αὐτῶν ἐκρατοῦντο τοῦ μὴ ἐπιγνῶναι αὐτόν. 
+[17] εἶπεν δὲ πρὸς αὐτούς, Τίνες οἱ λόγοι οὗτοι οὓς ἀντιβάλλετε πρὸς ἀλλήλους περιπατοῦντες; καὶ ἐστάθησαν σκυθρωποί. 
+[18] ἀποκριθεὶς δὲ εἷς ὀνόματι Κλεοπᾶς εἶπεν πρὸς αὐτόν, Σὺ μόνος παροικεῖς Ἰερουσαλὴμ καὶ οὐκ ἔγνως τὰ γενόμενα ἐν αὐτῇ ἐν ταῖς ἡμέραις ταύταις; 
+[19] καὶ εἶπεν αὐτοῖς, Ποῖα; οἱ δὲ εἶπαν αὐτῷ, Τὰ περὶ Ἰησοῦ τοῦ Ναζαρηνοῦ, ὃς ἐγένετο ἀνὴρ προφήτης δυνατὸς ἐν ἔργῳ καὶ λόγῳ ἐναντίον τοῦ θεοῦ καὶ παντὸς τοῦ λαοῦ, 
+[20] ὅπως τε παρέδωκαν αὐτὸν οἱ ἀρχιερεῖς καὶ οἱ ἄρχοντες ἡμῶν εἰς κρίμα θανάτου καὶ ἐσταύρωσαν αὐτόν. 
+[21] ἡμεῖς δὲ ἠλπίζομεν ὅτι αὐτός ἐστιν ὁ μέλλων λυτροῦσθαι τὸν Ἰσραήλ: ἀλλά γε καὶ σὺν πᾶσιν τούτοις τρίτην ταύτην ἡμέραν ἄγει ἀφ' οὗ ταῦτα ἐγένετο. 
+[22] ἀλλὰ καὶ γυναῖκές τινες ἐξ ἡμῶν ἐξέστησαν ἡμᾶς: γενόμεναι ὀρθριναὶ ἐπὶ τὸ μνημεῖον 
+[23] καὶ μὴ εὑροῦσαι τὸ σῶμα αὐτοῦ ἦλθον λέγουσαι καὶ ὀπτασίαν ἀγγέλων ἑωρακέναι, οἳ λέγουσιν αὐτὸν ζῆν. 
+[24] καὶ ἀπῆλθόν τινες τῶν σὺν ἡμῖν ἐπὶ τὸ μνημεῖον, καὶ εὗρον οὕτως καθὼς καὶ αἱ γυναῖκες εἶπον, αὐτὸν δὲ οὐκ εἶδον. 
+[25] καὶ αὐτὸς εἶπεν πρὸς αὐτούς, *)=ω ἀνόητοι καὶ βραδεῖς τῇ καρδίᾳ τοῦ πιστεύειν ἐπὶ πᾶσιν οἷς ἐλάλησαν οἱ προφῆται: 
+[26] οὐχὶ ταῦτα ἔδει παθεῖν τὸν Χριστὸν καὶ εἰσελθεῖν εἰς τὴν δόξαν αὐτοῦ; 
+[27] καὶ ἀρξάμενος ἀπὸ Μωϋσέως καὶ ἀπὸ πάντων τῶν προφητῶν διερμήνευσεν αὐτοῖς ἐν πάσαις ταῖς γραφαῖς τὰ περὶ ἑαυτοῦ. 
+
+[28] Καὶ ἤγγισαν εἰς τὴν κώμην οὗ ἐπορεύοντο, καὶ αὐτὸς προσεποιήσατο πορρώτερον πορεύεσθαι. 
+[29] καὶ παρεβιάσαντο αὐτὸν λέγοντες, Μεῖνον μεθ' ἡμῶν, ὅτι πρὸς ἑσπέραν ἐστὶν καὶ κέκλικεν ἤδη ἡ ἡμέρα. καὶ εἰσῆλθεν τοῦ μεῖναι σὺν αὐτοῖς. 
+[30] καὶ ἐγένετο ἐν τῷ κατακλιθῆναι αὐτὸν μετ' αὐτῶν λαβὼν τὸν ἄρτον εὐλόγησεν καὶ κλάσας ἐπεδίδου αὐτοῖς: 
+[31] αὐτῶν δὲ διηνοίχθησαν οἱ ὀφθαλμοὶ καὶ ἐπέγνωσαν αὐτόν: καὶ αὐτὸς ἄφαντος ἐγένετο ἀπ' αὐτῶν. 
+[32] καὶ εἶπαν πρὸς ἀλλήλους, Οὐχὶ ἡ καρδία ἡμῶν καιομένη ἦν [ἐν ἡμῖν] ὡς ἐλάλει ἡμῖν ἐν τῇ ὁδῷ, ὡς διήνοιγεν ἡμῖν τὰς γραφάς; 
+[33] καὶ ἀναστάντες αὐτῇ τῇ ὥρᾳ ὑπέστρεψαν εἰς Ἰερουσαλήμ, καὶ εὗρον ἠθροισμένους τοὺς ἕνδεκα καὶ τοὺς σὺν αὐτοῖς, 
+[34] λέγοντας ὅτι ὄντως ἠγέρθη ὁ κύριος καὶ ὤφθη Σίμωνι. 
+[35] καὶ αὐτοὶ ἐξηγοῦντο τὰ ἐν τῇ ὁδῷ καὶ ὡς ἐγνώσθη αὐτοῖς ἐν τῇ κλάσει τοῦ ἄρτου.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 196 _I Am Content! My Jesus Liveth Still_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+_TLH_ 194 _Abide with Us, the Day is Waning_ is based on the sermon text.
