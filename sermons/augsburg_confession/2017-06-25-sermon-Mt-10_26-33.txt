@@ -1,0 +1,89 @@
+% Augsburg Confession
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Ne 8:1‑12 ESV]
+
+[1]  And all the people gathered as one man into the square before the Water Gate. And they told Ezra the scribe to bring the Book of the Law of Moses that the Lord had commanded Israel. 
+[2]  So Ezra the priest brought the Law before the assembly, both men and women and all who could understand what they heard, on the first day of the seventh month. 
+[3]  And he read from it facing the square before the Water Gate from early morning until midday, in the presence of the men and the women and those who could understand. And the ears of all the people were attentive to the Book of the Law. 
+[4]  And Ezra the scribe stood on a wooden platform that they had made for the purpose. And beside him stood Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah on his right hand, and Pedaiah, Mishael, Malchijah, Hashum, Hashbaddanah, Zechariah, and Meshullam on his left hand. 
+[5]  And Ezra opened the book in the sight of all the people, for he was above all the people, and as he opened it all the people stood. 
+[6]  And Ezra blessed the Lord, the great God, and all the people answered, “Amen, Amen,” lifting up their hands. And they bowed their heads and worshiped the Lord with their faces to the ground. 
+[7]  Also Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, the Levites,[a] helped the people to understand the Law, while the people remained in their places. 
+[8]  They read from the book, from the Law of God, clearly, and they gave the sense, so that the people understood the reading. 
+
+[9]  And Nehemiah, who was the governor, and Ezra the priest and scribe, and the Levites who taught the people said to all the people, “This day is holy to the Lord your God; do not mourn or weep.” For all the people wept as they heard the words of the Law. 
+[10]  Then he said to them, “Go your way. Eat the fat and drink sweet wine and send portions to anyone who has nothing ready, for this day is holy to our Lord. And do not be grieved, for the joy of the Lord is your strength.” 
+[11]  So the Levites calmed all the people, saying, “Be quiet, for this day is holy; do not be grieved.” 
+[12]  And all the people went their way to eat and drink and to send portions and to make great rejoicing, because they had understood the words that were declared to them.
+
+## Epistle [1Ti 6:11b‑16 ESV]
+
+[11b] Pursue righteousness, godliness, faith, love, steadfastness, gentleness. 
+[12]  Fight the good fight of the faith. Take hold of the eternal life to which you were called and about which you made the good confession in the presence of many witnesses. 
+[13]  I charge you in the presence of God, who gives life to all things, and of Christ Jesus, who in his testimony before[d] Pontius Pilate made the good confession, 
+[14]  to keep the commandment unstained and free from reproach until the appearing of our Lord Jesus Christ, 
+[15]  which he will display at the proper time—he who is the blessed and only Sovereign, the King of kings and Lord of lords, 
+[16]  who alone has immortality, who dwells in unapproachable light, whom no one has ever seen or can see. To him be honor and eternal dominion. Amen.
+
+## Holy Gospel [Mt 10:26‑33 ESV; sermon text]
+
+[26]  "So have no fear of them, for nothing is covered that will not be revealed, or hidden that will not be known. 
+[27]  What I tell you in the dark, say in the light, and what you hear whispered, proclaim on the housetops. 
+[28]  And do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in hell.[h] 
+[29]  Are not two sparrows sold for a penny?[i] And not one of them will fall to the ground apart from your Father. 
+[30]  But even the hairs of your head are all numbered. 
+[31]  Fear not, therefore; you are of more value than many sparrows. 
+[32]  So everyone who acknowledges me before men, I also will acknowledge before my Father who is in heaven, 
+[33]  but whoever denies me before men, I also will deny before my Father who is in heaven."
+
+------------
+
+[26] Μὴ οὖν φοβηθῆτε αὐτούς: οὐδὲν γάρ ἐστιν κεκαλυμμένον ὃ οὐκ ἀποκαλυφθήσεται, καὶ κρυπτὸν ὃ οὐ γνωσθήσεται. 
+[27] ὃ λέγω ὑμῖν ἐν τῇ σκοτίᾳ, εἴπατε ἐν τῷ φωτί: καὶ ὃ εἰς τὸ οὖς ἀκούετε, κηρύξατε ἐπὶ τῶν δωμάτων. 
+[28] καὶ μὴ φοβεῖσθε ἀπὸ τῶν ἀποκτεννόντων τὸ σῶμα, τὴν δὲ ψυχὴν μὴ δυναμένων ἀποκτεῖναι: φοβεῖσθε δὲ μᾶλλον τὸν δυνάμενον καὶ ψυχὴν καὶ σῶμα ἀπολέσαι ἐν γεέννῃ. 
+[29] οὐχὶ δύο στρουθία ἀσσαρίου πωλεῖται; καὶ ἓν ἐξ αὐτῶν οὐ πεσεῖται ἐπὶ τὴν γῆν ἄνευ τοῦ πατρὸς ὑμῶν. 
+[30] ὑμῶν δὲ καὶ αἱ τρίχες τῆς κεφαλῆς πᾶσαι ἠριθμημέναι εἰσίν. 
+[31] μὴ οὖν φοβεῖσθε: πολλῶν στρουθίων διαφέρετε ὑμεῖς. 
+[32] Πᾶς οὖν ὅστις ὁμολογήσει ἐν ἐμοὶ ἔμπροσθεν τῶν ἀνθρώπων, ὁμολογήσω κἀγὼ ἐν αὐτῷ ἔμπροσθεν τοῦ πατρός μου τοῦ ἐν [τοῖς] οὐρανοῖς: 
+[33] ὅστις δ' ἂν ἀρνήσηταί με ἔμπροσθεν τῶν ἀνθρώπων, ἀρνήσομαι κἀγὼ αὐτὸν ἔμπροσθεν τοῦ πατρός μου τοῦ ἐν [τοῖς] οὐρανοῖς.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 999 _ZZZ_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
