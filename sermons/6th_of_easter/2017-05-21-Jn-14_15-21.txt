@@ -1,0 +1,71 @@
+% 6th of Easter
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## First Reading [Ac 17:16‑31 ESV]
+
+[16] Now while Paul was waiting for them at Athens, his spirit was provoked within him as he saw that the city was full of idols. [17] So he reasoned in the synagogue with the Jews and the devout persons, and in the marketplace every day with those who happened to be there. [18] Some of the Epicurean and Stoic philosophers also conversed with him. And some said, “What does this babbler wish to say?” Others said, “He seems to be a preacher of foreign divinities”—because he was preaching Jesus and the resurrection. [19] And they took him and brought him to the Areopagus, saying, “May we know what this new teaching is that you are presenting? [20] For you bring some strange things to our ears. We wish to know therefore what these things mean.” [21] Now all the Athenians and the foreigners who lived there would spend their time in nothing except telling or hearing something new.
+
+[22] So Paul, standing in the midst of the Areopagus, said: “Men of Athens, I perceive that in every way you are very religious. [23] For as I passed along and observed the objects of your worship, I found also an altar with this inscription: ‘To the unknown god.’ What therefore you worship as unknown, this I proclaim to you. [24] The God who made the world and everything in it, being Lord of heaven and earth, does not live in temples made by man, [25] nor is he served by human hands, as though he needed anything, since he himself gives to all mankind life and breath and everything. [26] And he made from one man every nation of mankind to live on all the face of the earth, having determined allotted periods and the boundaries of their dwelling place, [27] that they should seek God, and perhaps feel their way toward him and find him. Yet he is actually not far from each one of us, [28] for
+
+> “‘In him we live and move and have our being’;
+
+as even some of your own poets have said,
+
+> “‘For we are indeed his offspring.’
+
+[29] Being then God's offspring, we ought not to think that the divine being is like gold or silver or stone, an image formed by the art and imagination of man. [30] The times of ignorance God overlooked, but now he commands all people everywhere to repent, [31] because he has fixed a day on which he will judge the world in righteousness by a man whom he has appointed; and of this he has given assurance to all by raising him from the dead.”
+
+## Epistle [1Pe 3:13‑22 ESV]
+
+[13] Now who is there to harm you if you are zealous for what is good? [14] But even if you should suffer for righteousness' sake, you will be blessed. Have no fear of them, nor be troubled, [15] but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect, [16] having a good conscience, so that, when you are slandered, those who revile your good behavior in Christ may be put to shame. [17] For it is better to suffer for doing good, if that should be God's will, than for doing evil.
+
+[18] For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit, [19] in which he went and proclaimed to the spirits in prison, [20] because they formerly did not obey, when God's patience waited in the days of Noah, while the ark was being prepared, in which a few, that is, eight persons, were brought safely through water. [21] Baptism, which corresponds to this, now saves you, not as a removal of dirt from the body but as an appeal to God for a good conscience, through the resurrection of Jesus Christ, [22] who has gone into heaven and is at the right hand of God, with angels, authorities, and powers having been subjected to him.
+
+## Holy Gospel [Jn 14:15‑21 ESV; sermon text]
+
+[15] “If you love me, you will keep my commandments. [16] And I will ask the Father, and he will give you another Helper, to be with you forever, [17] even the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him. You know him, for he dwells with you and will be in you.
+
+[18] “I will not leave you as orphans; I will come to you. [19] Yet a little while and the world will see me no more, but you will see me. Because I live, you also will live. [20] In that day you will know that I am in my Father, and you in me, and I in you. [21] Whoever has my commandments and keeps them, he it is who loves me. And he who loves me will be loved by my Father, and I will love him and manifest myself to him.” [22] Judas (not Iscariot) said to him, “Lord, how is it that you will manifest yourself to us, and not to the world?”
+
+------------
+
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 349 _Jesus, Thy Boundless Love to Me_ st 1‑2, 4, 7
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
