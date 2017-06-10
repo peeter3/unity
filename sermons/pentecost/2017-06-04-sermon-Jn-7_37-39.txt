@@ -1,0 +1,162 @@
+% Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* Pastor is reader.
+
+## Announcements
+
+* Please pray for Joyce in her weakness.
+* Rich speaks again after service re Rummage Sale.
+
+## Old Testament [Nm 11:24‑30 ESV]
+
+[24] So Moses went out and told the people the words of the LORD. And he gathered seventy men of the elders of the people and placed them around the tent. [25] Then the LORD came down in the cloud and spoke to him, and took some of the Spirit that was on him and put it on the seventy elders. And as soon as the Spirit rested on them, they prophesied. But they did not continue doing it.
+
+[26] Now two men remained in the camp, one named Eldad, and the other named Medad, and the Spirit rested on them. They were among those registered, but they had not gone out to the tent, and so they prophesied in the camp. [27] And a young man ran and told Moses, “Eldad and Medad are prophesying in the camp.” [28] And Joshua the son of Nun, the assistant of Moses from his youth, said, “My lord Moses, stop them.” [29] But Moses said to him, “Are you jealous for my sake? Would that all the LORD's people were prophets, that the LORD would put his Spirit on them!” [30] And Moses and the elders of Israel returned to the camp.
+
+## Epistle [Ac 2:1‑21 ESV]
+
+[1] When the day of Pentecost arrived, they were all together in one place. [2] And suddenly there came from heaven a sound like a mighty rushing wind, and it filled the entire house where they were sitting. [3] And divided tongues as of fire appeared to them and rested on each one of them. [4] And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit gave them utterance.
+
+[5] Now there were dwelling in Jerusalem Jews, devout men from every nation under heaven. [6] And at this sound the multitude came together, and they were bewildered, because each one was hearing them speak in his own language. [7] And they were amazed and astonished, saying, “Are not all these who are speaking Galileans? [8] And how is it that we hear, each of us in his own native language? [9] Parthians and Medes and Elamites and residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia, [10] Phrygia and Pamphylia, Egypt and the parts of Libya belonging to Cyrene, and visitors from Rome, [11] both Jews and proselytes, Cretans and Arabians—we hear them telling in our own tongues the mighty works of God.” [12] And all were amazed and perplexed, saying to one another, “What does this mean?” [13] But others mocking said, “They are filled with new wine.”
+
+[14] But Peter, standing with the eleven, lifted up his voice and addressed them: “Men of Judea and all who dwell in Jerusalem, let this be known to you, and give ear to my words. [15] For these people are not drunk, as you suppose, since it is only the third hour of the day. [16] But this is what was uttered through the prophet Joel:
+
+> [17] “‘And in the last days it shall be, God declares,\
+> that I will pour out my Spirit on all flesh,\
+> and your sons and your daughters shall prophesy,\
+> and your young men shall see visions,\
+> and your old men shall dream dreams;\
+> [18] even on my male servants and female servants\
+> in those days I will pour out my Spirit, and they shall prophesy.\
+> [19] And I will show wonders in the heavens above\
+> and signs on the earth below,\
+> blood, and fire, and vapor of smoke;\
+> [20] the sun shall be turned to darkness\
+> and the moon to blood,\
+> before the day of the Lord comes, the great and magnificent day.\
+> [21] And it shall come to pass that everyone who calls upon the name of the Lord shall be saved.’”	
+
+## Holy Gospel [Jn 7:37‑39 ESV; sermon text]
+
+[37] On the last day of the feast, the great day, Jesus stood up and cried out, “If anyone thirsts, let him come to me and drink. [38] Whoever believes in me, as the Scripture has said, ‘Out of his heart will flow rivers of living water.’” [39] Now this he said about the Spirit, whom those who believed in him were to receive, for as yet the Spirit had not been given, because Jesus was not yet glorified.
+
+------------
+
+[37] Ἐν δὲ τῇ ἐσχάτῃ ἡμέρᾳ τῇ μεγάλῃ τῆς ἑορτῆς εἱστήκει ὁ Ἰησοῦς καὶ ἔκραξεν λέγων, Ἐάν τις διψᾷ ἐρχέσθω πρός με καὶ πινέτω. 
+[38] ὁ πιστεύων εἰς ἐμέ, καθὼς εἶπεν ἡ γραφή, ποταμοὶ ἐκ τῆς κοιλίας αὐτοῦ ῥεύσουσιν ὕδατος ζῶντος. 
+[39] τοῦτο δὲ εἶπεν περὶ τοῦ πνεύματος ὃ ἔμελλον λαμβάνειν οἱ πιστεύσαντες εἰς αὐτόν: οὔπω γὰρ ἦν πνεῦμα, ὅτι Ἰησοῦς οὐδέπω ἐδοξάσθη.
+
+## Introit [Ps 104:24, 27-28, 30; antiphon: Liturgical Text]
+
+> Come, Holy Spirit, fill the hearts of the | faithful,\*\
+> and kindle in them the fire of your love. Alle- | luia.\
+> O LORD, how manifold are your works! In wisdom have you | made them all;\*\
+> the earth is full of your | creatures.\
+> These all | look to you,\*\
+> to give them their food in due | season.\
+> When you give it to them, they gath- | er it up;\*\
+> when you open your hand, they are filled with | good things.\
+> When you send forth your Spirit, they are cre- | ated,\*\
+> and you renew the face | of the ground.\
+
+## Collect
+
+O God, on this day You once taught the hearts of Your faithful people by sending them the light of Your Holy Spirit. Grant us in our day by the same Spirit to have a right understanding in all things and evermore to rejoice in His holy consolation; through Jesus Christ, Your Son, our Lord,who lives and reigns with You and the Holy Spirit	one God, now and forever. Amen.
+
+## Hymns
+
+* Opening hymn: _TLH_ 233 _Come, Holy Ghose, Creator Blest_
+* Sermon hymn: _TLH_ 371 _Jesus, Thy Blood and Righteousness_
+* Closing hymn: _TLH_ 236 _Creator Spirit, by Whose Aid_
+
+## Sermon
+
+Beloved in the Lord, were are gathered here today for the Feast of Pentecost. Alleluia!
+The Feast of Pentecost requires no build-up on my part, for our Lord Jesus Christ builds it up Himself.
+To the woman at the well---you may recall the Holy Gospel back from the 3rd Sunday in Lent---to the woman at the well He says,
+**“Everyone who drinks of this water will be thirsty again, but whoever drinks of the water that I will give him will _never be thirsty again_. The water that I will give him will become in him a spring of water welling up to eternal life”** [(Jn 4:13‑14 ESV)](https://www.esv.org/John+4/).
+Beloved in the Lord, what would *you* give to never be thirsty again?
+This is what Jesus offers for free.
+I want it, and that is quite a build-up from our Lord: to offer us such water that we never thirst again.
+
+At this point, remember the woman at the well's thrist and remember our own thirst.
+For she and Jesus are drawn to the well to quench bodily thirst---so that they may draw water out of the well and drink it.
+We had a taste of heat this week with more to come.
+Did you experience bodily thirst this week?
+When you are *really* thirsty, your body simply does not work anymore.
+You may stagger, fall---you simply cannot function or think straight anymore.
+Let bodily thirst be a picture of our spiritual thirst.
+
+Sin causes a thirst in our souls so that we are disfunctional---spiritually disfunctional.
+We may be alive and talking, and even look normal from the outside, but on the *inside* we stagger and babble.
+Spiritual thirst caused by sin means we cannot truly fear God, we cannot be truly confident that God hears our prayer, we cannot be willing to obey God in death or life, we cannot help but covet (Ap IV (II), 27), we cannot help but commit adultery---spiritual thirst, in a real way, keeps us from being able to do anything.
+*No good*---that is who we are because of sin.
+It does not wear well to be called *No good*.
+*No good* takes us out of God's game and puths us in the devil's game.
+We do our best only to find Satan there to congratulate us when we stagger across home plate.
+"Here, have a cup of water." And he tosses it into the dirt and makes us go to bat again for his team.
+That is the life of spiritual thirst playing for Satan's team.
+
+For you and I who confess our spiritual thirst---to us sinners who hunger and thirst for righteousness (Mt 5:6), Jesus offers us the water so that we will never be thristy again.
+
+> *Jesus, Thy blood and righteousness*\
+> *My beauty are, my glorious dress.*
+
+The Holy Spirit, who quenches our spiritual thirst, declares to us Christ crucified for us sinners.
+He offers forgiveness by atoning for our sins Himself.
+We are helpless to do anything spiritual that pleases God---our spirtual thirst makes us no good for anything that matters to God but to stagger around and make the devil happy.
+Christ went to the Cross all by Himself to face His Father's anger over our worthlessness.
+He was forsaken by His Father over our sins; He shed His blood on the Cross for us sinners.
+Yet we believe that Jesus was punished severely for not having done anything wrong.
+Jesus is the *sinless* Lamb of God who takes away the sins of the world---Jesus is the *righteous* Lamb of God who takes away the sins of the world.
+Jesus is *righteous* before God---His *righteousness* means that everything He says and does is tested by God and never lacking---Christ is perfect, He is *righteous*, and He gets all the credit.
+Who gets the credit? No, not Christ alone, but *we get Christ's credit, too!*
+Christ's righteousness---the credit Christ receives for having done all things right and without sin---is credited to us who believe.
+
+Beloved in the Lord, the Holy Spirit quenches your spiritual thirst for righteousness by proclaiming to you---you, the chief of sinners, get Christ's full credit because He Jesus shed His blood for you.
+Christ shed His blood for the sinners' team and the whole team wins. Alleulia!
+By faith in His blood, beloved in the Lord, you receive not only forgiveness for your sins, but you receive Christ's own righteousness as a new set of clothes given to you in Baptism.
+Christ cleans you up and puts Himself on you as your new clothes to wear as you stand before Him when He judges the living and the dead.
+
+Yet Christ says not only that we will never thirst, but that *out of our hearts flows living water*.
+Note the name change.
+We are no longer *No good*: we are *a flowing river, a bubbling spring*.
+This reflects back to our spiritual thirst.
+At that time, we were not only no good to God, but no good to anyone else---we brought only harm to others---and we shudder to think about it---but we only brought spiritual thirst to those who came in contact with us.
+We were not good to anyone.
+But, beloved in the Lord,
+
+|       YOU ARE A FLOWING RIVER, A BUBBLING SPRING.         |
+|:-----------------------------------------------:|
+
+The gift of the Holy Spirit, given to you by faith and Baptism, makes you a source of water for those who have spiritual thirst.
+
+AMEN.
+
+## Outline
+
+|       YOU ARE A FLOWING RIVER, A BUBBLING SPRING.         |
+|:-----------------------------------------------:|
+
+1. Recall the woman at the well.
+    1. Jesus promised living waters: **"The water that I will give him will become in him a spring of water welling up to eternal life”** (Jn 4:14)
+    1. Reflect on our dire thirst caused by our own sin.
+    1. Now we know exactly what the living waters are: the Holy Spirit.
+    1. Jesus says, "Out of your hear will flow rivers of living water."
+1. You are a flowing river, a bubbling spring.
+    1. What have others called you?
+    1. Has anyone ever called you a river? You are a flowing river.
+1. You have more than you need.
+    1. You have forgiveness.
+    1. The Holy Spirit is extra.
+        1. John's Baptism gave forgiveness (Mk 1:4).
+        1. Jesus' Baptism adds the Holy Spirit.
+
+## Notes
+
+Nm 11:29. Is everyone with the Holy Spirit a prophet? Ac 2:18 says, "Yes."
+
+Jn 7:38. κοιλίας means *belly* (Mt 12:40) or *womb* (Jn 3:4). For this verse, it may be interpreted as *seat of inward life*.
