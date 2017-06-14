@@ -1,0 +1,95 @@
+% 2nd after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* Thank you to everyone who helped at the rummage sale.
+
+## Old Testament [Ex 19:2‑8 ESV]
+
+[2] They set out from Rephidim and came into the wilderness of Sinai, and they encamped in the wilderness. There Israel encamped before the mountain, [3] while Moses went up to God. The LORD called to him out of the mountain, saying, “Thus you shall say to the house of Jacob, and tell the people of Israel: [4] ‘You yourselves have seen what I did to the Egyptians, and how I bore you on eagles' wings and brought you to myself. [5] Now therefore, if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine; [6] and you shall be to me a kingdom of priests and a holy nation.’ These are the words that you shall speak to the people of Israel.”
+
+[7] So Moses came and called the elders of the people and set before them all these words that the LORD had commanded him. [8] All the people answered together and said, “All that the LORD has spoken we will do.” And Moses reported the words of the people to the LORD.
+
+## Epistle [Rm 5:6‑15 ESV]
+
+[6] For while we were still weak, at the right time Christ died for the ungodly. [7] For one will scarcely die for a righteous person—though perhaps for a good person one would dare even to die—[8] but God shows his love for us in that while we were still sinners, Christ died for us. [9] Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God. [10] For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life. [11] More than that, we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation.
+
+[12] Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned—[13] for sin indeed was in the world before the law was given, but sin is not counted where there is no law. [14] Yet death reigned from Adam to Moses, even over those whose sinning was not like the transgression of Adam, who was a type of the one who was to come.
+
+[15] But the free gift is not like the trespass. For if many died through one man's trespass, much more have the grace of God and the free gift by the grace of that one man Jesus Christ abounded for many.
+
+## Holy Gospel [Mt 9:35‑10:20 ESV; sermon text]
+
+[35] And Jesus went throughout all the cities and villages, teaching in their synagogues and proclaiming the gospel of the kingdom and healing every disease and every affliction. [36] When he saw the crowds, he had compassion for them, because they were harassed and helpless, like sheep without a shepherd. [37] Then he said to his disciples, “The harvest is plentiful, but the laborers are few; [38] therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”
+
+[10:1] And he called to him his twelve disciples and gave them authority over unclean spirits, to cast them out, and to heal every disease and every affliction. [2] The names of the twelve apostles are these: first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother; [3] Philip and Bartholomew; Thomas and Matthew the tax collector; James the son of Alphaeus, and Thaddaeus; [4] Simon the Zealot, and Judas Iscariot, who betrayed him.
+
+[5] These twelve Jesus sent out, instructing them, “Go nowhere among the Gentiles and enter no town of the Samaritans, [6] but go rather to the lost sheep of the house of Israel. [7] And proclaim as you go, saying, ‘The kingdom of heaven is at hand.’ [8] Heal the sick, raise the dead, cleanse lepers, cast out demons. You received without paying; give without pay. [9] Acquire no gold or silver or copper for your belts, [10] no bag for your journey, or two tunics or sandals or a staff, for the laborer deserves his food. [11] And whatever town or village you enter, find out who is worthy in it and stay there until you depart. [12] As you enter the house, greet it. [13] And if the house is worthy, let your peace come upon it, but if it is not worthy, let your peace return to you. [14] And if anyone will not receive you or listen to your words, shake off the dust from your feet when you leave that house or town. [15] Truly, I say to you, it will be more bearable on the day of judgment for the land of Sodom and Gomorrah than for that town.
+
+[16] “Behold, I am sending you out as sheep in the midst of wolves, so be wise as serpents and innocent as doves. [17] Beware of men, for they will deliver you over to courts and flog you in their synagogues, [18] and you will be dragged before governors and kings for my sake, to bear witness before them and the Gentiles. [19] When they deliver you over, do not be anxious how you are to speak or what you are to say, for what you are to say will be given to you in that hour. [20] For it is not you who speak, but the Spirit of your Father speaking through you.
+
+------------
+
+[35] Καὶ περιῆγεν ὁ Ἰησοῦς τὰς πόλεις πάσας καὶ τὰς κώμας, διδάσκων ἐν ταῖς συναγωγαῖς αὐτῶν καὶ κηρύσσων τὸ εὐαγγέλιον τῆς βασιλείας καὶ θεραπεύων πᾶσαν νόσον καὶ πᾶσαν μαλακίαν. 
+[36] Ἰδὼν δὲ τοὺς ὄχλους ἐσπλαγχνίσθη περὶ αὐτῶν ὅτι ἦσαν ἐσκυλμένοι καὶ ἐρριμμένοι ὡσεὶ πρόβατα μὴ ἔχοντα ποιμένα. 
+[37] τότε λέγει τοῖς μαθηταῖς αὐτοῦ, Ὁ μὲν θερισμὸς πολύς, οἱ δὲ ἐργάται ὀλίγοι: 
+[38] δεήθητε οὖν τοῦ κυρίου τοῦ θερισμοῦ ὅπως ἐκβάλῃ ἐργάτας εἰς τὸν θερισμὸν αὐτοῦ.
+
+[10:1] Καὶ προσκαλεσάμενος τοὺς δώδεκα μαθητὰς αὐτοῦ ἔδωκεν αὐτοῖς ἐξουσίαν πνευμάτων ἀκαθάρτων ὥστε ἐκβάλλειν αὐτὰ καὶ θεραπεύειν πᾶσαν νόσον καὶ πᾶσαν μαλακίαν. 
+[2] Τῶν δὲ δώδεκα ἀποστόλων τὰ ὀνόματά ἐστιν ταῦτα: πρῶτος Σίμων ὁ λεγόμενος Πέτρος καὶ Ἀνδρέας ὁ ἀδελφὸς αὐτοῦ, καὶ Ἰάκωβος ὁ τοῦ Ζεβεδαίου καὶ Ἰωάννης ὁ ἀδελφὸς αὐτοῦ, 
+[3] Φίλιππος καὶ Βαρθολομαῖος, Θωμᾶς καὶ Μαθθαῖος ὁ τελώνης, Ἰάκωβος ὁ τοῦ Ἁλφαίου καὶ Θαδδαῖος, 
+[4] Σίμων ὁ Καναναῖος καὶ Ἰούδας ὁ Ἰσκαριώτης ὁ καὶ παραδοὺς αὐτόν. 
+
+[5] Τούτους τοὺς δώδεκα ἀπέστειλεν ὁ Ἰησοῦς παραγγείλας αὐτοῖς λέγων, Εἰς ὁδὸν ἐθνῶν μὴ ἀπέλθητε, καὶ εἰς πόλιν Σαμαριτῶν μὴ εἰσέλθητε: 
+[6] πορεύεσθε δὲ μᾶλλον πρὸς τὰ πρόβατα τὰ ἀπολωλότα οἴκου Ἰσραήλ. 
+[7] πορευόμενοι δὲ κηρύσσετε λέγοντες ὅτι Ἤγγικεν ἡ βασιλεία τῶν οὐρανῶν. 
+[8] ἀσθενοῦντας θεραπεύετε, νεκροὺς ἐγείρετε, λεπροὺς καθαρίζετε, δαιμόνια ἐκβάλλετε: δωρεὰν ἐλάβετε, δωρεὰν δότε. 
+[9] Μὴ κτήσησθε χρυσὸν μηδὲ ἄργυρον μηδὲ χαλκὸν εἰς τὰς ζώνας ὑμῶν, 
+[10] μὴ πήραν εἰς ὁδὸν μηδὲ δύο χιτῶνας μηδὲ ὑποδήματα μηδὲ ῥάβδον: ἄξιος γὰρ ὁ ἐργάτης τῆς τροφῆς αὐτοῦ. 
+[11] εἰς ἣν δ' ἂν πόλιν ἢ κώμην εἰσέλθητε, ἐξετάσατε τίς ἐν αὐτῇ ἄξιός ἐστιν: κἀκεῖ μείνατε ἕως ἂν ἐξέλθητε. 
+[12] εἰσερχόμενοι δὲ εἰς τὴν οἰκίαν ἀσπάσασθε αὐτήν: 
+[13] καὶ ἐὰν μὲν ᾖ ἡ οἰκία ἀξία, ἐλθάτω ἡ εἰρήνη ὑμῶν ἐπ' αὐτήν: ἐὰν δὲ μὴ ᾖ ἀξία, ἡ εἰρήνη ὑμῶν πρὸς ὑμᾶς ἐπιστραφήτω. 
+[14] καὶ ὃς ἂν μὴ δέξηται ὑμᾶς μηδὲ ἀκούσῃ τοὺς λόγους ὑμῶν, ἐξερχόμενοι ἔξω τῆς οἰκίας ἢ τῆς πόλεως ἐκείνης ἐκτινάξατε τὸν κονιορτὸν τῶν ποδῶν ὑμῶν. 
+[15] ἀμὴν λέγω ὑμῖν, ἀνεκτότερον ἔσται γῇ Σοδόμων καὶ Γομόρρων ἐν ἡμέρᾳ κρίσεως ἢ τῇ πόλει ἐκείνῃ. 
+
+[16] Ἰδοὺ ἐγὼ ἀποστέλλω ὑμᾶς ὡς πρόβατα ἐν μέσῳ λύκων: γίνεσθε οὖν φρόνιμοι ὡς οἱ ὄφεις καὶ ἀκέραιοι ὡς αἱ περιστεραί. 
+[17] προσέχετε δὲ ἀπὸ τῶν ἀνθρώπων: παραδώσουσιν γὰρ ὑμᾶς εἰς συνέδρια, καὶ ἐν ταῖς συναγωγαῖς αὐτῶν μαστιγώσουσιν ὑμᾶς: 
+[18] καὶ ἐπὶ ἡγεμόνας δὲ καὶ βασιλεῖς ἀχθήσεσθε ἕνεκεν ἐμοῦ εἰς μαρτύριον αὐτοῖς καὶ τοῖς ἔθνεσιν. 
+[19] ὅταν δὲ παραδῶσιν ὑμᾶς, μὴ μεριμνήσητε πῶς ἢ τί λαλήσητε: δοθήσεται γὰρ ὑμῖν ἐν ἐκείνῃ τῇ ὥρᾳ τί λαλήσητε: 
+[20] οὐ γὰρ ὑμεῖς ἐστε οἱ λαλοῦντες ἀλλὰ τὸ πνεῦμα τοῦ πατρὸς ὑμῶν τὸ λαλοῦν ἐν ὑμῖν.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 239 _Come, Thou Almighty King_
+* Sermon hymn: _TLH_ 443 _O Lord of Heaven and Earth and Sea_
+* Closing hymn: _TLH_ 252 _We All Believe in One True God_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
