@@ -1,0 +1,30 @@
+% From the Pastor
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+Dear congregation, we will make a big deal out of the Reformation this year, and even into next year.
+Martin Luther nailed the 95 Theses on the church door on October 31, 1517, and that date has been chosen as the beginning of the Reformation.
+Yet the Augsburg Confession was presented to 
+
+But we are at the cemetery---see the graveyard. Death and the grave is a terrible reality that racks you now with sorrow and one day it will claim your body, too---or so it will seem.
+When death seems so powerful, when the grave seems inevitable---beloved in the Lord---remember that God never created either of them---God never created death and the grave.
+I have no need to remind you that God created your beloved---and I mean *beautiful*---family members to *live*.
+He created them *alive* and in *His own image*---male and female He created them to be fruitful and multiply and fill the earth and subdue it (Gn 1).
+God did not create death: He is the author of life.
+
+You may recall that soon after Pentecost, the apostle Peter healed a lame beggar.
+
+> **Peter said [to the beggar], “I have no silver and gold, but what I do have I give to you. In the name of Jesus Christ of Nazareth, rise up and walk!” And he took him by the right hand and raised him up, and immediately his feet and ankles were made strong. And leaping up, he stood and began to walk, and entered the temple with them, walking and leaping and praising God.** [(Ac 3:6‑9 ESV)](https://www.esv.org/Acts+3/)
+
+This healing happened at the temple in Jerusalem, where many people were watching.
+Peter turned to the people and said,
+
+> **The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified his servant Jesus, whom you delivered over and denied in the presence of Pilate, when he had decided to release him. But you denied the Holy and Righteous One, and asked for a murderer to be granted to you, and *you killed the Author of life*, whom God raised from the dead. To this we are witnesses. And his name—by faith in his name—has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all.** [(Ac 3:13‑16 ESV)](https://www.esv.org/Acts+3/)
+
+Please allow me to tell you what a good job our Lord Jesus has done.
+Suppose someone comes into your workplace and is able to do your job and double sales *and* clean the toilets.
+Suppose that person is so good that when you go to work you have nothing to do.
+How long would you be on the payroll?
+
+Beloved in the Lord, Jesus has put death and the grave out of a job. For those who believe in Him for the forgiveness of their sins, death and the grave are defeated and life itself is granted.
+**Precious in the sight of the LORD is the death of his saints.**
+AMEN.
