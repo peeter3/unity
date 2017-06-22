@@ -1,7 +1,31 @@
 % From the Pastor
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
-Dear congregation, we will make a big deal out of the Reformation this year, and even into next year.
+Dear Unity family, celebrating the 500th anniversary of the Reformation is a big deal, but not because we are Lutherans.
+We are Christians, and we know Christ to be the light of the world (Jn 12:46), as the prophet Isaiah foretold:
+
+> **The people who walked in darkness have seen a great light;**\
+> **those who dwelt in a land of deep darkness, on them has light shone.** (Isaiah 9:2 ESV)
+
+The darkness is the dreadful tyranny of sin, death, and the devil.
+The darkness, as you know, entered the Garden of Eden through Satan's lie and overcame Adam and Eve (Genesis 3) and spread to all men because all sinned (Romans 5:12).
+
+Ponder your sin and ponder that death will come to claim you because of your sin (1 Corinthians 15:56).
+Do not just sit there: take action.
+Spend money on medical care to postpone your death.
+Make an effort to look younger because when you look older, you look like you are closer to dying.
+The fear of death, the postponement of death, the avoidance of death---call it what you may---is one of your hightest priorities.
+You may even accumulate money just because it make you feel alive.
+There is no doubt that there is something you do to keep death away, but nevertheless, death will take you.
+No matter how hard you try, your works cannot win against the darkness of sin, death, and the devil.
+
+When death seems so powerful, when the grave seems inevitable, remember that God never created either of them. God never created death and the grave.
+
+> **For as in Adam all die, so also in Christ shall all be made alive.** (1 Corinthians 15:22 ESV)
+
+
+By the sin of Adam, you and I were born into that darkness (Psalm 51:5), but thanks be to God that Jesus was born get us out of it (Matthew 1:21).
+
 Martin Luther nailed the 95 Theses on the church door on October 31, 1517, and that date has been chosen as the beginning of the Reformation.
 Yet the Augsburg Confession was presented to 
 
@@ -28,3 +52,8 @@ How long would you be on the payroll?
 Beloved in the Lord, Jesus has put death and the grave out of a job. For those who believe in Him for the forgiveness of their sins, death and the grave are defeated and life itself is granted.
 **Precious in the sight of the LORD is the death of his saints.**
 AMEN.
+
+You may have noticed that many references to Bible verses in the parentheses.
+This is because what we are to know about our salvation is revealed not by man's opinion but by *Scripture alone* (2 Timothy 3:15).
+
+We are Christians and we are the light of the world (Mt 5:14).
