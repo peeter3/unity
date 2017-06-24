@@ -1,16 +1,22 @@
 % From the Pastor
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
-Dear Unity family, celebrating the 500th anniversary of the Reformation is a big deal, but not because we are Lutherans.
-We are Christians, and we know Christ to be the light of the world (Jn 12:46), as the prophet Isaiah foretold:
+Dear Unity family, celebrating the 500th anniversary of the Reformation is a big deal.
+For we are Christians, and we know Christ to be the light of the world (Jn 12:46), as the prophet Isaiah foretold:
 
 > **The people who walked in darkness have seen a great light;**\
 > **those who dwelt in a land of deep darkness, on them has light shone.** (Isaiah 9:2 ESV)
 
-The darkness is the dreadful tyranny of sin, death, and the devil.
-The darkness, as you know, entered the Garden of Eden through Satan's lie and overcame Adam and Eve (Genesis 3) and spread to all men because all sinned (Romans 5:12).
+The darkness is the dreadful tyranny of the devil,
+who lied in the Garden of Eden to undermine Adam and Eve's trust in God.
+Satan's lie and overcame Adam and Eve (Genesis 3) and spread to all men because all sinned (Romans 5:12).
+The tyranny of the devil is to believe that God cannot be trusted.
+The tyranny of the devil is to make an idol to trust instead.
+The tyranny of the devil is to depend on your worthless idol when you are in trouble (Jeremiah 2:28).
+The tyranny of the devil is to become worthless like the idol you worship (Jeremiah 2:5).
+And finally, the tyranny of the devil is to die (John 8:44; Romans 6:23).
 
-Ponder your sin and ponder that death will come to claim you because of your sin (1 Corinthians 15:56).
+Ponder your sin and ponder that death will come to claim you because of it (1 Corinthians 15:56).
 Do not just sit there: take action.
 Spend money on medical care to postpone your death.
 Make an effort to look younger because when you look older, you look like you are closer to dying.
@@ -25,6 +31,9 @@ When death seems so powerful, when the grave seems inevitable, remember that God
 
 
 By the sin of Adam, you and I were born into that darkness (Psalm 51:5), but thanks be to God that Jesus was born get us out of it (Matthew 1:21).
+
+It is a lie that I can trust my good works to save me from sin.
+God is pleased with good works.
 
 Martin Luther nailed the 95 Theses on the church door on October 31, 1517, and that date has been chosen as the beginning of the Reformation.
 Yet the Augsburg Confession was presented to 
