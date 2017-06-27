@@ -1,12 +1,12 @@
 % From the Pastor
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
-Dear Unity family, celebrating the 500th anniversary of the Reformation is a big deal, and I hope many of you will join me in the Reformation March to come in August. We will march from Trinity on West 30th Street to Zion on East 30th, proclaiming Christ to be the light of the world (John 12:46), as the prophet Isaiah foretold:
+Dear Unity family, celebrating the 500th anniversary of the Reformation is a big deal, and I hope many of you will join me in the Reformation March to come in August. We will march from Trinity on West 30th Street to Zion on East 30th, proclaiming the name of Christ, as the prophet Isaiah foretold:
 
 > **The people who walked in darkness have seen a great light;**\
 > **those who dwelt in a land of deep darkness, on them has light shone.** (Isaiah 9:2 ESV)
 
-This deep darkness is not a physical darkness, but a spiritual darkness---the dreadful tyranny of the devil,
+This deep darkness is a spiritual darkness---the dreadful tyranny of the devil,
 who lied in the Garden of Eden that God cannot be trusted.
 Satan's powerful lie overcame Adam and Eve (Genesis 3) and spread to all men because all sinned (Romans 5:12).
 The tyranny of the devil is to believe that God cannot be trusted.
@@ -18,42 +18,51 @@ And finally, the tyranny of the devil is to die (John 8:44; Romans 6:23).
 The tyranny of the devil is dreadful.
 
 Ponder your own sin and that death will claim you (1 Corinthians 15:56), and you will respond in some way to your dread of death.
-You may spend money on medical care.
-You may make an effort to look younger.
-You may even accumulate money or buy things just to make you feel alive.
+You may seek medical care.
+You may try to look younger.
+You may even accumulate money or buy things to make you feel alive.
 The fear of death, the postponement of death, the avoidance of death---call it what you may---it may be your highest priority.
-
 It makes perfect sense that there is something you can do---something, anything to keep death away.
-God tells you to keep His Commandments: You shall have no other gods. You shall not misuse the name of the Lord your God. Love your neighbor as yourself.
-Have you kept them so that you will not die? Or have you rebelled against them under the devil's tyranny?
+God tells you to keep His Commandments: **You shall have no other gods. You shall not misuse the name of the Lord your God. Love your neighbor as yourself.**
+Have you kept them so that you will not die?
 It does make perfect sense to try to do something good to please God to merit life instead of death,
 but the terrible news is that you have failed.
 
 > **"None is righteous, no, not one; no one understands; no one seeks for God. All have turned aside; together they have become worthless; no one does good, not even one." ... For by works of the law no human being will be justified in his sight, since through the law comes knowledge of sin.** (Romans 3:10‑12, 20 ESV)
 
-These *works of the Law* mentioned by the apostle Paul are, in fact, God's Commandments.
-Though the Commandments are good, all have failed, including you; you remain under the devil's dreadful tyranny; prepare to die.
+These *works of the Law* mentioned by the apostle Paul are, in fact, attempts to keep God's Commandments.
+Though trying to keep the Commandments is good, all have failed, including you; you remain under the devil's dreadful tyranny; prepare to die.
 
-Recall, however, that Jesus raised dead people back to life (Mark 5:35‑42; Luke 7:14‑15; John 11:43‑44).
-Remember also that soon after Pentecost, the apostle Peter healed a lame beggar.
+Five hundred years ago the Reformation shined the light of Christ on this dreadful tyrrany.
+For many were falsely taught that they could be confident of being freed from the devil, for example, if they stopped participating in the world and became a monk and did good works. (This is what Martin Luther did.)
+They were falsely taught that Holy Communion benefits the sinner just by going through the motions, not necessarily receiving it by faith in Christ's forgiveness.
+They were falsely taught that their punishment for sin could be reduced by paying money to the pope's church.
+
+The issue raised by the reformers was this: What about Jesus?
+Shine Jesus on the darkness and the tyranny is lifted.
+Jesus raised the dead back to life (Mark 5:35‑42; Luke 7:14‑15; John 11:43‑44).
+On them did light shine.
+By the name of Jesus the apostle Peter healed a lame beggar.
+On the lame beggar did light shine.
 
 > **Peter said [to the beggar], “I have no silver and gold, but what I do have I give to you. In the name of Jesus Christ of Nazareth, rise up and walk!” And he took him by the right hand and raised him up, and immediately his feet and ankles were made strong. And leaping up, he stood and began to walk, and entered the temple with them, walking and leaping and praising God.** [(Acts 3:6‑9 ESV)](https://www.esv.org/Acts+3/)
 
-This healing happened at the temple in Jerusalem, where many people were watching.
-Peter turned to the people and said,
+This healing happened at the temple in Jerusalem, where many were watching.
+Peter turned to them and said,
 
-> **The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified his servant Jesus, whom you delivered over and denied in the presence of Pilate, when he had decided to release him. But you denied the Holy and Righteous One, and asked for a murderer to be granted to you, and you killed *the Author of life*, whom God raised from the dead. To this we are witnesses. And his name---by faith in his name---has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all.** [(Ac 3:13‑16 ESV)](https://www.esv.org/Acts+3/)
+> **The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified his servant Jesus, whom you delivered over and denied in the presence of Pilate, when he had decided to release him. But you denied the Holy and Righteous One, and asked for a murderer to be granted to you, and you killed the Author of life, whom God raised from the dead. To this we are witnesses. And his name---by faith in his name---has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all.** [(Ac 3:13‑16 ESV)](https://www.esv.org/Acts+3/)
 
-Jesus is phenomenal! Not only can He raise the dead, but a no good failure like Peter can heal the lame in His name.
-Consider what a good job your Lord Jesus has done for you.
-Suppose a new worker comes to your job who is so good that he is able to do your job and double sales *and* clean the toilets so that you have nothing to do---just sit around and get paid.
-How long do you suppose would keep your job?
+Not only does Jesus give life in person, but He gives life just as well *by faith in His name*.
+Peter, who had been forgiven his denial by Jesus, had faith in Jesus' name and was able to heal the lame beggar.
+The beggar had faith in Jesus' name and was given perfect health.
+Faith in the name of Jesus is phenomenal!
+Wherever the devil would possess you, afflict you with illness, rack you with guilt, or put you to death,
+there the name of Jesus shines and His voice is heard: **“Your faith has saved you; go in peace”** [(Luke 7:50 ESV)](https://www.esv.org/Luke+7/).
+Believe in His name and trust His Word and you, too, receive perfect forgiveness and all the blessings that come with it.
+The devil releases his grip and Christ comes to rule in your heart.
 
-Beloved in the Lord, Jesus has put death and the grave out of a job. For those who believe in Him for the forgiveness of their sins, death and the grave are defeated and life itself is granted.
-**Precious in the sight of the LORD is the death of his saints.**
-AMEN.
-
-You may have noticed that many references to Bible verses in the parentheses.
-This is because what we are to know about our salvation is revealed not by man's opinion but by *Scripture alone* (2 Timothy 3:15).
-
-We are Christians and we are the light of the world (Mt 5:14).
+In the years preceding the Reformation, the name of Christ was hidden behind saints' names and good works.
+The Reformation restored the name of Christ to His place.
+Yet recently I went to a funeral where the names *Christ* and *Jesus* were not mentioned.
+Christ's name has also been removed from our public schools.
+Christ's name cannot be proclaimed in Muslim countries. The need to put Christ's name in His place remains to this day! May we keep His name on the throne of our hearts but also publicly proclaim it as the light of the world walking in darkness.
