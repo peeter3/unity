@@ -1,0 +1,78 @@
+% 4th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Jer 28:5‑9 ESV]
+
+[5] Then the prophet Jeremiah spoke to Hananiah the prophet in the presence of the priests and all the people who were standing in the house of the LORD, [6] and the prophet Jeremiah said, “Amen! May the LORD do so; may the LORD make the words that you have prophesied come true, and bring back to this place from Babylon the vessels of the house of the LORD, and all the exiles. [7] Yet hear now this word that I speak in your hearing and in the hearing of all the people. [8] The prophets who preceded you and me from ancient times prophesied war, famine, and pestilence against many countries and great kingdoms. [9] As for the prophet who prophesies peace, when the word of that prophet comes to pass, then it will be known that the LORD has truly sent the prophet.”
+
+## Epistle [Rm 7:1‑13 ESV]
+
+[1] Or do you not know, brothers—for I am speaking to those who know the law—that the law is binding on a person only as long as he lives? [2] For a married woman is bound by law to her husband while he lives, but if her husband dies she is released from the law of marriage. [3] Accordingly, she will be called an adulteress if she lives with another man while her husband is alive. But if her husband dies, she is free from that law, and if she marries another man she is not an adulteress.
+
+[4] Likewise, my brothers, you also have died to the law through the body of Christ, so that you may belong to another, to him who has been raised from the dead, in order that we may bear fruit for God. [5] For while we were living in the flesh, our sinful passions, aroused by the law, were at work in our members to bear fruit for death. [6] But now we are released from the law, having died to that which held us captive, so that we serve in the new way of the Spirit and not in the old way of the written code.
+
+[7] What then shall we say? That the law is sin? By no means! Yet if it had not been for the law, I would not have known sin. For I would not have known what it is to covet if the law had not said, “You shall not covet.” [8] But sin, seizing an opportunity through the commandment, produced in me all kinds of covetousness. For apart from the law, sin lies dead. [9] I was once alive apart from the law, but when the commandment came, sin came alive and I died. [10] The very commandment that promised life proved to be death to me. [11] For sin, seizing an opportunity through the commandment, deceived me and through it killed me. [12] So the law is holy, and the commandment is holy and righteous and good.
+
+[13] Did that which is good, then, bring death to me? By no means! It was sin, producing death in me through what is good, in order that sin might be shown to be sin, and through the commandment might become sinful beyond measure.
+
+## Holy Gospel [Mt 10:34‑42 ESV; sermon text]
+
+[34] “Do not think that I have come to bring peace to the earth. I have not come to bring peace, but a sword. [35] For I have come to set a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law. [36] And a person's enemies will be those of his own household. [37] Whoever loves father or mother more than me is not worthy of me, and whoever loves son or daughter more than me is not worthy of me. [38] And whoever does not take his cross and follow me is not worthy of me. [39] Whoever finds his life will lose it, and whoever loses his life for my sake will find it.
+
+[40] “Whoever receives you receives me, and whoever receives me receives him who sent me. [41] The one who receives a prophet because he is a prophet will receive a prophet's reward, and the one who receives a righteous person because he is a righteous person will receive a righteous person's reward. [42] And whoever gives one of these little ones even a cup of cold water because he is a disciple, truly, I say to you, he will by no means lose his reward.”
+
+------------
+
+[34] Μὴ νομίσητε ὅτι ἦλθον βαλεῖν εἰρήνην ἐπὶ τὴν γῆν: οὐκ ἦλθον βαλεῖν εἰρήνην ἀλλὰ μάχαιραν. 
+[35] ἦλθον γὰρ διχάσαι ἄνθρωπον κατὰ τοῦ πατρὸς αὐτοῦ καὶ θυγατέρα κατὰ τῆς μητρὸς αὐτῆς καὶ νύμφην κατὰ τῆς πενθερᾶς αὐτῆς, 
+[36] καὶ ἐχθροὶ τοῦ ἀνθρώπου οἱ οἰκιακοὶ αὐτοῦ. 
+[37] Ὁ φιλῶν πατέρα ἢ μητέρα ὑπὲρ ἐμὲ οὐκ ἔστιν μου ἄξιος: καὶ ὁ φιλῶν υἱὸν ἢ θυγατέρα ὑπὲρ ἐμὲ οὐκ ἔστιν μου ἄξιος: 
+[38] καὶ ὃς οὐ λαμβάνει τὸν σταυρὸν αὐτοῦ καὶ ἀκολουθεῖ ὀπίσω μου, οὐκ ἔστιν μου ἄξιος. 
+[39] ὁ εὑρὼν τὴν ψυχὴν αὐτοῦ ἀπολέσει αὐτήν, καὶ ὁ ἀπολέσας τὴν ψυχὴν αὐτοῦ ἕνεκεν ἐμοῦ εὑρήσει αὐτήν. 
+
+[40] Ὁ δεχόμενος ὑμᾶς ἐμὲ δέχεται, καὶ ὁ ἐμὲ δεχόμενος δέχεται τὸν ἀποστείλαντά με. 
+[41] ὁ δεχόμενος προφήτην εἰς ὄνομα προφήτου μισθὸν προφήτου λήμψεται, καὶ ὁ δεχόμενος δίκαιον εἰς ὄνομα δικαίου μισθὸν δικαίου λήμψεται. 
+[42] καὶ ὃς ἂν ποτίσῃ ἕνα τῶν μικρῶν τούτων ποτήριον ψυχροῦ μόνον εἰς ὄνομα μαθητοῦ, ἀμὴν λέγω ὑμῖν, οὐ μὴ ἀπολέσῃ τὸν μισθὸν αὐτοῦ.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 524 _In Thee, Lord, have I Put My Trust_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord,
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+Jer 27:16‑18; 28:1‑13. Hananiah is a false prophet.
+
+Mt 10:21‑22. **Brother will deliver brother over to death, and the father his child, and children will rise against parents and have them put to death, and you will be hated by all for my name's sake. But the one who endures to the end will be saved.**
