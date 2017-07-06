@@ -1,0 +1,78 @@
+% 5th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Zec 9:9‑12 ESV]
+
+> [9] Rejoice greatly, O daughter of Zion!\
+> Shout aloud, O daughter of Jerusalem!\
+> Behold, your king is coming to you;\
+> righteous and having salvation is he,\
+> humble and mounted on a donkey,\
+> on a colt, the foal of a donkey.\
+> [10] I will cut off the chariot from Ephraim\
+> and the war horse from Jerusalem;\
+> and the battle bow shall be cut off,\
+> and he shall speak peace to the nations;\
+> his rule shall be from sea to sea,\
+> and from the River to the ends of the earth.\
+> [11] As for you also, because of the blood of my covenant with you,\
+> I will set your prisoners free from the waterless pit.\
+> [12] Return to your stronghold, O prisoners of hope;\
+> today I declare that I will restore to you double.
+
+## Epistle [Rm 7:14‑25a ESV]
+
+[14] For we know that the law is spiritual, but I am of the flesh, sold under sin. [15] For I do not understand my own actions. For I do not do what I want, but I do the very thing I hate. [16] Now if I do what I do not want, I agree with the law, that it is good. [17] So now it is no longer I who do it, but sin that dwells within me. [18] For I know that nothing good dwells in me, that is, in my flesh. For I have the desire to do what is right, but not the ability to carry it out. [19] For I do not do the good I want, but the evil I do not want is what I keep on doing. [20] Now if I do what I do not want, it is no longer I who do it, but sin that dwells within me.
+
+[21] So I find it to be a law that when I want to do right, evil lies close at hand. [22] For I delight in the law of God, in my inner being, [23] but I see in my members another law waging war against the law of my mind and making me captive to the law of sin that dwells in my members. [24] Wretched man that I am! Who will deliver me from this body of death? [25a] Thanks be to God through Jesus Christ our Lord!
+
+## Holy Gospel [Mt 11:25‑30 ESV; sermon text]
+
+[25] At that time Jesus declared, “I thank you, Father, Lord of heaven and earth, that you have hidden these things from the wise and understanding and revealed them to little children; [26] yes, Father, for such was your gracious will. [27] All things have been handed over to me by my Father, and no one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him. [28] Come to me, all who labor and are heavy laden, and I will give you rest. [29] Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. [30] For my yoke is easy, and my burden is light.”
+
+------------
+
+[25] Ἐν ἐκείνῳ τῷ καιρῷ ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν, Ἐξομολογοῦμαί σοι, πάτερ, κύριε τοῦ οὐρανοῦ καὶ τῆς γῆς, ὅτι ἔκρυψας ταῦτα ἀπὸ σοφῶν καὶ συνετῶν καὶ ἀπεκάλυψας αὐτὰ νηπίοις: 
+[26] ναί, ὁ πατήρ, ὅτι οὕτως εὐδοκία ἐγένετο ἔμπροσθέν σου. 
+[27] Πάντα μοι παρεδόθη ὑπὸ τοῦ πατρός μου, καὶ οὐδεὶς ἐπιγινώσκει τὸν υἱὸν εἰ μὴ ὁ πατήρ, οὐδὲ τὸν πατέρα τις ἐπιγινώσκει εἰ μὴ ὁ υἱὸς καὶ ᾧ ἐὰν βούληται ὁ υἱὸς ἀποκαλύψαι. 
+[28] Δεῦτε πρός με πάντες οἱ κοπιῶντες καὶ πεφορτισμένοι, κἀγὼ ἀναπαύσω ὑμᾶς. 
+[29] ἄρατε τὸν ζυγόν μου ἐφ' ὑμᾶς καὶ μάθετε ἀπ' ἐμοῦ, ὅτι πραΰς εἰμι καὶ ταπεινὸς τῇ καρδίᾳ, καὶ εὑρήσετε ἀνάπαυσιν ταῖς ψυχαῖς ὑμῶν: 
+[30] ὁ γὰρ ζυγός μου χρηστὸς καὶ τὸ φορτίον μου ἐλαφρόν ἐστιν.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 342 _Chief of Sinners Though I Be_
+* Sermon hymn: _TLH_ 513 _Art Thou Weary, Art Thou Troubled_
+* Communion hymn: _TLH_ 225 _Come, Holy Spirit, Come_
+* Closing hymn: _LSB_ 578 _Thy Strong Word_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
