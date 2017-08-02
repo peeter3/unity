@@ -1,0 +1,90 @@
+% 9th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Is 55:1‑5 ESV]
+
+> [1] “Come, everyone who thirsts,\
+> come to the waters;\
+> and he who has no money,\
+> come, buy and eat!\
+> Come, buy wine and milk\
+> without money and without price.\
+> [2] Why do you spend your money for that which is not bread,\
+> and your labor for that which does not satisfy?\
+> Listen diligently to me, and eat what is good,\
+> and delight yourselves in rich food.\
+> [3] Incline your ear, and come to me;\
+> hear, that your soul may live;\
+> and I will make with you an everlasting covenant,\
+> my steadfast, sure love for David.\
+> [4] Behold, I made him a witness to the peoples,\
+> a leader and commander for the peoples.\
+> [5] Behold, you shall call a nation that you do not know,\
+> and a nation that did not know you shall run to you,\
+> because of the LORD your God, and of the Holy One of Israel,\
+> for he has glorified you.
+
+## Epistle [Rm 9:1‑13 ESV]
+
+[1] I am speaking the truth in Christ—I am not lying; my conscience bears me witness in the Holy Spirit—[2] that I have great sorrow and unceasing anguish in my heart. [3] For I could wish that I myself were accursed and cut off from Christ for the sake of my brothers, my kinsmen according to the flesh. [4] They are Israelites, and to them belong the adoption, the glory, the covenants, the giving of the law, the worship, and the promises. [5] To them belong the patriarchs, and from their race, according to the flesh, is the Christ, who is God over all, blessed forever. Amen.
+
+[6] But it is not as though the word of God has failed. For not all who are descended from Israel belong to Israel, [7] and not all are children of Abraham because they are his offspring, but “Through Isaac shall your offspring be named.” [8] This means that it is not the children of the flesh who are the children of God, but the children of the promise are counted as offspring. [9] For this is what the promise said: “About this time next year I will return, and Sarah shall have a son.” [10] And not only so, but also when Rebekah had conceived children by one man, our forefather Isaac, [11] though they were not yet born and had done nothing either good or bad—in order that God's purpose of election might continue, not because of works but because of him who calls—[12] she was told, “The older will serve the younger.” [13] As it is written, “Jacob I loved, but Esau I hated.”
+
+## Holy Gospel [Mt 14:13‑21 ESV; sermon text]
+
+[13] Now when Jesus heard this, he withdrew from there in a boat to a desolate place by himself. But when the crowds heard it, they followed him on foot from the towns. [14] When he went ashore he saw a great crowd, and he had compassion on them and healed their sick. [15] Now when it was evening, the disciples came to him and said, “This is a desolate place, and the day is now over; send the crowds away to go into the villages and buy food for themselves.” [16] But Jesus said, “They need not go away; you give them something to eat.” [17] They said to him, “We have only five loaves here and two fish.” [18] And he said, “Bring them here to me.” [19] Then he ordered the crowds to sit down on the grass, and taking the five loaves and the two fish, he looked up to heaven and said a blessing. Then he broke the loaves and gave them to the disciples, and the disciples gave them to the crowds. [20] And they all ate and were satisfied. And they took up twelve baskets full of the broken pieces left over. [21] And those who ate were about five thousand men, besides women and children.
+
+------------
+
+[13] Ἀκούσας δὲ ὁ Ἰησοῦς ἀνεχώρησεν ἐκεῖθεν ἐν πλοίῳ εἰς ἔρημον τόπον κατ' ἰδίαν: καὶ ἀκούσαντες οἱ ὄχλοι ἠκολούθησαν αὐτῷ πεζῇ ἀπὸ τῶν πόλεων. 
+[14] καὶ ἐξελθὼν εἶδεν πολὺν ὄχλον, καὶ ἐσπλαγχνίσθη ἐπ' αὐτοῖς καὶ ἐθεράπευσεν τοὺς ἀρρώστους αὐτῶν. 
+[15] ὀψίας δὲ γενομένης προσῆλθον αὐτῷ οἱ μαθηταὶ λέγοντες, Ἔρημός ἐστιν ὁ τόπος καὶ ἡ ὥρα ἤδη παρῆλθεν: ἀπόλυσον τοὺς ὄχλους, ἵνα ἀπελθόντες εἰς τὰς κώμας ἀγοράσωσιν ἑαυτοῖς βρώματα. 
+[16] ὁ δὲ [Ἰησοῦς] εἶπεν αὐτοῖς, Οὐ χρείαν ἔχουσιν ἀπελθεῖν: δότε αὐτοῖς ὑμεῖς φαγεῖν. 
+[17] οἱ δὲ λέγουσιν αὐτῷ, Οὐκ ἔχομεν ὧδε εἰ μὴ πέντε ἄρτους καὶ δύο ἰχθύας. 
+[18] ὁ δὲ εἶπεν, Φέρετέ μοι ὧδε αὐτούς. 
+[19] καὶ κελεύσας τοὺς ὄχλους ἀνακλιθῆναι ἐπὶ τοῦ χόρτου, λαβὼν τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας, ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν καὶ κλάσας ἔδωκεν τοῖς μαθηταῖς τοὺς ἄρτους οἱ δὲ μαθηταὶ τοῖς ὄχλοις. 
+[20] καὶ ἔφαγον πάντες καὶ ἐχορτάσθησαν, καὶ ἦραν τὸ περισσεῦον τῶν κλασμάτων δώδεκα κοφίνους πλήρεις. 
+[21] οἱ δὲ ἐσθίοντες ἦσαν ἄνδρες ὡσεὶ πεντακισχίλιοι χωρὶς γυναικῶν καὶ παιδίων.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 276 _Come to Me, Ye Weary_
+* Sermon hymn: _TLH_ 422 _Savior, I Follow On_
+* Closing hymn: _TLH_ 31 _When All Thy Mercies, O My God_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+It is routine for God to feed us miraculously.
+
+Mt 16:9‑10. Jesus rebukes the disciples for not remembering the feeding of the 5,000 and the 4,000. He had told them, **"Watch and beware of the leaven of the Pharisees and Sadducees,"** and the disciples had thought the issue was that they had no bread.
