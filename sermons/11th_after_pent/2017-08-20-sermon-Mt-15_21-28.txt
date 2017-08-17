@@ -1,0 +1,87 @@
+% 11th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Is 56:1, 6‑8 ESV]
+
+> [1] Thus says the LORD:\
+> “Keep justice, and do righteousness,\
+> for soon my salvation will come,\
+> and my righteousness be revealed.
+
+> [6] “And the foreigners who join themselves to the LORD,\
+> to minister to him, to love the name of the LORD,\
+> and to be his servants,\
+> everyone who keeps the Sabbath and does not profane it,\
+> and holds fast my covenant—\
+> [7] these I will bring to my holy mountain,\
+> and make them joyful in my house of prayer;\
+> their burnt offerings and their sacrifices\
+> will be accepted on my altar;\
+> for my house shall be called a house of prayer\
+> for all peoples.”\
+> [8] The Lord GOD,\
+> who gathers the outcasts of Israel, declares,\
+> “I will gather yet others to him\
+> besides those already gathered.”
+
+## Epistle [Rm 11:1‑2a, 13‑15, 28‑32 ESV]
+
+[1] I ask, then, has God rejected his people? By no means! For I myself am an Israelite, a descendant of Abraham, a member of the tribe of Benjamin. [2a] God has not rejected his people whom he foreknew.
+
+[13] Now I am speaking to you Gentiles. Inasmuch then as I am an apostle to the Gentiles, I magnify my ministry [14] in order somehow to make my fellow Jews jealous, and thus save some of them. [15] For if their rejection means the reconciliation of the world, what will their acceptance mean but life from the dead?
+
+[28] As regards the gospel, they are enemies for your sake. But as regards election, they are beloved for the sake of their forefathers. [29] For the gifts and the calling of God are irrevocable. [30] For just as you were at one time disobedient to God but now have received mercy because of their disobedience, [31] so they too have now been disobedient in order that by the mercy shown to you they also may now receive mercy. [32] For God has consigned all to disobedience, that he may have mercy on all.
+
+## Holy Gospel [Mt 15:21‑28 ESV; sermon text]
+
+[21] And Jesus went away from there and withdrew to the district of Tyre and Sidon. [22] And behold, a Canaanite woman from that region came out and was crying, “Have mercy on me, O Lord, Son of David; my daughter is severely oppressed by a demon.” [23] But he did not answer her a word. And his disciples came and begged him, saying, “Send her away, for she is crying out after us.” [24] He answered, “I was sent only to the lost sheep of the house of Israel.” [25] But she came and knelt before him, saying, “Lord, help me.” [26] And he answered, “It is not right to take the children's bread and throw it to the dogs.” [27] She said, “Yes, Lord, yet even the dogs eat the crumbs that fall from their masters' table.” [28] Then Jesus answered her, “O woman, great is your faith! Be it done for you as you desire.” And her daughter was healed instantly.
+
+------------
+
+[21] Καὶ ἐξελθὼν ἐκεῖθεν ὁ Ἰησοῦς ἀνεχώρησεν εἰς τὰ μέρη Τύρου καὶ Σιδῶνος. 
+[22] καὶ ἰδοὺ γυνὴ Χαναναία ἀπὸ τῶν ὁρίων ἐκείνων ἐξελθοῦσα ἔκραζεν λέγουσα, Ἐλέησόν με, κύριε, υἱὸς Δαυίδ: ἡ θυγάτηρ μου κακῶς δαιμονίζεται. 
+[23] ὁ δὲ οὐκ ἀπεκρίθη αὐτῇ λόγον. καὶ προσελθόντες οἱ μαθηταὶ αὐτοῦ ἠρώτουν αὐτὸν λέγοντες, Ἀπόλυσον αὐτήν, ὅτι κράζει ὄπισθεν ἡμῶν. 
+[24] ὁ δὲ ἀποκριθεὶς εἶπεν, Οὐκ ἀπεστάλην εἰ μὴ εἰς τὰ πρόβατα τὰ ἀπολωλότα οἴκου Ἰσραήλ. 
+[25] ἡ δὲ ἐλθοῦσα προσεκύνει αὐτῷ λέγουσα, Κύριε, βοήθει μοι. 
+[26] ὁ δὲ ἀποκριθεὶς εἶπεν, Οὐκ ἔστιν καλὸν λαβεῖν τὸν ἄρτον τῶν τέκνων καὶ βαλεῖν τοῖς κυναρίοις. 
+[27] ἡ δὲ εἶπεν, Ναί, κύριε, καὶ γὰρ τὰ κυνάρια ἐσθίει ἀπὸ τῶν ψιχίων τῶν πιπτόντων ἀπὸ τῆς τραπέζης τῶν κυρίων αὐτῶν. 
+[28] τότε ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν αὐτῇ, *)=ω γύναι, μεγάλη σου ἡ πίστις: γενηθήτω σοι ὡς θέλεις. καὶ ἰάθη ἡ θυγάτηρ αὐτῆς ἀπὸ τῆς ὥρας ἐκείνης.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 657 _Beautiful Savior_
+* Sermon hymn: _TLH_ 356 _Jesus, Savior, Come to Me_
+* Closing hymn: _TLH_ 54 _Guide Me, O Thou Great Jehovah_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
