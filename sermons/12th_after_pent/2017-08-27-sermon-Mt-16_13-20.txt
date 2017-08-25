@@ -1,0 +1,107 @@
+% 11th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Is 51:1‑6 ESV]
+
+> [1] “Listen to me, you who pursue righteousness,\
+> you who seek the LORD:\
+> look to the rock from which you were hewn,\
+> and to the quarry from which you were dug.\
+> [2] Look to Abraham your father\
+> and to Sarah who bore you;\
+> for he was but one when I called him,\
+> that I might bless him and multiply him.\
+> [3] For the LORD comforts Zion;\
+> he comforts all her waste places\
+> and makes her wilderness like Eden,\
+> her desert like the garden of the LORD;\
+> joy and gladness will be found in her,\
+> thanksgiving and the voice of song.
+
+
+> [4] “Give attention to me, my people,\
+> and give ear to me, my nation;\
+> for a law will go out from me,\
+> and I will set my justice for a light to the peoples.\
+> [5] My righteousness draws near,\
+> my salvation has gone out,\
+> and my arms will judge the peoples;\
+> the coastlands hope for me,\
+> and for my arm they wait.\
+> [6] Lift up your eyes to the heavens,\
+> and look at the earth beneath;\
+> for the heavens vanish like smoke,\
+> the earth will wear out like a garment,\
+> and they who dwell in it will die in like manner;\
+> but my salvation will be forever,\
+> and my righteousness will never be dismayed.
+
+## Epistle [Rm 11:33‑12:8 ESV]
+
+[33] Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how inscrutable his ways!
+
+> [34] “For who has known the mind of the Lord,\
+> or who has been his counselor?”\
+> [35] “Or who has given a gift to him\
+> that he might be repaid?”
+	
+[36] For from him and through him and to him are all things. To him be glory forever. Amen.
+
+[1] I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship. [2] Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.
+
+[3] For by the grace given to me I say to everyone among you not to think of himself more highly than he ought to think, but to think with sober judgment, each according to the measure of faith that God has assigned. [4] For as in one body we have many members, and the members do not all have the same function, [5] so we, though many, are one body in Christ, and individually members one of another. [6] Having gifts that differ according to the grace given to us, let us use them: if prophecy, in proportion to our faith; [7] if service, in our serving; the one who teaches, in his teaching; [8] the one who exhorts, in his exhortation; the one who contributes, in generosity; the one who leads, with zeal; the one who does acts of mercy, with cheerfulness.
+
+## Holy Gospel [Mt 16:13‑20 ESV; sermon text]
+
+[13] Now when Jesus came into the district of Caesarea Philippi, he asked his disciples, “Who do people say that the Son of Man is?” [14] And they said, “Some say John the Baptist, others say Elijah, and others Jeremiah or one of the prophets.” [15] He said to them, “But who do you say that I am?” [16] Simon Peter replied, “You are the Christ, the Son of the living God.” [17] And Jesus answered him, “Blessed are you, Simon Bar-Jonah! For flesh and blood has not revealed this to you, but my Father who is in heaven. [18] And I tell you, you are Peter, and on this rock I will build my church, and the gates of hell shall not prevail against it. [19] I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven.” [20] Then he strictly charged the disciples to tell no one that he was the Christ.
+
+------------
+
+[13] Ἐλθὼν δὲ ὁ Ἰησοῦς εἰς τὰ μέρη Καισαρείας τῆς Φιλίππου ἠρώτα τοὺς μαθητὰς αὐτοῦ λέγων, Τίνα λέγουσιν οἱ ἄνθρωποι εἶναι τὸν υἱὸν τοῦ ἀνθρώπου; 
+[14] οἱ δὲ εἶπαν, Οἱ μὲν Ἰωάννην τὸν βαπτιστήν, ἄλλοι δὲ Ἠλίαν, ἕτεροι δὲ Ἰερεμίαν ἢ ἕνα τῶν προφητῶν. 
+[15] λέγει αὐτοῖς, Ὑμεῖς δὲ τίνα με λέγετε εἶναι; 
+[16] ἀποκριθεὶς δὲ Σίμων Πέτρος εἶπεν, Σὺ εἶ ὁ Χριστὸς ὁ υἱὸς τοῦ θεοῦ τοῦ ζῶντος. 
+[17] ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν αὐτῷ, Μακάριος εἶ, Σίμων Βαριωνᾶ, ὅτι σὰρξ καὶ αἷμα οὐκ ἀπεκάλυψέν σοι ἀλλ' ὁ πατήρ μου ὁ ἐν τοῖς οὐρανοῖς. 
+[18] κἀγὼ δέ σοι λέγω ὅτι σὺ εἶ Πέτρος, καὶ ἐπὶ ταύτῃ τῇ πέτρᾳ οἰκοδομήσω μου τὴν ἐκκλησίαν, καὶ πύλαι ἅ|δου οὐ κατισχύσουσιν αὐτῆς. 
+[19] δώσω σοι τὰς κλεῖδας τῆς βασιλείας τῶν οὐρανῶν, καὶ ὃ ἐὰν δήσῃς ἐπὶ τῆς γῆς ἔσται δεδεμένον ἐν τοῖς οὐρανοῖς, καὶ ὃ ἐὰν λύσῃς ἐπὶ τῆς γῆς ἔσται λελυμένον ἐν τοῖς οὐρανοῖς. 
+[20] τότε διεστείλατο τοῖς μαθηταῖς ἵνα μηδενὶ εἴπωσιν ὅτι αὐτός ἐστιν ὁ Χριστός.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 465 _Christ Is Our Cornerstone_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
