@@ -1,9 +1,9 @@
-% 11th after Pentecost
+% 12th after Pentecost
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
 ## During the service
 
-* ZZZ
+* Winnie reads OT & Epistle from music stand. Please stand next to her and hold your wireless mic for her (she needs both hands on the walker) Your Gospel reading is also on the stand. You can read them from there or take them up to the lectern
 
 ## Announcements
 
@@ -77,14 +77,22 @@
 [19] δώσω σοι τὰς κλεῖδας τῆς βασιλείας τῶν οὐρανῶν, καὶ ὃ ἐὰν δήσῃς ἐπὶ τῆς γῆς ἔσται δεδεμένον ἐν τοῖς οὐρανοῖς, καὶ ὃ ἐὰν λύσῃς ἐπὶ τῆς γῆς ἔσται λελυμένον ἐν τοῖς οὐρανοῖς. 
 [20] τότε διεστείλατο τοῖς μαθηταῖς ἵνα μηδενὶ εἴπωσιν ὅτι αὐτός ἐστιν ὁ Χριστός.
 
-## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+## Introit [Ps 2:6-7; Ps. 117 antiphon: Ps 115:18]
 
-> I will speak of your testimonies before kings, | [O Lord,]\*\
-> and shall not be | put to shame.\
+> But we will | bless the LORD\*\
+> from this time forth and forevermore. | Praise the LORD!\
+> As for me, I have | set my King\*\
+> on Zion, my | holy hill.\
+> I will tell of | the decree:\*\
+> The LORD said to me, "You are my Son; today I have be- | gotten you."\
+> Praise the LORD, all | nations!\*\
+> Extol him, all | peoples!\
+> For great is his steadfast | love toward us,\*\
+> and the faithfulness of the LORD endures forever. | Praise the LORD!\
 
 ## Collect
 
-Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+Almighty God, whom to know is everlasting life, grant us to know Your Son, Jesus, to be the way, the truth, and the life that we may boldly confess Him to be the Christ and steadfastly walk in the way that leads to life eternal; through the same Jesus Christ, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
 
 ## Add to General Prayer
 
@@ -92,10 +100,10 @@ O Lord Jesus Christ, the Son of the living God, You alone are the firm foundatio
 
 ## Hymns
 
-* Opening hymn: _TLH_ 999 _ZZZ_
+* Opening hymn: _TLH_ 467 _Built on the Rock, the Church doth Stand_ _sts. 1-4_
 * Sermon hymn: _TLH_ 465 _Christ Is Our Cornerstone_
-* Communion hymn: _TLH_ 999 _ZZZ_
-* Closing hymn: _TLH_ 999 _ZZZ_
+* Communion hymn: _TLH_ 315 _I Come, O Savior, to Thy Table_  _sts. 1-5_
+* Closing hymn: _TLH_ 467 _Built on the Rock, the Church doth Stand_ _sts. 5-7_
 
 ## Sermon
 
