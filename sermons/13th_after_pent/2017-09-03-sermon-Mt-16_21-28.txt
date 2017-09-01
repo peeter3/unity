@@ -1,0 +1,97 @@
+% 13th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Jer 15:15‑21 ESV]
+
+> [15] O LORD, you know;\
+> remember me and visit me,\
+> and take vengeance for me on my persecutors.\
+> In your forbearance take me not away;\
+> know that for your sake I bear reproach.\
+> [16] Your words were found, and I ate them,\
+> and your words became to me a joy\
+> and the delight of my heart,\
+> for I am called by your name,\
+> O LORD, God of hosts.\
+> [17] I did not sit in the company of revelers,\
+> nor did I rejoice;\
+> I sat alone, because your hand was upon me,\
+> for you had filled me with indignation.\
+> [18] Why is my pain unceasing,\
+> my wound incurable,\
+> refusing to be healed?\
+> Will you be to me like a deceitful brook,\
+> like waters that fail?
+
+
+> [19] Therefore thus says the LORD:\
+> “If you return, I will restore you,\
+> and you shall stand before me.\
+> If you utter what is precious, and not what is worthless,\
+> you shall be as my mouth.\
+> They shall turn to you,\
+> but you shall not turn to them.\
+> [20] And I will make you to this people\
+> a fortified wall of bronze;\
+> they will fight against you,\
+> but they shall not prevail over you,\
+> for I am with you\
+> to save you and deliver you,\
+> declares the LORD.\
+> [21] I will deliver you out of the hand of the wicked,\
+> and redeem you from the grasp of the ruthless.”
+
+## Epistle [Rm 12:9‑21 ESV]
+
+[9] Let love be genuine. Abhor what is evil; hold fast to what is good. [10] Love one another with brotherly affection. Outdo one another in showing honor. [11] Do not be slothful in zeal, be fervent in spirit, serve the Lord. [12] Rejoice in hope, be patient in tribulation, be constant in prayer. [13] Contribute to the needs of the saints and seek to show hospitality.
+
+[14] Bless those who persecute you; bless and do not curse them. [15] Rejoice with those who rejoice, weep with those who weep. [16] Live in harmony with one another. Do not be haughty, but associate with the lowly. Never be wise in your own sight. [17] Repay no one evil for evil, but give thought to do what is honorable in the sight of all. [18] If possible, so far as it depends on you, live peaceably with all. [19] Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, “Vengeance is mine, I will repay, says the Lord.” [20] To the contrary, “if your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by so doing you will heap burning coals on his head.” [21] Do not be overcome by evil, but overcome evil with good.
+
+## Holy Gospel [Mt 16:21‑28 ESV; sermon text]
+
+[21] From that time Jesus began to show his disciples that he must go to Jerusalem and suffer many things from the elders and chief priests and scribes, and be killed, and on the third day be raised. [22] And Peter took him aside and began to rebuke him, saying, “Far be it from you, Lord! This shall never happen to you.” [23] But he turned and said to Peter, “Get behind me, Satan! You are a hindrance to me. For you are not setting your mind on the things of God, but on the things of man.”
+
+[24] Then Jesus told his disciples, “If anyone would come after me, let him deny himself and take up his cross and follow me. [25] For whoever would save his life will lose it, but whoever loses his life for my sake will find it. [26] For what will it profit a man if he gains the whole world and forfeits his soul? Or what shall a man give in return for his soul? [27] For the Son of Man is going to come with his angels in the glory of his Father, and then he will repay each person according to what he has done. [28] Truly, I say to you, there are some standing here who will not taste death until they see the Son of Man coming in his kingdom.”
+
+------------
+
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 999 _ZZZ_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
