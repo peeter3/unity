@@ -1,0 +1,93 @@
+% 14th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+
+## Announcements
+
+* Church picnic with St Mark today at 1.
+* LCMS Disaster Relief is collecting money to help the victims of Hurricane Harvey.
+* We are planning an LWML (Lutheran Women in Mission) Sunday on October 1.
+* Pastor David Bush will be leading Bible study today about deaf ministry.
+
+## Old Testament [Ezk 33:7‑9 ESV]
+
+[7] "So you, son of man, I have made a watchman for the house of Israel. Whenever you hear a word from my mouth, you shall give them warning from me. [8] If I say to the wicked, O wicked one, you shall surely die, and you do not speak to warn the wicked to turn from his way, that wicked person shall die in his iniquity, but his blood I will require at your hand. [9] But if you warn the wicked to turn from his way, and he does not turn from his way, that person shall die in his iniquity, but you will have delivered your soul."
+
+## Epistle [Rm 13:1‑10 ESV]
+
+[1] Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God. [2] Therefore whoever resists the authorities resists what God has appointed, and those who resist will incur judgment. [3] For rulers are not a terror to good conduct, but to bad. Would you have no fear of the one who is in authority? Then do what is good, and you will receive his approval, [4] for he is God's servant for your good. But if you do wrong, be afraid, for he does not bear the sword in vain. For he is the servant of God, an avenger who carries out God's wrath on the wrongdoer. [5] Therefore one must be in subjection, not only to avoid God's wrath but also for the sake of conscience. [6] For because of this you also pay taxes, for the authorities are ministers of God, attending to this very thing. [7] Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed.
+
+[8] Owe no one anything, except to love each other, for the one who loves another has fulfilled the law. [9] For the commandments, “You shall not commit adultery, You shall not murder, You shall not steal, You shall not covet,” and any other commandment, are summed up in this word: “You shall love your neighbor as yourself.” [10] Love does no wrong to a neighbor; therefore love is the fulfilling of the law.
+
+## Holy Gospel [Mt 18:1‑20 ESV; sermon text]
+
+[1] At that time the disciples came to Jesus, saying, “Who is the greatest in the kingdom of heaven?” [2] And calling to him a child, he put him in the midst of them [3] and said, “Truly, I say to you, unless you turn and become like children, you will never enter the kingdom of heaven. [4] Whoever humbles himself like this child is the greatest in the kingdom of heaven.
+
+[5] “Whoever receives one such child in my name receives me, [6] but whoever causes one of these little ones who believe in me to sin, it would be better for him to have a great millstone fastened around his neck and to be drowned in the depth of the sea.
+
+[7] “Woe to the world for temptations to sin! For it is necessary that temptations come, but woe to the one by whom the temptation comes! [8] And if your hand or your foot causes you to sin, cut it off and throw it away. It is better for you to enter life crippled or lame than with two hands or two feet to be thrown into the eternal fire. [9] And if your eye causes you to sin, tear it out and throw it away. It is better for you to enter life with one eye than with two eyes to be thrown into the hell of fire.
+
+[10] “See that you do not despise one of these little ones. For I tell you that in heaven their angels always see the face of my Father who is in heaven. [12] What do you think? If a man has a hundred sheep, and one of them has gone astray, does he not leave the ninety-nine on the mountains and go in search of the one that went astray? [13] And if he finds it, truly, I say to you, he rejoices over it more than over the ninety-nine that never went astray. [14] So it is not the will of my Father who is in heaven that one of these little ones should perish.
+
+[15] “If your brother sins against you, go and tell him his fault, between you and him alone. If he listens to you, you have gained your brother. [16] But if he does not listen, take one or two others along with you, that every charge may be established by the evidence of two or three witnesses. [17] If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, let him be to you as a Gentile and a tax collector. [18] Truly, I say to you, whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven. [19] Again I say to you, if two of you agree on earth about anything they ask, it will be done for them by my Father in heaven. [20] For where two or three are gathered in my name, there am I among them.”
+
+------------
+
+[1] Ἐν ἐκείνῃ τῇ ὥρᾳ προσῆλθον οἱ μαθηταὶ τῷ Ἰησοῦ λέγοντες, Τίς ἄρα μείζων ἐστὶν ἐν τῇ βασιλείᾳ τῶν οὐρανῶν; 
+[2] καὶ προσκαλεσάμενος παιδίον ἔστησεν αὐτὸ ἐν μέσῳ αὐτῶν 
+[3] καὶ εἶπεν, Ἀμὴν λέγω ὑμῖν, ἐὰν μὴ στραφῆτε καὶ γένησθε ὡς τὰ παιδία, οὐ μὴ εἰσέλθητε εἰς τὴν βασιλείαν τῶν οὐρανῶν. 
+[4] ὅστις οὖν ταπεινώσει ἑαυτὸν ὡς τὸ παιδίον τοῦτο, οὗτός ἐστιν ὁ μείζων ἐν τῇ βασιλείᾳ τῶν οὐρανῶν. 
+
+[5] καὶ ὃς ἐὰν δέξηται ἓν παιδίον τοιοῦτο ἐπὶ τῷ ὀνόματί μου, ἐμὲ δέχεται. 
+[6] Ὃς δ' ἂν σκανδαλίσῃ ἕνα τῶν μικρῶν τούτων τῶν πιστευόντων εἰς ἐμέ, συμφέρει αὐτῷ ἵνα κρεμασθῇ μύλος ὀνικὸς περὶ τὸν τράχηλον αὐτοῦ καὶ καταποντισθῇ ἐν τῷ πελάγει τῆς θαλάσσης. 
+
+[7] οὐαὶ τῷ κόσμῳ ἀπὸ τῶν σκανδάλων: ἀνάγκη γὰρ ἐλθεῖν τὰ σκάνδαλα, πλὴν οὐαὶ τῷ ἀνθρώπῳ δι' οὗ τὸ σκάνδαλον ἔρχεται. 
+[8] Εἰ δὲ ἡ χείρ σου ἢ ὁ πούς σου σκανδαλίζει σε, ἔκκοψον αὐτὸν καὶ βάλε ἀπὸ σοῦ: καλόν σοί ἐστιν εἰσελθεῖν εἰς τὴν ζωὴν κυλλὸν ἢ χωλόν, ἢ δύο χεῖρας ἢ δύο πόδας ἔχοντα βληθῆναι εἰς τὸ πῦρ τὸ αἰώνιον. 
+[9] καὶ εἰ ὁ ὀφθαλμός σου σκανδαλίζει σε, ἔξελε αὐτὸν καὶ βάλε ἀπὸ σοῦ: καλόν σοί ἐστιν μονόφθαλμον εἰς τὴν ζωὴν εἰσελθεῖν, ἢ δύο ὀφθαλμοὺς ἔχοντα βληθῆναι εἰς τὴν γέενναν τοῦ πυρός. 
+
+[10] Ὁρᾶτε μὴ καταφρονήσητε ἑνὸς τῶν μικρῶν τούτων: λέγω γὰρ ὑμῖν ὅτι οἱ ἄγγελοι αὐτῶν ἐν οὐρανοῖς διὰ παντὸς βλέπουσι τὸ πρόσωπον τοῦ πατρός μου τοῦ ἐν οὐρανοῖς. 
+[11] Τί 
+[12] ὑμῖν δοκεῖ; ἐὰν γένηταί τινι ἀνθρώπῳ ἑκατὸν πρόβατα καὶ πλανηθῇ ἓν ἐξ αὐτῶν, οὐχὶ ἀφήσει τὰ ἐνενήκοντα ἐννέα ἐπὶ τὰ ὄρη καὶ πορευθεὶς ζητεῖ τὸ πλανώμενον; 
+[13] καὶ ἐὰν γένηται εὑρεῖν αὐτό, ἀμὴν λέγω ὑμῖν ὅτι χαίρει ἐπ' αὐτῷ μᾶλλον ἢ ἐπὶ τοῖς ἐνενήκοντα ἐννέα τοῖς μὴ πεπλανημένοις. 
+[14] οὕτως οὐκ ἔστιν θέλημα ἔμπροσθεν τοῦ πατρὸς ὑμῶν τοῦ ἐν οὐρανοῖς ἵνα ἀπόληται ἓν τῶν μικρῶν τούτων. 
+
+[15] Ἐὰν δὲ ἁμαρτήσῃ [εἰς σὲ] ὁ ἀδελφός σου, ὕπαγε ἔλεγξον αὐτὸν μεταξὺ σοῦ καὶ αὐτοῦ μόνου. ἐάν σου ἀκούσῃ, ἐκέρδησας τὸν ἀδελφόν σου: 
+[16] ἐὰν δὲ μὴ ἀκούσῃ, παράλαβε μετὰ σοῦ ἔτι ἕνα ἢ δύο, ἵνα ἐπὶ στόματος δύο μαρτύρων ἢ τριῶν σταθῇ πᾶν ῥῆμα: 
+[17] ἐὰν δὲ παρακούσῃ αὐτῶν, εἰπὲ τῇ ἐκκλησίᾳ: ἐὰν δὲ καὶ τῆς ἐκκλησίας παρακούσῃ, ἔστω σοι ὥσπερ ὁ ἐθνικὸς καὶ ὁ τελώνης. 
+[18] Ἀμὴν λέγω ὑμῖν, ὅσα ἐὰν δήσητε ἐπὶ τῆς γῆς ἔσται δεδεμένα ἐν οὐρανῷ καὶ ὅσα ἐὰν λύσητε ἐπὶ τῆς γῆς ἔσται λελυμένα ἐν οὐρανῷ. 
+[19] Πάλιν [ἀμὴν] λέγω ὑμῖν ὅτι ἐὰν δύο συμφωνήσωσιν ἐξ ὑμῶν ἐπὶ τῆς γῆς περὶ παντὸς πράγματος οὗ ἐὰν αἰτήσωνται, γενήσεται αὐτοῖς παρὰ τοῦ πατρός μου τοῦ ἐν οὐρανοῖς. 
+[20] οὗ γάρ εἰσιν δύο ἢ τρεῖς συνηγμένοι εἰς τὸ ἐμὸν ὄνομα, ἐκεῖ εἰμι ἐν μέσῳ αὐτῶν.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 324 _Jesus Sinners Doth Receive_ st 1‑4, 8
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
