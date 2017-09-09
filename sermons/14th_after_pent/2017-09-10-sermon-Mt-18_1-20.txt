@@ -2,6 +2,8 @@
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
 ## During the service
+* please include special prayers again, this time for those recovering from Hurricane Harvey & from earthquake near Mexico, and for those in danger from Irma down south and from wildfires in the west
+* Desi reads
 
 
 ## Announcements
@@ -10,6 +12,7 @@
 * LCMS Disaster Relief is collecting money to help the victims of Hurricane Harvey.
 * We are planning an LWML (Lutheran Women in Mission) Sunday on October 1.
 * Pastor David Bush will be leading Bible study today about deaf ministry.
+* Rich will have a brief announcement after service
 
 ## Old Testament [Ezk 33:7‑9 ESV]
 
@@ -60,14 +63,22 @@
 [19] Πάλιν [ἀμὴν] λέγω ὑμῖν ὅτι ἐὰν δύο συμφωνήσωσιν ἐξ ὑμῶν ἐπὶ τῆς γῆς περὶ παντὸς πράγματος οὗ ἐὰν αἰτήσωνται, γενήσεται αὐτοῖς παρὰ τοῦ πατρός μου τοῦ ἐν οὐρανοῖς. 
 [20] οὗ γάρ εἰσιν δύο ἢ τρεῖς συνηγμένοι εἰς τὸ ἐμὸν ὄνομα, ἐκεῖ εἰμι ἐν μέσῳ αὐτῶν.
 
-## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+## Introit [Ps 92:1-4; antiphon: Ps 92:5]
 
-> I will speak of your testimonies before kings, | [O Lord,]\*\
-> and shall not be | put to shame.\
+> How great are your works, | [O Lord!]\*\
+> Your thoughts are | very deep!\
+> It is good to give thanks | to the LORD,\*\
+> to sing praises to your name, | O Most High;\
+> to declare your steadfast love in the | morning,\*\
+> and your faithful- | ness by night,\
+> to the music of the lute | and the harp,\*\
+> to the melody | of the lyre.\
+> For you, O LORD, have made me glad | by your work;\*\
+> at the works of your hands I | sing for joy.\
 
 ## Collect
 
-Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+O God, from whom all good proceeds, grant to us, Your humble servants, Your holy inspiration, that we may set our minds on the things that are right and, by Your merciful guiding, accomplish them; through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
 
 ## Hymns
 
