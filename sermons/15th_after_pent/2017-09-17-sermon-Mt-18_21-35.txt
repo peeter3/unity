@@ -1,0 +1,84 @@
+% 15th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Gn 50:15‑21 ESV]
+
+[15] When Joseph's brothers saw that their father was dead, they said, “It may be that Joseph will hate us and pay us back for all the evil that we did to him.” [16] So they sent a message to Joseph, saying, “Your father gave this command before he died: [17] ‘Say to Joseph, “Please forgive the transgression of your brothers and their sin, because they did evil to you.”’ And now, please forgive the transgression of the servants of the God of your father.” Joseph wept when they spoke to him. [18] His brothers also came and fell down before him and said, “Behold, we are your servants.” [19] But Joseph said to them, “Do not fear, for am I in the place of God? [20] As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today. [21] So do not fear; I will provide for you and your little ones.” Thus he comforted them and spoke kindly to them.
+
+## Epistle [Rm 14:1‑12 ESV]
+
+[1] As for the one who is weak in faith, welcome him, but not to quarrel over opinions. [2] One person believes he may eat anything, while the weak person eats only vegetables. [3] Let not the one who eats despise the one who abstains, and let not the one who abstains pass judgment on the one who eats, for God has welcomed him. [4] Who are you to pass judgment on the servant of another? It is before his own master that he stands or falls. And he will be upheld, for the Lord is able to make him stand.
+
+[5] One person esteems one day as better than another, while another esteems all days alike. Each one should be fully convinced in his own mind. [6] The one who observes the day, observes it in honor of the Lord. The one who eats, eats in honor of the Lord, since he gives thanks to God, while the one who abstains, abstains in honor of the Lord and gives thanks to God. [7] For none of us lives to himself, and none of us dies to himself. [8] For if we live, we live to the Lord, and if we die, we die to the Lord. So then, whether we live or whether we die, we are the Lord's. [9] For to this end Christ died and lived again, that he might be Lord both of the dead and of the living.
+
+[10] Why do you pass judgment on your brother? Or you, why do you despise your brother? For we will all stand before the judgment seat of God; [11] for it is written,
+
+> “As I live, says the Lord, every knee shall bow to me,\
+> and every tongue shall confess to God.”
+	
+	
+[12] So then each of us will give an account of himself to God.
+
+## Holy Gospel [Mt 18:21‑35 ESV; sermon text]
+
+[21] Then Peter came up and said to him, “Lord, how often will my brother sin against me, and I forgive him? As many as seven times?” [22] Jesus said to him, “I do not say to you seven times, but seventy-seven times.
+
+[23] “Therefore the kingdom of heaven may be compared to a king who wished to settle accounts with his servants. [24] When he began to settle, one was brought to him who owed him ten thousand talents. [25] And since he could not pay, his master ordered him to be sold, with his wife and children and all that he had, and payment to be made. [26] So the servant fell on his knees, imploring him, ‘Have patience with me, and I will pay you everything.’ [27] And out of pity for him, the master of that servant released him and forgave him the debt. [28] But when that same servant went out, he found one of his fellow servants who owed him a hundred denarii, and seizing him, he began to choke him, saying, ‘Pay what you owe.’ [29] So his fellow servant fell down and pleaded with him, ‘Have patience with me, and I will pay you.’ [30] He refused and went and put him in prison until he should pay the debt. [31] When his fellow servants saw what had taken place, they were greatly distressed, and they went and reported to their master all that had taken place. [32] Then his master summoned him and said to him, ‘You wicked servant! I forgave you all that debt because you pleaded with me. [33] And should not you have had mercy on your fellow servant, as I had mercy on you?’ [34] And in anger his master delivered him to the jailers, until he should pay all his debt. [35] So also my heavenly Father will do to every one of you, if you do not forgive your brother from your heart.”
+
+------------
+
+[21] Τότε προσελθὼν ὁ Πέτρος εἶπεν αὐτῷ, Κύριε, ποσάκις ἁμαρτήσει εἰς ἐμὲ ὁ ἀδελφός μου καὶ ἀφήσω αὐτῷ; ἕως ἑπτάκις; 
+[22] λέγει αὐτῷ ὁ Ἰησοῦς, Οὐ λέγω σοι ἕως ἑπτάκις ἀλλὰ ἕως ἑβδομηκοντάκις ἑπτά. 
+
+[23] Διὰ τοῦτο ὡμοιώθη ἡ βασιλεία τῶν οὐρανῶν ἀνθρώπῳ βασιλεῖ ὃς ἠθέλησεν συνᾶραι λόγον μετὰ τῶν δούλων αὐτοῦ. 
+[24] ἀρξαμένου δὲ αὐτοῦ συναίρειν προσηνέχθη αὐτῷ εἷς ὀφειλέτης μυρίων ταλάντων. 
+[25] μὴ ἔχοντος δὲ αὐτοῦ ἀποδοῦναι ἐκέλευσεν αὐτὸν ὁ κύριος πραθῆναι καὶ τὴν γυναῖκα καὶ τὰ τέκνα καὶ πάντα ὅσα ἔχει, καὶ ἀποδοθῆναι. 
+[26] πεσὼν οὖν ὁ δοῦλος προσεκύνει αὐτῷ λέγων, Μακροθύμησον ἐπ' ἐμοί, καὶ πάντα ἀποδώσω σοι. 
+[27] σπλαγχνισθεὶς δὲ ὁ κύριος τοῦ δούλου ἐκείνου ἀπέλυσεν αὐτόν, καὶ τὸ δάνειον ἀφῆκεν αὐτῷ. 
+[28] ἐξελθὼν δὲ ὁ δοῦλος ἐκεῖνος εὗρεν ἕνα τῶν συνδούλων αὐτοῦ ὃς ὤφειλεν αὐτῷ ἑκατὸν δηνάρια, καὶ κρατήσας αὐτὸν ἔπνιγεν λέγων, Ἀπόδος εἴ τι ὀφείλεις. 
+[29] πεσὼν οὖν ὁ σύνδουλος αὐτοῦ παρεκάλει αὐτὸν λέγων, Μακροθύμησον ἐπ' ἐμοί, καὶ ἀποδώσω σοι. 
+[30] ὁ δὲ οὐκ ἤθελεν, ἀλλὰ ἀπελθὼν ἔβαλεν αὐτὸν εἰς φυλακὴν ἕως ἀποδῷ τὸ ὀφειλόμενον. 
+[31] ἰδόντες οὖν οἱ σύνδουλοι αὐτοῦ τὰ γενόμενα ἐλυπήθησαν σφόδρα, καὶ ἐλθόντες διεσάφησαν τῷ κυρίῳ ἑαυτῶν πάντα τὰ γενόμενα. 
+[32] τότε προσκαλεσάμενος αὐτὸν ὁ κύριος αὐτοῦ λέγει αὐτῷ, Δοῦλε πονηρέ, πᾶσαν τὴν ὀφειλὴν ἐκείνην ἀφῆκά σοι, ἐπεὶ παρεκάλεσάς με: 
+[33] οὐκ ἔδει καὶ σὲ ἐλεῆσαι τὸν σύνδουλόν σου, ὡς κἀγὼ σὲ ἠλέησα; 
+[34] καὶ ὀργισθεὶς ὁ κύριος αὐτοῦ παρέδωκεν αὐτὸν τοῖς βασανισταῖς ἕως οὗ ἀποδῷ πᾶν τὸ ὀφειλόμενον. 
+[35] Οὕτως καὶ ὁ πατήρ μου ὁ οὐράνιος ποιήσει ὑμῖν ἐὰν μὴ ἀφῆτε ἕκαστος τῷ ἀδελφῷ αὐτοῦ ἀπὸ τῶν καρδιῶν ὑμῶν.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 371 _Jesus, Thy Blood and Righteousness_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
