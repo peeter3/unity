@@ -1,0 +1,87 @@
+% 16th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Is 55:6‑9 ESV]
+
+> [6] “Seek the LORD while he may be found;\
+> call upon him while he is near;\
+> [7] let the wicked forsake his way,\
+> and the unrighteous man his thoughts;\
+> let him return to the LORD, that he may have compassion on him,\
+> and to our God, for he will abundantly pardon.\
+> [8] For my thoughts are not your thoughts,\
+> neither are your ways my ways, declares the LORD.\
+> [9] For as the heavens are higher than the earth,\
+> so are my ways higher than your ways\
+> and my thoughts than your thoughts.
+
+## Epistle [Php 1:12‑14, 19‑30 ESV]
+
+[12] I want you to know, brothers, that what has happened to me has really served to advance the gospel, [13] so that it has become known throughout the whole imperial guard and to all the rest that my imprisonment is for Christ. [14] And most of the brothers, having become confident in the Lord by my imprisonment, are much more bold to speak the word without fear.
+
+[19] for I know that through your prayers and the help of the Spirit of Jesus Christ this will turn out for my deliverance, [20] as it is my eager expectation and hope that I will not be at all ashamed, but that with full courage now as always Christ will be honored in my body, whether by life or by death. [21] For to me to live is Christ, and to die is gain. [22] If I am to live in the flesh, that means fruitful labor for me. Yet which I shall choose I cannot tell. [23] I am hard pressed between the two. My desire is to depart and be with Christ, for that is far better. [24] But to remain in the flesh is more necessary on your account. [25] Convinced of this, I know that I will remain and continue with you all, for your progress and joy in the faith, [26] so that in me you may have ample cause to glory in Christ Jesus, because of my coming to you again.
+
+[27] Only let your manner of life be worthy of the gospel of Christ, so that whether I come and see you or am absent, I may hear of you that you are standing firm in one spirit, with one mind striving side by side for the faith of the gospel, [28] and not frightened in anything by your opponents. This is a clear sign to them of their destruction, but of your salvation, and that from God. [29] For it has been granted to you that for the sake of Christ you should not only believe in him but also suffer for his sake, [30] engaged in the same conflict that you saw I had and now hear that I still have.
+
+## Holy Gospel [Mt 20:1‑16 ESV; sermon text]
+
+[1] “For the kingdom of heaven is like a master of a house who went out early in the morning to hire laborers for his vineyard. [2] After agreeing with the laborers for a denarius a day, he sent them into his vineyard. [3] And going out about the third hour he saw others standing idle in the marketplace, [4] and to them he said, ‘You go into the vineyard too, and whatever is right I will give you.’ [5] So they went. Going out again about the sixth hour and the ninth hour, he did the same. [6] And about the eleventh hour he went out and found others standing. And he said to them, ‘Why do you stand here idle all day?’ [7] They said to him, ‘Because no one has hired us.’ He said to them, ‘You go into the vineyard too.’ [8] And when evening came, the owner of the vineyard said to his foreman, ‘Call the laborers and pay them their wages, beginning with the last, up to the first.’ [9] And when those hired about the eleventh hour came, each of them received a denarius. [10] Now when those hired first came, they thought they would receive more, but each of them also received a denarius. [11] And on receiving it they grumbled at the master of the house, [12] saying, ‘These last worked only one hour, and you have made them equal to us who have borne the burden of the day and the scorching heat.’ [13] But he replied to one of them, ‘Friend, I am doing you no wrong. Did you not agree with me for a denarius? [14] Take what belongs to you and go. I choose to give to this last worker as I give to you. [15] Am I not allowed to do what I choose with what belongs to me? Or do you begrudge my generosity?’ [16] So the last will be first, and the first last.”
+
+------------
+
+[1] Ὁμοία γάρ ἐστιν ἡ βασιλεία τῶν οὐρανῶν ἀνθρώπῳ οἰκοδεσπότῃ ὅστις ἐξῆλθεν ἅμα πρωῒ μισθώσασθαι ἐργάτας εἰς τὸν ἀμπελῶνα αὐτοῦ: 
+[2] συμφωνήσας δὲ μετὰ τῶν ἐργατῶν ἐκ δηναρίου τὴν ἡμέραν ἀπέστειλεν αὐτοὺς εἰς τὸν ἀμπελῶνα αὐτοῦ. 
+[3] καὶ ἐξελθὼν περὶ τρίτην ὥραν εἶδεν ἄλλους ἑστῶτας ἐν τῇ ἀγορᾷ ἀργούς: 
+[4] καὶ ἐκείνοις εἶπεν, Ὑπάγετε καὶ ὑμεῖς εἰς τὸν ἀμπελῶνα, καὶ ὃ ἐὰν ᾖ δίκαιον δώσω ὑμῖν. 
+[5] οἱ δὲ ἀπῆλθον. πάλιν [δὲ] ἐξελθὼν περὶ ἕκτην καὶ ἐνάτην ὥραν ἐποίησεν ὡσαύτως. 
+[6] περὶ δὲ τὴν ἑνδεκάτην ἐξελθὼν εὗρεν ἄλλους ἑστῶτας, καὶ λέγει αὐτοῖς, Τί ὧδε ἑστήκατε ὅλην τὴν ἡμέραν ἀργοί; 
+[7] λέγουσιν αὐτῷ, Οτι οὐδεὶς ἡμᾶς ἐμισθώσατο. λέγει αὐτοῖς, Ὑπάγετε καὶ ὑμεῖς εἰς τὸν ἀμπελῶνα. 
+[8] ὀψίας δὲ γενομένης λέγει ὁ κύριος τοῦ ἀμπελῶνος τῷ ἐπιτρόπῳ αὐτοῦ, Κάλεσον τοὺς ἐργάτας καὶ ἀπόδος αὐτοῖς τὸν μισθὸν ἀρξάμενος ἀπὸ τῶν ἐσχάτων ἕως τῶν πρώτων. 
+[9] καὶ ἐλθόντες οἱ περὶ τὴν ἑνδεκάτην ὥραν ἔλαβον ἀνὰ δηνάριον. 
+[10] καὶ ἐλθόντες οἱ πρῶτοι ἐνόμισαν ὅτι πλεῖον λήμψονται: καὶ ἔλαβον [τὸ] ἀνὰ δηνάριον καὶ αὐτοί. 
+[11] λαβόντες δὲ ἐγόγγυζον κατὰ τοῦ οἰκοδεσπότου 
+[12] λέγοντες, Οὗτοι οἱ ἔσχατοι μίαν ὥραν ἐποίησαν, καὶ ἴσους ἡμῖν αὐτοὺς ἐποίησας τοῖς βαστάσασι τὸ βάρος τῆς ἡμέρας καὶ τὸν καύσωνα. 
+[13] ὁ δὲ ἀποκριθεὶς ἑνὶ αὐτῶν εἶπεν, Ἑταῖρε, οὐκ ἀδικῶ σε: οὐχὶ δηναρίου συνεφώνησάς μοι; 
+[14] ἆρον τὸ σὸν καὶ ὕπαγε: θέλω δὲ τούτῳ τῷ ἐσχάτῳ δοῦναι ὡς καὶ σοί. 
+[15] [ἢ] οὐκ ἔξεστίν μοι ὃ θέλω ποιῆσαι ἐν τοῖς ἐμοῖς; ἢ ὁ ὀφθαλμός σου πονηρός ἐστιν ὅτι ἐγὼ ἀγαθός εἰμι; 
+[16] Οὕτως ἔσονται οἱ ἔσχατοι πρῶτοι καὶ οἱ πρῶτοι ἔσχατοι.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 18 _Lord, We Come Before Thee Now_
+* Sermon hymn: _TLH_ 418 _My God, My Father, While I Stray_
+* Communion hymn: _TLH_ 315 _I Come, O Savior, to Thy Table_ sts 6‑10
+* Closing hymn: _TLH_ 496 _Hark! the Voice of Jesus Crying_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
