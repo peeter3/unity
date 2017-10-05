@@ -1,0 +1,110 @@
+% 18th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* Thank you to everyone who helped with the rummage sale!
+
+## Old Testament [Is 5:1‑7 ESV]
+
+> [1] Let me sing for my beloved\
+> my love song concerning his vineyard:\
+> My beloved had a vineyard\
+> on a very fertile hill.\
+> [2] He dug it and cleared it of stones,\
+> and planted it with choice vines;\
+> he built a watchtower in the midst of it,\
+> and hewed out a wine vat in it;\
+> and he looked for it to yield grapes,\
+> but it yielded wild grapes.
+
+
+> [3] And now, O inhabitants of Jerusalem\
+> and men of Judah,\
+> judge between me and my vineyard.\
+> [4] What more was there to do for my vineyard,\
+> that I have not done in it?\
+> When I looked for it to yield grapes,\
+> why did it yield wild grapes?
+
+
+> [5] And now I will tell you\
+> what I will do to my vineyard.\
+> I will remove its hedge,\
+> and it shall be devoured;\
+> I will break down its wall,\
+> and it shall be trampled down.\
+> [6] I will make it a waste;\
+> it shall not be pruned or hoed,\
+> and briers and thorns shall grow up;\
+> I will also command the clouds\
+> that they rain no rain upon it.
+
+
+> [7] For the vineyard of the LORD of hosts\
+> is the house of Israel,\
+> and the men of Judah\
+> are his pleasant planting;\
+> and he looked for justice,\
+> but behold, bloodshed;\
+> for righteousness,\
+> but behold, an outcry!
+
+## Epistle [Php 3:4b‑14 ESV]
+
+[4b] If anyone else thinks he has reason for confidence in the flesh, I have more: [5] circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee; [6] as to zeal, a persecutor of the church; as to righteousness under the law, blameless. [7] But whatever gain I had, I counted as loss for the sake of Christ. [8] Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ [9] and be found in him, not having a righteousness of my own that comes from the law, but that which comes through faith in Christ, the righteousness from God that depends on faith—[10] that I may know him and the power of his resurrection, and may share his sufferings, becoming like him in his death, [11] that by any means possible I may attain the resurrection from the dead.
+
+[12] Not that I have already obtained this or am already perfect, but I press on to make it my own, because Christ Jesus has made me his own. [13] Brothers, I do not consider that I have made it my own. But one thing I do: forgetting what lies behind and straining forward to what lies ahead, [14] I press on toward the goal for the prize of the upward call of God in Christ Jesus.
+
+## Holy Gospel [Mt 21:33‑46 ESV; sermon text]
+
+[33] “Hear another parable. There was a master of a house who planted a vineyard and put a fence around it and dug a winepress in it and built a tower and leased it to tenants, and went into another country. [34] When the season for fruit drew near, he sent his servants to the tenants to get his fruit. [35] And the tenants took his servants and beat one, killed another, and stoned another. [36] Again he sent other servants, more than the first. And they did the same to them. [37] Finally he sent his son to them, saying, ‘They will respect my son.’ [38] But when the tenants saw the son, they said to themselves, ‘This is the heir. Come, let us kill him and have his inheritance.’ [39] And they took him and threw him out of the vineyard and killed him. [40] When therefore the owner of the vineyard comes, what will he do to those tenants?” [41] They said to him, “He will put those wretches to a miserable death and let out the vineyard to other tenants who will give him the fruits in their seasons.”
+
+> [42] Jesus said to them, “Have you never read in the Scriptures:\
+> “‘The stone that the builders rejected\
+> has become the cornerstone;\
+> this was the Lord's doing,\
+> and it is marvelous in our eyes’?	
+	
+[43] Therefore I tell you, the kingdom of God will be taken away from you and given to a people producing its fruits. [44] And the one who falls on this stone will be broken to pieces; and when it falls on anyone, it will crush him.”
+
+[45] When the chief priests and the Pharisees heard his parables, they perceived that he was speaking about them. [46] And although they were seeking to arrest him, they feared the crowds, because they held him to be a prophet.
+
+------------
+
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 175 _When I Survey the Wondrous Cross_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
