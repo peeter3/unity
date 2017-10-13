@@ -1,0 +1,94 @@
+% 19th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* The Governing Board will address the congregation at the end of the service today.
+
+## Old Testament [Is 25:6‑9 ESV]
+
+> [6] On this mountain the LORD of hosts will make for all peoples\
+> a feast of rich food, a feast of well-aged wine,\
+> of rich food full of marrow, of aged wine well refined.\
+> [7] And he will swallow up on this mountain\
+> the covering that is cast over all peoples,\
+> the veil that is spread over all nations.\
+> [8] 	He will swallow up death forever;\
+> and the Lord GOD will wipe away tears from all faces,\
+> and the reproach of his people he will take away from all the earth,\
+> for the LORD has spoken.\
+> [9] It will be said on that day,\
+> “Behold, this is our God; we have waited for him, that he might save us.\
+> This is the LORD; we have waited for him;\
+> let us be glad and rejoice in his salvation.”
+
+## Epistle [Php 4:4‑13 ESV]
+
+[4] Rejoice in the Lord always; again I will say, rejoice. [5] Let your reasonableness be known to everyone. The Lord is at hand; [6] do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. [7] And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.
+
+[8] Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things. [9] What you have learned and received and heard and seen in me—practice these things, and the God of peace will be with you.
+
+[10] I rejoiced in the Lord greatly that now at length you have revived your concern for me. You were indeed concerned for me, but you had no opportunity. [11] Not that I am speaking of being in need, for I have learned in whatever situation I am to be content. [12] I know how to be brought low, and I know how to abound. In any and every circumstance, I have learned the secret of facing plenty and hunger, abundance and need. [13] I can do all things through him who strengthens me.
+
+## Holy Gospel [Mt 22:1‑14 ESV; sermon text]
+
+[1] And again Jesus spoke to them in parables, saying, [2] “The kingdom of heaven may be compared to a king who gave a wedding feast for his son, [3] and sent his servants to call those who were invited to the wedding feast, but they would not come. [4] Again he sent other servants, saying, ‘Tell those who are invited, “See, I have prepared my dinner, my oxen and my fat calves have been slaughtered, and everything is ready. Come to the wedding feast.”’ [5] But they paid no attention and went off, one to his farm, another to his business, [6] while the rest seized his servants, treated them shamefully, and killed them. [7] The king was angry, and he sent his troops and destroyed those murderers and burned their city. [8] Then he said to his servants, ‘The wedding feast is ready, but those invited were not worthy. [9] Go therefore to the main roads and invite to the wedding feast as many as you find.’ [10] And those servants went out into the roads and gathered all whom they found, both bad and good. So the wedding hall was filled with guests.
+
+[11] “But when the king came in to look at the guests, he saw there a man who had no wedding garment. [12] And he said to him, ‘Friend, how did you get in here without a wedding garment?’ And he was speechless. [13] Then the king said to the attendants, ‘Bind him hand and foot and cast him into the outer darkness. In that place there will be weeping and gnashing of teeth.’ [14] For many are called, but few are chosen.”
+
+------------
+
+[1] Καὶ ἀποκριθεὶς ὁ Ἰησοῦς πάλιν εἶπεν ἐν παραβολαῖς αὐτοῖς λέγων, 
+[2] Ὡμοιώθη ἡ βασιλεία τῶν οὐρανῶν ἀνθρώπῳ βασιλεῖ, ὅστις ἐποίησεν γάμους τῷ υἱῷ αὐτοῦ. 
+[3] καὶ ἀπέστειλεν τοὺς δούλους αὐτοῦ καλέσαι τοὺς κεκλημένους εἰς τοὺς γάμους, καὶ οὐκ ἤθελον ἐλθεῖν. 
+[4] πάλιν ἀπέστειλεν ἄλλους δούλους λέγων, Εἴπατε τοῖς κεκλημένοις, Ἰδοὺ τὸ ἄριστόν μου ἡτοίμακα, οἱ ταῦροί μου καὶ τὰ σιτιστὰ τεθυμένα, καὶ πάντα ἕτοιμα: δεῦτε εἰς τοὺς γάμους. 
+[5] οἱ δὲ ἀμελήσαντες ἀπῆλθον, ὃς μὲν εἰς τὸν ἴδιον ἀγρόν, ὃς δὲ ἐπὶ τὴν ἐμπορίαν αὐτοῦ: 
+[6] οἱ δὲ λοιποὶ κρατήσαντες τοὺς δούλους αὐτοῦ ὕβρισαν καὶ ἀπέκτειναν. 
+[7] ὁ δὲ βασιλεὺς ὠργίσθη, καὶ πέμψας τὰ στρατεύματα αὐτοῦ ἀπώλεσεν τοὺς φονεῖς ἐκείνους καὶ τὴν πόλιν αὐτῶν ἐνέπρησεν. 
+[8] τότε λέγει τοῖς δούλοις αὐτοῦ, Ὁ μὲν γάμος ἕτοιμός ἐστιν, οἱ δὲ κεκλημένοι οὐκ ἦσαν ἄξιοι: 
+[9] πορεύεσθε οὖν ἐπὶ τὰς διεξόδους τῶν ὁδῶν, καὶ ὅσους ἐὰν εὕρητε καλέσατε εἰς τοὺς γάμους. 
+[10] καὶ ἐξελθόντες οἱ δοῦλοι ἐκεῖνοι εἰς τὰς ὁδοὺς συνήγαγον πάντας οὓς εὗρον, πονηρούς τε καὶ ἀγαθούς: καὶ ἐπλήσθη ὁ γάμος ἀνακειμένων. 
+
+[11] εἰσελθὼν δὲ ὁ βασιλεὺς θεάσασθαι τοὺς ἀνακειμένους εἶδεν ἐκεῖ ἄνθρωπον οὐκ ἐνδεδυμένον ἔνδυμα γάμου: 
+[12] καὶ λέγει αὐτῷ, Ἑταῖρε, πῶς εἰσῆλθες ὧδε μὴ ἔχων ἔνδυμα γάμου; ὁ δὲ ἐφιμώθη. 
+[13] τότε ὁ βασιλεὺς εἶπεν τοῖς διακόνοις, Δήσαντες αὐτοῦ πόδας καὶ χεῖρας ἐκβάλετε αὐτὸν εἰς τὸ σκότος τὸ ἐξώτερον: ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων. 
+[14] πολλοὶ γάρ εἰσιν κλητοὶ ὀλίγοι δὲ ἐκλεκτοί.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TSC_ 38 _The Lord's My Shepherd, I'll Not Want_
+* Sermon hymn: _TLH_ 306 _Lord Jesus Christ, Thou hast Prepared_ st 1, 5‑8
+* Closing hymn: _TSC_ 76 _Shepherd of Eager Youth_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+The Holy Gospel was surely understood to man Holy Communion. We are not the guests at this wedding feast: we are the bride.
+
+Though this is not a Communion Sunday, it may be nice to have Communion every Sunday.
