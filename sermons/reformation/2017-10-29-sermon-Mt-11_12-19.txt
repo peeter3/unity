@@ -1,0 +1,75 @@
+% Reformation
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## First Reading [Rv 14:6‑7 ESV]
+
+[6] Then I saw another angel flying directly overhead, with an eternal gospel to proclaim to those who dwell on earth, to every nation and tribe and language and people. [7] And he said with a loud voice, “Fear God and give him glory, because the hour of his judgment has come, and worship him who made heaven and earth, the sea and the springs of water.”
+
+## Epistle [Rm 3:19‑28 ESV]
+
+[19] Now we know that whatever the law says it speaks to those who are under the law, so that every mouth may be stopped, and the whole world may be held accountable to God. [20] For by works of the law no human being will be justified in his sight, since through the law comes knowledge of sin.
+
+[21] But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it—[22] the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction: [23] for all have sinned and fall short of the glory of God, [24] and are justified by his grace as a gift, through the redemption that is in Christ Jesus, [25] whom God put forward as a propitiation by his blood, to be received by faith. This was to show God's righteousness, because in his divine forbearance he had passed over former sins. [26] It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus.
+
+[27] Then what becomes of our boasting? It is excluded. By what kind of law? By a law of works? No, but by the law of faith. [28] For we hold that one is justified by faith apart from works of the law.
+
+## Holy Gospel [Mt 11:12‑19 ESV; sermon text]
+
+[12] From the days of John the Baptist until now the kingdom of heaven has suffered violence, and the violent take it by force. [13] For all the Prophets and the Law prophesied until John, [14] and if you are willing to accept it, he is Elijah who is to come. [15] He who has ears to hear, let him hear.
+
+[16] “But to what shall I compare this generation? It is like children sitting in the marketplaces and calling to their playmates,
+
+> [17] “‘We played the flute for you, and you did not dance;\
+> we sang a dirge, and you did not mourn.’
+	
+[18] For John came neither eating nor drinking, and they say, ‘He has a demon.’ [19] The Son of Man came eating and drinking, and they say, ‘Look at him! A glutton and a drunkard, a friend of tax collectors and sinners!’ Yet wisdom is justified by her deeds.”
+
+------------
+
+[12] ἀπὸ δὲ τῶν ἡμερῶν Ἰωάννου τοῦ βαπτιστοῦ ἕως ἄρτι ἡ βασιλεία τῶν οὐρανῶν βιάζεται, καὶ βιασταὶ ἁρπάζουσιν αὐτήν. 
+[13] πάντες γὰρ οἱ προφῆται καὶ ὁ νόμος ἕως Ἰωάννου ἐπροφήτευσαν: 
+[14] καὶ εἰ θέλετε δέξασθαι, αὐτός ἐστιν Ἠλίας ὁ μέλλων ἔρχεσθαι. 
+[15] ὁ ἔχων ὦτα ἀκουέτω. 
+[16] Τίνι δὲ ὁμοιώσω τὴν γενεὰν ταύτην; ὁμοία ἐστὶν παιδίοις καθημένοις ἐν ταῖς ἀγοραῖς ἃ προσφωνοῦντα τοῖς ἑτέροις 
+[17] λέγουσιν, Ηὐλήσαμεν ὑμῖν καὶ οὐκ ὠρχήσασθε: ἐθρηνήσαμεν καὶ οὐκ ἐκόψασθε. 
+[18] ἦλθεν γὰρ Ἰωάννης μήτε ἐσθίων μήτε πίνων, καὶ λέγουσιν, Δαιμόνιον ἔχει: 
+[19] ἦλθεν ὁ υἱὸς τοῦ ἀνθρώπου ἐσθίων καὶ πίνων, καὶ λέγουσιν, Ἰδοὺ ἄνθρωπος φάγος καὶ οἰνοπότης, τελωνῶν φίλος καὶ ἁμαρτωλῶν. καὶ ἐδικαιώθη ἡ σοφία ἀπὸ τῶν ἔργων αὐτῆς.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 373 _By Grace I'm Saved, Grace Free and Boundless_
+* Sermon hymn: _TLH_ 262 _A Mighty Fortress Is Our God_
+* Closing hymn: _TLH_ 377 _Salvation unto Us has Come_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
