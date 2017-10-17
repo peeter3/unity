@@ -1,0 +1,108 @@
+% 20th after the Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* We will celebrate the Reformation with a special service next Sunday.
+
+## Old Testament [Is 45:1‑7 ESV]
+
+> [1] Thus says the LORD to his anointed, to Cyrus,\
+> whose right hand I have grasped,\
+> to subdue nations before him\
+> and to loose the belts of kings,\
+> to open doors before him\
+> that gates may not be closed:\
+> [2] “I will go before you\
+> and level the exalted places,\
+> I will break in pieces the doors of bronze\
+> and cut through the bars of iron,\
+> [3] I will give you the treasures of darkness\
+> and the hoards in secret places,\
+> that you may know that it is I, the LORD,\
+> the God of Israel, who call you by your name.\
+> [4] For the sake of my servant Jacob,\
+> and Israel my chosen,\
+> I call you by your name,\
+> I name you, though you do not know me.\
+> [5] I am the LORD, and there is no other,\
+> besides me there is no God;\
+> I equip you, though you do not know me,\
+> [6] that people may know, from the rising of the sun\
+> and from the west, that there is none besides me;\
+> I am the LORD, and there is no other.\
+> [7] I form light and create darkness;\
+> I make well-being and create calamity;\
+> I am the LORD, who does all these things.
+
+## Epistle [1Th 1:1‑10 ESV]
+
+Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace.
+
+[1]  We give thanks to God always for all of you, constantly mentioning you in our prayers, 
+[2]  remembering before our God and Father your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ. 
+[3]  For we know, brothers loved by God, that he has chosen you, 
+[4]  because our gospel came to you not only in word, but also in power and in the Holy Spirit and with full conviction. You know what kind of men we proved to be among you for your sake. 
+[5]  And you became imitators of us and of the Lord, for you received the word in much affliction, with the joy of the Holy Spirit, 
+[6]  so that you became an example to all the believers in Macedonia and in Achaia. 
+[7]  For not only has the word of the Lord sounded forth from you in Macedonia and Achaia, but your faith in God has gone forth everywhere, so that we need not say anything. 
+[8]  For they themselves report concerning us the kind of reception we had among you, and how you turned to God from idols to serve the living and true God, 
+[9]  and to wait for his Son from heaven, whom he raised from the dead, Jesus who delivers us from the wrath to come.
+
+## Holy Gospel [Mt 22:15‑22 ESV; sermon text]
+
+[15]  Then the Pharisees went and plotted how to entangle him in his words. 
+[16]  And they sent their disciples to him, along with the Herodians, saying, “Teacher, we know that you are true and teach the way of God truthfully, and you do not care about anyone's opinion, for you are not swayed by appearances.
+[17]  Tell us, then, what you think. Is it lawful to pay taxes to Caesar, or not?” 
+[18]  But Jesus, aware of their malice, said, “Why put me to the test, you hypocrites? 
+[19]  Show me the coin for the tax.” And they brought him a denarius.
+[20]  And Jesus said to them, “Whose likeness and inscription is this?” 
+[21]  They said, “Caesar's.” Then he said to them, “Therefore render to Caesar the things that are Caesar's, and to God the things that are God's.” 
+[22]  When they heard it, they marveled. And they left him and went away.
+
+------------
+
+[15] Τότε πορευθέντες οἱ Φαρισαῖοι συμβούλιον ἔλαβον ὅπως αὐτὸν παγιδεύσωσιν ἐν λόγῳ. 
+[16] καὶ ἀποστέλλουσιν αὐτῷ τοὺς μαθητὰς αὐτῶν μετὰ τῶν Ἡρῳδιανῶν λέγοντες, Διδάσκαλε, οἴδαμεν ὅτι ἀληθὴς εἶ καὶ τὴν ὁδὸν τοῦ θεοῦ ἐν ἀληθείᾳ διδάσκεις, καὶ οὐ μέλει σοι περὶ οὐδενός, οὐ γὰρ βλέπεις εἰς πρόσωπον ἀνθρώπων. 
+[17] εἰπὲ οὖν ἡμῖν τί σοι δοκεῖ: ἔξεστιν δοῦναι κῆνσον Καίσαρι ἢ οὔ; 
+[18] γνοὺς δὲ ὁ Ἰησοῦς τὴν πονηρίαν αὐτῶν εἶπεν, Τί με πειράζετε, ὑποκριταί; 
+[19] ἐπιδείξατέ μοι τὸ νόμισμα τοῦ κήνσου. οἱ δὲ προσήνεγκαν αὐτῷ δηνάριον. 
+[20] καὶ λέγει αὐτοῖς, Τίνος ἡ εἰκὼν αὕτη καὶ ἡ ἐπιγραφή; 
+[21] λέγουσιν αὐτῷ, Καίσαρος. τότε λέγει αὐτοῖς, Ἀπόδοτε οὖν τὰ Καίσαρος Καίσαρι καὶ τὰ τοῦ θεοῦ τῷ θεῷ. 
+[22] καὶ ἀκούσαντες ἐθαύμασαν, καὶ ἀφέντες αὐτὸν ἀπῆλθαν.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 9 _O Day of Rest and Gladness_
+* Sermon hymn: _TLH_ 423 _Jesus, I My Cross have Taken_
+* Communion hymn: _TLH_ 315 _I Come, O Savior, to Thy Table_ st 11‑15
+* Closing hymn: _TLH_ 658 _Onward, Christian Soldiers_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
