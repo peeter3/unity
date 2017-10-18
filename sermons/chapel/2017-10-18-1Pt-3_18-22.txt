@@ -1,0 +1,82 @@
+% West Park chapel
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* _I Am a C‑H‑R‑I‑S‑T‑I‑A‑N_
+* Bible readings
+* Message
+* _Jesus Loves Me, This I Know_ st 2
+* Offering
+* Lord's Prayer
+* Benediction
+
+## Announcements
+
+* Any announcements, Mrs. Clark?
+
+## Old Testament [Gn 6:5; 8:21 ESV]
+
+[6:5] The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually.
+
+[8:21] And when the LORD smelled the pleasing aroma, the LORD said in his heart, “I will never again curse the ground because of man, for the intention of man's heart is evil from his youth. Neither will I ever again strike down every living creature as I have done.
+
+## Epistle [1Pt 3:18‑22 ESV; sermon text]
+
+[18] For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit, [19] in which he went and proclaimed to the spirits in prison, [20] because they formerly did not obey, when God's patience waited in the days of Noah, while the ark was being prepared, in which a few, that is, eight persons, were brought safely through water. [21] Baptism, which corresponds to this, now saves you, not as a removal of dirt from the body but as an appeal to God for a good conscience, through the resurrection of Jesus Christ, [22] who has gone into heaven and is at the right hand of God, with angels, authorities, and powers having been subjected to him.
+
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _I Am a C‑H‑R‑I‑S‑T‑I‑A‑N_
+* Second hymn (after sermon): _Jesus Loves Me, This I Know_ st 2
+
+## Sermon
+
+Good morning, children! Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+"I gave you one chance to be good. You blew it, so I punished you."
+God put man on earth and everything was good.
+
+1. On the first day, God said, "Let there be light," and there was light.
+1. On the second day, God said, "Separate the waters from the waters," and the lower waters were separated from the upper waters.
+1. On the third day, God said, "Let the dry land appear," and the dry land appeared out of the water, and He all the trees and shrubs and grass appeared.
+1. On the fourth day, God said, "Let the sun and the moon and the stars appear," and they did.
+1. On the fifth day, God said, "Let the birds appear in the sky and the fish appear in the water," and they did.
+1. On the sixth day, God said, "Let all the creeping things on earth appear, and let man appear," and they did.
+
+He created Adam and Eve---the first man and the first woman---*in His image*: you and I were created to be like God!
+God made everything, and behold, _it was **very** good_ [(Gn 1:31)](https://www.esv.org/Genesis+1/).
+
+*[Solicit from children.]* But, children, what went so bad? ... But after Adam and Eve sinned, things got *worse*. Cain killed Abel and it only got worse and worse.
+By the time Noah was around, the Bible tells us that
+
+> **The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was _only_ evil _continually_.**
+
+* Were the people doing good things or bad things?
+* Were the people thinking good things or bad things?
+
+Every one was thinking bad things *all the time* and *God knew it*---He knew their hearts and he knows our hearts.
+
+* When you think bad things, can you do any good?
+
+It may look good, but God 
+
+> *Jesus love Me! He who died*\
+> *Heaven's gates to open wide.*\
+> **_He has washed away my sin_,**\
+> *Lets His little child come in.*
+
+> _How can water do such great things? Certainly not just water, but the **word of God** in and with the water does these things, along with the faith which trusts this word of God in the water._
+
+AMEN.
+
+## Notes
