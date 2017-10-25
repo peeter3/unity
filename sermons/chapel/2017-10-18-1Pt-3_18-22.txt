@@ -1,0 +1,131 @@
+% West Park chapel
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* _I Am a C‑H‑R‑I‑S‑T‑I‑A‑N_ (start slow; finish fast)
+* Bible readings
+* Message
+* _Jesus Loves Me, This I Know_ st 2
+* Offering
+* Lord's Prayer
+* Benediction
+
+## Announcements
+
+* Any announcements, Mrs. Clark?
+
+## Old Testament [Gn 6:5; 8:21 ESV]
+
+Before the first Flood:
+
+[6:5] The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually.
+
+After the first Flood:
+
+[8:21] And when the LORD smelled the pleasing aroma, the LORD said in his heart, “I will never again curse the ground because of man, for the intention of man's heart is evil from his youth. Neither will I ever again strike down every living creature as I have done.
+
+## Epistle [1Pt 3:18‑22 ESV; sermon text]
+
+After the second Flood:
+
+[18] For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit, [19] in which he went and proclaimed to the spirits in prison, [20] because they formerly did not obey, when God's patience waited in the days of Noah, while the ark was being prepared, in which a few, that is, eight persons, were brought safely through water. [21] Baptism, which corresponds to this, now saves you, not as a removal of dirt from the body but as an appeal to God for a good conscience, through the resurrection of Jesus Christ, [22] who has gone into heaven and is at the right hand of God, with angels, authorities, and powers having been subjected to him.
+
+## Sermon
+
+Good morning, children! Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+God put man on earth and everything was good.
+
+1. On the first day, God said, "Let there be light," and there was light.
+1. On the second day, God said, "Separate the waters from the waters," and the upper waters were separated from the lower waters.
+1. On the third day, God said, "Let the dry land appear," and the dry land appeared out of the water, and all the trees and shrubs and grass appeared.
+1. On the fourth day, God said, "Let the sun, moon, and stars appear," *and they did*.
+1. On the fifth day, God said, "Let the birds appear in the sky and the fish appear in the water," *and they did*.
+1. On the sixth day, God said, "Let all the creeping things and beasts of the earth appear, and let man appear," *and they did*.
+
+God breathed the breath of life into Adam and Eve---the first man and the first woman---He created them *in His image*: you and I were created to be like God!
+God made everything, and behold, _it was **very** good_ [(Gn 1:31)](https://www.esv.org/Genesis+1/).
+
+*[Solicit from children.]* But, children, what went bad? ... Adam and Eve sinned when they ate the forbidden fruit, and after that things got *worse*. Cain killed his brother Abel and it only got worse.
+By the time Noah was around, the Bible tells us that
+
+> **The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was _only evil continually_.**
+
+Before the Flood, the man's heart was _only bad all the time_---_only bad all the time_ and that is not good.
+
+* Were the people doing good things or bad things?
+* Were the people thinking good things or bad things?
+
+Were the people thinking good *some* of the time?
+No, the Bible just told us that everyone was thinking _only bad all the time_, and that is very sad---it is very sad and it makes God mad.
+Everyone was thinking bad things *all the time* and *God knew it*---He knew their hearts like He knows our hearts.
+
+* When you think bad things all the time, can you do *any* good?
+
+It may *look* good, but to God, a bad heart does only bad things and a good heart does only good things.
+And in the days of Noah, everyone was _only bad all the time_, and God was sorry that He made them.
+"What good are they?"
+
+God was sorry that He made man because he was _only bad all the time_, and He decided to send a Flood to kill mankind.
+A flood is when there is so much water that the dry ground is under water.
+And if you are not a swimmer, you drown and die.
+
+But the Bible tells us that Noah was a righteous man who walked with God [(Gn 6:9)](https://www.esv.org/Genesis+6/).
+It may be that Noah said "Sorry" to God when he thought bad things.
+(That is a good thing for us to do, by the way:
+say "Sorry" to the people you hurt, but say "Sorry" to God right away even when you even *think* bad things.)
+
+Though everyone was only bad all the time, God nevertheless, out of the kindness of His heart, chose to save eight people *[Count on fingers.]*: Noah; his sons Shem, Ham, and Japeth (that is four men), and their wives.
+*[Solicit.]*
+How many people is that? 4×2=8 people.
+Eight people built the ark and brought two animals of every kind and put them in the ark, and when the rain came, everything was ready.
+
+The rain came and the earth was flooded and all the bad, unbelieving people---people who laughed at God and did not listen to Him---they could only swim so long and then they breathed in the water and drowned and died, for they did only bad all the time.
+
+But here is a question. All those bad people died because they did only bad all the time.
+The only people left alive on earth are now Noah, Shem, Ham, and Japeth, and their wives.
+After they saw that terrible punishment for doing only bad all the time, do you suppose they learned their lesson? Do you suppose that they started doing _a little good **some** of the time_?
+No! They did not.
+Though you might think they would learn their lesson, the Bible says that *after* the Flood, **the intention of man's heart is [still] evil from his youth**.
+This means that you and I, who live after the Flood are *only bad all the time*---and believe it or not, we are born that way.
+Did the Flood change Noah and his sons to be good men? No!
+It is sad to say, but *No!*
+They were *still* only bad all the time.
+
+Does the Bible teach that there were any good people born after the Flood? No---just sinners---everyone is a sinner.
+This is very sad!
+We want *good* people---we want to *be* good people before God, and I cannot be good before God if I am only bad all the time.
+Who will help me? I am a poor, miserable sinner! *Jesus will help me!*
+
+> *Jesus loves Me! He who died*\
+> *Heaven's gates to open wide.*\
+> **_He has washed away my sin_,**\
+> *Lets His little child come in.*
+
+When you sing *He has washed away my sin*, remember that there is *another flood in the Bible*: not Noah's Flood, but *your Baptism*!
+Your Baptism is a *wonderful* Flood.
+The apostle Peter writes,
+
+> **For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit, in which he went and proclaimed to the spirits in prison, because they formerly did not obey, when God's patience waited in the days of Noah, while the ark was being prepared, in which a few, that is, eight persons, were brought safely through water. _Baptism, which corresponds to this, now saves you._**
+
+The story of Noah and the Flood is in the Bible to say that Jesus saves you from dying with all bad people *when He baptizes you*.
+When He baptizes you, He takes you from the unbelievers and puts you safe in His ark with Noah, Shem, Ham, Japeth, and their wives---you are safe and will not die.
+*Christ* died on the Cross---He was put to death for your sins 2,000 years ago.
+But Jesus baptizes you *today* so that you would know that you are now *safe* and that you have been *saved* from being only bad all the time.
+
+When God baptizes you, He says, "Let a holy child of God appear," *and you do*: you appear a holy child of God washed of your sin.
+Baptism is washing with water.
+
+> _But how can water do such great things? Certainly not just water, but the **word of God** in and with the water does these things, along with the faith which trusts this word of God in the water._
+
+Just as God said, **"Let there be light"** and there was light, so also God says, **"Let Baptism save you from sin"** and you are saved.
+Baptism is _a life-giving water, rich in grace, and a **washing of the new birth in the Holy Spirit**_.
+Dear children, I have wonderful news for you: God promises to give you the Holy Spirit when you are baptized, and He who promises is faithful (Heb 10:23).
+I cannot thank God enough for the Holy Spirit because without the Holy Spirit, I am still only bad all the time, but *with* the Holy Spirit, I can *begin* to do good *some* of the time, and God is happy *all* the time.
+Dear children, if you have ever been discouraged for getting in trouble and then only getting in trouble again---and you know God is angry---be baptized in the name of Jesus and you will be not only forgiven, but *you will receive the gift of the Holy Spirit* (Ac 2:38).
+
+What the first Flood---Noah's Flood---failed to fix, the second Flood--Holy Baptism---fixes by giving us the Holy Spirit.
+Be baptized and pray for the Holy Spirit, dear children (Lk 11:13), and everything is much better.
+AMEN.
+
+## Notes
