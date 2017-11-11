@@ -1,0 +1,121 @@
+% Birth of Martin Luther
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Is 46:1‑11 ESV]
+
+> [1] Bel bows down; Nebo stoops;\
+> their idols are on beasts and livestock;\
+> these things you carry are borne\
+> as burdens on weary beasts.\
+> [2] They stoop; they bow down together;\
+> they cannot save the burden,\
+> but themselves go into captivity.
+
+
+> [3] “Listen to me, O house of Jacob,\
+> all the remnant of the house of Israel,\
+> who have been borne by me from before your birth,\
+> carried from the womb;\
+> [4] even to your old age I am he,\
+> and to gray hairs I will carry you.\
+> I have made, and I will bear;\
+> I will carry and will save.
+
+
+> [5] “To whom will you liken me and make me equal,\
+> and compare me, that we may be alike?\
+> [6] Those who lavish gold from the purse,\
+> and weigh out silver in the scales,\
+> hire a goldsmith, and he makes it into a god;\
+> then they fall down and worship!\
+> [7] They lift it to their shoulders, they carry it,\
+> they set it in its place, and it stands there;\
+> it cannot move from its place.\
+> If one cries to it, it does not answer\
+> or save him from his trouble.
+
+
+> [8] “Remember this and stand firm,\
+> recall it to mind, you transgressors,\
+> [9] 	remember the former things of old;\
+> for I am God, and there is no other;\
+> I am God, and there is none like me,\
+> [10] declaring the end from the beginning\
+> and from ancient times things not yet done,\
+> saying, ‘My counsel shall stand,\
+> and I will accomplish all my purpose,’\
+> [11] calling a bird of prey from the east,\
+> the man of my counsel from a far country.\
+> I have spoken, and I will bring it to pass;\
+> I have purposed, and I will do it.
+
+
+## Epistle [Rm 8:31‑39 ESV]
+
+[31] What then shall we say to these things? If God is for us, who can be against us? [32] He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things? [33] Who shall bring any charge against God's elect? It is God who justifies. [34] Who is to condemn? Christ Jesus is the one who died—more than that, who was raised—who is at the right hand of God, who indeed is interceding for us. [35] Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or danger, or sword? [36] As it is written,
+
+> “For your sake we are being killed all the day long;\
+> we are regarded as sheep to be slaughtered.”
+	
+[37] No, in all these things we are more than conquerors through him who loved us. [38] For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, [39] nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.
+
+## Holy Gospel [Jn 16:25‑33 ESV; sermon text]
+
+[25] “I have said these things to you in figures of speech. The hour is coming when I will no longer speak to you in figures of speech but will tell you plainly about the Father. [26] In that day you will ask in my name, and I do not say to you that I will ask the Father on your behalf; [27] for the Father himself loves you, because you have loved me and have believed that I came from God. [28] I came from the Father and have come into the world, and now I am leaving the world and going to the Father.”
+
+[29] His disciples said, “Ah, now you are speaking plainly and not using figurative speech! [30] Now we know that you know all things and do not need anyone to question you; this is why we believe that you came from God.” [31] Jesus answered them, “Do you now believe? [32] Behold, the hour is coming, indeed it has come, when you will be scattered, each to his own home, and will leave me alone. Yet I am not alone, for the Father is with me. [33] I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world.”
+
+------------
+
+[25] Ταῦτα ἐν παροιμίαις λελάληκα ὑμῖν: ἔρχεται ὥρα ὅτε οὐκέτι ἐν παροιμίαις λαλήσω ὑμῖν ἀλλὰ παρρησίᾳ περὶ τοῦ πατρὸς ἀπαγγελῶ ὑμῖν. 
+[26] ἐν ἐκείνῃ τῇ ἡμέρᾳ ἐν τῷ ὀνόματί μου αἰτήσεσθε, καὶ οὐ λέγω ὑμῖν ὅτι ἐγὼ ἐρωτήσω τὸν πατέρα περὶ ὑμῶν: 
+[27] αὐτὸς γὰρ ὁ πατὴρ φιλεῖ ὑμᾶς, ὅτι ὑμεῖς ἐμὲ πεφιλήκατε καὶ πεπιστεύκατε ὅτι ἐγὼ παρὰ [τοῦ] θεοῦ ἐξῆλθον. 
+[28] ἐξῆλθον παρὰ τοῦ πατρὸς καὶ ἐλήλυθα εἰς τὸν κόσμον: πάλιν ἀφίημι τὸν κόσμον καὶ πορεύομαι πρὸς τὸν πατέρα. 
+
+[29] Λέγουσιν οἱ μαθηταὶ αὐτοῦ, Ἴδε νῦν ἐν παρρησίᾳ λαλεῖς, καὶ παροιμίαν οὐδεμίαν λέγεις. 
+[30] νῦν οἴδαμεν ὅτι οἶδας πάντα καὶ οὐ χρείαν ἔχεις ἵνα τίς σε ἐρωτᾷ: ἐν τούτῳ πιστεύομεν ὅτι ἀπὸ θεοῦ ἐξῆλθες. 
+[31] ἀπεκρίθη αὐτοῖς Ἰησοῦς, Ἄρτι πιστεύετε; 
+[32] ἰδοὺ ἔρχεται ὥρα καὶ ἐλήλυθεν ἵνα σκορπισθῆτε ἕκαστος εἰς τὰ ἴδια κἀμὲ μόνον ἀφῆτε: καὶ οὐκ εἰμὶ μόνος, ὅτι ὁ πατὴρ μετ' ἐμοῦ ἐστιν. 
+[33] ταῦτα λελάληκα ὑμῖν ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε: ἐν τῷ κόσμῳ θλῖψιν ἔχετε, ἀλλὰ θαρσεῖτε, ἐγὼ νενίκηκα τὸν κόσμον.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 224 _Come, Holy Ghost, God and Lord!_
+* Sermon hymn: _TLH_ 467 _Built on the Rock, the Church doth Stand_ st 1, 6‑7
+* Communion hymn: _TLH_ 313 _O Lord, We Praise Thee_
+* Closing hymn: _TLH_ 231 _We Now Implore God the Holy Ghost_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+Martin Luther was born November 10, 1483; he died February 18, 1546.
