@@ -1,0 +1,139 @@
+% 24th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* Rich has announcements after the service.
+
+## Old Testament [Zep 1:7‑16 ESV]
+
+> [7] Be silent before the Lord GOD!\
+> For the day of the LORD is near;\
+> the LORD has prepared a sacrifice\
+> and consecrated his guests.\
+> [8] And on the day of the LORD's sacrifice—\
+> “I will punish the officials and the king's sons\
+> and all who array themselves in foreign attire.\
+> [9] On that day I will punish\
+> everyone who leaps over the threshold,\
+> and those who fill their master's house\
+> with violence and fraud.
+
+> [10] “On that day,” declares the LORD,\
+> “a cry will be heard from the Fish Gate,\
+> a wail from the Second Quarter,\
+> a loud crash from the hills.\
+> [11] Wail, O inhabitants of the Mortar!\
+> For all the traders are no more;\
+> all who weigh out silver are cut off.\
+> [12] At that time I will search Jerusalem with lamps,\
+> and I will punish the men\
+> who are complacent,\
+> those who say in their hearts,\
+> ‘The LORD will not do good,\
+> nor will he do ill.’\
+> [13] Their goods shall be plundered,\
+> and their houses laid waste.\
+> Though they build houses,\
+> they shall not inhabit them;\
+> though they plant vineyards,\
+> they shall not drink wine from them.”
+
+> [14] The great day of the LORD is near,\
+> near and hastening fast;\
+> the sound of the day of the LORD is bitter;\
+> the mighty man cries aloud there.\
+> [15] A day of wrath is that day,\
+> a day of distress and anguish,\
+> a day of ruin and devastation,\
+> a day of darkness and gloom,\
+> a day of clouds and thick darkness,\
+> [16] 	a day of trumpet blast and battle cry\
+> against the fortified cities\
+> and against the lofty battlements.
+
+## Epistle [1Th 5:1‑11 ESV]
+
+[1] Now concerning the times and the seasons, brothers, you have no need to have anything written to you. [2] For you yourselves are fully aware that the day of the Lord will come like a thief in the night. [3] While people are saying, “There is peace and security,” then sudden destruction will come upon them as labor pains come upon a pregnant woman, and they will not escape. [4] But you are not in darkness, brothers, for that day to surprise you like a thief. [5] For you are all children of light, children of the day. We are not of the night or of the darkness. [6] So then let us not sleep, as others do, but let us keep awake and be sober. [7] For those who sleep, sleep at night, and those who get drunk, are drunk at night. [8] But since we belong to the day, let us be sober, having put on the breastplate of faith and love, and for a helmet the hope of salvation. [9] For God has not destined us for wrath, but to obtain salvation through our Lord Jesus Christ, [10] who died for us so that whether we are awake or asleep we might live with him. [11] Therefore encourage one another and build one another up, just as you are doing.
+
+## Holy Gospel [Mt 25:14‑30 ESV; sermon text]
+
+[14] "For it will be like a man going on a journey, who called his servants and entrusted to them his property. 
+[15] To one he gave five talents, to another two, to another one, to each according to his ability. Then he went away. 
+[16] He who had received the five talents went at once and traded with them, and he made five talents more. 
+[17] So also he who had the two talents made two talents more. 
+[18] But he who had received the one talent went and dug in the ground and hid his master's money. 
+[19] Now after a long time the master of those servants came and settled accounts with them. 
+[20] And he who had received the five talents came forward, bringing five talents more, saying, ‘Master, you delivered to me five talents; here, I have made five talents more.’ 
+[21] His master said to him, ‘Well done, good and faithful servant. You have been faithful over a little; I will set you over much. Enter into the joy of your master.’ 
+[22] And he also who had the two talents came forward, saying, ‘Master, you delivered to me two talents; here, I have made two talents more.’ 
+[23] His master said to him, ‘Well done, good and faithful servant. You have been faithful over a little; I will set you over much. Enter into the joy of your master.’ 
+[24] He also who had received the one talent came forward, saying, ‘Master, I knew you to be a hard man, reaping where you did not sow, and gathering where you scattered no seed, 
+[25] so I was afraid, and I went and hid your talent in the ground. Here, you have what is yours.’ 
+[26] But his master answered him, ‘You wicked and slothful servant! You knew that I reap where I have not sown and gather where I scattered no seed? 
+[27] Then you ought to have invested my money with the bankers, and at my coming I should have received what was my own with interest. 
+[28] So take the talent from him and give it to him who has the ten talents. 
+[29] For to everyone who has will more be given, and he will have an abundance. But from the one who has not, even what he has will be taken away. 
+[30] And cast the worthless servant into the outer darkness. In that place there will be weeping and gnashing of teeth.’"
+
+------------
+
+[14] Ὥσπερ γὰρ ἄνθρωπος ἀποδημῶν ἐκάλεσεν τοὺς ἰδίους δούλους καὶ παρέδωκεν αὐτοῖς τὰ ὑπάρχοντα αὐτοῦ, 
+[15] καὶ ᾧ μὲν ἔδωκεν πέντε τάλαντα, ᾧ δὲ δύο, ᾧ δὲ ἕν, ἑκάστῳ κατὰ τὴν ἰδίαν δύναμιν, καὶ ἀπεδήμησεν. εὐθέως 
+[16] πορευθεὶς ὁ τὰ πέντε τάλαντα λαβὼν ἠργάσατο ἐν αὐτοῖς καὶ ἐκέρδησεν ἄλλα πέντε: 
+[17] ὡσαύτως ὁ τὰ δύο ἐκέρδησεν ἄλλα δύο. 
+[18] ὁ δὲ τὸ ἓν λαβὼν ἀπελθὼν ὤρυξεν γῆν καὶ ἔκρυψεν τὸ ἀργύριον τοῦ κυρίου αὐτοῦ. 
+[19] μετὰ δὲ πολὺν χρόνον ἔρχεται ὁ κύριος τῶν δούλων ἐκείνων καὶ συναίρει λόγον μετ' αὐτῶν. 
+[20] καὶ προσελθὼν ὁ τὰ πέντε τάλαντα λαβὼν προσήνεγκεν ἄλλα πέντε τάλαντα λέγων, Κύριε, πέντε τάλαντά μοι παρέδωκας: ἴδε ἄλλα πέντε τάλαντα ἐκέρδησα. 
+[21] ἔφη αὐτῷ ὁ κύριος αὐτοῦ, Εὖ, δοῦλε ἀγαθὲ καὶ πιστέ, ἐπὶ ὀλίγα ἦς πιστός, ἐπὶ πολλῶν σε καταστήσω: εἴσελθε εἰς τὴν χαρὰν τοῦ κυρίου σου. 
+[22] προσελθὼν [δὲ] καὶ ὁ τὰ δύο τάλαντα εἶπεν, Κύριε, δύο τάλαντά μοι παρέδωκας: ἴδε ἄλλα δύο τάλαντα ἐκέρδησα. 
+[23] ἔφη αὐτῷ ὁ κύριος αὐτοῦ, Εὖ, δοῦλε ἀγαθὲ καὶ πιστέ, ἐπὶ ὀλίγα ἦς πιστός, ἐπὶ πολλῶν σε καταστήσω: εἴσελθε εἰς τὴν χαρὰν τοῦ κυρίου σου. 
+[24] προσελθὼν δὲ καὶ ὁ τὸ ἓν τάλαντον εἰληφὼς εἶπεν, Κύριε, ἔγνων σε ὅτι σκληρὸς εἶ ἄνθρωπος, θερίζων ὅπου οὐκ ἔσπειρας καὶ συνάγων ὅθεν οὐ διεσκόρπισας: 
+[25] καὶ φοβηθεὶς ἀπελθὼν ἔκρυψα τὸ τάλαντόν σου ἐν τῇ γῇ: ἴδε ἔχεις τὸ σόν. 
+[26] ἀποκριθεὶς δὲ ὁ κύριος αὐτοῦ εἶπεν αὐτῷ, Πονηρὲ δοῦλε καὶ ὀκνηρέ, ᾔδεις ὅτι θερίζω ὅπου οὐκ ἔσπειρα καὶ συνάγω ὅθεν οὐ διεσκόρπισα; 
+[27] ἔδει σε οὖν βαλεῖν τὰ ἀργύριά μου τοῖς τραπεζίταις, καὶ ἐλθὼν ἐγὼ ἐκομισάμην ἂν τὸ ἐμὸν σὺν τόκῳ. 
+[28] ἄρατε οὖν ἀπ' αὐτοῦ τὸ τάλαντον καὶ δότε τῷ ἔχοντι τὰ δέκα τάλαντα: 
+[29] τῷ γὰρ ἔχοντι παντὶ δοθήσεται καὶ περισσευθήσεται: τοῦ δὲ μὴ ἔχοντος καὶ ὃ ἔχει ἀρθήσεται ἀπ' αὐτοῦ. 
+[30] καὶ τὸν ἀχρεῖον δοῦλον ἐκβάλετε εἰς τὸ σκότος τὸ ἐξώτερον: ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 492 _Lord of the Living Harvest_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+The end of the church year is next week. For this and next Sunday, emphasize **"Thy kingdom come."** We will use two saints' lives as illustrations: this week Elizabeth of Hungary (November 19 commemoration day) and next week Clement of Rome (November 23 commemoration day). Both are suggested by *LSB* for commemoration this time of the year.
+
+This particular day, November 19, can be observed as the commemoration of Elizabeth of Hungary.
+She was born in 1207. She and her husband, Ludwig, were married in 1221(!). She lived in the Wartburg castle, which may be the same castle where Martin Luther translated the Bible into German. Ludwig died in 1227 on his way to fight in a crusade.[^1] Elizabeth was instructed in the ways of St. Francis of Assisi (1181‑1226).
+
+[^1]: [St. Elizabeth of Hungary](http://www.newadvent.org/cathen/05389a.htm), accessed 15 November 2017.
