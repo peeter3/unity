@@ -1,0 +1,113 @@
+% Thanksgiving Eve
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+## Announcements
+
+* Midweek Advent services begin 12/6, two weeks from tonight. Supper at 6, service at 7.
+
+## First reading [Dt 8:1‑10 ESV]
+
+[1] “The whole commandment that I command you today you shall be careful to do, that you may live and multiply, and go in and possess the land that the LORD swore to give to your fathers. [2] And you shall remember the whole way that the LORD your God has led you these forty years in the wilderness, that he might humble you, testing you to know what was in your heart, whether you would keep his commandments or not. [3] And he humbled you and let you hunger and fed you with manna, which you did not know, nor did your fathers know, that he might make you know that man does not live by bread alone, but man lives by every word that comes from the mouth of the LORD. [4] Your clothing did not wear out on you and your foot did not swell these forty years. [5] Know then in your heart that, as a man disciplines his son, the LORD your God disciplines you. [6] So you shall keep the commandments of the LORD your God by walking in his ways and by fearing him. [7] For the LORD your God is bringing you into a good land, a land of brooks of water, of fountains and springs, flowing out in the valleys and hills, [8] a land of wheat and barley, of vines and fig trees and pomegranates, a land of olive trees and honey, [9] a land in which you will eat bread without scarcity, in which you will lack nothing, a land whose stones are iron, and out of whose hills you can dig copper. [10] And you shall eat and be full, and you shall bless the LORD your God for the good land he has given you.”
+
+------------
+
+[1]  ΠΑΣΑΣ τὰς ἐντολάς, ἃς ἐγὼ ἐντέλλομαι ὑμῖν σήμερον, φυλάξεσθε ποιεῖν, ἵνα ζῆτε καὶ πολυπλασιασθῆτε καὶ εἰσέλθητε καὶ κληρονομήσητε τὴν γῆν, ἣν ὤμοσε Κύριος ὁ Θεὸς ὑμῶν τοῖς πατράσιν ὑμῶν. 
+[2]  καὶ μνησθήσῃ πᾶσαν τὴν ὁδόν, ἣν ἤγαγέ σε Κύριος ὁ Θεός σου ἐν τῇ ἐρήμῳ, ὅπως ἂν κακώσῃ σε καὶ πειράσῃ σε καὶ διαγνωσθῇ τὰ ἐν τῇ καρδίᾳ σου, εἰ φυλάξῃ τὰς ἐντολὰς αὐτοῦ ἢ οὔ. 
+[3]  καὶ ἐκάκωσέ σε καὶ ἐλιμαγχόνησέ σε καὶ ἐψώμισέ σε τὸ μάννα, ὃ οὐκ ᾔδεισαν οἱ πατέρες σου, ἵνα ἀναγγείλῃ σοι, ὅτι οὐκ ἐπ᾿ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος, ἀλλ᾿ ἐπὶ παντὶ ρήματι τῷ ἐκπορευομένῳ διὰ στόματος Θεοῦ ζήσεται ὁ ἄνθρωπος. 
+[4]  τὰ ἱμάτιά σου οὐκ ἐπαλαιώθη ἀπὸ σοῦ, τὰ ὑποδήματά σου οὐ κατετρίβη ἀπὸ σοῦ, οἱ πόδες σου οὐκ ἐτυλώθησαν, ἰδοὺ τεσσαράκοντα ἔτη. 
+[5]  καὶ γνώσῃ τῇ καρδίᾳ σου ὅτι ὡς εἴ τις ἄνθρωπος παιδεύσῃ τὸν υἱὸν αὐτοῦ, οὕτω Κύριος ὁ Θεός σου παιδεύσει σε, 
+[6]  καὶ φυλάξῃ τὰς ἐντολὰς Κυρίου τοῦ Θεοῦ σου πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ καὶ φοβεῖσθαι αὐτόν· 
+[7]  ὁ γὰρ Κύριος ὁ Θεός σου εἰσάξει σε εἰς γῆν ἀγαθὴν καὶ πολλήν, οὗ χείμαρροι ὑδάτων καὶ πηγαὶ ἀβύσσων ἐκπορευόμεναι διὰ τῶν πεδίων καὶ διὰ τῶν ὀρέων· 
+[8]  γῆ πυροῦ καὶ κριθῆς, ἄμπελοι, συκαῖ, ροαί, γῆ ἐλαίας ἐλαίου καὶ μέλιτος· 
+[9]  γῆ, ἐφ᾿ ἧς οὐ μετὰ πτωχείας φαγῇ τὸν ἄρτον σου καὶ οὐκ ἐνδεηθήσῃ ἐπ᾿ αὐτῆς οὐδέν· γῆ, ἧς οἱ λίθοι σίδηρος, καὶ ἐκ τῶν ὀρέων αὐτῆς μεταλλεύσεις χαλκόν· 
+[10]  καὶ φαγῇ καὶ ἐμπλησθήσῃ καὶ εὐλογήσεις Κύριον τὸν Θεόν σου ἐπὶ τῆς γῆς τῆς ἀγαθῆς, ἧς δέδωκέ σοι.
+
+## Epistle [Php 4:6‑20 ESV; sermon text]
+
+[6] Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. [7] And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.
+
+[8] Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things. [9] What you have learned and received and heard and seen in me—practice these things, and the God of peace will be with you.
+
+[10] I rejoiced in the Lord greatly that now at length you have revived your concern for me. You were indeed concerned for me, but you had no opportunity. [11] Not that I am speaking of being in need, for I have learned in whatever situation I am to be content. [12] I know how to be brought low, and I know how to abound. In any and every circumstance, I have learned the secret of facing plenty and hunger, abundance and need. [13] I can do all things through him who strengthens me.
+
+[14] Yet it was kind of you to share my trouble. [15] And you Philippians yourselves know that in the beginning of the gospel, when I left Macedonia, no church entered into partnership with me in giving and receiving, except you only. [16] Even in Thessalonica you sent me help for my needs once and again. [17] Not that I seek the gift, but I seek the fruit that increases to your credit. [18] I have received full payment, and more. I am well supplied, having received from Epaphroditus the gifts you sent, a fragrant offering, a sacrifice acceptable and pleasing to God. [19] And my God will supply every need of yours according to his riches in glory in Christ Jesus. [20] To our God and Father be glory forever and ever. Amen.
+
+------------
+
+[6] μηδὲν μεριμνᾶτε, ἀλλ' ἐν παντὶ τῇ προσευχῇ καὶ τῇ δεήσει μετὰ εὐχαριστίας τὰ αἰτήματα ὑμῶν γνωριζέσθω πρὸς τὸν θεόν. 
+[7] καὶ ἡ εἰρήνη τοῦ θεοῦ ἡ ὑπερέχουσα πάντα νοῦν φρουρήσει τὰς καρδίας ὑμῶν καὶ τὰ νοήματα ὑμῶν ἐν Χριστῷ Ἰησοῦ. 
+
+[8] Τὸ λοιπόν, ἀδελφοί, ὅσα ἐστὶν ἀληθῆ, ὅσα σεμνά, ὅσα δίκαια, ὅσα ἁγνά, ὅσα προσφιλῆ, ὅσα εὔφημα, εἴ τις ἀρετὴ καὶ εἴ τις ἔπαινος, ταῦτα λογίζεσθε: 
+[9] ἃ καὶ ἐμάθετε καὶ παρελάβετε καὶ ἠκούσατε καὶ εἴδετε ἐν ἐμοί, ταῦτα πράσσετε: καὶ ὁ θεὸς τῆς εἰρήνης ἔσται μεθ' ὑμῶν. 
+
+[10] Ἐχάρην δὲ ἐν κυρίῳ μεγάλως ὅτι ἤδη ποτὲ ἀνεθάλετε τὸ ὑπὲρ ἐμοῦ φρονεῖν, ἐφ' ᾧ καὶ ἐφρονεῖτε ἠκαιρεῖσθε δέ. 
+[11] οὐχ ὅτι καθ' ὑστέρησιν λέγω, ἐγὼ γὰρ ἔμαθον ἐν οἷς εἰμι αὐτάρκης εἶναι. 
+[12] οἶδα καὶ ταπεινοῦσθαι, οἶδα καὶ περισσεύειν: ἐν παντὶ καὶ ἐν πᾶσιν μεμύημαι καὶ χορτάζεσθαι καὶ πεινᾶν, καὶ περισσεύειν καὶ ὑστερεῖσθαι. 
+[13] πάντα ἰσχύω ἐν τῷ ἐνδυναμοῦντί με. 
+
+[14] πλὴν καλῶς ἐποιήσατε συγκοινωνήσαντές μου τῇ θλίψει. 
+[15] Οἴδατε δὲ καὶ ὑμεῖς, Φιλιππήσιοι, ὅτι ἐν ἀρχῇ τοῦ εὐαγγελίου, ὅτε ἐξῆλθον ἀπὸ Μακεδονίας, οὐδεμία μοι ἐκκλησία ἐκοινώνησεν εἰς λόγον δόσεως καὶ λήμψεως εἰ μὴ ὑμεῖς μόνοι: 
+[16] ὅτι καὶ ἐν Θεσσαλονίκῃ καὶ ἅπαξ καὶ δὶς εἰς τὴν χρείαν μοι ἐπέμψατε. 
+[17] οὐχ ὅτι ἐπιζητῶ τὸ δόμα, ἀλλὰ ἐπιζητῶ τὸν καρπὸν τὸν πλεονάζοντα εἰς λόγον ὑμῶν. 
+[18] ἀπέχω δὲ πάντα καὶ περισσεύω: πεπλήρωμαι δεξάμενος παρὰ Ἐπαφροδίτου τὰ παρ' ὑμῶν, ὀσμὴν εὐωδίας, θυσίαν δεκτήν, εὐάρεστον τῷ θεῷ. 
+[19] ὁ δὲ θεός μου πληρώσει πᾶσαν χρείαν ὑμῶν κατὰ τὸ πλοῦτος αὐτοῦ ἐν δόξῃ ἐν Χριστῷ Ἰησοῦ. 
+[20] τῷ δὲ θεῷ καὶ πατρὶ ἡμῶν ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων: ἀμήν.
+
+## Holy Gospel [Lk 17:11‑19 ESV]
+
+[11] On the way to Jerusalem he was passing along between Samaria and Galilee.
+[12] And as he entered a village, he was met by ten lepers, who stood at a distance [13] and lifted up their voices, saying, “Jesus, Master, have mercy on us.” [14] When he saw them he said to them, “Go and show yourselves to the priests.” And as they went they were cleansed. [15] Then one of them, when he saw that he was healed, turned back, praising God with a loud voice; [16] and he fell on his face at Jesus' feet, giving him thanks. Now he was a Samaritan. [17] Then Jesus answered, “Were not ten cleansed? Where are the nine? [18] Was no one found to return and give praise to God except this foreigner?”
+[19] And he said to him, “Rise and go your way; your faith has made you well.”
+
+------------
+
+[11] Καὶ ἐγένετο ἐν τῷ πορεύεσθαι εἰς Ἰερουσαλὴμ καὶ αὐτὸς διήρχετο διὰ μέσον Σαμαρείας καὶ Γαλιλαίας. 
+[12] καὶ εἰσερχομένου αὐτοῦ εἴς τινα κώμην ἀπήντησαν [αὐτῷ] δέκα λεπροὶ ἄνδρες, οἳ ἔστησαν πόρρωθεν, 
+[13] καὶ αὐτοὶ ἦραν φωνὴν λέγοντες, Ἰησοῦ ἐπιστάτα, ἐλέησον ἡμᾶς. 
+[14] καὶ ἰδὼν εἶπεν αὐτοῖς, Πορευθέντες ἐπιδείξατε ἑαυτοὺς τοῖς ἱερεῦσιν. καὶ ἐγένετο ἐν τῷ ὑπάγειν αὐτοὺς ἐκαθαρίσθησαν. 
+[15] εἷς δὲ ἐξ αὐτῶν, ἰδὼν ὅτι ἰάθη, ὑπέστρεψεν μετὰ φωνῆς μεγάλης δοξάζων τὸν θεόν, 
+[16] καὶ ἔπεσεν ἐπὶ πρόσωπον παρὰ τοὺς πόδας αὐτοῦ εὐχαριστῶν αὐτῷ: καὶ αὐτὸς ἦν Σαμαρίτης. 
+[17] ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν, Οὐχὶ οἱ δέκα ἐκαθαρίσθησαν; οἱ δὲ ἐννέα ποῦ; 
+[18] οὐχ εὑρέθησαν ὑποστρέψαντες δοῦναι δόξαν τῷ θεῷ εἰ μὴ ὁ ἀλλογενὴς οὗτος; 
+[19] καὶ εἶπεν αὐτῷ, Ἀναστὰς πορεύου: ἡ πίστις σου σέσωκέν σε.
+
+## Introit
+
+*NO INTROIT FOR THIS SERVICE*
+
+## Collect
+
+Almighty God, Your mercies are new every morning and You graciously provide for all our needs of body and soul. Grant us Your Holy Spirit that we may acknowledge Your goodness, give thanks for Your benefits, and serve You in willing obedience all our days; through Jesus Christ, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 568 _We Praise Thee, O God, Our Redeemer, Creator_
+* Epistle response: _TLH_ 36 _Now Thank We All Our God_, st 3
+* Sermon hymn: _TLH_ 574 _Come, Ye Thankful People, Come_
+* Closing hymn: _TLH_ 575 _Before the Lord We Bow_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+Let us be thankful for food, shelter, clothing, and food, but let us also be thankful for *forgiveness*---forgivenss by grace alone by faith alone.
+
+The Holy Gospel tells us how Jesus healed ten lepers.
+Oh, we know he had the power to heal disease, but anyone who knows the Old Testament knows that lepers were not allowed near the Tabernacle, where the glory of God dwelt above the cherubim, above the Mercy Seat of the ark of the covenant.
+We had a similar situation last Sunday when St. Paul describes the day of the Lord in 1 Thessalonians, chapter 5 as **"sudden destruction will come upon them as labor pains come upon a pregnant woman,"** which is familiar to anyone who has heard Jeremiah's prophecy [(Jer 6:24)](https://www.biblegateway.com/passage/?search=Jeremiah+6:24&version=ESV).
+
+A leper represents a sinner. But why do the nine not return to thank the Lord?
+
+AMEN.
+
+## Outline
+
+<center>ZZZ</center>
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+
