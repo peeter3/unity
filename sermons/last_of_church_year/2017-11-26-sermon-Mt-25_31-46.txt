@@ -1,0 +1,115 @@
+% Last Sunday of the Church Year
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Ezk 34:11‑16, 20-24 ESV]
+
+[11] “For thus says the Lord God: Behold, I, I myself will search for my sheep and will seek them out. 
+[12] As a shepherd seeks out his flock when he is among his sheep that have been scattered, so will I seek out my sheep, and I will rescue them from all places where they have been scattered on a day of clouds and thick darkness. 
+[13] And I will bring them out from the peoples and gather them from the countries, and will bring them into their own land. And I will feed them on the mountains of Israel, by the ravines, and in all the inhabited places of the country. 
+[14] I will feed them with good pasture, and on the mountain heights of Israel shall be their grazing land. There they shall lie down in good grazing land, and on rich pasture they shall feed on the mountains of Israel. 
+[15] I myself will be the shepherd of my sheep, and I myself will make them lie down, declares the Lord God. 
+[16] I will seek the lost, and I will bring back the strayed, and I will bind up the injured, and I will strengthen the weak, and the fat and the strong I will destroy. I will feed them in justice. 
+
+[ [17] “As for you, my flock, thus says the Lord God: Behold, I judge between sheep and sheep, between rams and male goats. 
+[18] Is it not enough for you to feed on the good pasture, that you must tread down with your feet the rest of your pasture; and to drink of clear water, that you must muddy the rest of the water with your feet? 
+[19] And must my sheep eat what you have trodden with your feet, and drink what you have muddied with your feet? ]
+
+[20] “Therefore, thus says the Lord God to them: Behold, I, I myself will judge between the fat sheep and the lean sheep. 
+[21] Because you push with side and shoulder, and thrust at all the weak with your horns, till you have scattered them abroad, 
+[22] I will rescue my flock; they shall no longer be a prey. And I will judge between sheep and sheep. 
+[23] And I will set up over them one shepherd, my servant David, and he shall feed them: he shall feed them and be their shepherd. 
+[24] And I, the Lord, will be their God, and my servant David shall be prince among them. I am the Lord; I have spoken.
+
+
+## Epistle [1Co 15:20‑28 ESV]
+
+[20] But in fact Christ has been raised from the dead, the firstfruits of those who have fallen asleep. 
+[21] For as by a man came death, by a man has come also the resurrection of the dead. 
+[22] For as in Adam all die, so also in Christ shall all be made alive. 
+[23] But each in his own order: Christ the firstfruits, then at his coming those who belong to Christ. 
+[24] Then comes the end, when he delivers the kingdom to God the Father after destroying every rule and every authority and power. 
+[25] For he must reign until he has put all his enemies under his feet. 
+[26] The last enemy to be destroyed is death. 
+[27] For “God has put all things in subjection under his feet.” But when it says, “all things are put in subjection,” it is plain that he is excepted who put all things in subjection under him. 
+[28] When all things are subjected to him, then the Son himself will also be subjected to him who put all things in subjection under him, that God may be all in all.
+
+
+## Holy Gospel [Mt 25:31‑46 ESV; sermon text]
+
+[31] “When the Son of Man comes in his glory, and all the angels with him, then he will sit on his glorious throne. 
+[32] Before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats. 
+[33] And he will place the sheep on his right, but the goats on the left. 
+[34] Then the King will say to those on his right, ‘Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world. 
+[35] For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, 
+[36] I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.’ 
+[37] Then the righteous will answer him, saying, ‘Lord, when did we see you hungry and feed you, or thirsty and give you drink? 
+[38] And when did we see you a stranger and welcome you, or naked and clothe you? 
+[39] And when did we see you sick or in prison and visit you?’ 
+[40] And the King will answer them, ‘Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.’ 
+
+[41] “Then he will say to those on his left, ‘Depart from me, you cursed, into the eternal fire prepared for the devil and his angels. 
+[42] For I was hungry and you gave me no food, I was thirsty and you gave me no drink, 
+[43] I was a stranger and you did not welcome me, naked and you did not clothe me, sick and in prison and you did not visit me.’ 
+[44] Then they also will answer, saying, ‘Lord, when did we see you hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to you?’ 
+[45] Then he will answer them, saying, ‘Truly, I say to you, as you did not do it to one of the least of these, you did not do it to me.’ 
+[46] And these will go away into eternal punishment, but the righteous into eternal life.”
+
+------------
+
+[31] Οταν δὲ ἔλθῃ ὁ υἱὸς τοῦ ἀνθρώπου ἐν τῇ δόξῃ αὐτοῦ καὶ πάντες οἱ ἄγγελοι μετ' αὐτοῦ, τότε καθίσει ἐπὶ θρόνου δόξης αὐτοῦ: 
+[32] καὶ συναχθήσονται ἔμπροσθεν αὐτοῦ πάντα τὰ ἔθνη, καὶ ἀφορίσει αὐτοὺς ἀπ' ἀλλήλων, ὥσπερ ὁ ποιμὴν ἀφορίζει τὰ πρόβατα ἀπὸ τῶν ἐρίφων, 
+[33] καὶ στήσει τὰ μὲν πρόβατα ἐκ δεξιῶν αὐτοῦ τὰ δὲ ἐρίφια ἐξ εὐωνύμων. 
+[34] τότε ἐρεῖ ὁ βασιλεὺς τοῖς ἐκ δεξιῶν αὐτοῦ, Δεῦτε, οἱ εὐλογημένοι τοῦ πατρός μου, κληρονομήσατε τὴν ἡτοιμασμένην ὑμῖν βασιλείαν ἀπὸ καταβολῆς κόσμου: 
+[35] ἐπείνασα γὰρ καὶ ἐδώκατέ μοι φαγεῖν, ἐδίψησα καὶ ἐποτίσατέ με, ξένος ἤμην καὶ συνηγάγετέ με, 
+[36] γυμνὸς καὶ περιεβάλετέ με, ἠσθένησα καὶ ἐπεσκέψασθέ με, ἐν φυλακῇ ἤμην καὶ ἤλθατε πρός με. 
+[37] τότε ἀποκριθήσονται αὐτῷ οἱ δίκαιοι λέγοντες, Κύριε, πότε σε εἴδομεν πεινῶντα καὶ ἐθρέψαμεν, ἢ διψῶντα καὶ ἐποτίσαμεν; 
+[38] πότε δέ σε εἴδομεν ξένον καὶ συνηγάγομεν, ἢ γυμνὸν καὶ περιεβάλομεν; 
+[39] πότε δέ σε εἴδομεν ἀσθενοῦντα ἢ ἐν φυλακῇ καὶ ἤλθομεν πρός σε; 
+[40] καὶ ἀποκριθεὶς ὁ βασιλεὺς ἐρεῖ αὐτοῖς, Ἀμὴν λέγω ὑμῖν, ἐφ' ὅσον ἐποιήσατε ἑνὶ τούτων τῶν ἀδελφῶν μου τῶν ἐλαχίστων, ἐμοὶ ἐποιήσατε. 
+
+[41] Τότε ἐρεῖ καὶ τοῖς ἐξ εὐωνύμων, Πορεύεσθε ἀπ' ἐμοῦ [οἱ] κατηραμένοι εἰς τὸ πῦρ τὸ αἰώνιον τὸ ἡτοιμασμένον τῷ διαβόλῳ καὶ τοῖς ἀγγέλοις αὐτοῦ: 
+[42] ἐπείνασα γὰρ καὶ οὐκ ἐδώκατέ μοι φαγεῖν, ἐδίψησα καὶ οὐκ ἐποτίσατέ με, 
+[43] ξένος ἤμην καὶ οὐ συνηγάγετέ με, γυμνὸς καὶ οὐ περιεβάλετέ με, ἀσθενὴς καὶ ἐν φυλακῇ καὶ οὐκ ἐπεσκέψασθέ με. 
+[44] τότε ἀποκριθήσονται καὶ αὐτοὶ λέγοντες, Κύριε, πότε σε εἴδομεν πεινῶντα ἢ διψῶντα ἢ ξένον ἢ γυμνὸν ἢ ἀσθενῆ ἢ ἐν φυλακῇ καὶ οὐ διηκονήσαμέν σοι; 
+[45] τότε ἀποκριθήσεται αὐτοῖς λέγων, Ἀμὴν λέγω ὑμῖν, ἐφ' ὅσον οὐκ ἐποιήσατε ἑνὶ τούτων τῶν ἐλαχίστων, οὐδὲ ἐμοὶ ἐποιήσατε. 
+[46] καὶ ἀπελεύσονται οὗτοι εἰς κόλασιν αἰώνιον, οἱ δὲ δίκαιοι εἰς ζωὴν αἰώνιον.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 604 _Great God, What do I See and Hear?_
+* Sermon hymn: _TLH_ 610 _And will the Judge Descend_
+* Communion hymn: _TLH_ 608 _Let Thoughtless Thousands Choose the Road_
+* Closing hymn: _TLH_ 123 _Our God, Our Help in Ages Past_ sts 4‑8
+
+## Sermon
+
+Beloved in the Lord, 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
