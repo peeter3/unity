@@ -1,0 +1,134 @@
+% 1st in Advent
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* Mention Paula during the General Prayer.
+
+## Announcements
+
+* This is a tough Sunday. May our Lord care for us as we miss Paula.
+* Midweek Advent supper at 6 on Wednesday, service at 7.
+
+## Old Testament [Is 64:1‑9 ESV]
+
+> [1] Oh that you would rend the heavens and come down,\
+> that the mountains might quake at your presence—\
+> [2]  as when fire kindles brushwood\
+> and the fire causes water to boil—\
+> to make your name known to your adversaries,\
+> and that the nations might tremble at your presence!\
+> [3] When you did awesome things that we did not look for,\
+> you came down, the mountains quaked at your presence.\
+> [4] From of old no one has heard\
+> or perceived by the ear,\
+> no eye has seen a God besides you,\
+> who acts for those who wait for him.\
+> [5] You meet him who joyfully works righteousness,\
+> those who remember you in your ways.\
+> Behold, you were angry, and we sinned;\
+> in our sins we have been a long time, and shall we be saved?\
+> [6] We have all become like one who is unclean,\
+> and all our righteous deeds are like a polluted garment.\
+> We all fade like a leaf,\
+> and our iniquities, like the wind, take us away.\
+> [7] There is no one who calls upon your name,\
+> who rouses himself to take hold of you;\
+> for you have hidden your face from us,\
+> and have made us melt in the hand of our iniquities.
+
+> [8] But now, O LORD, you are our Father;\
+> we are the clay, and you are our potter;\
+> we are all the work of your hand.\
+> [9] Be not so terribly angry, O LORD,\
+> and remember not iniquity forever.\
+> Behold, please look, we are all your people.
+
+## Epistle [1Co 1:3‑9 ESV; sermon text]
+
+[3] Grace to you and peace from God our Father and the Lord Jesus Christ. 
+[4] I give thanks to my God always for you because of the grace of God that was given you in Christ Jesus, 
+[5] that in every way you were enriched in him in all speech and all knowledge— 
+[6] even as the testimony about Christ was confirmed among you— 
+[7] so that you are not lacking in any gift, as you wait for the revealing of our Lord Jesus Christ, 
+[8] who will sustain you to the end, guiltless in the day of our Lord Jesus Christ. 
+[9] God is faithful, by whom you were called into the fellowship of his Son, Jesus Christ our Lord.
+
+------------
+
+[3] χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ. 
+[4] Εὐχαριστῶ τῷ θεῷ μου πάντοτε περὶ ὑμῶν ἐπὶ τῇ χάριτι τοῦ θεοῦ τῇ δοθείσῃ ὑμῖν ἐν Χριστῷ Ἰησοῦ, 
+[5] ὅτι ἐν παντὶ ἐπλουτίσθητε ἐν αὐτῷ, ἐν παντὶ λόγῳ καὶ πάσῃ γνώσει, 
+[6] καθὼς τὸ μαρτύριον τοῦ Χριστοῦ ἐβεβαιώθη ἐν ὑμῖν, 
+[7] ὥστε ὑμᾶς μὴ ὑστερεῖσθαι ἐν μηδενὶ χαρίσματι, ἀπεκδεχομένους τὴν ἀποκάλυψιν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ: 
+[8] ὃς καὶ βεβαιώσει ὑμᾶς ἕως τέλους ἀνεγκλήτους ἐν τῇ ἡμέρᾳ τοῦ κυρίου ἡμῶν Ἰησοῦ [Χριστοῦ]. 
+[9] πιστὸς ὁ θεὸς δι' οὗ ἐκλήθητε εἰς κοινωνίαν τοῦ υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν.
+
+## Holy Gospel [Mk 11:1‑10 ESV]
+
+[1] Now when they drew near to Jerusalem, to Bethphage and Bethany, at the Mount of Olives, Jesus sent two of his disciples 
+[2] and said to them, “Go into the village in front of you, and immediately as you enter it you will find a colt tied, on which no one has ever sat. Untie it and bring it. 
+[3] If anyone says to you, ‘Why are you doing this?’ say, ‘The Lord has need of it and will send it back here immediately.’” 
+[4] And they went away and found a colt tied at a door outside in the street, and they untied it. 
+[5] And some of those standing there said to them, “What are you doing, untying the colt?” 
+[6] And they told them what Jesus had said, and they let them go. 
+[7] And they brought the colt to Jesus and threw their cloaks on it, and he sat on it. 
+[8] And many spread their cloaks on the road, and others spread leafy branches that they had cut from the fields. 
+[9] And those who went before and those who followed were shouting, “Hosanna! Blessed is he who comes in the name of the Lord! 
+[10] Blessed is the coming kingdom of our father David! Hosanna in the highest!”
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 74 _Once He Came in Blessing_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+"Thanks, I don't need any help."
+
+"Do you need any help?"
+
+"No, I'm good."
+
+"No, you're not."
+
+> **"But we are all as an unclean thing, and all our righteousnesses are as filthy rags."** [(Is 64:6 KJV)](https://www.biblegateway.com/passage/?search=Is+64%3A6&version=KJV)
+
+Before God, we are *all* as an unclean thing, and all our righteous deeds are as filthy rags before God.
+
+"Do you need any help?"
+
+"Yes! Please help me!"
+
+And here comes our Lord Jesus saddled on a colt.
+
+> **"Hosanna! Blessed is he who comes in the name of the Lord!"** [(Mk 11:9 ESV)](https://www.biblegateway.com/passage/?search=Mk+11%3A9&version=ESV)
+
+AMEN.
+
+## Outline
+
+|       ALTHOUGH YOUR RIGHTEOUS ACTS ARE FILTHY RAGS, HE STILL CALLS YOU TO HIS FELLOWSHIP.         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+Is 64:6. All our righteous deeds are filthy rags.
+
+1Co 1:4, 9. I give thanks (Εὐχαριστῶ) that you were called into Eucharistic fellowship (εἰς κοινωνίαν) with our Lord Jesus Christ.

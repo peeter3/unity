@@ -1,13 +1,10 @@
 % Last Sunday of the Church Year
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
-## During the service
-
-* ZZZ
-
 ## Announcements
 
-* ZZZ
+* Joan update.
+* Midweek Advent services begin Wednesday, 12/6. Supper at 6, service at 7. Please see Trina if you are willing to host one of the dinners.
 
 ## Old Testament [Ezk 34:11‑16, 20-24 ESV]
 
@@ -110,8 +107,66 @@ Eternal God, merciful Father, You have appointed Your Son as judge of the living
 
 ## Sermon
 
-Beloved in the Lord, 
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+Today is the Last Sunday of the Church Year and we know that the day of the Lord is coming.
+And although we know that the day is coming, we also know, nevertheless, that it will come as a surprise.
 
+> **"For as the lightning comes from the east and shines as far as the west, so will be the coming of the Son of Man."** [(Mt 24:27 ESV)](https://www.biblegateway.com/passage/?search=Matthew+24:27&version=ESV)
+
+The day of the Lord is close at hand:
+
+> **"And you will hear of wars and rumors of wars. See that you are not alarmed, for this must take place, but the end is not yet."** [(Mt 24:6 ESV)](https://www.biblegateway.com/passage/?search=Matthew+24:6&version=ESV)
+
+On the day of the Lord, our Lord Jesus will come to judge both the living and the dead.
+
+>  **"Just as the weeds are gathered and burned with fire, so will it be at the end of the age. The Son of Man will send his angels, and they will gather out of his kingdom all causes of sin and all law-breakers, and throw them into the fiery furnace. In that place there will be weeping and gnashing of teeth."** [(Mt 13:40‑42 ESV)](https://www.biblegateway.com/passage/?search=Matthew+13&version=ESV)
+
+Yes, as we heard in last week's Old Testament lesson,
+
+> **A day of wrath is that day,**\
+> **a day of distress and anguish,**\
+> **a day of ruin and devastation,**\
+> **a day of darkness and gloom,**\
+> **a day of clouds and thick darkness.** [(Zep 1:15 ESV)](https://www.biblegateway.com/passage/?search=Zep+1%3A15&version=ESV)
+
+Yet today we hear, in our Old Testament lesson, about our Good Shepherd's work on His day:
+
+> **As a shepherd seeks out his flock when he is among his sheep that have been scattered, so will I seek out my sheep, and _I will rescue them_ from all places where they have been scattered on a day of clouds and thick darkness.** [(Ezk 34:12 ESV)](https://www.biblegateway.com/passage/?search=Ezk+34%3A12&version=ESV)
+
+On the day of clouds and thick darkness---on the day of the Lord---we, Christ's flock will be scattered but _He will rescue us_.
+Rest assured; everything's going to be okay: He has promised it.
+
+> **I myself will be the shepherd of my sheep, and I myself will make them lie down, declares the Lord God. I will seek the lost, and I will bring back the strayed, and I will bind up the injured, and I will strengthen the weak, and the fat and the strong I will destroy. I will feed them in justice.** [(Ezk 34:15‑16 ESV)](https://www.biblegateway.com/passage/?search=Ezk+34%3A15-16&version=ESV)
+
+So, beloved in the Lord, do not fear the trouble that is upon us.
+There is trouble, and there will be more.
+All anyone wants to do anymore is confuse us and take our money.
+People die tragically around us all the time. People quickly get angry and violent.
+We do not know which one of us will be the next victim of crime.
+And has not our Lord warned us: **"Many will fall away and betray one another and hate one another"** [(Mt 24:10 ESV)](https://www.biblegateway.com/passage/?search=Matthew+24:9-11&version=ESV)?
+That is coming, too.
+Yet we have been promised by our Lord Jesus Christ that we have nothing to fear, so either we believe Him or we do not.
+
+Either we believe our Lord died for our sins or we do not. How many times did our Lord heal someone and then tell them, **"Your faith has saved you"**?
+When some brought Him a paralytic, the first thing He told Him was, **"Take heart, my son; your sins are forgiven"** [(Mt 9:2 ESV)](https://www.biblegateway.com/passage/?search=Matthew+9:1-3&version=ESV).
+Remember the woman with the discharge of blood? **"Take heart, daughter; your faith has made you well"** [(Mt 9:22 ESV)](https://www.biblegateway.com/passage/?search=Matthew+9&version=ESV).
+Remember the two blind men who followed Jesus and cried out,
+**"Have mercy on us, Son of David"**?
+
+> **"Do you believe that I am able to do this?" They said to him, "Yes, Lord." Then he touched their eyes, saying, "According to your faith be it done to you."** [(Mt 9:28‑29 ESV)](https://www.biblegateway.com/passage/?search=Matthew+9&version=ESV)
+
+Let us keep our faith, beloved in the Lord, as the day of the Lord draws closer, and according to our faith be it done to us, too.
+According to the faith of the blind men, they cried out for mercy and received mercy.
+According to our faith, at one time or another, *[Point to baptismal font.]* we cried out for mercy and received a washing of water and God's Word for the forgiveness of our sins.
+Yes, how can we forget that we are beggars---beggars for mercy for the forgiveness of our sins---and on that hill far away in distance and in time, yet on that hill known before the foundation of the world, our Lord was crucified as God mercifully directed His anger toward our sins *at His dearly beloved Son*.
+God has shown us the mercy we begged for and proclaims to us His Son hanging on the Cross to atone for our sins.
+We are forgiven and God no longer holds our sins against us. Alleluia!
+
+Now, as the day of the Lord approaches, He reminds us that there are those in need of our mercy.
+And in case we cannot figure out for ourselves who these people are, He tells us: Do you know someone who is hungry? Do you know someone who is thirsty? Is there a stranger among you who needs to feel at home? Do you know someone with no clothes? Do you know someone sick? Do you know someone in prison?
+Here are the people who need your mercy.
+Will we remember that God has shown mercy to us?
+He will ask about it when we see Him on the judgment throne.
 AMEN.
 
 ## Outline
