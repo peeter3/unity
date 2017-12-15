@@ -1,0 +1,111 @@
+% 3rd of Lent
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Is 61:1‑4, 8‑11 ESV]
+
+> [1] The Spirit of the Lord GOD is upon me,\
+> because the LORD has anointed me\
+> to bring good news to the poor;\
+> he has sent me to bind up the brokenhearted,\
+> to proclaim liberty to the captives,\
+> and the opening of the prison to those who are bound;\
+> [2] to proclaim the year of the LORD's favor,\
+> and the day of vengeance of our God;\
+> to comfort all who mourn;\
+> [3] to grant to those who mourn in Zion—\
+> to give them a beautiful headdress instead of ashes,\
+> the oil of gladness instead of mourning,\
+> the garment of praise instead of a faint spirit;\
+> that they may be called oaks of righteousness,\
+> the planting of the LORD, that he may be glorified.\
+> [4] They shall build up the ancient ruins;\
+> they shall raise up the former devastations;\
+> they shall repair the ruined cities,\
+> the devastations of many generations.
+
+> [8] For I the LORD love justice;\
+> I hate robbery and wrong;\
+> I will faithfully give them their recompense,\
+> and I will make an everlasting covenant with them.\
+> [9] Their offspring shall be known among the nations,\
+> and their descendants in the midst of the peoples;\
+> all who see them shall acknowledge them,\
+> that they are an offspring the LORD has blessed.
+
+> [10] I will greatly rejoice in the LORD;\
+> my soul shall exult in my God,\
+> for he has clothed me with the garments of salvation;\
+> he has covered me with the robe of righteousness,\
+> as a bridegroom decks himself like a priest with a beautiful headdress,\
+> and as a bride adorns herself with her jewels.\
+> [11] For as the earth brings forth its sprouts,\
+> and as a garden causes what is sown in it to sprout up,\
+> so the Lord GOD will cause righteousness and praise\
+> to sprout up before all the nations.
+
+## Epistle [1Th 5:16‑24 ESV; sermon text]
+
+[16] Rejoice always, [17] pray without ceasing, [18] give thanks in all circumstances; for this is the will of God in Christ Jesus for you. [19] Do not quench the Spirit. [20] Do not despise prophecies, [21] but test everything; hold fast what is good. [22] Abstain from every form of evil.
+
+[23] Now may the God of peace himself sanctify you completely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord Jesus Christ. [24] He who calls you is faithful; he will surely do it.
+
+------------
+
+[16] Πάντοτε χαίρετε, 
+[17] ἀδιαλείπτως προσεύχεσθε, 
+[18] ἐν παντὶ εὐχαριστεῖτε: τοῦτο γὰρ θέλημα θεοῦ ἐν Χριστῷ Ἰησοῦ εἰς ὑμᾶς. 
+[19] τὸ πνεῦμα μὴ σβέννυτε, 
+[20] προφητείας μὴ ἐξουθενεῖτε: 
+[21] πάντα δὲ δοκιμάζετε, τὸ καλὸν κατέχετε, 
+[22] ἀπὸ παντὸς εἴδους πονηροῦ ἀπέχεσθε. 
+
+[23] Αὐτὸς δὲ ὁ θεὸς τῆς εἰρήνης ἁγιάσαι ὑμᾶς ὁλοτελεῖς, καὶ ὁλόκληρον ὑμῶν τὸ πνεῦμα καὶ ἡ ψυχὴ καὶ τὸ σῶμα ἀμέμπτως ἐν τῇ παρουσίᾳ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τηρηθείη. 
+[24] πιστὸς ὁ καλῶν ὑμᾶς, ὃς καὶ ποιήσει.
+
+## Holy Gospel [Jn 1:6‑8, 19‑28 ESV]
+
+[6] There was a man sent from God, whose name was John. [7] He came as a witness, to bear witness about the light, that all might believe through him. [8] He was not the light, but came to bear witness about the light.
+
+[19] And this is the testimony of John, when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?” [20] He confessed, and did not deny, but confessed, “I am not the Christ.” [21] And they asked him, “What then? Are you Elijah?” He said, “I am not.” “Are you the Prophet?” And he answered, “No.” [22] So they said to him, “Who are you? We need to give an answer to those who sent us. What do you say about yourself?” [23] He said, “I am the voice of one crying out in the wilderness, ‘Make straight the way of the Lord,’ as the prophet Isaiah said.”
+
+[24] (Now they had been sent from the Pharisees.) [25] They asked him, “Then why are you baptizing, if you are neither the Christ, nor Elijah, nor the Prophet?” [26] John answered them, “I baptize with water, but among you stands one you do not know, [27] even he who comes after me, the strap of whose sandal I am not worthy to untie.” [28] These things took place in Bethany across the Jordan, where John was baptizing.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 62 _Oh, Come, Oh, Come, Emmanuel_
+* Sermon hymn: _TLH_ 58 _O Lord, How Shall I Meet Thee_ st 1‑5 (second tune)
+* Communion hymn: _TLH_ 98 _Of the Father's Love Begotten_
+* Closing hymn: _TLH_ 66 _Hark the Glad Sound! The Savior Comes_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
