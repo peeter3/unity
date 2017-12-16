@@ -1,0 +1,85 @@
+% _TLH_ 60 _Hark, a Thrilling Voice is Sounding_
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Scripture reading [Is 60:1‑7, 19‑20 ESV]
+
+> [1] Arise, shine, for your light has come,\
+> and the glory of the LORD has risen upon you.\
+> [2] For behold, darkness shall cover the earth,\
+> and thick darkness the peoples;\
+> but the LORD will arise upon you,\
+> and his glory will be seen upon you.\
+> [3] And nations shall come to your light,\
+> and kings to the brightness of your rising.
+
+> [4] Lift up your eyes all around, and see;\
+> they all gather together, they come to you;\
+> your sons shall come from afar,\
+> and your daughters shall be carried on the hip.\
+> [5] Then you shall see and be radiant;\
+> your heart shall thrill and exult,\
+> because the abundance of the sea shall be turned to you,\
+> the wealth of the nations shall come to you.\
+> [6] A multitude of camels shall cover you,\
+> the young camels of Midian and Ephah;\
+> all those from Sheba shall come.\
+> They shall bring gold and frankincense,\
+> and shall bring good news, the praises of the LORD.\
+> [7] All the flocks of Kedar shall be gathered to you;\
+> the rams of Nebaioth shall minister to you;\
+> they shall come up with acceptance on my altar,\
+> and I will beautify my beautiful house.
+
+> [19] The sun shall be no more\
+> your light by day,\
+> nor for brightness shall the moon\
+> give you light;\
+> but the LORD will be your everlasting light,\
+> and your God will be your glory.\
+> [20] Your sun shall no more go down,\
+> nor your moon withdraw itself;\
+> for the LORD will be your everlasting light,\
+> and your days of mourning shall be ended.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 73 _Lift Up Your Heads, Ye Mighty Gates_ (third tune)
+* Sermon hymn: _TLH_ 60 _Hark, a Thrilling Voice is Sounding_ (use tune from _LSB_ 345)
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord. Our Advent theme this year will be Advent hymns:
+
+* Last week: _TLH_ 95 _Savior of the Nations, Come_
+* Today: _TLH_ 60 _Hark, a Thrilling Voice is Sounding_
+* Next week: _TLH_ 62 _Oh, Come, Oh, Come, Emmanuel_
+
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
