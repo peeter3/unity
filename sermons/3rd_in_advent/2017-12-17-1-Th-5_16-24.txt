@@ -1,13 +1,10 @@
 % 3rd of Lent
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
-## During the service
-
-* ZZZ
-
 ## Announcements
 
-* ZZZ
+* Midweek Advent supper at 6 this Wednesday; service at 7.
+* Thank you to our shovlers.
 
 ## Old Testament [Is 61:1‑4, 8‑11 ESV]
 
@@ -122,17 +119,22 @@ The Lord announced to Moses,
 
 > **"I will raise up for them a prophet like you from among their brothers. And I will put my words in his mouth, and he shall speak to them all that I command him. And whoever will not listen to my words that he shall speak in my name, I myself will require it of him."** [(Dt 18:18‑19 ESV)](https://www.esv.org/Deuteronomy+18/)
 
-This is the famous Old-Testament promise of *the Prophet*---the Lord announced to Moses that He would raise up for the Israelites another prophet like Moses.
-The Israelites were promised this new Prophet not when life was great and they were relaxing---they were promised the Prophet when they were traveling through the wilderness to the Promised Land.
+This is the famous Old-Testament wrapping: the promise of *the Prophet*
+The Lord announced to Moses that He would raise up for the Israelites another prophet like Moses.
+Moses is the old and the Prophet will be the new.
+The Israelites were promised this new Prophet not when life was great and they were relaxing---they were promised the Prophet when they were traveling through the wilderness to the Promised Land and life was not great, or so they thought.
 The Israelites were promised the Prophet not when they were doing great and God was pleased with them.
-The spies had gone to the Promised Land---"We're almost there! Go, check it out."---and they brought back a cluster of grapes hanging on a pole and the brought back the report that there is food but the people who live there are giants---they will sqash us.
-The Israelites were close to reaching the Promised Land but wanted to turn back to Egypt because they were afraid of being attacked [(Nm 13‑14)](https://www.esv.org/Numbers+13/).
+The spies---do you remember?---the spies had gone to the Promised Land---"We're almost there! Go, check it out."
+When the spies returned, they brought back a cluster of grapes hanging on a pole and a report that there is food in the Promised Land but the people who live there are giants---they will sqash us.
+The Israelites were close to reaching the Promised Land but were afraid and wanted to turn back to Egypt---they were afraid of being attacked [(Nm 13‑14)](https://www.esv.org/Numbers+13/).
 They did not trust that God would bring them safely into the land He had promised them.
 
 Of course, they had good reason to be afraid of God, for they had made a golden calf and worshiped it.
 They had seen those tablets of the Ten Commandments shattered in Moses' anger at the calf.
-Remember how those tablets were written.
-It was not that God spoke and Moses transcribed the Commandments onto the stone with a hammer and chisel: God Himself wrote His Commandments on the stone so that the people would know how to live right before God.
+They were idolaters and and were afraid because they knew that God destroys idolaters.
+It was not that God spoke and Moses transcribed the Commandments onto the stone with a hammer and chisel: *God Himself* wrote His Commandments on the stone so that the people would know how to live right before God.
+This holy transaction was going on on the mountain of God and the people were not at the bottom of the mountain prayinig and praising God---they were committing shameful acts around the golden calf.
+Yet on the mountain, God wrote these holy Commands on the stone tablets:
 
 > **You shall have no other gods.**\
 > **You shall not misuse the name of the LORD your God.**\
@@ -149,13 +151,24 @@ Oh yes, the Ten Commandments have a lot to do with Christmas!
 God wrote these Commandments with His own finger on the stone tablets that we would live by them!
 We know they are right---no one even questions if they are right---this is how to live right before God.
 
-And the Israelites were terrified!
-They had God's Law to know how to live a better life but *they could not do it*!
+The Israelites were terrified because these Commandments did not help them to live right.
+Though the Commandments *are* right, they have no power to *make us* live right.
+*Live by the rules* is right, but it does not work.
+The Israelites had God's Law to know how to live a righteous life but *they could not do it*!
+And they were afraid as they were on the day Moses broke the tablets.
+Then God promised them the Prophet---the One they need not fear because of their guilt under God's holy Law.
 
-We all need Him, but now we *want* Him.
+At this point, beloved in the Lord, I hope that you recognize that you and I are no different from the Israelites.
+None of us are right for having kept God's Law, for as soon as we break one of the Commandments, we are *guilty* before God and await His righteous wrath.
+Try to better next time, and if all we have is our own efforts, we will only become more and more frustrated the next time we sin.
+If all we have are the Commandments, we are condemned to die and go to hell.
+Jesus comes wrapped in the promise that He is the Prophet of whom we need *not* be afraid, we need only listen to Him.
 
-While God was writing His holy Commandments on the stone tablets with His own finger,
-
+If you stand condemned under God's Law, you have a present this Christmas---a present you need, but I hope a present you also desperately want---the present of righeousness before God even though you have broken His Commandments.
+Jesus is your present who comes not to condemn you under the Law, but to do whatever it takes to remove that condemnation from you.
+When the condemnation is removed, you are, in fact, *righeous* before God---He thinks you do good and does not condemn you.
+Receive that present in your heart and you will have, by far, the best Christmas present ever.
+Rejoice in your Lord Jesus!
 AMEN.
 
 ## Outline
