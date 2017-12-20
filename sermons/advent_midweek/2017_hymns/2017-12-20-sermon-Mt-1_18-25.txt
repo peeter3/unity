@@ -1,0 +1,119 @@
+% _TLH_ 62 _Oh, Come, Oh, Come, Emmanuel_
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Scripture reading [Mt 1:18‑25 ESV]
+
+[18] Now the birth of Jesus Christ took place in this way. When his mother Mary had been betrothed to Joseph, before they came together she was found to be with child from the Holy Spirit. [19] And her husband Joseph, being a just man and unwilling to put her to shame, resolved to divorce her quietly. [20] But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. [21] She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.” [22] All this took place to fulfill what the Lord had spoken by the prophet:
+
+> [23] “Behold, the virgin shall conceive and bear a son,\
+> and they shall call his name Immanuel”
+	
+	
+(which means, God with us). [24] When Joseph woke from sleep, he did as the angel of the Lord commanded him: he took his wife, [25] but knew her not until she had given birth to a son. And he called his name Jesus.
+
+## Hymns
+
+* Sermon hymn: _TLH_ 62 _Oh, Come, Oh, Come, Emmanuel_
+
+## Sermon[^1]
+
+[^1]: I took this sermon from the website of St. Athanasius Lutheran Church in, Vienna, VA.
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord. We have arrived at perhaps the most famous Advent hymn:
+_Oh, Come, Oh, Come, Emmanuel_.
+They hymn is based on the seven _Great "O" Antiphons_---short verses that have been traditionally sung around the Magnificat during Vespers; here they are:
+
+* _O Wisdom, proceeding from the mouth of the Most High_
+* _O Adonai and ruler of the house of Israel_
+* _O Root of Jesse, standing as an ensign before the peoples_
+* _O Key of David and scepter of the house of Israel_
+* _O Dayspring, splendor of light everlasting_
+* _O King of nations, the ruler they long for_
+* _O Emmanuel, our king and Lord_
+
+These are all names of the promised Christ.
+There may have been as many as sixteen of them, but here we have the seven---the biblical number of perfection.
+
+Let us sing again the first stanza of the hymn: *[Sing.]*.
+Here is the antiphon that goes with it:
+
+> _O Emmanuel, our king and our Lord,the anointed for the nations and their Savior: Come and save us, O Lord our God._
+
+Emmanuel---*God with us*---*God with sinners*.
+We know that sinners have reason to be afraid in the presence of God: He has every right to destroy us.
+Well, *He doesn't*, not with Jesus.
+Jesus is *God with us*---*God with sinners*---God who has come to save us, not destroy us.
+
+Let us sing the second stanza of the hymn: *[Sing.]*.
+Here is the antiphon that goes with it:
+
+> _O Root of Jesse, standing as an ensign before the peoples, before whom all kings are mute, to whom the nations will do homage: Come quickly to deliver us._
+
+During the reign of King David, Jesse's son, Israel was at its greatest and most
+glorious.
+But not too long after that, because of their sin and idolatry, the great tree of Israel was chopped down and reduced to a stump.
+But, God promised, a branch will grow from that chopped down, lifeless-looking stump.
+A shoot will grow, and God's people, God's kingdom will again be grand and glorious.
+Not as a kingdom of this earth, but a kingdom greater than this earth---a *kingdom in heaven* for all time.
+And in Bethlehem, that branch begins to grow.
+
+Let us sing the third stanza of the hymn: *[Sing.]*.
+Here is the antiphon that goes with it:
+
+> _O Dayspring, splendor of light everlasting: Come and enlighten those who sit in darkness and in the shadow of death._
+
+There is no life without light.
+In the beginning, the very first thing created was light.
+And from that light sprung everything else. So too is it with us.
+We cannot live without light---without the light of our Lord Jesus Christ, without the light of His Word, without the light of His life.
+Without Him is only darkness and death.
+If you live long enough in the darkness, you kind of get used to it.
+But at the same time, you never really get used to it. We need the light or we will die.
+
+And so in this antiphon we pray: *Come and enlighten us!*
+And as a demonstration of this very prayer, the fathers of the early church often faced East when praying, for in the East is where the sun rises and scatters the darkness, symbolic of when the Son of God will arise and come again, *and enlighten those who sit in darkness and in the shadow of death*, and scatter that darkness once and for all.
+
+This world can be a pretty dark place.
+But as the Son came as a baby to shine the light of God's love in a dark world, so even now the Son is coming to us in His Word and Sacraments to enlighten us, to disperse and put to flight the sins that haunt us, the darkness that frightens us, and the evil that threatens us---that we be safe in Him---safe until He comes again and darkness is no more---safe until He comes again and we rise to live in His eternal day.
+
+Let us sing the fourth and final stanza of the hymn: *[Sing.]*.
+Here is the antiphon that goes with it:
+
+> _O Key of David and scepter of the house of Israel, You open and no one can close, You close and no one can open: Come and rescue the prisoners who are in darkness and the shadow of death._
+
+Have you ever wished to be somewhere but the door was locked to you?
+Maybe a sibling slammed the door and wouldn't let you in.
+Maybe you didn't have authorization or clearance to get in.
+Maybe it was a place everyone wanted to get in and kept trying to get in, but the lock was just to tight and secure.
+So it is with heaven.
+Our sin has locked the door to heaven and sinners cannot get it.
+There is only one way to enter, one key, and that is the forgiveness of sins that is found only in Christ. Yes, this child in the manger, has come to open the door to Paradise again.
+
+Outside is the ugliness of sin, inside the beauty of holiness.
+Outside is the darkness of the grave, inside the light of life.
+Outside is separation from God, inside perfect communion with Him.
+And Emmanuel comes to our outside!
+The holy Son becomes sin for us.
+The Son who dwelt in light eternal enters the darkness with us.
+The Son who is one with the Father and the Holy Spirit is condemned for us sinners that we may enter in---that we may be beautiful and holy again---that we may be united with God again---that we may enter into his courts with praise.
+And the best news of all? What He opens, no one can close! So come, Key of David!
+And open wide our heavenly home.
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
