@@ -1,0 +1,93 @@
+% 1st after Christmas
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Is 61:10‑62:3 ESV]
+
+> [10] I will greatly rejoice in the LORD;\
+> my soul shall exult in my God,\
+> for he has clothed me with the garments of salvation;\
+> he has covered me with the robe of righteousness,\
+> as a bridegroom decks himself like a priest with a beautiful headdress,\
+> and as a bride adorns herself with her jewels.\
+> [11] For as the earth brings forth its sprouts,\
+> and as a garden causes what is sown in it to sprout up,\
+> so the Lord GOD will cause righteousness and praise\
+> to sprout up before all the nations.\
+> [1] For Zion's sake I will not keep silent,\
+> and for Jerusalem's sake I will not be quiet,\
+> until her righteousness goes forth as brightness,\
+> and her salvation as a burning torch.\
+> [2] The nations shall see your righteousness,\
+> and all the kings your glory,\
+> and you shall be called by a new name\
+> that the mouth of the LORD will give.\
+> [3] You shall be a crown of beauty in the hand of the LORD,\
+> and a royal diadem in the hand of your God.
+
+## Epistle [Gal 4:4‑7 ESV; sermon text]
+
+[4] But when the fullness of time had come, God sent forth his Son, born of woman, born under the law, [5] to redeem those who were under the law, so that we might receive adoption as sons. [6] And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!” [7] So you are no longer a slave, but a son, and if a son, then an heir through God.
+
+------------
+
+[4] ὅτε δὲ ἦλθεν τὸ πλήρωμα τοῦ χρόνου, ἐξαπέστειλεν ὁ θεὸς τὸν υἱὸν αὐτοῦ, γενόμενον ἐκ γυναικός, γενόμενον ὑπὸ νόμον, 
+[5] ἵνα τοὺς ὑπὸ νόμον ἐξαγοράσῃ, ἵνα τὴν υἱοθεσίαν ἀπολάβωμεν. 
+[6] Οτι δέ ἐστε υἱοί, ἐξαπέστειλεν ὁ θεὸς τὸ πνεῦμα τοῦ υἱοῦ αὐτοῦ εἰς τὰς καρδίας ἡμῶν, κρᾶζον, Αββα ὁ πατήρ. 
+[7] ὥστε οὐκέτι εἶ δοῦλος ἀλλὰ υἱός: εἰ δὲ υἱός, καὶ κληρονόμος διὰ θεοῦ.
+
+## Holy Gospel [Lk 2:22‑40 ESV]
+
+[22] And when the time came for their purification according to the Law of Moses, they brought him up to Jerusalem to present him to the Lord [23] (as it is written in the Law of the Lord, “Every male who first opens the womb shall be called holy to the Lord”) [24] and to offer a sacrifice according to what is said in the Law of the Lord, “a pair of turtledoves, or two young pigeons.” [25] Now there was a man in Jerusalem, whose name was Simeon, and this man was righteous and devout, waiting for the consolation of Israel, and the Holy Spirit was upon him. [26] And it had been revealed to him by the Holy Spirit that he would not see death before he had seen the Lord's Christ. [27] And he came in the Spirit into the temple, and when the parents brought in the child Jesus, to do for him according to the custom of the Law, [28] he took him up in his arms and blessed God and said,
+
+> [29] “Lord, now you are letting your servant depart in peace,\
+> according to your word;\
+> [30] for my eyes have seen your salvation\
+> [31] that you have prepared in the presence of all peoples,\
+> [32] a light for revelation to the Gentiles,\
+> and for glory to your people Israel.”\
+
+[33] And his father and his mother marveled at what was said about him. 
+[34] And Simeon blessed them and said to Mary his mother, “Behold, this child is appointed for the fall and rising of many in Israel, and for a sign that is opposed [35] (and a sword will pierce through your own soul also), so that thoughts from many hearts may be revealed.”
+[36] And there was a prophetess, Anna, the daughter of Phanuel, of the tribe of Asher. She was advanced in years, having lived with her husband seven years from when she was a virgin, [37] and then as a widow until she was eighty-four. She did not depart from the temple, worshiping with fasting and prayer night and day. [38] And coming up at that very hour she began to give thanks to God and to speak of him to all who were waiting for the redemption of Jerusalem.
+
+[39] And when they had performed everything according to the Law of the Lord, they returned into Galilee, to their own town of Nazareth. [40] And the child grew and became strong, filled with wisdom. And the favor of God was upon him. 
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 136 _Angels from the Realms of Glory_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord. Do you know it is Christmas? I mean, did you know last week that it was Christmas? And how many people in the world knew that it was Christmas last week? I am not much of a world traveler, but I imagine that there were very few people in the world who did not know that it was Christmas last week. Even where Christmas was drowned in commercialism, people still knew it was Christmas. Even if they did not observe the reason for season, they still knew in the back of their minds that Jesus is the reason for the season. There may be reason to rejoice in Christmas, even with its abuse, because the word about Jesus sure gets out at Christmastime! Even in some dark corner of the world where Christmas is not observed at all, someone knows, "We don't celebrate Christmas but we do know it's the birth of Jesus." Jesus, the only name under heaven by which men can be saved---His name sure gets out at Christmas!
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
