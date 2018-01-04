@@ -1,0 +1,164 @@
+% 1st after Christmas
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Is 61:10‑62:3 ESV]
+
+> [10] I will greatly rejoice in the LORD;\
+> my soul shall exult in my God,\
+> for he has clothed me with the garments of salvation;\
+> he has covered me with the robe of righteousness,\
+> as a bridegroom decks himself like a priest with a beautiful headdress,\
+> and as a bride adorns herself with her jewels.\
+> [11] For as the earth brings forth its sprouts,\
+> and as a garden causes what is sown in it to sprout up,\
+> so the Lord GOD will cause righteousness and praise\
+> to sprout up before all the nations.\
+> [1] For Zion's sake I will not keep silent,\
+> and for Jerusalem's sake I will not be quiet,\
+> until her righteousness goes forth as brightness,\
+> and her salvation as a burning torch.\
+> [2] The nations shall see your righteousness,\
+> and all the kings your glory,\
+> and you shall be called by a new name\
+> that the mouth of the LORD will give.\
+> [3] You shall be a crown of beauty in the hand of the LORD,\
+> and a royal diadem in the hand of your God.
+
+## Epistle [Gal 4:4‑7 ESV; sermon text]
+
+[4] But when the fullness of time had come, God sent forth his Son, born of woman, born under the law, [5] to redeem those who were under the law, so that we might receive adoption as sons. [6] And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!” [7] So you are no longer a slave, but a son, and if a son, then an heir through God.
+
+------------
+
+[4] ὅτε δὲ ἦλθεν τὸ πλήρωμα τοῦ χρόνου, ἐξαπέστειλεν ὁ θεὸς τὸν υἱὸν αὐτοῦ, γενόμενον ἐκ γυναικός, γενόμενον ὑπὸ νόμον, 
+[5] ἵνα τοὺς ὑπὸ νόμον ἐξαγοράσῃ, ἵνα τὴν υἱοθεσίαν ἀπολάβωμεν. 
+[6] Οτι δέ ἐστε υἱοί, ἐξαπέστειλεν ὁ θεὸς τὸ πνεῦμα τοῦ υἱοῦ αὐτοῦ εἰς τὰς καρδίας ἡμῶν, κρᾶζον, Αββα ὁ πατήρ. 
+[7] ὥστε οὐκέτι εἶ δοῦλος ἀλλὰ υἱός: εἰ δὲ υἱός, καὶ κληρονόμος διὰ θεοῦ.
+
+## Holy Gospel [Lk 2:22‑40 ESV]
+
+[22] And when the time came for their purification according to the Law of Moses, they brought him up to Jerusalem to present him to the Lord [23] (as it is written in the Law of the Lord, “Every male who first opens the womb shall be called holy to the Lord”) [24] and to offer a sacrifice according to what is said in the Law of the Lord, “a pair of turtledoves, or two young pigeons.” [25] Now there was a man in Jerusalem, whose name was Simeon, and this man was righteous and devout, waiting for the consolation of Israel, and the Holy Spirit was upon him. [26] And it had been revealed to him by the Holy Spirit that he would not see death before he had seen the Lord's Christ. [27] And he came in the Spirit into the temple, and when the parents brought in the child Jesus, to do for him according to the custom of the Law, [28] he took him up in his arms and blessed God and said,
+
+> [29] “Lord, now you are letting your servant depart in peace,\
+> according to your word;\
+> [30] for my eyes have seen your salvation\
+> [31] that you have prepared in the presence of all peoples,\
+> [32] a light for revelation to the Gentiles,\
+> and for glory to your people Israel.”\
+
+[33] And his father and his mother marveled at what was said about him. 
+[34] And Simeon blessed them and said to Mary his mother, “Behold, this child is appointed for the fall and rising of many in Israel, and for a sign that is opposed [35] (and a sword will pierce through your own soul also), so that thoughts from many hearts may be revealed.”
+[36] And there was a prophetess, Anna, the daughter of Phanuel, of the tribe of Asher. She was advanced in years, having lived with her husband seven years from when she was a virgin, [37] and then as a widow until she was eighty-four. She did not depart from the temple, worshiping with fasting and prayer night and day. [38] And coming up at that very hour she began to give thanks to God and to speak of him to all who were waiting for the redemption of Jerusalem.
+
+[39] And when they had performed everything according to the Law of the Lord, they returned into Galilee, to their own town of Nazareth. [40] And the child grew and became strong, filled with wisdom. And the favor of God was upon him. 
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 136 _Angels from the Realms of Glory_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+Do you know it is Christmas?
+I mean, did you know last week that it was Christmas?
+And how many people in the world other than yourselves, do you think, knew that it was Christmas last week?
+I am not much of a world traveler, but I bet that there were very few people in the world who did *not* know that it was Christmas last week.
+The point is: Behold how much the name of Christ is proclaimed just by broadcasting *Christmas*.
+Even where Christmas is drowned in commercialism, people still know it is Christmas.
+Even if people are instructed to say *Happy Holidays* instead of *Merry Christmas*, they say *Happy Holidays* knowing full well that this is meant do drown out *Merry Christmas*. Even by denying Christ, He gets stronger.
+Baby Jesus born in Bethlehem, the only name under heaven by which men can be saved---His name sure gets out!
+
+What a happy time this is for the world that her Savior is born, who is Christ the Lord.
+But, again, Jesus is born in Bethlehem, the city of David; He is born King of the *Jews*.
+And there is a city, Jerusalem, the capital of the Jews, which is run by Gentile Romans and a wicked king named Herod.
+Oh, Jerusalem! What an important city to this very day.
+Though Isaiah the prophet tells us much about the wonderful Son to be born---**For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace. Of the increase of his government and of peace there will be no end, on the throne of David and over his kingdom** [(Is 9:6‑7 ESV)](https://www.esv.org/Isaiah+9/)---preach this to the Jews, and it can only mean one thing: it will happen in Jerusalem, the holy city, the Jewish capital.
+(You probably heard that our government recently recognized Jerusalem as the Jewish capital.)
+Even in our Old Testament lesson, Isaiah proclaims,
+
+> **For Zion's sake I will not keep silent,**\
+> **and _for Jerusalem's sake_ I will not be quiet,**\
+> **until her righteousness goes forth as brightness,**\
+> **and her salvation as a burning torch.**\
+
+There is no doubt that the LORD is working to establish *Jerusalem's* righteousness, of all the cities in the world---God's righteousness shines in *Jerusalem*.
+
+So, what have we in Jerusalem when Jesus is born?
+The temple, of course, and with it, *God's Law*.
+Not only the Ten Commandments:
+
+1. **You shall have no other gods.**\
+2. **You shall not misuse the name of the Lord, your God.**\
+3. **Remember the Sabbath day by keeping it holy.**\
+4. **Honor your father and your mother.**\
+5. **You shall not murder.**\
+6. **You shall not commit adultery.**\
+7. **You shall not steal.**\
+8. **You shall not give false testimony against your neighbor.**\
+9. **You shall not covet your neighbor's house.**\
+10. **You shall not covet your neighbor's wife, or his manservant or maidservant, his ox or donkey, or anything the belongs to your neighbor.**
+
+Not only are the Ten Commandments taught and enshrined at the temple in Jerusalem, but all that *other* Law as well---the Law about sacrifices, cleanness and uncleanness---what you can eat and what you cannot eat; what you can touch and what you cannot touch.
+Read it for yourself in Leviticus. The most important thing to learn in Leviticus, beloved in the Lord, is *blood*---the value of blood: **For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls, for it is the blood that makes atonement by the life** [(Lv 17:11 ESV)](https://www.esv.org/Leviticus+17/).
+In other words, *blood atones for sins by its life*---one life substitutes for another.
+The animals atone for the sins of God's people by shedding their blood---their life---in the place of the unclean sinners who are under the sentence of death.
+*That* is what is going on in Jerusalem.
+And if you in any way identify with a sinner under the sentence of death, listen.
+
+What have we in Jerusalem when Jesus is born is that
+*Jesus is there.*
+Jesus is there and the righteousness of Jerusalem begins to shine.
+You can read Leviticus, chapter 12 to find out why Mary comes to Jerusalem in the Holy Gospel.
+According to the Law of Moses, her Son is to be circumcised at exactly eight days of age.
+Jesus was [(Lk 2:21)](https://www.esv.org/Luke+2/).
+(And ask Esther why God chose this age for circumcision. God knows what He is doing.)
+Circumcision, again, is part of the Law.
+Let us get technical now, because there is more.
+According to Leviticus, chapter 12, a mother is unclean for 33 days after giving birth to a son;
+after 33 days she is to bring a lamb for a burnt offering and a pigeon or a turtledove for a sin offering [(Lv 12:6)](https://www.esv.org/Leviticus+12/).
+
+Now wait a minute! Why should Mary need to bring a sin offering when Jesus was conceived without sin and born without sin?
+But she does.
+Did you notice she did not bring a lamb for her purification: only a pair of turtledoves or two young pigeons?
+Sounds like she did not have enough money for the lamb, *but look who she brought: the Lamb of God who takes away the sin of the world!*
+Jesus is born to take away the sins of the world, and we see to day that He does it under the Jewish Law. Perfectly. Jesus is a perfect Jew.
+Jesus is born under the Law, as St. Paul writes in our Epistle reading.
+
+> **But when the fullness of time had come, God sent forth his Son, born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons.**
+
+Right there, if there is any need for you to have your sins atoned for by blood---a life substituted in your place to you can live---I have good news for you: *Jesus is in the temple*.
+He is fulfilling the Law perfectly even as a child.
+Simeon and Anna rejoice over it.
+*[Point to the altar.]* You rejoice in it every time you receive His body and blood at the altar.
+And on the day He sheds his own blood outside the temple, that will be the new temple---there will be no use anymore for the old temple---and that will be that day on which Jerusalem's righteousness will shine perfectly.
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
