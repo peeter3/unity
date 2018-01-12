@@ -1,0 +1,82 @@
+% 2nd after the Epiphany
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [1Sm 3:1‑20 ESV]
+
+[1] Now the boy Samuel was ministering to the LORD in the presence of Eli. And the word of the LORD was rare in those days; there was no frequent vision.
+
+[2] At that time Eli, whose eyesight had begun to grow dim so that he could not see, was lying down in his own place. [3] The lamp of God had not yet gone out, and Samuel was lying down in the temple of the LORD, where the ark of God was.
+
+[4] Then the LORD called Samuel, and he said, “Here I am!” [5] and ran to Eli and said, “Here I am, for you called me.” But he said, “I did not call; lie down again.” So he went and lay down.
+
+[6] And the LORD called again, “Samuel!” and Samuel arose and went to Eli and said, “Here I am, for you called me.” But he said, “I did not call, my son; lie down again.” [7] Now Samuel did not yet know the LORD, and the word of the LORD had not yet been revealed to him.
+
+[8] And the LORD called Samuel again the third time. And he arose and went to Eli and said, “Here I am, for you called me.” Then Eli perceived that the LORD was calling the boy. [9] Therefore Eli said to Samuel, “Go, lie down, and if he calls you, you shall say, ‘Speak, LORD, for your servant hears.’” So Samuel went and lay down in his place.
+
+[10] And the LORD came and stood, calling as at other times, “Samuel! Samuel!” And Samuel said, “Speak, for your servant hears.” [11] Then the LORD said to Samuel, “Behold, I am about to do a thing in Israel at which the two ears of everyone who hears it will tingle. [12] On that day I will fulfill against Eli all that I have spoken concerning his house, from beginning to end. [13] And I declare to him that I am about to punish his house forever, for the iniquity that he knew, because his sons were blaspheming God, and he did not restrain them. [14] Therefore I swear to the house of Eli that the iniquity of Eli's house shall not be atoned for by sacrifice or offering forever.”
+
+[15] Samuel lay until morning; then he opened the doors of the house of the LORD. And Samuel was afraid to tell the vision to Eli. [16] But Eli called Samuel and said, “Samuel, my son.” And he said, “Here I am.” [17] And Eli said, “What was it that he told you? Do not hide it from me. May God do so to you and more also if you hide anything from me of all that he told you.” [18] So Samuel told him everything and hid nothing from him. And he said, “It is the LORD. Let him do what seems good to him.”
+
+[19] And Samuel grew, and the LORD was with him and let none of his words fall to the ground. [20] And all Israel from Dan to Beersheba knew that Samuel was established as a prophet of the LORD.
+
+## Epistle [1Co 6:12‑20 ESV; sermon text]
+
+[12] “All things are lawful for me,” but not all things are helpful. “All things are lawful for me,” but I will not be dominated by anything. [13] “Food is meant for the stomach and the stomach for food”—and God will destroy both one and the other. The body is not meant for sexual immorality, but for the Lord, and the Lord for the body. [14] And God raised the Lord and will also raise us up by his power. [15] Do you not know that your bodies are members of Christ? Shall I then take the members of Christ and make them members of a prostitute? Never! [16] Or do you not know that he who is joined to a prostitute becomes one body with her? For, as it is written, “The two will become one flesh.” [17] But he who is joined to the Lord becomes one spirit with him. [18] Flee from sexual immorality. Every other sin a person commits is outside the body, but the sexually immoral person sins against his own body. [19] Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, [20] for you were bought with a price. So glorify God in your body.
+
+------------
+
+[12] Πάντα μοι ἔξεστιν, ἀλλ' οὐ πάντα συμφέρει. πάντα μοι ἔξεστιν, ἀλλ' οὐκ ἐγὼ ἐξουσιασθήσομαι ὑπό τινος. 
+[13] τὰ βρώματα τῇ κοιλίᾳ, καὶ ἡ κοιλία τοῖς βρώμασιν: ὁ δὲ θεὸς καὶ ταύτην καὶ ταῦτα καταργήσει. τὸ δὲ σῶμα οὐ τῇ πορνείᾳ ἀλλὰ τῷ κυρίῳ, καὶ ὁ κύριος τῷ σώματι: 
+[14] ὁ δὲ θεὸς καὶ τὸν κύριον ἤγειρεν καὶ ἡμᾶς ἐξεγερεῖ διὰ τῆς δυνάμεως αὐτοῦ. 
+[15] οὐκ οἴδατε ὅτι τὰ σώματα ὑμῶν μέλη Χριστοῦ ἐστιν; ἄρας οὖν τὰ μέλη τοῦ Χριστοῦ ποιήσω πόρνης μέλη; μὴ γένοιτο. 
+[16] [ἢ] οὐκ οἴδατε ὅτι ὁ κολλώμενος τῇ πόρνῃ ἓν σῶμά ἐστιν; Ἔσονται γάρ, φησίν, οἱ δύο εἰς σάρκα μίαν. 
+[17] ὁ δὲ κολλώμενος τῷ κυρίῳ ἓν πνεῦμά ἐστιν. 
+[18] φεύγετε τὴν πορνείαν: πᾶν ἁμάρτημα ὃ ἐὰν ποιήσῃ ἄνθρωπος ἐκτὸς τοῦ σώματός ἐστιν, ὁ δὲ πορνεύων εἰς τὸ ἴδιον σῶμα ἁμαρτάνει. 
+[19] ἢ οὐκ οἴδατε ὅτι τὸ σῶμα ὑμῶν ναὸς τοῦ ἐν ὑμῖν ἁγίου πνεύματός ἐστιν, οὗ ἔχετε ἀπὸ θεοῦ, καὶ οὐκ ἐστὲ ἑαυτῶν; 
+[20] ἠγοράσθητε γὰρ τιμῆς: δοξάσατε δὴ τὸν θεὸν ἐν τῷ σώματι ὑμῶν.
+
+## Holy Gospel [Jn 1:40‑51 ESV; 3 verses prepended to the lectionary verses]
+
+[40] One of the two who heard John speak and followed Jesus was Andrew, Simon Peter's brother. [41] He first found his own brother Simon and said to him, “We have found the Messiah” (which means Christ). [42] He brought him to Jesus. Jesus looked at him and said, “You are Simon the son of John. You shall be called Cephas” (which means Peter).
+
+[43] The next day Jesus decided to go to Galilee. He found Philip and said to him, “Follow me.” [44] Now Philip was from Bethsaida, the city of Andrew and Peter. [45] Philip found Nathanael and said to him, “We have found him of whom Moses in the Law and also the prophets wrote, Jesus of Nazareth, the son of Joseph.” [46] Nathanael said to him, “Can anything good come out of Nazareth?” Philip said to him, “Come and see.” [47] Jesus saw Nathanael coming toward him and said of him, “Behold, an Israelite indeed, in whom there is no deceit!” [48] Nathanael said to him, “How do you know me?” Jesus answered him, “Before Philip called you, when you were under the fig tree, I saw you.” [49] Nathanael answered him, “Rabbi, you are the Son of God! You are the King of Israel!” [50] Jesus answered him, “Because I said to you, ‘I saw you under the fig tree,’ do you believe? You will see greater things than these.” [51] And he said to him, “Truly, truly, I say to you, you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 343 _How Lovely Shines the Morning Star_ st 1‑4
+* Sermon hymn: _TLH_ 270 _Jesus Calls Us; o'er the Tumult_
+* Communion hymn: _TLH_ 129 _Hail, Thou Source of Every Blessing_
+* Closing hymn: _TLH_ 131 _The Star Proclaims the King is Here_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
