@@ -1,0 +1,70 @@
+% 3rd after the Epiphany
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Jnh 3:1‑5, 10 ESV]
+
+[1] Then the word of the LORD came to Jonah the second time, saying, [2] “Arise, go to Nineveh, that great city, and call out against it the message that I tell you.” [3] So Jonah arose and went to Nineveh, according to the word of the LORD. Now Nineveh was an exceedingly great city, three days' journey in breadth. [4] Jonah began to go into the city, going a day's journey. And he called out, “Yet forty days, and Nineveh shall be overthrown!” [5] And the people of Nineveh believed God. They called for a fast and put on sackcloth, from the greatest of them to the least of them.
+
+[10] When God saw what they did, how they turned from their evil way, God relented of the disaster that he had said he would do to them, and he did not do it.
+
+## Epistle [1Co 7:29‑35 ESV; sermon text]
+
+[29] This is what I mean, brothers: the appointed time has grown very short. From now on, let those who have wives live as though they had none, [30] and those who mourn as though they were not mourning, and those who rejoice as though they were not rejoicing, and those who buy as though they had no goods, [31] and those who deal with the world as though they had no dealings with it. For the present form of this world is passing away.
+
+[32] I want you to be free from anxieties. The unmarried man is anxious about the things of the Lord, how to please the Lord. [33] But the married man is anxious about worldly things, how to please his wife, [34] and his interests are divided. And the unmarried or betrothed woman is anxious about the things of the Lord, how to be holy in body and spirit. But the married woman is anxious about worldly things, how to please her husband. [35] I say this for your own benefit, not to lay any restraint upon you, but to promote good order and to secure your undivided devotion to the Lord.
+
+------------
+
+[29] τοῦτο δέ φημι, ἀδελφοί, ὁ καιρὸς συνεσταλμένος ἐστίν: τὸ λοιπὸν ἵνα καὶ οἱ ἔχοντες γυναῖκας ὡς μὴ ἔχοντες ὦσιν, 
+[30] καὶ οἱ κλαίοντες ὡς μὴ κλαίοντες, καὶ οἱ χαίροντες ὡς μὴ χαίροντες, καὶ οἱ ἀγοράζοντες ὡς μὴ κατέχοντες, 
+[31] καὶ οἱ χρώμενοι τὸν κόσμον ὡς μὴ καταχρώμενοι: παράγει γὰρ τὸ σχῆμα τοῦ κόσμου τούτου. 
+
+[32] θέλω δὲ ὑμᾶς ἀμερίμνους εἶναι. ὁ ἄγαμος μεριμνᾷ τὰ τοῦ κυρίου, πῶς ἀρέσῃ τῷ κυρίῳ: 
+[33] ὁ δὲ γαμήσας μεριμνᾷ τὰ τοῦ κόσμου, πῶς ἀρέσῃ τῇ γυναικί, 
+[34] καὶ μεμέρισται. καὶ ἡ γυνὴ ἡ ἄγαμος καὶ ἡ παρθένος μεριμνᾷ τὰ τοῦ κυρίου, ἵνα ᾖ ἁγία καὶ τῷ σώματι καὶ τῷ πνεύματι: ἡ δὲ γαμήσασα μεριμνᾷ τὰ τοῦ κόσμου, πῶς ἀρέσῃ τῷ ἀνδρί. 
+[35] τοῦτο δὲ πρὸς τὸ ὑμῶν αὐτῶν σύμφορον λέγω, οὐχ ἵνα βρόχον ὑμῖν ἐπιβάλω, ἀλλὰ πρὸς τὸ εὔσχημον καὶ εὐπάρεδρον τῷ κυρίῳ ἀπερισπάστως.
+
+## Holy Gospel [Mk 1:14‑20 ESV]
+
+[14] Now after John was arrested, Jesus came into Galilee, proclaiming the gospel of God, [15] and saying, “The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.”
+
+[16] Passing alongside the Sea of Galilee, he saw Simon and Andrew the brother of Simon casting a net into the sea, for they were fishermen. [17] And Jesus said to them, “Follow me, and I will make you become fishers of men.” [18] And immediately they left their nets and followed him. [19] And going on a little farther, he saw James the son of Zebedee and John his brother, who were in their boat mending the nets. [20] And immediately he called them, and they left their father Zebedee in the boat with the hired servants and followed him.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 132 _O God of God, O Light of Light_
+* Sermon hymn: _TLH_ 620 _Lord, Who at Cana's Wedding Feast_
+* Closing hymn: _TLH_ 281 _The Savior Calls; Let Every Ear_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
