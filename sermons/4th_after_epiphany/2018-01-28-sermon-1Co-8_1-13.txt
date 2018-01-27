@@ -1,0 +1,97 @@
+% 4th after the Epiphany
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Dt 18:15‑20 ESV]
+
+[15] "The LORD your God will raise up for you a prophet like me from among you, from your brothers—it is to him you shall listen—[16] just as you desired of the LORD your God at Horeb on the day of the assembly, when you said, ‘Let me not hear again the voice of the LORD my God or see this great fire any more, lest I die.’ [17] And the LORD said to me, ‘They are right in what they have spoken. [18] I will raise up for them a prophet like you from among their brothers. And I will put my words in his mouth, and he shall speak to them all that I command him. [19] And whoever will not listen to my words that he shall speak in my name, I myself will require it of him. [20] But the prophet who presumes to speak a word in my name that I have not commanded him to speak, or who speaks in the name of other gods, that same prophet shall die.’"
+
+## Epistle [1Co 8:1‑13 ESV; sermon text]
+
+[1] Now concerning food offered to idols: we know that “all of us possess knowledge.” This “knowledge” puffs up, but love builds up. [2] If anyone imagines that he knows something, he does not yet know as he ought to know. [3] But if anyone loves God, he is known by God.
+
+[4] Therefore, as to the eating of food offered to idols, we know that “an idol has no real existence,” and that “there is no God but one.” [5] For although there may be so-called gods in heaven or on earth—as indeed there are many “gods” and many “lords”—[6] yet for us there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist.
+
+[7] However, not all possess this knowledge. But some, through former association with idols, eat food as really offered to an idol, and their conscience, being weak, is defiled. [8] Food will not commend us to God. We are no worse off if we do not eat, and no better off if we do. [9] But take care that this right of yours does not somehow become a stumbling block to the weak. [10] For if anyone sees you who have knowledge eating in an idol's temple, will he not be encouraged, if his conscience is weak, to eat food offered to idols? [11] And so by your knowledge this weak person is destroyed, the brother for whom Christ died. [12] Thus, sinning against your brothers and wounding their conscience when it is weak, you sin against Christ. [13] Therefore, if food makes my brother stumble, I will never eat meat, lest I make my brother stumble.
+
+------------
+
+[1] Περὶ δὲ τῶν εἰδωλοθύτων, οἴδαμεν ὅτι πάντες γνῶσιν ἔχομεν. ἡ γνῶσις φυσιοῖ, ἡ δὲ ἀγάπη οἰκοδομεῖ. 
+[2] εἴ τις δοκεῖ ἐγνωκέναι τι, οὔπω ἔγνω καθὼς δεῖ γνῶναι: 
+[3] εἰ δέ τις ἀγαπᾷ τὸν θεόν, οὗτος ἔγνωσται ὑπ' αὐτοῦ. 
+
+[4] Περὶ τῆς βρώσεως οὖν τῶν εἰδωλοθύτων οἴδαμεν ὅτι οὐδὲν εἴδωλον ἐν κόσμῳ, καὶ ὅτι οὐδεὶς θεὸς εἰ μὴ εἷς. 
+[5] καὶ γὰρ εἴπερ εἰσὶν λεγόμενοι θεοὶ εἴτε ἐν οὐρανῷ εἴτε ἐπὶ γῆς, ὥσπερ εἰσὶν θεοὶ πολλοὶ καὶ κύριοι πολλοί, 
+[6] ἀλλ' ἡμῖν εἷς θεὸς ὁ πατήρ, ἐξ οὗ τὰ πάντα καὶ ἡμεῖς εἰς αὐτόν, καὶ εἷς κύριος Ἰησοῦς Χριστός, δι' οὗ τὰ πάντα καὶ ἡμεῖς δι' αὐτοῦ. 
+
+[7] Ἀλλ' οὐκ ἐν πᾶσιν ἡ γνῶσις: τινὲς δὲ τῇ συνηθείᾳ ἕως ἄρτι τοῦ εἰδώλου ὡς εἰδωλόθυτον ἐσθίουσιν, καὶ ἡ συνείδησις αὐτῶν ἀσθενὴς οὖσα μολύνεται. 
+[8] βρῶμα δὲ ἡμᾶς οὐ παραστήσει τῷ θεῷ: οὔτε ἐὰν μὴ φάγωμεν ὑστερούμεθα, οὔτε ἐὰν φάγωμεν περισσεύομεν. 
+[9] βλέπετε δὲ μή πως ἡ ἐξουσία ὑμῶν αὕτη πρόσκομμα γένηται τοῖς ἀσθενέσιν. 
+[10] ἐὰν γάρ τις ἴδῃ σὲ τὸν ἔχοντα γνῶσιν ἐν εἰδωλείῳ κατακείμενον, οὐχὶ ἡ συνείδησις αὐτοῦ ἀσθενοῦς ὄντος οἰκοδομηθήσεται εἰς τὸ τὰ εἰδωλόθυτα ἐσθίειν; 
+[11] ἀπόλλυται γὰρ ὁ ἀσθενῶν ἐν τῇ σῇ γνώσει, ὁ ἀδελφὸς δι' ὃν Χριστὸς ἀπέθανεν. 
+[12] οὕτως δὲ ἁμαρτάνοντες εἰς τοὺς ἀδελφοὺς καὶ τύπτοντες αὐτῶν τὴν συνείδησιν ἀσθενοῦσαν εἰς Χριστὸν ἁμαρτάνετε. 
+[13] διόπερ εἰ βρῶμα σκανδαλίζει τὸν ἀδελφόν μου, οὐ μὴ φάγω κρέα εἰς τὸν αἰῶνα, ἵνα μὴ τὸν ἀδελφόν μου σκανδαλίσω.
+
+## Holy Gospel [Mt 5:21‑37 ESV]
+
+[21] “You have heard that it was said to those of old, ‘You shall not murder; and whoever murders will be liable to judgment.’ 
+[22] But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to the hell of fire. 
+[23] So if you are offering your gift at the altar and there remember that your brother has something against you, 
+[24] leave your gift there before the altar and go. First be reconciled to your brother, and then come and offer your gift. 
+[25] Come to terms quickly with your accuser while you are going with him to court, lest your accuser hand you over to the judge, and the judge to the guard, and you be put in prison. 
+[26] Truly, I say to you, you will never get out until you have paid the last penny. 
+
+[27] “You have heard that it was said, ‘You shall not commit adultery.’ 
+[28] But I say to you that everyone who looks at a woman with lustful intent has already committed adultery with her in his heart. 
+[29] If your right eye causes you to sin, tear it out and throw it away. For it is better that you lose one of your members than that your whole body be thrown into hell. 
+[30] And if your right hand causes you to sin, cut it off and throw it away. For it is better that you lose one of your members than that your whole body go into hell. 
+
+[31] “It was also said, ‘Whoever divorces his wife, let him give her a certificate of divorce.’ 
+[32] But I say to you that everyone who divorces his wife, except on the ground of sexual immorality, makes her commit adultery, and whoever marries a divorced woman commits adultery. 
+
+[33] "Again you have heard that it was said to those of old, ‘You shall not swear falsely, but shall perform to the Lord what you have sworn.’ 
+[34] But I say to you, Do not take an oath at all, either by heaven, for it is the throne of God, 
+[35] or by the earth, for it is his footstool, or by Jerusalem, for it is the city of the great King. 
+[36] And do not take an oath by your head, for you cannot make one hair white or black. 
+[37] Let what you say be simply ‘Yes’ or ‘No’; anything more than this comes from evil."
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 126 _Arise and Shine in Splendor_
+* Sermon hymn: _TLH_ 477 _Lord Jesus, Thou the Church's Head_
+* Communion hymn: _TLH_ 315 _I Come, O Savior, to Thy Table_ st 1‑5
+* Closing hymn: _TLH_ 47 _Savior, Again to Thy Dear Name We Raise_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+Dt 18:15. *The* Prophet promised to the Jews.
