@@ -1,0 +1,119 @@
+% 5th after the Epiphany
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Is 40:21‑31 ESV]
+
+> [21] Do you not know? Do you not hear?\
+> Has it not been told you from the beginning?\
+> Have you not understood from the foundations of the earth?\
+> [22] It is he who sits above the circle of the earth,\
+> and its inhabitants are like grasshoppers;\
+> who stretches out the heavens like a curtain,\
+> and spreads them like a tent to dwell in;\
+> [23] who brings princes to nothing,\
+> and makes the rulers of the earth as emptiness.
+
+> [24] Scarcely are they planted, scarcely sown,\
+> scarcely has their stem taken root in the earth,\
+> when he blows on them, and they wither,\
+> and the tempest carries them off like stubble.
+
+> [25] To whom then will you compare me,\
+> that I should be like him? says the Holy One.\
+> [26] Lift up your eyes on high and see:\
+> who created these?\
+> He who brings out their host by number,\
+> calling them all by name;\
+> by the greatness of his might\
+> and because he is strong in power,\
+> not one is missing.
+
+> [27] Why do you say, O Jacob,\
+> and speak, O Israel,\
+> “My way is hidden from the LORD,\
+> and my right is disregarded by my God”?\
+> [28] Have you not known? Have you not heard?\
+> The LORD is the everlasting God,\
+> the Creator of the ends of the earth.\
+> He does not faint or grow weary;\
+> his understanding is unsearchable.\
+> [29] He gives power to the faint,\
+> and to him who has no might he increases strength.\
+> [30] Even youths shall faint and be weary,\
+> and young men shall fall exhausted;\
+> [31] but they who wait for the LORD shall renew their strength;\
+> they shall mount up with wings like eagles;\
+> they shall run and not be weary;\
+> they shall walk and not faint.
+
+## Epistle [1Co 9:16‑27 ESV; sermon text]
+
+[16] For if I preach the gospel, that gives me no ground for boasting. For necessity is laid upon me. Woe to me if I do not preach the gospel! [17] For if I do this of my own will, I have a reward, but if not of my own will, I am still entrusted with a stewardship. [18] What then is my reward? That in my preaching I may present the gospel free of charge, so as not to make full use of my right in the gospel.
+
+[19] For though I am free from all, I have made myself a servant to all, that I might win more of them. [20] To the Jews I became as a Jew, in order to win Jews. To those under the law I became as one under the law (though not being myself under the law) that I might win those under the law. [21] To those outside the law I became as one outside the law (not being outside the law of God but under the law of Christ) that I might win those outside the law. [22] To the weak I became weak, that I might win the weak. I have become all things to all people, that by all means I might save some. [23] I do it all for the sake of the gospel, that I may share with them in its blessings.
+
+[24] Do you not know that in a race all the runners run, but only one receives the prize? So run that you may obtain it. [25] Every athlete exercises self-control in all things. They do it to receive a perishable wreath, but we an imperishable. [26] So I do not run aimlessly; I do not box as one beating the air. [27] But I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified.
+
+------------
+
+[16] ἐὰν γὰρ εὐαγγελίζωμαι, οὐκ ἔστιν μοι καύχημα: ἀνάγκη γάρ μοι ἐπίκειται: οὐαὶ γάρ μοί ἐστιν ἐὰν μὴ εὐαγγελίσωμαι. 
+[17] εἰ γὰρ ἑκὼν τοῦτο πράσσω, μισθὸν ἔχω: εἰ δὲ ἄκων, οἰκονομίαν πεπίστευμαι. 
+[18] τίς οὖν μού ἐστιν ὁ μισθός; ἵνα εὐαγγελιζόμενος ἀδάπανον θήσω τὸ εὐαγγέλιον, εἰς τὸ μὴ καταχρήσασθαι τῇ ἐξουσίᾳ μου ἐν τῷ εὐαγγελίῳ. 
+
+[19] Ἐλεύθερος γὰρ ὢν ἐκ πάντων πᾶσιν ἐμαυτὸν ἐδούλωσα, ἵνα τοὺς πλείονας κερδήσω: 
+[20] καὶ ἐγενόμην τοῖς Ἰουδαίοις ὡς Ἰουδαῖος, ἵνα Ἰουδαίους κερδήσω: τοῖς ὑπὸ νόμον ὡς ὑπὸ νόμον, μὴ ὢν αὐτὸς ὑπὸ νόμον, ἵνα τοὺς ὑπὸ νόμον κερδήσω: 
+[21] τοῖς ἀνόμοις ὡς ἄνομος, μὴ ὢν ἄνομος θεοῦ ἀλλ' ἔννομος Χριστοῦ, ἵνα κερδάνω τοὺς ἀνόμους: 
+[22] ἐγενόμην τοῖς ἀσθενέσιν ἀσθενής, ἵνα τοὺς ἀσθενεῖς κερδήσω: τοῖς πᾶσιν γέγονα πάντα, ἵνα πάντως τινὰς σώσω. 
+[23] πάντα δὲ ποιῶ διὰ τὸ εὐαγγέλιον, ἵνα συγκοινωνὸς αὐτοῦ γένωμαι. 
+
+[24] Οὐκ οἴδατε ὅτι οἱ ἐν σταδίῳ τρέχοντες πάντες μὲν τρέχουσιν, εἷς δὲ λαμβάνει τὸ βραβεῖον; οὕτως τρέχετε ἵνα καταλάβητε. 
+[25] πᾶς δὲ ὁ ἀγωνιζόμενος πάντα ἐγκρατεύεται, ἐκεῖνοι μὲν οὖν ἵνα φθαρτὸν στέφανον λάβωσιν, ἡμεῖς δὲ ἄφθαρτον. 
+[26] ἐγὼ τοίνυν οὕτως τρέχω ὡς οὐκ ἀδήλως, οὕτως πυκτεύω ὡς οὐκ ἀέρα δέρων: 
+[27] ἀλλὰ ὑπωπιάζω μου τὸ σῶμα καὶ δουλαγωγῶ, μή πως ἄλλοις κηρύξας αὐτὸς ἀδόκιμος γένωμαι.
+
+## Holy Gospel [Mk 1:29‑39 ESV]
+
+[29] And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John. [30] Now Simon's mother-in-law lay ill with a fever, and immediately they told him about her. [31] And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them.
+
+[32] That evening at sundown they brought to him all who were sick or oppressed by demons. [33] And the whole city was gathered together at the door. [34] And he healed many who were sick with various diseases, and cast out many demons. And he would not permit the demons to speak, because they knew him.
+
+[35] And rising very early in the morning, while it was still dark, he departed and went out to a desolate place, and there he prayed. [36] And Simon and those who were with him searched for him, [37] and they found him and said to him, “Everyone is looking for you.” [38] And he said to them, “Let us go on to the next towns, that I may preach there also, for that is why I came out.” [39] And he went throughout all Galilee, preaching in their synagogues and casting out demons.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 297 _The Gospel Shows the Father's Grace_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
