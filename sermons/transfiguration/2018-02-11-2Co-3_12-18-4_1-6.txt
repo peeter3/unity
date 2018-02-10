@@ -1,0 +1,79 @@
+% Transfiguration
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* Matt is reader.
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Ex 34:29‑35 ESV]
+
+[29] When Moses came down from Mount Sinai, with the two tablets of the testimony in his hand as he came down from the mountain, Moses did not know that the skin of his face shone because he had been talking with God. [30] Aaron and all the people of Israel saw Moses, and behold, the skin of his face shone, and they were afraid to come near him. [31] But Moses called to them, and Aaron and all the leaders of the congregation returned to him, and Moses talked with them. [32] Afterward all the people of Israel came near, and he commanded them all that the LORD had spoken with him in Mount Sinai. [33] And when Moses had finished speaking with them, he put a veil over his face.
+
+[34] Whenever Moses went in before the LORD to speak with him, he would remove the veil, until he came out. And when he came out and told the people of Israel what he was commanded, [35] the people of Israel would see the face of Moses, that the skin of Moses' face was shining. And Moses would put the veil over his face again, until he went in to speak with him.
+
+## Epistle [2Co 3:12‑18; 4:1‑6 ESV; sermon text]
+
+[12] Since we have such a hope, we are very bold, [13] not like Moses, who would put a veil over his face so that the Israelites might not gaze at the outcome of what was being brought to an end. [14] But their minds were hardened. For to this day, when they read the old covenant, that same veil remains unlifted, because only through Christ is it taken away. [15] Yes, to this day whenever Moses is read a veil lies over their hearts. [16] But when one turns to the Lord, the veil is removed. [17] Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom. [18] And we all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another. For this comes from the Lord who is the Spirit.
+
+[1] Therefore, having this ministry by the mercy of God, we do not lose heart. [2] But we have renounced disgraceful, underhanded ways. We refuse to practice cunning or to tamper with God's word, but by the open statement of the truth we would commend ourselves to everyone's conscience in the sight of God. [3] And even if our gospel is veiled, it is veiled to those who are perishing. [4] In their case the god of this world has blinded the minds of the unbelievers, to keep them from seeing the light of the gospel of the glory of Christ, who is the image of God. [5] For what we proclaim is not ourselves, but Jesus Christ as Lord, with ourselves as your servants for Jesus' sake. [6] For God, who said, “Let light shine out of darkness,” has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ.
+
+------------
+
+[12] Ἔχοντες οὖν τοιαύτην ἐλπίδα πολλῇ παρρησίᾳ χρώμεθα, 
+[13] καὶ οὐ καθάπερ Μωϋσῆς ἐτίθει κάλυμμα ἐπὶ τὸ πρόσωπον αὐτοῦ, πρὸς τὸ μὴ ἀτενίσαι τοὺς υἱοὺς Ἰσραὴλ εἰς τὸ τέλος τοῦ καταργουμένου. 
+[14] ἀλλὰ ἐπωρώθη τὰ νοήματα αὐτῶν. ἄχρι γὰρ τῆς σήμερον ἡμέρας τὸ αὐτὸ κάλυμμα ἐπὶ τῇ ἀναγνώσει τῆς παλαιᾶς διαθήκης μένει μὴ ἀνακαλυπτόμενον, ὅτι ἐν Χριστῷ καταργεῖται: 
+[15] ἀλλ' ἕως σήμερον ἡνίκα ἂν ἀναγινώσκηται Μωϋσῆς κάλυμμα ἐπὶ τὴν καρδίαν αὐτῶν κεῖται: 
+[16] ἡνίκα δὲ ἐὰν ἐπιστρέψῃ πρὸς κύριον, περιαιρεῖται τὸ κάλυμμα. 
+[17] ὁ δὲ κύριος τὸ πνεῦμά ἐστιν: οὗ δὲ τὸ πνεῦμα κυρίου, ἐλευθερία. 
+[18] ἡμεῖς δὲ πάντες ἀνακεκαλυμμένῳ προσώπῳ τὴν δόξαν κυρίου κατοπτριζόμενοι τὴν αὐτὴν εἰκόνα μεταμορφούμεθα ἀπὸ δόξης εἰς δόξαν, καθάπερ ἀπὸ κυρίου πνεύματος.
+
+[1] Διὰ τοῦτο, ἔχοντες τὴν διακονίαν ταύτην, καθὼς ἠλεήθημεν, οὐκ ἐγκακοῦμεν, 
+[2] ἀλλὰ ἀπειπάμεθα τὰ κρυπτὰ τῆς αἰσχύνης, μὴ περιπατοῦντες ἐν πανουργίᾳ μηδὲ δολοῦντες τὸν λόγον τοῦ θεοῦ, ἀλλὰ τῇ φανερώσει τῆς ἀληθείας συνιστάνοντες ἑαυτοὺς πρὸς πᾶσαν συνείδησιν ἀνθρώπων ἐνώπιον τοῦ θεοῦ. 
+[3] εἰ δὲ καὶ ἔστιν κεκαλυμμένον τὸ εὐαγγέλιον ἡμῶν, ἐν τοῖς ἀπολλυμένοις ἐστὶν κεκαλυμμένον, 
+[4] ἐν οἷς ὁ θεὸς τοῦ αἰῶνος τούτου ἐτύφλωσεν τὰ νοήματα τῶν ἀπίστων εἰς τὸ μὴ αὐγάσαι τὸν φωτισμὸν τοῦ εὐαγγελίου τῆς δόξης τοῦ Χριστοῦ, ὅς ἐστιν εἰκὼν τοῦ θεοῦ. 
+[5] οὐ γὰρ ἑαυτοὺς κηρύσσομεν ἀλλὰ Ἰησοῦν Χριστὸν κύριον, ἑαυτοὺς δὲ δούλους ὑμῶν διὰ Ἰησοῦν. 
+[6] ὅτι ὁ θεὸς ὁ εἰπών, Ἐκ σκότους φῶς λάμψει, ὃς ἔλαμψεν ἐν ταῖς καρδίαις ἡμῶν πρὸς φωτισμὸν τῆς γνώσεως τῆς δόξης τοῦ θεοῦ ἐν προσώπῳ [Ἰησοῦ] Χριστοῦ.
+
+## Holy Gospel [Mk 9:2‑9 ESV]
+
+[2] And after six days Jesus took with him Peter and James and John, and led them up a high mountain by themselves. And he was transfigured before them, [3] and his clothes became radiant, intensely white, as no one on earth could bleach them. [4] And there appeared to them Elijah with Moses, and they were talking with Jesus. [5] And Peter said to Jesus, “Rabbi, it is good that we are here. Let us make three tents, one for you and one for Moses and one for Elijah.” [6] For he did not know what to say, for they were terrified. [7] And a cloud overshadowed them, and a voice came out of the cloud, “This is my beloved Son; listen to him.” [8] And suddenly, looking around, they no longer saw anyone with them but Jesus only.
+
+[9] And as they were coming down the mountain, he charged them to tell no one what they had seen, until the Son of Man had risen from the dead.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _LSB_ 415 _Jesus on the Mountain Peak_
+* Sermon hymn: _TLH_ 289 _The Law Commands and Makes us Know_
+* Communion hymn: _TLH_ 315 _I Come, O Savior, to Thy Table_ st 6‑10
+* Closing hymn: _LSB_ 414 _Tis Good Lord, to be Here_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+Ex 34:29; Mk 9:7. Moses listened to God and his face shone. Our Father tells us to listen to His Son.
