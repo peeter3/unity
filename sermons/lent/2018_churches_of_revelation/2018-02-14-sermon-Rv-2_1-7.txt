@@ -1,0 +1,61 @@
+% Ash Wednesday
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* Imposition of ashes: "Remember that you are dust, and to dust you shall return."
+* Holy Communion
+* No closing hymn
+
+## Announcements
+
+* There will be imposition of ashes during the service.
+
+## Reading [Rv 2:1‑7 ESV; sermon text]
+
+
+[1] “To the angel of the church in Ephesus write: ‘The words of him who holds the seven stars in his right hand, who walks among the seven golden lampstands.
+
+[2] "‘I know your works, your toil and your patient endurance, and how you cannot bear with those who are evil, but have tested those who call themselves apostles and are not, and found them to be false. [3] I know you are enduring patiently and bearing up for my name's sake, and you have not grown weary. [4] But I have this against you, that you have abandoned the love you had at first. [5] Remember therefore from where you have fallen; repent, and do the works you did at first. If not, I will come to you and remove your lampstand from its place, unless you repent. [6] Yet this you have: you hate the works of the Nicolaitans, which I also hate. [7] He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will grant to eat of the tree of life, which is in the paradise of God.’"
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 262 _A Mighty Fortress_
+* Sermon hymn: _TLH_ 462 _I Love Thy Kingdom, Lord_
+* Communion hymn: _TLH_ 156 _Not All the Blood of Beasts_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+For those of you who read red-letter Bibles, where do you find the red-letter sections? In the Gospels, of course.
+
+* Ephesus
+* Smyrna
+* Pergamum
+* Thyatira
+* Sardis
+* Philadelphia
+* Laodicea
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+The reading from Revelation is the Word of Christ.
