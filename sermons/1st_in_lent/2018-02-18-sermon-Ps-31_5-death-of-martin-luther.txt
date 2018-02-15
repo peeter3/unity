@@ -1,0 +1,89 @@
+% 1st in Lent---Commemoration of the Death of Martin Luther
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* Midweek supper Wednesday at 6; service at 7.
+
+## Sermon text [Ps 31:5 ESV]
+
+> [5] Into your hand I commit my spirit;\
+> you have redeemed me, O LORD, faithful God.
+
+## Old Testament [Is 55:6‑11 ESV]
+
+> [6] “Seek the LORD while he may be found;\
+> call upon him while he is near;\
+> [7] let the wicked forsake his way,\
+> and the unrighteous man his thoughts;\
+> let him return to the LORD, that he may have compassion on him,\
+> and to our God, for he will abundantly pardon.\
+> [8] For my thoughts are not your thoughts,\
+> neither are your ways my ways, declares the LORD.\
+> [9] For as the heavens are higher than the earth,\
+> so are my ways higher than your ways\
+> and my thoughts than your thoughts.
+
+> [10] “For as the rain and the snow come down from heaven\
+> and do not return there but water the earth,\
+> making it bring forth and sprout,\
+> giving seed to the sower and bread to the eater,\
+> [11] so shall my word be that goes out from my mouth;\
+> it shall not return to me empty,\
+> but it shall accomplish that which I purpose,\
+> and shall succeed in the thing for which I sent it.
+
+## Epistle [Rm 10:5‑17 ESV]
+
+[5] For Moses writes about the righteousness that is based on the law, that the person who does the commandments shall live by them. [6] But the righteousness based on faith says, “Do not say in your heart, ‘Who will ascend into heaven?’” (that is, to bring Christ down) [7] “or ‘Who will descend into the abyss?’” (that is, to bring Christ up from the dead). [8] But what does it say? “The word is near you, in your mouth and in your heart” (that is, the word of faith that we proclaim); [9] because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. [10] For with the heart one believes and is justified, and with the mouth one confesses and is saved. [11] For the Scripture says, “Everyone who believes in him will not be put to shame.” [12] For there is no distinction between Jew and Greek; for the same Lord is Lord of all, bestowing his riches on all who call on him. [13] For “everyone who calls on the name of the Lord will be saved.”
+
+[14] How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? [15] And how are they to preach unless they are sent? As it is written, “How beautiful are the feet of those who preach the good news!” [16] But they have not all obeyed the gospel. For Isaiah says, “Lord, who has believed what he has heard from us?” [17] So faith comes from hearing, and hearing through the word of Christ.
+
+## Holy Gospel [Jn 15:1‑11 ESV]
+
+[1] "I am the true vine, and my Father is the vinedresser. 
+[2] Every branch in me that does not bear fruit he takes away, and every branch that does bear fruit he prunes, that it may bear more fruit. 
+[3] Already you are clean because of the word that I have spoken to you. 
+[4] Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me. 
+[5] I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing. 
+[6] If anyone does not abide in me he is thrown away like a branch and withers; and the branches are gathered, thrown into the fire, and burned. 
+[7] If you abide in me, and my words abide in you, ask whatever you wish, and it will be done for you. 
+[8] By this my Father is glorified, that you bear much fruit and so prove to be my disciples. 
+[9] As the Father has loved me, so have I loved you. Abide in my love. 
+[10] If you keep my commandments, you will abide in my love, just as I have kept my Father's commandments and abide in his love. 
+[11] These things I have spoken to you, that my joy may be in you, and that your joy may be full."
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 1 _Open Now Thy Gates of Beauty_
+* Sermon hymn: _LSB_ 540 _Open Now Thy Gates of Beauty_
+* Closing hymn: original hymn (sheet music)
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
