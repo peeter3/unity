@@ -1,0 +1,87 @@
+% Midweek after 1st Sunday in Lent
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+## Announcements
+
+## Old Testament [Is 14:12‑17]
+
+> [12] “How you are fallen from heaven,\
+> O Day Star, son of Dawn!\
+> How you are cut down to the ground,\
+> you who laid the nations low!\
+> [13] You said in your heart,\
+> ‘I will ascend to heaven;\
+> above the stars of God\
+> I will set my throne on high;\
+> I will sit on the mount of assembly\
+> in the far reaches of the north;\
+> [14] I will ascend above the heights of the clouds;\
+> I will make myself like the Most High.’\
+> [15] But you are brought down to Sheol,\
+> to the far reaches of the pit.\
+> [16] Those who see you will stare at you\
+> and ponder over you:\
+> ‘Is this the man who made the earth tremble,\
+> who shook kingdoms,\
+> [17] who made the world like a desert\
+> and overthrew its cities,\
+> who did not let his prisoners go home?’
+
+## Epistle lesson [Rv 2:8‑11 ESV; sermon text]
+
+[8] "And to the angel of the church in Smyrna write: ‘The words of the first and the last, who died and came to life. 
+[9] I know your tribulation and your poverty (but you are rich) and the slander of those who say that they are Jews and are not, but are a synagogue of Satan. 
+[10] Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested, and for ten days you will have tribulation. Be faithful unto death, and I will give you the crown of life. 
+[11] He who has an ear, let him hear what the Spirit says to the churches. The one who conquers will not be hurt by the second death.’"
+
+## Holy Gospel [Mt 24:5‑14]
+
+[5] "For many will come in my name, saying, ‘I am the Christ,’ and they will lead many astray. 
+[6] And you will hear of wars and rumors of wars. See that you are not alarmed, for this must take place, but the end is not yet. 
+[7] For nation will rise against nation, and kingdom against kingdom, and there will be famines and earthquakes in various places. 
+[8] All these are but the beginning of the birth pains. 
+
+[9] "Then they will deliver you up to tribulation and put you to death, and you will be hated by all nations for my name's sake. 
+[10] And then many will fall away and betray one another and hate one another. 
+[11] And many false prophets will arise and lead many astray. 
+[12] And because lawlessness will be increased, the love of many will grow cold. 
+[13] But the one who endures to the end will be saved. 
+[14] And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come."
+
+## Introit []
+
+> Sing to the LORD a new song, for He has done marvelous things;\*\
+> His right hand and His holy arm have worked salvation for him.\
+
+## Collect
+
+O Jesus, Lord of the church, I pray. 
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 999 _ZZZ_
+* Communion hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, **grace to you and peace from Him who is and who was and who is to come, and from the seven spirits who are before His throne, and from Jesus Christ the faithful witness, the firstborn of the dead, and the ruler of kings on earth. To Him who loves us and has freed us from our sins by His blood and made us a kingdom, priests to His God and Father, to Him be glory and dominion forever and ever. Amen. Behold, He is coming with the clouds, and every eye will see Him, even those who pierced Him, and all tribes of the earth will wail on account of Him. Even so. Amen. "I am the Alpha and the Omega," says the Lord God, "who is and who was and who is to come, the Almighty"** [(Rv 1:4‑8 ESV)](https://www.esv.org/Revelation+1/).
+
+> **I, John, your brother and partner in the tribulation and the kingdom and the patient endurance that are in Jesus, was on the island called Patmos on account of the word of God and the testimony of Jesus. I was in the Spirit on the Lord's day, and I heard behind me a loud voice like a trumpet saying, "Write what you see in a book and send it to the seven churches, to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to Laodicea."** [(Rv 1:9‑11 ESV)](https://www.esv.org/Revelation+1/)
+
+Tonight we have come to the message to the church in Smyrna.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
