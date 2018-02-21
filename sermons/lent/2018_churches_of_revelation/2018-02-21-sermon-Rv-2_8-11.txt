@@ -2,6 +2,7 @@
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
 ## During the service
+* service is onthe stage
 
 ## Announcements
 
@@ -50,20 +51,23 @@
 [13] But the one who endures to the end will be saved. 
 [14] And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come."
 
-## Introit []
+## Introit [Psalm 16:1-6]
 
-> Sing to the LORD a new song, for He has done marvelous things;\*\
-> His right hand and His holy arm have worked salvation for him.\
+> Preserve me, O God, for in You I take refuge.\
+> I say to the LORD, “You are my Lord; I have no good apart from you.”\
+> As for the saints who in the land, they are the excellent ones in whom is all my delight.\
+> The sorrows of those who run after another god shall multiply; their drink offerings of blood I will not pour out or take their names on my lips.\
+> The Lord is my chosen portion and my cup; you hold my lot.\
+> The lines have fallen for me in pleasant places; indeed, I have a beautiful inheritance.\
 
 ## Collect
 
-O Jesus, Lord of the church, I pray. 
+O Jesus, risen Savior, my enemies of mind and body often frighten me. Assure me that because You died and overcame death, nothing can separate me from the crown of life You have won for me and all believers. Enable me to live boldly each day for You. In Your holy name I pray.
 
 ## Hymns
 
-* Opening hymn: _TLH_ 999 _ZZZ_
-* Sermon hymn: _TLH_ 999 _ZZZ_
-* Communion hymn: _TLH_ 999 _ZZZ_
+* Hymn: _TLH_ 436 _The Lord's My Shepherd, I'll not Want_
+
 
 ## Sermon
 
