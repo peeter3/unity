@@ -1,0 +1,102 @@
+% 2nd in Lent
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Gn 17:1‑7, 15‑16 ESV]
+
+[1] When Abram was ninety-nine years old the Lord appeared to Abram and said to him, “I am God Almighty; walk before me, and be blameless, 
+[2] that I may make my covenant between me and you, and may multiply you greatly.” 
+[3] Then Abram fell on his face. And God said to him, 
+[4] “Behold, my covenant is with you, and you shall be the father of a multitude of nations. 
+[5] No longer shall your name be called Abram, but your name shall be Abraham, for I have made you the father of a multitude of nations. 
+[6] I will make you exceedingly fruitful, and I will make you into nations, and kings shall come from you. 
+[7] And I will establish my covenant between me and you and your offspring after you throughout their generations for an everlasting covenant, to be God to you and to your offspring after you. 
+
+[15] And God said to Abraham, “As for Sarai your wife, you shall not call her name Sarai, but Sarah shall be her name. 
+[16] I will bless her, and moreover, I will give you a son by her. I will bless her, and she shall become nations; kings of peoples shall come from her.”
+
+## Epistle [Rm 5:1‑11 ESV; sermon text]
+
+[1] Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ. 
+[2] Through him we have also obtained access by faith into this grace in which we stand, and we rejoice in hope of the glory of God. 
+[3] Not only that, but we rejoice in our sufferings, knowing that suffering produces endurance, 
+[4] and endurance produces character, and character produces hope, 
+[5] and hope does not put us to shame, because God's love has been poured into our hearts through the Holy Spirit who has been given to us. 
+
+[6] For while we were still weak, at the right time Christ died for the ungodly. 
+[7] For one will scarcely die for a righteous person—though perhaps for a good person one would dare even to die— 
+[8] but God shows his love for us in that while we were still sinners, Christ died for us. 
+[9] Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God. 
+[10] For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life. 
+[11] More than that, we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation.
+
+------------
+
+[1] Δικαιωθέντες οὖν ἐκ πίστεως εἰρήνην ἔχομεν πρὸς τὸν θεὸν διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, 
+[2] δι' οὗ καὶ τὴν προσαγωγὴν ἐσχήκαμεν [τῇ πίστει] εἰς τὴν χάριν ταύτην ἐν ἧ ἑστήκαμεν, καὶ καυχώμεθα ἐπ' ἐλπίδι τῆς δόξης τοῦ θεοῦ. 
+[3] οὐ μόνον δέ, ἀλλὰ καὶ καυχώμεθα ἐν ταῖς θλίψεσιν, εἰδότες ὅτι ἡ θλῖψις ὑπομονὴν κατεργάζεται, 
+[4] ἡ δὲ ὑπομονὴ δοκιμήν, ἡ δὲ δοκιμὴ ἐλπίδα: 
+[5] ἡ δὲ ἐλπὶς οὐ καταισχύνει, ὅτι ἡ ἀγάπη τοῦ θεοῦ ἐκκέχυται ἐν ταῖς καρδίαις ἡμῶν διὰ πνεύματος ἁγίου τοῦ δοθέντος ἡμῖν, 
+
+[6] ἔτι γὰρ Χριστὸς ὄντων ἡμῶν ἀσθενῶν ἔτι κατὰ καιρὸν ὑπὲρ ἀσεβῶν ἀπέθανεν. 
+[7] μόλις γὰρ ὑπὲρ δικαίου τις ἀποθανεῖται: ὑπὲρ γὰρ τοῦ ἀγαθοῦ τάχα τις καὶ τολμᾷ ἀποθανεῖν: 
+[8] συνίστησιν δὲ τὴν ἑαυτοῦ ἀγάπην εἰς ἡμᾶς ὁ θεὸς ὅτι ἔτι ἁμαρτωλῶν ὄντων ἡμῶν Χριστὸς ὑπὲρ ἡμῶν ἀπέθανεν. 
+[9] πολλῷ οὖν μᾶλλον δικαιωθέντες νῦν ἐν τῷ αἵματι αὐτοῦ σωθησόμεθα δι' αὐτοῦ ἀπὸ τῆς ὀργῆς. 
+[10] εἰ γὰρ ἐχθροὶ ὄντες κατηλλάγημεν τῷ θεῷ διὰ τοῦ θανάτου τοῦ υἱοῦ αὐτοῦ, πολλῷ μᾶλλον καταλλαγέντες σωθησόμεθα ἐν τῇ ζωῇ αὐτοῦ: 
+[11] οὐ μόνον δέ, ἀλλὰ καὶ καυχώμενοι ἐν τῷ θεῷ διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, δι' οὗ νῦν τὴν καταλλαγὴν ἐλάβομεν.
+
+## Holy Gospel [Mk 8:27‑38 ESV]
+
+[27] And Jesus went on with his disciples to the villages of Caesarea Philippi. And on the way he asked his disciples, “Who do people say that I am?” 
+[28] And they told him, “John the Baptist; and others say, Elijah; and others, one of the prophets.” 
+[29] And he asked them, “But who do you say that I am?” Peter answered him, “You are the Christ.” 
+[30] And he strictly charged them to tell no one about him. 
+
+[31] And he began to teach them that the Son of Man must suffer many things and be rejected by the elders and the chief priests and the scribes and be killed, and after three days rise again. 
+[32] And he said this plainly. And Peter took him aside and began to rebuke him. 
+[33] But turning and seeing his disciples, he rebuked Peter and said, “Get behind me, Satan! For you are not setting your mind on the things of God, but on the things of man.” 
+
+[34] And calling the crowd to him with his disciples, he said to them, “If anyone would come after me, let him deny himself and take up his cross and follow me. 
+[35] For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel's will save it. 
+[36] For what does it profit a man to gain the whole world and forfeit his soul? 
+[37] For what can a man give in return for his soul? 
+[38] For whoever is ashamed of me and of my words in this adulterous and sinful generation, of him will the Son of Man also be ashamed when he comes in the glory of his Father with the holy angels.”
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 141 _Enslaved by Sin and Bound in Chains_
+* Sermon hymn: _TLH_ 342 _Chief of Sinners Though I Be_
+* Communion hymn: _TLH_ 156 _Not All the Blood of Beasts_
+* Closing hymn: _TLH_ 142 _A Lamb Goes Uncomplaining Forth_ sts 1‑3, 6
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
