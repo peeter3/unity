@@ -1,0 +1,106 @@
+% 3rd after Lent
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* Midweek supper at 6; service at 7.
+
+## Old Testament [Ex 20:1‑17 ESV]
+
+[1] And God spoke all these words, saying,
+
+[2] “I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.
+
+[3] “You shall have no other gods before me.
+
+[4] “You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. [5] You shall not bow down to them or serve them, for I the LORD your God am a jealous God, visiting the iniquity of the fathers on the children to the third and the fourth generation of those who hate me, [6] but showing steadfast love to thousands of those who love me and keep my commandments.
+
+[7] “You shall not take the name of the LORD your God in vain, for the LORD will not hold him guiltless who takes his name in vain.
+
+[8] “Remember the Sabbath day, to keep it holy. [9] Six days you shall labor, and do all your work, [10] but the seventh day is a Sabbath to the LORD your God. On it you shall not do any work, you, or your son, or your daughter, your male servant, or your female servant, or your livestock, or the sojourner who is within your gates. [11] For in six days the LORD made heaven and earth, the sea, and all that is in them, and rested on the seventh day. Therefore the LORD blessed the Sabbath day and made it holy.
+
+[12] “Honor your father and your mother, that your days may be long in the land that the LORD your God is giving you.
+
+[13] “You shall not murder.
+
+[14] “You shall not commit adultery.
+
+[15] “You shall not steal.
+
+[16] “You shall not bear false witness against your neighbor.
+
+[17] “You shall not covet your neighbor's house; you shall not covet your neighbor's wife, or his male servant, or his female servant, or his ox, or his donkey, or anything that is your neighbor's.”
+
+
+## Epistle [1Co 1:18‑31 ESV; sermon text]
+
+[18] For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God. [19] For it is written,
+
+> “I will destroy the wisdom of the wise,\
+> and the discernment of the discerning I will thwart.”
+	
+[20] Where is the one who is wise? Where is the scribe? Where is the debater of this age? Has not God made foolish the wisdom of the world? [21] For since, in the wisdom of God, the world did not know God through wisdom, it pleased God through the folly of what we preach to save those who believe. [22] For Jews demand signs and Greeks seek wisdom, [23] but we preach Christ crucified, a stumbling block to Jews and folly to Gentiles, [24] but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God. [25] For the foolishness of God is wiser than men, and the weakness of God is stronger than men.
+
+[26] For consider your calling, brothers: not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth. [27] But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong; [28] God chose what is low and despised in the world, even things that are not, to bring to nothing things that are, [29] so that no human being might boast in the presence of God. [30] And because of him you are in Christ Jesus, who became to us wisdom from God, righteousness and sanctification and redemption, [31] so that, as it is written, “Let the one who boasts, boast in the Lord.”
+
+------------
+
+[18] Ὁ λόγος γὰρ ὁ τοῦ σταυροῦ τοῖς μὲν ἀπολλυμένοις μωρία ἐστίν, τοῖς δὲ σῳζομένοις ἡμῖν δύναμις θεοῦ ἐστιν. 
+[19] γέγραπται γάρ, Ἀπολῶ τὴν σοφίαν τῶν σοφῶν, καὶ τὴν σύνεσιν τῶν συνετῶν ἀθετήσω. 
+
+[20] ποῦ σοφός; ποῦ γραμματεύς; ποῦ συζητητὴς τοῦ αἰῶνος τούτου; οὐχὶ ἐμώρανεν ὁ θεὸς τὴν σοφίαν τοῦ κόσμου; 
+[21] ἐπειδὴ γὰρ ἐν τῇ σοφίᾳ τοῦ θεοῦ οὐκ ἔγνω ὁ κόσμος διὰ τῆς σοφίας τὸν θεόν, εὐδόκησεν ὁ θεὸς διὰ τῆς μωρίας τοῦ κηρύγματος σῶσαι τοὺς πιστεύοντας. 
+[22] ἐπειδὴ καὶ Ἰουδαῖοι σημεῖα αἰτοῦσιν καὶ Ελληνες σοφίαν ζητοῦσιν, 
+[23] ἡμεῖς δὲ κηρύσσομεν Χριστὸν ἐσταυρωμένον, Ἰουδαίοις μὲν σκάνδαλον ἔθνεσιν δὲ μωρίαν, 
+[24] αὐτοῖς δὲ τοῖς κλητοῖς, Ἰουδαίοις τε καὶ Ελλησιν, Χριστὸν θεοῦ δύναμιν καὶ θεοῦ σοφίαν: 
+[25] ὅτι τὸ μωρὸν τοῦ θεοῦ σοφώτερον τῶν ἀνθρώπων ἐστίν, καὶ τὸ ἀσθενὲς τοῦ θεοῦ ἰσχυρότερον τῶν ἀνθρώπων. 
+
+[26] Βλέπετε γὰρ τὴν κλῆσιν ὑμῶν, ἀδελφοί, ὅτι οὐ πολλοὶ σοφοὶ κατὰ σάρκα, οὐ πολλοὶ δυνατοί, οὐ πολλοὶ εὐγενεῖς: 
+[27] ἀλλὰ τὰ μωρὰ τοῦ κόσμου ἐξελέξατο ὁ θεὸς ἵνα καταισχύνῃ τοὺς σοφούς, καὶ τὰ ἀσθενῆ τοῦ κόσμου ἐξελέξατο ὁ θεὸς ἵνα καταισχύνῃ τὰ ἰσχυρά, 
+[28] καὶ τὰ ἀγενῆ τοῦ κόσμου καὶ τὰ ἐξουθενημένα ἐξελέξατο ὁ θεός, τὰ μὴ ὄντα, ἵνα τὰ ὄντα καταργήσῃ, 
+[29] ὅπως μὴ καυχήσηται πᾶσα σὰρξ ἐνώπιον τοῦ θεοῦ. 
+[30] ἐξ αὐτοῦ δὲ ὑμεῖς ἐστε ἐν Χριστῷ Ἰησοῦ, ὃς ἐγενήθη σοφία ἡμῖν ἀπὸ θεοῦ, δικαιοσύνη τε καὶ ἁγιασμὸς καὶ ἀπολύτρωσις, 
+[31] ἵνα καθὼς γέγραπται, Ὁ καυχώμενος ἐν κυρίῳ καυχάσθω.
+
+## Holy Gospel [Jn 2:13‑25 ESV]
+
+[13] The Passover of the Jews was at hand, and Jesus went up to Jerusalem. [14] In the temple he found those who were selling oxen and sheep and pigeons, and the money-changers sitting there. [15] And making a whip of cords, he drove them all out of the temple, with the sheep and oxen. And he poured out the coins of the money-changers and overturned their tables. [16] And he told those who sold the pigeons, “Take these things away; do not make my Father's house a house of trade.” [17] His disciples remembered that it was written, “Zeal for your house will consume me.”
+
+[18] So the Jews said to him, “What sign do you show us for doing these things?” [19] Jesus answered them, “Destroy this temple, and in three days I will raise it up.” [20] The Jews then said, “It has taken forty-six years to build this temple, and will you raise it up in three days?” [21] But he was speaking about the temple of his body. [22] When therefore he was raised from the dead, his disciples remembered that he had said this, and they believed the Scripture and the word that Jesus had spoken.
+
+[23] Now when he was in Jerusalem at the Passover Feast, many believed in his name when they saw the signs that he was doing. [24] But Jesus on his part did not entrust himself to them, because he knew all people [25] and needed no one to bear witness about man, for he himself knew what was in man.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 295 _The Law of God is Good and Wise_
+* Sermon hymn: _TLH_ 376 _Rock of Ages, Cleft for Me_
+* Closing hymn: _TLH_ 143 _O Dearest Jesus, What Law Hast Thou Broken_ sts 1‑5
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
