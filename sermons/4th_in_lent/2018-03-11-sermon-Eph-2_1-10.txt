@@ -1,6 +1,3 @@
-
-
-
 % 4th in Lent
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
@@ -12,17 +9,38 @@
 
 * ZZZ
 
-## Old Testament [Nmbrs 21:4‑9 ESV]
+## Old Testament [Nm 21:4‑9 ESV]
 
+[4] From Mount Hor they set out by the way to the Red Sea, to go around the land of Edom. And the people became impatient on the way. [5] And the people spoke against God and against Moses, “Why have you brought us up out of Egypt to die in the wilderness? For there is no food and no water, and we loathe this worthless food.” [6] Then the LORD sent fiery serpents among the people, and they bit the people, so that many people of Israel died. [7] And the people came to Moses and said, “We have sinned, for we have spoken against the LORD and against you. Pray to the LORD, that he take away the serpents from us.” So Moses prayed for the people. [8] And the LORD said to Moses, “Make a fiery serpent and set it on a pole, and everyone who is bitten, when he sees it, shall live.” [9] So Moses made a bronze serpent and set it on a pole. And if a serpent bit anyone, he would look at the bronze serpent and live.
 
 ## Epistle [Eph 2:1‑10 ESV; sermon text]
 
+[1] And you were dead in the trespasses and sins [2] in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience—[3] among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind. [4] But God, being rich in mercy, because of the great love with which he loved us, [5] even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved—[6] and raised us up with him and seated us with him in the heavenly places in Christ Jesus, [7] so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus. [8] For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, [9] not a result of works, so that no one may boast. [10] For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.
 
 ------------
+
+[1] Καὶ ὑμᾶς ὄντας νεκροὺς τοῖς παραπτώμασιν καὶ ταῖς ἁμαρτίαις ὑμῶν, 
+[2] ἐν αἷς ποτε περιεπατήσατε κατὰ τὸν αἰῶνα τοῦ κόσμου τούτου, κατὰ τὸν ἄρχοντα τῆς ἐξουσίας τοῦ ἀέρος, τοῦ πνεύματος τοῦ νῦν ἐνεργοῦντος ἐν τοῖς υἱοῖς τῆς ἀπειθείας: 
+[3] ἐν οἷς καὶ ἡμεῖς πάντες ἀνεστράφημέν ποτε ἐν ταῖς ἐπιθυμίαις τῆς σαρκὸς ἡμῶν, ποιοῦντες τὰ θελήματα τῆς σαρκὸς καὶ τῶν διανοιῶν, καὶ ἤμεθα τέκνα φύσει ὀργῆς ὡς καὶ οἱ λοιποί: 
+[4] ὁ δὲ θεὸς πλούσιος ὢν ἐν ἐλέει, διὰ τὴν πολλὴν ἀγάπην αὐτοῦ ἣν ἠγάπησεν ἡμᾶς, 
+[5] καὶ ὄντας ἡμᾶς νεκροὺς τοῖς παραπτώμασιν συνεζωοποίησεν τῷ Χριστῷ χάριτί ἐστε σεσῳσμένοι 
+[6] καὶ συνήγειρεν καὶ συνεκάθισεν ἐν τοῖς ἐπουρανίοις ἐν Χριστῷ Ἰησοῦ, 
+[7] ἵνα ἐνδείξηται ἐν τοῖς αἰῶσιν τοῖς ἐπερχομένοις τὸ ὑπερβάλλον πλοῦτος τῆς χάριτος αὐτοῦ ἐν χρηστότητι ἐφ' ἡμᾶς ἐν Χριστῷ Ἰησοῦ. 
+[8] τῇ γὰρ χάριτί ἐστε σεσῳσμένοι διὰ πίστεως: καὶ τοῦτο οὐκ ἐξ ὑμῶν, θεοῦ τὸ δῶρον: 
+[9] οὐκ ἐξ ἔργων, ἵνα μή τις καυχήσηται. 
+[10] αὐτοῦ γάρ ἐσμεν ποίημα, κτισθέντες ἐν Χριστῷ Ἰησοῦ ἐπὶ ἔργοις ἀγαθοῖς οἷς προητοίμασεν ὁ θεὸς ἵνα ἐν αὐτοῖς περιπατήσωμεν.
 
 
 ## Holy Gospel [Jn 3:14‑21 ESV]
 
+[14] And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, 
+[15] that whoever believes in him may have eternal life. 
+[16] “For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. 
+[17] For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. 
+[18] Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God. 
+[19] And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil. 
+[20] For everyone who does wicked things hates the light and does not come to the light, lest his works should be exposed. 
+[21] But whoever does what is true comes to the light, so that it may be clearly seen that his works have been carried out in God.”
 
 ## Introit [Ps 27:3-5; antiphon: Ps 27:1]
 
@@ -42,7 +60,7 @@ Almighty God, our heavenly Father, Your mercies are new every morning; and thoug
 ## Hymns
 
 * Opening hymn: _TLH_ 145 _Jesus, Refuge of the Weary_
-* Sermon hymn: _TLH_ 245 _Marc suggests: God Loved the World So that He Gave - is this okay?_
+* Sermon hymn: _TLH_ 245 _God Loved the World So that He Gave_
 * Communion hymn: _TLH_ 315 _I Come, O Savior, to Thy Table_  _st 11-15_
 * Closing hymn: _TLH_ 154 _Alas! and Did My Savior Bleed_
 
