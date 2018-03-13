@@ -1,0 +1,85 @@
+% 5th in Lent 
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Jer 31:31‑34 ESV]
+
+[31] “Behold, the days are coming, declares the LORD, when I will make a new covenant with the house of Israel and the house of Judah, [32] not like the covenant that I made with their fathers on the day when I took them by the hand to bring them out of the land of Egypt, my covenant that they broke, though I was their husband, declares the LORD. [33] For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people. [34] And no longer shall each one teach his neighbor and each his brother, saying, ‘Know the LORD,’ for they shall all know me, from the least of them to the greatest, declares the LORD. For I will forgive their iniquity, and I will remember their sin no more.”
+
+## Epistle [Heb 5:1‑10 ESV; sermon text]
+
+[1] For every high priest chosen from among men is appointed to act on behalf of men in relation to God, to offer gifts and sacrifices for sins. [2] He can deal gently with the ignorant and wayward, since he himself is beset with weakness. [3] Because of this he is obligated to offer sacrifice for his own sins just as he does for those of the people. [4] And no one takes this honor for himself, but only when called by God, just as Aaron was.
+
+[5] So also Christ did not exalt himself to be made a high priest, but was appointed by him who said to him,
+
+> “You are my Son, today I have begotten you”;
+
+[6] as he says also in another place,
+
+> “You are a priest forever, after the order of Melchizedek.”
+
+[7] In the days of his flesh, Jesus offered up prayers and supplications, with loud cries and tears, to him who was able to save him from death, and he was heard because of his reverence. [8] Although he was a son, he learned obedience through what he suffered. [9] And being made perfect, he became the source of eternal salvation to all who obey him, [10] being designated by God a high priest after the order of Melchizedek.
+
+------------
+
+[1] Πᾶς γὰρ ἀρχιερεὺς ἐξ ἀνθρώπων λαμβανόμενος ὑπὲρ ἀνθρώπων καθίσταται τὰ πρὸς τὸν θεόν, ἵνα προσφέρῃ δῶρά τε καὶ θυσίας ὑπὲρ ἁμαρτιῶν, 
+[2] μετριοπαθεῖν δυνάμενος τοῖς ἀγνοοῦσιν καὶ πλανωμένοις, ἐπεὶ καὶ αὐτὸς περίκειται ἀσθένειαν, 
+[3] καὶ δι' αὐτὴν ὀφείλει καθὼς περὶ τοῦ λαοῦ οὕτως καὶ περὶ αὐτοῦ προσφέρειν περὶ ἁμαρτιῶν. 
+[4] καὶ οὐχ ἑαυτῷ τις λαμβάνει τὴν τιμήν, ἀλλὰ καλούμενος ὑπὸ τοῦ θεοῦ, καθώσπερ καὶ Ἀαρών. 
+
+[5] Οὕτως καὶ ὁ Χριστὸς οὐχ ἑαυτὸν ἐδόξασεν γενηθῆναι ἀρχιερέα, ἀλλ' ὁ λαλήσας πρὸς αὐτόν,
+
+> Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε: 
+
+[6] καθὼς καὶ ἐν ἑτέρῳ λέγει,
+
+> Σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισέδεκ. 
+
+[7] ὃς ἐν ταῖς ἡμέραις τῆς σαρκὸς αὐτοῦ, δεήσεις τε καὶ ἱκετηρίας πρὸς τὸν δυνάμενον σῴζειν αὐτὸν ἐκ θανάτου μετὰ κραυγῆς ἰσχυρᾶς καὶ δακρύων προσενέγκας καὶ εἰσακουσθεὶς ἀπὸ τῆς εὐλαβείας, 
+[8] καίπερ ὢν υἱὸς ἔμαθεν ἀφ' ὧν ἔπαθεν τὴν ὑπακοήν: 
+[9] καὶ τελειωθεὶς ἐγένετο πᾶσιν τοῖς ὑπακούουσιν αὐτῷ αἴτιος σωτηρίας αἰωνίου, 
+[10] προσαγορευθεὶς ὑπὸ τοῦ θεοῦ ἀρχιερεὺς κατὰ τὴν τάξιν Μελχισέδεκ.
+
+## Holy Gospel [Mk 10:32‑45 ESV]
+
+[32] And they were on the road, going up to Jerusalem, and Jesus was walking ahead of them. And they were amazed, and those who followed were afraid. And taking the twelve again, he began to tell them what was to happen to him, [33] saying, “See, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the scribes, and they will condemn him to death and deliver him over to the Gentiles. [34] And they will mock him and spit on him, and flog him and kill him. And after three days he will rise.”
+
+[35] And James and John, the sons of Zebedee, came up to him and said to him, “Teacher, we want you to do for us whatever we ask of you.” [36] And he said to them, “What do you want me to do for you?” [37] And they said to him, “Grant us to sit, one at your right hand and one at your left, in your glory.” [38] Jesus said to them, “You do not know what you are asking. Are you able to drink the cup that I drink, or to be baptized with the baptism with which I am baptized?” [39] And they said to him, “We are able.” And Jesus said to them, “The cup that I drink you will drink, and with the baptism with which I am baptized, you will be baptized, [40] but to sit at my right hand or at my left is not mine to grant, but it is for those for whom it has been prepared.” [41] And when the ten heard it, they began to be indignant at James and John. [42] And Jesus called them to him and said to them, “You know that those who are considered rulers of the Gentiles lord it over them, and their great ones exercise authority over them. [43] But it shall not be so among you. But whoever would be great among you must be your servant, [44] and whoever would be first among you must be slave of all. [45] For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 155 _Sweet the Moments, Rich the Blessing_
+* Sermon hymn: _TLH_ 153 _Stricken, Smitten, and Afflicted_
+* Closing hymn: _TLH_ 159 _Go to Dark Gethsemane_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
