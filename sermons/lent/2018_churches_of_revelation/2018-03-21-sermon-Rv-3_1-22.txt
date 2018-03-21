@@ -1,0 +1,61 @@
+
+% Midweek after 5th Sunday in Lent
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* Service is on the stage.
+* The sermon will be on the letter to : "Complacency -- Death by Indifference"
+
+## Announcements
+
+*
+
+## Old Testament [Amos 6:1‑7 ESV]
+
+## Epistle lesson [Rv 3:14‑22 ESV; sermon text]
+
+
+## Holy Gospel [Mt 19:16‑26 ESV]
+
+
+
+## Introit [Psalm 106:1-6, 47-48][^1]
+
+[^1]: This psalm is not ESV.
+
+> Praise the LORD. Give thanks to the Lord, for He is good; His love endures forever.\
+> Who can proclaim the mighty acts of the Lord or fully declare His praise?\
+> Blessed are they who maintain justice, who constantly do what is right.\
+> Remember me, O Lord, when You show favor to Your people, come to my aid when You save them,\
+> That I may enjoy the prosperity of Your chosen ones, that I may share in the joy of Your nation and join Your inheritance in giving praise.\
+> We have sinned, even as our fathers did; we have done wrong and acted wickedly.\
+> Save us, O Lord our God, and gather us from the nations, that we may give thanks to Your holy name and glory in Your praise.\
+> Praise be to the Lord, the God of Israel, from everlasting to everlasting. Let all the people say, "Amen!" Praise the Lord.\
+
+## Collect
+
+> Dear Lord Jesus, the Amen, the faithful and true witness, the ruler of creation, ignite in my heart the fire of Your love that I might flee from all things hurtful and run to You. Cover my sin and shame and heal my eyes so I may see Your love for me. In Your name I pray. Amen.
+
+
+## Hymns
+
+* Hymn: _TLH_ 409 _Let Us Ever Walk With Jesus_
+
+## Sermon
+
+Beloved in the Lord, **"grace to you and peace from Him who is and who was and who is to come, and from the seven spirits who are 
+
+> * 
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
