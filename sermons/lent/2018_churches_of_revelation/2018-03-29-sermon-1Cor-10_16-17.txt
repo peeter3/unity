@@ -1,1 +1,67 @@
 
+% Maundy Thursday
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* stripping of altar
+* Christ candle is lit during opening hymn; it is not extinguished at the end because this service is the beginning of the Triduum. Christ candle remains where it is; lit.
+
+## Announcements
+
+* Good Friday 7 P.M. Easter sunrise 7:00 A.M.; Easter breakfast 8 A.M.; Easter main service 9:30 A.M.
+
+## Old Testament [Ex 24:3‑11 ESV]
+
+
+## Epistle [1Co 10:16‑17 ESV]
+
+
+## Holy Gospel [Mk 14:12‑26 ESV; sermon text]
+
+
+
+------------
+
+
+## Introit [Ps 116:1-4; antiphon: Ps 116:5]
+
+> Gracious is the LORD, and | righteous;\*\
+> our God is | merciful.\
+> I love the LORD, because | he has heard\*\
+> my voice and my pleas for | mercy.\
+> Because he inclined his | ear to me,\*\
+> therefore I will call on him as long | as I live.\
+> The snares of death encompassed me; the pangs of Sheol laid | hold on me;\*\
+> I suffered distress and | anguish.\
+> Then I called on the name | of the LORD:\*\
+> "O LORD, I pray, deliv- | er my soul!"\
+> Gracious is the LORD, and | righteous;\*\
+> our God is | merciful.\
+
+## Collect
+
+O Lord, in this wondrous Sacrament You have left us a remembrance of Your passion. Grant that we may so receive the sacred mystery of Your body and blood that the fruits of Your redemption may continually be manifest in us; for you live and reign with the Father and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 164 _'Twas on That Dark, That Doleful Night_
+* Sermon hymn: _TLH_ 314 _Lord Jesus Christ, We Humbly Pray_
+* Communion hymn: _TLH_ 156 _Not All the Blood of Beasts_
+* Closing hymn: _TLH_ 146 _Lamb of God, Pure and Holy_
+
+## Sermon
+
+Beloved in the Lord, 
+
+
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
