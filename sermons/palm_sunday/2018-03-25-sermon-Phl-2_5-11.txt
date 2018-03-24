@@ -1,4 +1,3 @@
-
 % Palm Sunday
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
@@ -16,16 +15,40 @@
 
 ## Old Testament [Zechariah 9:9-12 ESV]
 
->
+> [9] Rejoice greatly, O daughter of Zion!\
+> Shout aloud, O daughter of Jerusalem!\
+> Behold, your king is coming to you;\
+> righteous and having salvation is he,\
+> humble and mounted on a donkey,\
+> on a colt, the foal of a donkey.\
+> [10] I will cut off the chariot from Ephraim\
+> and the war horse from Jerusalem;\
+> and the battle bow shall be cut off,\
+> and he shall speak peace to the nations;\
+> his rule shall be from sea to sea,\
+> and from the River to the ends of the earth.\
+> [11] As for you also, because of the blood of my covenant with you,\
+> I will set your prisoners free from the waterless pit.\
+> [12] Return to your stronghold, O prisoners of hope;\
+> today I declare that I will restore to you double.
 
-## Epistle [Philippians 2:5‑11 ESV]
+## Epistle [Philippians 2:5‑11 ESV; sermon text]
 
 [5] Have this mind among yourselves, which is yours in Christ Jesus, [6] who, though he was in the form of God, did not count equality with God a thing to be grasped, [7] but emptied himself, by taking the form of a servant, being born in the likeness of men. [8] And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. [9] Therefore God has highly exalted him and bestowed on him the name that is above every name, [10] so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, [11] and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
 
-## Holy Gospel [Mark 14:1-25 ESV; sermon text]
+## Holy Gospel [Mark 14:1-25 ESV]
 
+[1] It was now two days before the Passover and the Feast of Unleavened Bread. And the chief priests and the scribes were seeking how to arrest him by stealth and kill him, [2] for they said, “Not during the feast, lest there be an uproar from the people.”
 
+[3] And while he was at Bethany in the house of Simon the leper, as he was reclining at table, a woman came with an alabaster flask of ointment of pure nard, very costly, and she broke the flask and poured it over his head. [4] There were some who said to themselves indignantly, “Why was the ointment wasted like that? [5] For this ointment could have been sold for more than three hundred denarii and given to the poor.” And they scolded her. [6] But Jesus said, “Leave her alone. Why do you trouble her? She has done a beautiful thing to me. [7] For you always have the poor with you, and whenever you want, you can do good for them. But you will not always have me. [8] She has done what she could; she has anointed my body beforehand for burial. [9] And truly, I say to you, wherever the gospel is proclaimed in the whole world, what she has done will be told in memory of her.”
 
+[10] Then Judas Iscariot, who was one of the twelve, went to the chief priests in order to betray him to them. [11] And when they heard it, they were glad and promised to give him money. And he sought an opportunity to betray him.
+
+[12] And on the first day of Unleavened Bread, when they sacrificed the Passover lamb, his disciples said to him, “Where will you have us go and prepare for you to eat the Passover?” [13] And he sent two of his disciples and said to them, “Go into the city, and a man carrying a jar of water will meet you. Follow him, [14] and wherever he enters, say to the master of the house, ‘The Teacher says, Where is my guest room, where I may eat the Passover with my disciples?’ [15] And he will show you a large upper room furnished and ready; there prepare for us.” [16] And the disciples set out and went to the city and found it just as he had told them, and they prepared the Passover.
+
+[17] And when it was evening, he came with the twelve. [18] And as they were reclining at table and eating, Jesus said, “Truly, I say to you, one of you will betray me, one who is eating with me.” [19] They began to be sorrowful and to say to him one after another, “Is it I?” [20] He said to them, “It is one of the twelve, one who is dipping bread into the dish with me. [21] For the Son of Man goes as it is written of him, but woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born.”
+
+[22] And as they were eating, he took bread, and after blessing it broke it and gave it to them, and said, “Take; this is my body.” [23] And he took a cup, and when he had given thanks he gave it to them, and they all drank of it. [24] And he said to them, “This is my blood of the covenant, which is poured out for many. [25] Truly, I say to you, I will not drink again of the fruit of the vine until that day when I drink it new in the kingdom of God.”
 
 ## Introit [Ps 24:7-10; antiphon: Ps 118:26]
 
