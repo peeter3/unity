@@ -1,0 +1,387 @@
+% Good Friday
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## Checklist
+
+* Bring earplugs. Have book set out and ready in the pastor's sacrity for sealing the tomb.
+* Acolyte #1: light Christ candle at beginning of service **I believe that Maundy Thursday service is actually the beginning of the Triduum. So we should leave the candle lit at the end of the Maundy Thursday service and make sure to light it BEFORE Good Friday begins so it's as though the candle has been continuously burning; carry out lit Christ candle at end of service = YES.**
+* Acolyte #2: extinguish candelabra candles during the reading of the Seven Last Words of Christ; carry out candle holder at end of service.
+
+
+## During the service
+
+* Acolyte #1 handles the Christ candle.
+* Acolyte #2 extinguishes the candelabra after each of the Seven Last Words of Christ.
+* At the end of the service, lights are extinguished and then the tomb is sealed. Then the congregation leaves in silence.
+
+## Announcements
+
+* Easter sunrise 7:00 A.M., Easter breakfast 8 A.M., Easter main service 9:30 A.M., Easter egg hunt 11 A.M.
+
+## Collect
+
+
+## *TLH* 175 *When I Survey the Wondrous Cross* st 1‑3
+
+## Psalm 22
+
+> [1] My God, my God, why have you for- | saken me?\*\
+> Why are you so far from saving me, from the words of my | groaning?\
+> [2] O my God, I cry by day, but you do not | answer,\*\
+> and by night, but I | find no rest.\
+> [3] Yet you are | holy,\*\
+> enthroned on the praises of | Israel.\
+> [4] In you our fathers | trusted;\*\
+> they trusted, and you de- | 	livered them.\
+> [5] To you they cried and were | rescued;\*\
+> in you they trusted and were not | put to shame.\
+> [6] But I am a worm and | not a man,\*\
+> scorned by mankind and despised by the | people.\
+> [7] All who see me | mock me;\*\
+> they make mouths at me; they | wag their heads;\
+> [8] “He trusts in the LORD; let him deliver him;\
+> let him rescue him, for he delights in him!”\
+> [9] Yet you are he who took me from the womb;\
+> you made me trust you at my mother's breasts.\
+> [10] On you was I cast from my birth,\
+> and from my mother's womb you have been my God.\
+> [11] Be not far from me,\
+> for trouble is near,\
+> and there is none to help.\
+> [12] Many bulls encompass me;\
+> strong bulls of Bashan surround me;\
+> [13] they open wide their mouths at me,\
+> like a ravening and roaring lion.\
+> [14] I am poured out like water,\
+> and all my bones are out of joint;\
+> my heart is like wax;\
+> it is melted within my breast;\
+> [15] my strength is dried up like a potsherd,\
+> and my tongue sticks to my jaws;\
+> you lay me in the dust of death.\
+> [16] For dogs encompass me;\
+> a company of evildoers encircles me;\
+> they have pierced my hands and feet—\
+> [17] I can count all my bones—\
+> they stare and gloat over me;\
+> [18] they divide my garments among them,\
+> and for my clothing they cast lots.\
+> [19] But you, O LORD, do not be far off!\
+> O you my help, come quickly to my aid!\
+> [20] Deliver my soul from the sword,\
+> my precious life from the power of the dog!\
+> [21] 	Save me from the mouth of the lion!\
+> You have rescued me from the horns of the wild oxen!\
+> [22] I will tell of your name to my brothers;\
+> in the midst of the congregation I will praise you:\
+> [23] You who fear the LORD, praise him!\
+> All you offspring of Jacob, glorify him,\
+> and stand in awe of him, all you offspring of Israel!\
+> [24] For he has not despised or abhorred\
+> the affliction of the afflicted,\
+> and he has not hidden his face from him,\
+> but has heard, when he cried to him.\
+> [25] From you comes my praise in the great congregation;\
+> my vows I will perform before those who fear him.\
+> [26] The afflicted shall eat and be satisfied;\
+> those who seek him shall praise the LORD!\
+> May your hearts live forever!\
+> [27] All the ends of the earth shall remember\
+> and turn to the LORD,\
+> and all the families of the nations\
+> shall worship before you.\
+> [28] For kingship belongs to the LORD,\
+> and he rules over the nations.\
+> [29] All the prosperous of the earth eat and worship;\
+> before him shall bow all who go down to the dust,\
+> even the one who could not keep himself alive.\
+> [30] Posterity shall serve him;\
+> it shall be told of the Lord to the coming generation;\
+> [31] they shall come and proclaim his righteousness to a people yet unborn,\
+> that he has done it.
+
+## *TLH* 172 *O Sacred Head, Now Wounded* st 1, 3
+
+## First Word [Lk 23:32‑37 ESV]
+
+[32] Two others, who were criminals, were led away to be put to death with him. [33] And when they came to the place that is called The Skull, there they crucified him, and the criminals, one on his right and one on his left. [34] And Jesus said, “Father, forgive them, for they know not what they do.” And they cast lots to divide his garments. [35] And the people stood by, watching, but the rulers scoffed at him, saying, “He saved others; let him save himself, if he is the Christ of God, his Chosen One!” [36] The soldiers also mocked him, coming up and offering him sour wine [37] and saying, “If you are the King of the Jews, save yourself!”
+
+## *TLH* 177 *Our Blessed Savior Seven Times Spoke* st 1‑2
+
+## Second Word [Lk 23:38‑43 ESV]
+
+[38] There was also an inscription over him, “This is the King of the Jews.”
+
+[39] One of the criminals who were hanged railed at him, saying, “Are you not the Christ? Save yourself and us!” [40] But the other rebuked him, saying, “Do you not fear God, since you are under the same sentence of condemnation? [41] And we indeed justly, for we are receiving the due reward of our deeds; but this man has done nothing wrong.” [42] And he said, “Jesus, remember me when you come into your kingdom.” [43] And he said to him, “Truly, I say to you, today you will be with me in Paradise.”
+
+## *TLH* 153 *Stricken, Smitten, and Afflicted* st 1, 3
+
+## Third Word [Jn 19:25‑27 ESV]
+
+[25] Standing by the cross of Jesus were his mother and his mother's sister, Mary the wife of Clopas, and Mary Magdalene. [26] When Jesus saw his mother and the disciple whom he loved standing nearby, he said to his mother, “Woman, behold, your son!” [27] Then he said to the disciple, “Behold, your mother!” And from that hour the disciple took her to his own home.
+
+## *TLH* 170 *O Perfect Life of Love!* st 1‑2
+
+## Fourth Word [Mt 27:45‑46 ESV]
+
+[45] Now from the sixth hour there was darkness over all the land until the ninth hour. [46] And about the ninth hour Jesus cried out with a loud voice, saying, “Eli, Eli, lema sabachthani?” that is, “My God, my God, why have you forsaken me?”
+
+## *TLH* 171 *Upon the Cross Extended* st 10, 11
+
+## Fifth Word [Jn 19:28‑29 ESV]
+
+[28] After this, Jesus, knowing that all was now finished, said (to fulfill the Scripture), “I thirst.” [29] A jar full of sour wine stood there, so they put a sponge full of the sour wine on a hyssop branch and held it to his mouth.
+
+## *TLH* 184 *Jesus in Thy Thirst and Pain* st 1‑3
+
+## Sixth Word [Jn 19:30 ESV]
+
+[30] When Jesus had received the sour wine, he said, “It is finished,” and he bowed his head and gave up his spirit.
+
+## *TLH* 172 *O Sacred Head, Now Wounded* st 8
+
+## Seventh Word [Lk 23:44‑47 ESV]
+
+[44] It was now about the sixth hour, and there was darkness over the whole land until the ninth hour, [45] while the sun's light failed. And the curtain of the temple was torn in two. [46] Then Jesus, calling out with a loud voice, said, “Father, into your hands I commit my spirit!” And having said this he breathed his last. [47] Now when the centurion saw what had taken place, he praised God, saying, “Certainly this man was innocent!”
+
+## *TLH* 146 *Lamb of God, Pure and Holy* st 1
+
+## Holy Gospel [Jn 18:1‑19:42 ESV; sermon text]
+
+[1] When Jesus had spoken these words, he went out with his disciples across the brook Kidron, where there was a garden, which he and his disciples entered. [2] Now Judas, who betrayed him, also knew the place, for Jesus often met there with his disciples. [3] So Judas, having procured a band of soldiers and some officers from the chief priests and the Pharisees, went there with lanterns and torches and weapons. [4] Then Jesus, knowing all that would happen to him, came forward and said to them, “Whom do you seek?” [5] They answered him, “Jesus of Nazareth.” Jesus said to them, “I am he.” Judas, who betrayed him, was standing with them. [6] When Jesus said to them, “I am he,” they drew back and fell to the ground. [7] So he asked them again, “Whom do you seek?” And they said, “Jesus of Nazareth.” [8] Jesus answered, “I told you that I am he. So, if you seek me, let these men go.” [9] This was to fulfill the word that he had spoken: “Of those whom you gave me I have lost not one.” [10] Then Simon Peter, having a sword, drew it and struck the high priest's servant and cut off his right ear. (The servant's name was Malchus.) [11] So Jesus said to Peter, “Put your sword into its sheath; shall I not drink the cup that the Father has given me?”
+
+[12] So the band of soldiers and their captain and the officers of the Jews arrested Jesus and bound him. [13] First they led him to Annas, for he was the father-in-law of Caiaphas, who was high priest that year. [14] It was Caiaphas who had advised the Jews that it would be expedient that one man should die for the people.
+
+[15] Simon Peter followed Jesus, and so did another disciple. Since that disciple was known to the high priest, he entered with Jesus into the courtyard of the high priest, [16] but Peter stood outside at the door. So the other disciple, who was known to the high priest, went out and spoke to the servant girl who kept watch at the door, and brought Peter in. [17] The servant girl at the door said to Peter, “You also are not one of this man's disciples, are you?” He said, “I am not.” [18] Now the servants and officers had made a charcoal fire, because it was cold, and they were standing and warming themselves. Peter also was with them, standing and warming himself.
+
+[19] The high priest then questioned Jesus about his disciples and his teaching. [20] Jesus answered him, “I have spoken openly to the world. I have always taught in synagogues and in the temple, where all Jews come together. I have said nothing in secret. [21] Why do you ask me? Ask those who have heard me what I said to them; they know what I said.” [22] When he had said these things, one of the officers standing by struck Jesus with his hand, saying, “Is that how you answer the high priest?” [23] Jesus answered him, “If what I said is wrong, bear witness about the wrong; but if what I said is right, why do you strike me?” [24] Annas then sent him bound to Caiaphas the high priest.
+
+[25] Now Simon Peter was standing and warming himself. So they said to him, “You also are not one of his disciples, are you?” He denied it and said, “I am not.” [26] One of the servants of the high priest, a relative of the man whose ear Peter had cut off, asked, “Did I not see you in the garden with him?” [27] Peter again denied it, and at once a rooster crowed.
+
+[28] Then they led Jesus from the house of Caiaphas to the governor's headquarters. It was early morning. They themselves did not enter the governor's headquarters, so that they would not be defiled, but could eat the Passover. [29] So Pilate went outside to them and said, “What accusation do you bring against this man?” [30] They answered him, “If this man were not doing evil, we would not have delivered him over to you.” [31] Pilate said to them, “Take him yourselves and judge him by your own law.” The Jews said to him, “It is not lawful for us to put anyone to death.” [32] This was to fulfill the word that Jesus had spoken to show by what kind of death he was going to die.
+
+[33] So Pilate entered his headquarters again and called Jesus and said to him, “Are you the King of the Jews?” [34] Jesus answered, “Do you say this of your own accord, or did others say it to you about me?” [35] Pilate answered, “Am I a Jew? Your own nation and the chief priests have delivered you over to me. What have you done?” [36] Jesus answered, “My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world.” [37] Then Pilate said to him, “So you are a king?” Jesus answered, “You say that I am a king. For this purpose I was born and for this purpose I have come into the world—to bear witness to the truth. Everyone who is of the truth listens to my voice.” [38] Pilate said to him, “What is truth?”
+
+After he had said this, he went back outside to the Jews and told them, “I find no guilt in him. [39] But you have a custom that I should release one man for you at the Passover. So do you want me to release to you the King of the Jews?” [40] They cried out again, “Not this man, but Barabbas!” Now Barabbas was a robber.
+
+[1] Then Pilate took Jesus and flogged him. [2] And the soldiers twisted together a crown of thorns and put it on his head and arrayed him in a purple robe. [3] They came up to him, saying, “Hail, King of the Jews!” and struck him with their hands. [4] Pilate went out again and said to them, “See, I am bringing him out to you that you may know that I find no guilt in him.” [5] So Jesus came out, wearing the crown of thorns and the purple robe. Pilate said to them, “Behold the man!” [6] When the chief priests and the officers saw him, they cried out, “Crucify him, crucify him!” Pilate said to them, “Take him yourselves and crucify him, for I find no guilt in him.” [7] The Jews answered him, “We have a law, and according to that law he ought to die because he has made himself the Son of God.” [8] When Pilate heard this statement, he was even more afraid. [9] He entered his headquarters again and said to Jesus, “Where are you from?” But Jesus gave him no answer. [10] So Pilate said to him, “You will not speak to me? Do you not know that I have authority to release you and authority to crucify you?” [11] Jesus answered him, “You would have no authority over me at all unless it had been given you from above. Therefore he who delivered me over to you has the greater sin.”
+
+[12] From then on Pilate sought to release him, but the Jews cried out, “If you release this man, you are not Caesar's friend. Everyone who makes himself a king opposes Caesar.” [13] So when Pilate heard these words, he brought Jesus out and sat down on the judgment seat at a place called The Stone Pavement, and in Aramaic Gabbatha. [14] Now it was the day of Preparation of the Passover. It was about the sixth hour. He said to the Jews, “Behold your King!” [15] They cried out, “Away with him, away with him, crucify him!” Pilate said to them, “Shall I crucify your King?” The chief priests answered, “We have no king but Caesar.” [16] So he delivered him over to them to be crucified.
+
+So they took Jesus, [17] and he went out, bearing his own cross, to the place called The Place of a Skull, which in Aramaic is called Golgotha. [18] There they crucified him, and with him two others, one on either side, and Jesus between them. [19] Pilate also wrote an inscription and put it on the cross. It read, “Jesus of Nazareth, the King of the Jews.” [20] Many of the Jews read this inscription, for the place where Jesus was crucified was near the city, and it was written in Aramaic, in Latin, and in Greek. [21] So the chief priests of the Jews said to Pilate, “Do not write, ‘The King of the Jews,’ but rather, ‘This man said, I am King of the Jews.’” [22] Pilate answered, “What I have written I have written.”
+
+[23] When the soldiers had crucified Jesus, they took his garments and divided them into four parts, one part for each soldier; also his tunic. But the tunic was seamless, woven in one piece from top to bottom, [24] so they said to one another, “Let us not tear it, but cast lots for it to see whose it shall be.” This was to fulfill the Scripture which says,
+
+> “They divided my garments among them,\
+> and for my clothing they cast lots.”
+	
+	
+So the soldiers did these things, [25] but standing by the cross of Jesus were his mother and his mother's sister, Mary the wife of Clopas, and Mary Magdalene. [26] When Jesus saw his mother and the disciple whom he loved standing nearby, he said to his mother, “Woman, behold, your son!” [27] Then he said to the disciple, “Behold, your mother!” And from that hour the disciple took her to his own home.
+
+[28] After this, Jesus, knowing that all was now finished, said (to fulfill the Scripture), “I thirst.” [29] A jar full of sour wine stood there, so they put a sponge full of the sour wine on a hyssop branch and held it to his mouth. [30] When Jesus had received the sour wine, he said, “It is finished,” and he bowed his head and gave up his spirit.
+
+[31] Since it was the day of Preparation, and so that the bodies would not remain on the cross on the Sabbath (for that Sabbath was a high day), the Jews asked Pilate that their legs might be broken and that they might be taken away. [32] So the soldiers came and broke the legs of the first, and of the other who had been crucified with him. [33] But when they came to Jesus and saw that he was already dead, they did not break his legs. [34] But one of the soldiers pierced his side with a spear, and at once there came out blood and water. [35] He who saw it has borne witness—his testimony is true, and he knows that he is telling the truth—that you also may believe. [36] For these things took place that the Scripture might be fulfilled: “Not one of his bones will be broken.” [37] And again another Scripture says, “They will look on him whom they have pierced.”
+
+[38] After these things Joseph of Arimathea, who was a disciple of Jesus, but secretly for fear of the Jews, asked Pilate that he might take away the body of Jesus, and Pilate gave him permission. So he came and took away his body. [39] Nicodemus also, who earlier had come to Jesus by night, came bringing a mixture of myrrh and aloes, about seventy-five pounds in weight. [40] So they took the body of Jesus and bound it in linen cloths with the spices, as is the burial custom of the Jews. [41] Now in the place where he was crucified there was a garden, and in the garden a new tomb in which no one had yet been laid. [42] So because of the Jewish day of Preparation, since the tomb was close at hand, they laid Jesus there.
+
+------------
+
+[1] Ταῦτα εἰπὼν Ἰησοῦς ἐξῆλθεν σὺν τοῖς μαθηταῖς αὐτοῦ πέραν τοῦ χειμάρρου τοῦ Κεδρὼν ὅπου ἦν κῆπος, εἰς ὃν εἰσῆλθεν αὐτὸς καὶ οἱ μαθηταὶ αὐτοῦ. 
+[2] ᾔδει δὲ καὶ Ἰούδας ὁ παραδιδοὺς αὐτὸν τὸν τόπον, ὅτι πολλάκις συνήχθη Ἰησοῦς ἐκεῖ μετὰ τῶν μαθητῶν αὐτοῦ. 
+[3] ὁ οὖν Ἰούδας λαβὼν τὴν σπεῖραν καὶ ἐκ τῶν ἀρχιερέων καὶ ἐκ τῶν Φαρισαίων ὑπηρέτας ἔρχεται ἐκεῖ μετὰ φανῶν καὶ λαμπάδων καὶ ὅπλων. 
+[4] Ἰησοῦς οὖν εἰδὼς πάντα τὰ ἐρχόμενα ἐπ' αὐτὸν ἐξῆλθεν καὶ λέγει αὐτοῖς, Τίνα ζητεῖτε; 
+[5] ἀπεκρίθησαν αὐτῷ, Ἰησοῦν τὸν Ναζωραῖον. λέγει αὐτοῖς, Ἐγώ εἰμι. εἱστήκει δὲ καὶ Ἰούδας ὁ παραδιδοὺς αὐτὸν μετ' αὐτῶν. 
+[6] ὡς οὖν εἶπεν αὐτοῖς, Ἐγώ εἰμι, ἀπῆλθον εἰς τὰ ὀπίσω καὶ ἔπεσαν χαμαί. 
+[7] πάλιν οὖν ἐπηρώτησεν αὐτούς, Τίνα ζητεῖτε; οἱ δὲ εἶπαν, Ἰησοῦν τὸν Ναζωραῖον. 
+[8] ἀπεκρίθη Ἰησοῦς, Εἶπον ὑμῖν ὅτι ἐγώ εἰμι: εἰ οὖν ἐμὲ ζητεῖτε, ἄφετε τούτους ὑπάγειν: 
+[9] ἵνα πληρωθῇ ὁ λόγος ὃν εἶπεν ὅτι Οὓς δέδωκάς μοι οὐκ ἀπώλεσα ἐξ αὐτῶν οὐδένα. 
+[10] Σίμων οὖν Πέτρος ἔχων μάχαιραν εἵλκυσεν αὐτὴν καὶ ἔπαισεν τὸν τοῦ ἀρχιερέως δοῦλον καὶ ἀπέκοψεν αὐτοῦ τὸ ὠτάριον τὸ δεξιόν. ἦν δὲ ὄνομα τῷ δούλῳ Μάλχος. 
+[11] εἶπεν οὖν ὁ Ἰησοῦς τῷ Πέτρῳ, Βάλε τὴν μάχαιραν εἰς τὴν θήκην: τὸ ποτήριον ὃ δέδωκέν μοι ὁ πατὴρ οὐ μὴ πίω αὐτό; 
+
+[12] Ἡ οὖν σπεῖρα καὶ ὁ χιλίαρχος καὶ οἱ ὑπηρέται τῶν Ἰουδαίων συνέλαβον τὸν Ἰησοῦν καὶ ἔδησαν αὐτὸν 
+[13] καὶ ἤγαγον πρὸς Ανναν πρῶτον: ἦν γὰρ πενθερὸς τοῦ Καϊάφα, ὃς ἦν ἀρχιερεὺς τοῦ ἐνιαυτοῦ ἐκείνου: 
+[14] ἦν δὲ Καϊάφας ὁ συμβουλεύσας τοῖς Ἰουδαίοις ὅτι συμφέρει ἕνα ἄνθρωπον ἀποθανεῖν ὑπὲρ τοῦ λαοῦ. 
+
+[15] Ἠκολούθει δὲ τῷ Ἰησοῦ Σίμων Πέτρος καὶ ἄλλος μαθητής. ὁ δὲ μαθητὴς ἐκεῖνος ἦν γνωστὸς τῷ ἀρχιερεῖ, καὶ συνεισῆλθεν τῷ Ἰησοῦ εἰς τὴν αὐλὴν τοῦ ἀρχιερέως, 
+[16] ὁ δὲ Πέτρος εἱστήκει πρὸς τῇ θύρᾳ ἔξω. ἐξῆλθεν οὖν ὁ μαθητὴς ὁ ἄλλος ὁ γνωστὸς τοῦ ἀρχιερέως καὶ εἶπεν τῇ θυρωρῷ καὶ εἰσήγαγεν τὸν Πέτρον. 
+[17] λέγει οὖν τῷ Πέτρῳ ἡ παιδίσκη ἡ θυρωρός, Μὴ καὶ σὺ ἐκ τῶν μαθητῶν εἶ τοῦ ἀνθρώπου τούτου; λέγει ἐκεῖνος, Οὐκ εἰμί. 
+[18] εἱστήκεισαν δὲ οἱ δοῦλοι καὶ οἱ ὑπηρέται ἀνθρακιὰν πεποιηκότες, ὅτι ψῦχος ἦν, καὶ ἐθερμαίνοντο: ἦν δὲ καὶ ὁ Πέτρος μετ' αὐτῶν ἑστὼς καὶ θερμαινόμενος. 
+
+[19] Ὁ οὖν ἀρχιερεὺς ἠρώτησεν τὸν Ἰησοῦν περὶ τῶν μαθητῶν αὐτοῦ καὶ περὶ τῆς διδαχῆς αὐτοῦ. 
+[20] ἀπεκρίθη αὐτῷ Ἰησοῦς, Ἐγὼ παρρησίᾳ λελάληκα τῷ κόσμῳ: ἐγὼ πάντοτε ἐδίδαξα ἐν συναγωγῇ καὶ ἐν τῷ ἱερῷ, ὅπου πάντες οἱ Ἰουδαῖοι συνέρχονται, καὶ ἐν κρυπτῷ ἐλάλησα οὐδέν. 
+[21] τί με ἐρωτᾷς; ἐρώτησον τοὺς ἀκηκοότας τί ἐλάλησα αὐτοῖς: ἴδε οὗτοι οἴδασιν ἃ εἶπον ἐγώ. 
+[22] ταῦτα δὲ αὐτοῦ εἰπόντος εἷς παρεστηκὼς τῶν ὑπηρετῶν ἔδωκεν ῥάπισμα τῷ Ἰησοῦ εἰπών, Οὕτως ἀποκρίνῃ τῷ ἀρχιερεῖ; 
+[23] ἀπεκρίθη αὐτῷ Ἰησοῦς, Εἰ κακῶς ἐλάλησα, μαρτύρησον περὶ τοῦ κακοῦ: εἰ δὲ καλῶς, τί με δέρεις; 
+[24] ἀπέστειλεν οὖν αὐτὸν ὁ Αννας δεδεμένον πρὸς Καϊάφαν τὸν ἀρχιερέα. 
+
+[25] *)=ην δὲ Σίμων Πέτρος ἑστὼς καὶ θερμαινόμενος. εἶπον οὖν αὐτῷ, Μὴ καὶ σὺ ἐκ τῶν μαθητῶν αὐτοῦ εἶ; ἠρνήσατο ἐκεῖνος καὶ εἶπεν, Οὐκ εἰμί. 
+[26] λέγει εἷς ἐκ τῶν δούλων τοῦ ἀρχιερέως, συγγενὴς ὢν οὗ ἀπέκοψεν Πέτρος τὸ ὠτίον, Οὐκ ἐγώ σε εἶδον ἐν τῷ κήπῳ μετ' αὐτοῦ; 
+[27] πάλιν οὖν ἠρνήσατο Πέτρος: καὶ εὐθέως ἀλέκτωρ ἐφώνησεν. 
+
+[28] Ἄγουσιν οὖν τὸν Ἰησοῦν ἀπὸ τοῦ Καϊάφα εἰς τὸ πραιτώριον: ἦν δὲ πρωΐ: καὶ αὐτοὶ οὐκ εἰσῆλθον εἰς τὸ πραιτώριον, ἵνα μὴ μιανθῶσιν ἀλλὰ φάγωσιν τὸ πάσχα. 
+[29] ἐξῆλθεν οὖν ὁ Πιλᾶτος ἔξω πρὸς αὐτοὺς καὶ φησίν, Τίνα κατηγορίαν φέρετε [κατὰ] τοῦ ἀνθρώπου τούτου; 
+[30] ἀπεκρίθησαν καὶ εἶπαν αὐτῷ, Εἰ μὴ ἦν οὗτος κακὸν ποιῶν, οὐκ ἄν σοι παρεδώκαμεν αὐτόν. 
+[31] εἶπεν οὖν αὐτοῖς ὁ Πιλᾶτος, Λάβετε αὐτὸν ὑμεῖς, καὶ κατὰ τὸν νόμον ὑμῶν κρίνατε αὐτόν. εἶπον αὐτῷ οἱ Ἰουδαῖοι, Ἡμῖν οὐκ ἔξεστιν ἀποκτεῖναι οὐδένα: 
+[32] ἵνα ὁ λόγος τοῦ Ἰησοῦ πληρωθῇ ὃν εἶπεν σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν. 
+
+[33] Εἰσῆλθεν οὖν πάλιν εἰς τὸ πραιτώριον ὁ Πιλᾶτος καὶ ἐφώνησεν τὸν Ἰησοῦν καὶ εἶπεν αὐτῷ, Σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων; 
+[34] ἀπεκρίθη Ἰησοῦς, Ἀπὸ σεαυτοῦ σὺ τοῦτο λέγεις ἢ ἄλλοι εἶπόν σοι περὶ ἐμοῦ; 
+[35] ἀπεκρίθη ὁ Πιλᾶτος, Μήτι ἐγὼ Ἰουδαῖός εἰμι; τὸ ἔθνος τὸ σὸν καὶ οἱ ἀρχιερεῖς παρέδωκάν σε ἐμοί: τί ἐποίησας; 
+[36] ἀπεκρίθη Ἰησοῦς, Ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐκ τοῦ κόσμου τούτου: εἰ ἐκ τοῦ κόσμου τούτου ἦν ἡ βασιλεία ἡ ἐμή, οἱ ὑπηρέται οἱ ἐμοὶ ἠγωνίζοντο [ἄν], ἵνα μὴ παραδοθῶ τοῖς Ἰουδαίοις: νῦν δὲ ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐντεῦθεν. 
+[37] εἶπεν οὖν αὐτῷ ὁ Πιλᾶτος, Οὐκοῦν βασιλεὺς εἶ σύ; ἀπεκρίθη ὁ Ἰησοῦς, Σὺ λέγεις ὅτι βασιλεύς εἰμι. ἐγὼ εἰς τοῦτο γεγέννημαι καὶ εἰς τοῦτο ἐλήλυθα εἰς τὸν κόσμον, ἵνα μαρτυρήσω τῇ ἀληθείᾳ: πᾶς ὁ ὢν ἐκ τῆς ἀληθείας ἀκούει μου τῆς φωνῆς. 
+[38] λέγει αὐτῷ ὁ Πιλᾶτος, Τί ἐστιν ἀλήθεια;
+
+Καὶ τοῦτο εἰπὼν πάλιν ἐξῆλθεν πρὸς τοὺς Ἰουδαίους, καὶ λέγει αὐτοῖς, Ἐγὼ οὐδεμίαν εὑρίσκω ἐν αὐτῷ αἰτίαν. 
+[39] ἔστιν δὲ συνήθεια ὑμῖν ἵνα ἕνα ἀπολύσω ὑμῖν ἐν τῷ πάσχα: βούλεσθε οὖν ἀπολύσω ὑμῖν τὸν βασιλέα τῶν Ἰουδαίων; 
+[40] ἐκραύγασαν οὖν πάλιν λέγοντες, Μὴ τοῦτον ἀλλὰ τὸν Βαραββᾶν. ἦν δὲ ὁ Βαραββᾶς λῃστής.
+
+[1] Τότε οὖν ἔλαβεν ὁ Πιλᾶτος τὸν Ἰησοῦν καὶ ἐμαστίγωσεν.
+[2] καὶ οἱ στρατιῶται πλέξαντες στέφανον ἐξ ἀκανθῶν ἐπέθηκαν αὐτοῦ τῇ κεφαλῇ καὶ ἱμάτιον πορφυροῦν περιέβαλον αὐτὸν
+[3] καὶ ἤρχοντο πρὸς αὐτὸν καὶ ἔλεγον· χαῖρε ὁ βασιλεὺς τῶν Ἰουδαίων· καὶ ἐδίδοσαν αὐτῷ ῥαπίσματα. 
+[4] Καὶ ἐξῆλθεν πάλιν ἔξω ὁ Πιλᾶτος καὶ λέγει αὐτοῖς· ἴδε ἄγω ὑμῖν αὐτὸν ἔξω, ἵνα γνῶτε ὅτι οὐδεμίαν αἰτίαν εὑρίσκω ἐν αὐτῷ.
+[5] ἐξῆλθεν οὖν ὁ Ἰησοῦς ἔξω, φορῶν τὸν ἀκάνθινον στέφανον καὶ τὸ πορφυροῦν ἱμάτιον. καὶ λέγει αὐτοῖς· ἰδοὺ ὁ ἄνθρωπος.
+[6]  
+[7] ἀπεκρίθησαν αὐτῷ οἱ Ἰουδαῖοι· ἡμεῖς νόμον ἔχομεν καὶ κατὰ τὸν νόμον ὀφείλει ἀποθανεῖν, ὅτι υἱὸν θεοῦ ἑαυτὸν ἐποίησεν. 
+[8] Ὅτε οὖν ἤκουσεν ὁ Πιλᾶτος τοῦτον τὸν λόγον, μᾶλλον ἐφοβήθη,
+[9] καὶ εἰσῆλθεν εἰς τὸ πραιτώριον πάλιν καὶ λέγει τῷ Ἰησοῦ· πόθεν εἶ σύ; ὁ δὲ Ἰησοῦς ἀπόκρισιν οὐκ ἔδωκεν αὐτῷ.
+[10] λέγει οὖν αὐτῷ ὁ Πιλᾶτος· ἐμοὶ οὐ λαλεῖς; οὐκ οἶδας ὅτι ἐξουσίαν ἔχω ἀπολῦσαί σε καὶ ἐξουσίαν ἔχω σταυρῶσαί σε;
+[11] ἀπεκρίθη [αὐτῷ] Ἰησοῦς· οὐκ εἶχες ἐξουσίαν κατ’ ἐμοῦ οὐδεμίαν εἰ μὴ ἦν δεδομένον σοι ἄνωθεν· διὰ τοῦτο ὁ παραδούς μέ σοι μείζονα ἁμαρτίαν ἔχει. 
+
+[12] Ἐκ τούτου ὁ Πιλᾶτος ἐζήτει ἀπολῦσαι αὐτόν· οἱ δὲ Ἰουδαῖοι ἐκραύγασαν λέγοντες· ἐὰν τοῦτον ἀπολύσῃς, οὐκ εἶ φίλος τοῦ Καίσαρος· πᾶς ὁ βασιλέα ἑαυτὸν ποιῶν ἀντιλέγει τῷ Καίσαρι.
+[13] ὁ οὖν Πιλᾶτος ἀκούσας τῶν λόγων τούτων ἤγαγεν ἔξω τὸν Ἰησοῦν καὶ ἐκάθισεν ἐπὶ βήματος εἰς τόπον λεγόμενον Λιθόστρωτον, Ἑβραϊστὶ δὲ Γαββαθα.
+[14] ἦν δὲ παρασκευὴ τοῦ πάσχα, ὥρα ἦν ὡς ἕκτη. καὶ λέγει τοῖς Ἰουδαίοις· ἴδε ὁ βασιλεὺς ὑμῶν.
+[15] ἐκραύγασαν οὖν ἐκεῖνοι· ἆρον ἆρον, σταύρωσον αὐτόν. λέγει αὐτοῖς ὁ Πιλᾶτος· τὸν βασιλέα ὑμῶν σταυρώσω; ἀπεκρίθησαν οἱ ἀρχιερεῖς· οὐκ ἔχομεν βασιλέα εἰ μὴ Καίσαρα.
+[16] Τότε οὖν παρέδωκεν αὐτὸν αὐτοῖς ἵνα σταυρωθῇ.
+
+Παρέλαβον οὖν τὸν Ἰησοῦν,
+[17] καὶ βαστάζων ἑαυτῷ τὸν σταυρὸν ἐξῆλθεν εἰς τὸν λεγόμενον Κρανίου Τόπον, ὃ λέγεται Ἑβραϊστὶ Γολγοθα,
+[18] ὅπου αὐτὸν ἐσταύρωσαν, καὶ μετ’ αὐτοῦ ἄλλους δύο ἐντεῦθεν καὶ ἐντεῦθεν, μέσον δὲ τὸν Ἰησοῦν.
+[19] ἔγραψεν δὲ καὶ τίτλον ὁ Πιλᾶτος καὶ ἔθηκεν ἐπὶ τοῦ σταυροῦ· ἦν δὲ γεγραμμένον· Ἰησοῦς ὁ Ναζωραῖος ὁ βασιλεὺς τῶν Ἰουδαίων.
+[20] τοῦτον οὖν τὸν τίτλον πολλοὶ ἀνέγνωσαν τῶν Ἰουδαίων, ὅτι ἐγγὺς ἦν ὁ τόπος τῆς πόλεως ὅπου ἐσταυρώθη ὁ Ἰησοῦς· καὶ ἦν γεγραμμένον Ἑβραϊστί, Ῥωμαϊστί, Ἑλληνιστί.
+[21] ἔλεγον οὖν τῷ Πιλάτῳ οἱ ἀρχιερεῖς τῶν Ἰουδαίων· μὴ γράφε· ὁ βασιλεὺς τῶν Ἰουδαίων, ἀλλ’ ὅτι ἐκεῖνος εἶπεν· βασιλεύς εἰμι τῶν Ἰουδαίων.
+[22] ἀπεκρίθη ὁ Πιλᾶτος· ὃ γέγραφα, γέγραφα.
+
+[23] Οἱ οὖν στρατιῶται, ὅτε ἐσταύρωσαν τὸν Ἰησοῦν, ἔλαβον τὰ ἱμάτια αὐτοῦ καὶ ἐποίησαν τέσσαρα μέρη, ἑκάστῳ στρατιώτῃ μέρος, καὶ τὸν χιτῶνα. ἦν δὲ ὁ χιτὼν ἄραφος, ἐκ τῶν ἄνωθεν ὑφαντὸς δι’ ὅλου.
+[24] εἶπαν οὖν πρὸς ἀλλήλους· μὴ σχίσωμεν αὐτόν, ἀλλὰ λάχωμεν περὶ αὐτοῦ τίνος ἔσται· ἵνα ἡ γραφὴ πληρωθῇ [ἡ λέγουσα]· διεμερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς* καὶ ἐπὶ τὸν ἱματισμόν μου ἔβαλον κλῆρον.* 
+Οἱ μὲν οὖν στρατιῶται ταῦτα ἐποίησαν.
+[25] Εἱστήκεισαν δὲ παρὰ τῷ σταυρῷ τοῦ Ἰησοῦ ἡ μήτηρ αὐτοῦ καὶ ἡ ἀδελφὴ τῆς μητρὸς αὐτοῦ, Μαρία ἡ τοῦ Κλωπᾶ καὶ Μαρία ἡ Μαγδαληνή.
+[26] Ἰησοῦς οὖν ἰδὼν τὴν μητέρα καὶ τὸν μαθητὴν παρεστῶτα ὃν ἠγάπα, λέγει τῇ μητρί· γύναι, ἴδε ὁ υἱός σου.
+[27] εἶτα λέγει τῷ μαθητῇ· ἴδε ἡ μήτηρ σου. καὶ ἀπ’ ἐκείνης τῆς ὥρας ἔλαβεν ὁ μαθητὴς αὐτὴν εἰς τὰ ἴδια.
+
+[28] Μετὰ τοῦτο εἰδὼς ὁ Ἰησοῦς ὅτι ἤδη πάντα τετέλεσται, ἵνα τελειωθῇ ἡ γραφή, λέγει· διψῶ.
+[29] σκεῦος ἔκειτο ὄξους μεστόν· σπόγγον οὖν μεστὸν τοῦ ὄξους ὑσσώπῳ περιθέντες προσήνεγκαν αὐτοῦ τῷ στόματι.
+[30] ὅτε οὖν ἔλαβεν τὸ ὄξος [ὁ] Ἰησοῦς εἶπεν· τετέλεσται, καὶ κλίνας τὴν κεφαλὴν παρέδωκεν τὸ πνεῦμα.
+
+[31] Οἱ οὖν Ἰουδαῖοι, ἐπεὶ παρασκευὴ ἦν, ἵνα μὴ μείνῃ ἐπὶ τοῦ σταυροῦ τὰ σώματα ἐν τῷ σαββάτῳ, ἦν γὰρ μεγάλη ἡ ἡμέρα ἐκείνου τοῦ σαββάτου, ἠρώτησαν τὸν Πιλᾶτον ἵνα κατεαγῶσιν αὐτῶν τὰ σκέλη καὶ ἀρθῶσιν.
+[32] ἦλθον οὖν οἱ στρατιῶται καὶ τοῦ μὲν πρώτου κατέαξαν τὰ σκέλη καὶ τοῦ ἄλλου τοῦ συσταυρωθέντος αὐτῷ·
+[33] ἐπὶ δὲ τὸν Ἰησοῦν ἐλθόντες, ὡς εἶδον ἤδη αὐτὸν τεθνηκότα, οὐ κατέαξαν αὐτοῦ τὰ σκέλη,
+[34] ἀλλ’ εἷς τῶν στρατιωτῶν λόγχῃ αὐτοῦ τὴν πλευρὰν ἔνυξεν, καὶ ἐξῆλθεν εὐθὺς αἷμα καὶ ὕδωρ.
+[35] καὶ ὁ ἑωρακὼς μεμαρτύρηκεν, καὶ ἀληθινὴ αὐτοῦ ἐστιν ἡ μαρτυρία, καὶ ἐκεῖνος οἶδεν ὅτι ἀληθῆ λέγει, ἵνα καὶ ὑμεῖς πιστεύ [σ]ητε.
+[36] ἐγένετο γὰρ ταῦτα ἵνα ἡ γραφὴ πληρωθῇ· ὀστοῦν οὐ συντριβήσεται αὐτοῦ.*
+[37] καὶ πάλιν ἑτέρα γραφὴ λέγει· ὄψονται εἰς ὃν ἐξεκέντησαν.*
+
+[38] Μετὰ δὲ ταῦτα ἠρώτησεν τὸν Πιλᾶτον Ἰωσὴφ [ὁ] ἀπὸ Ἁριμαθαίας, ὢν μαθητὴς τοῦ Ἰησοῦ κεκρυμμένος δὲ διὰ τὸν φόβον τῶν Ἰουδαίων, ἵνα ἄρῃ τὸ σῶμα τοῦ Ἰησοῦ· καὶ ἐπέτρεψεν ὁ Πιλᾶτος. ἦλθεν οὖν καὶ ἦρεν τὸ σῶμα αὐτοῦ.
+[39] ἦλθεν δὲ καὶ Νικόδημος, ὁ ἐλθὼν πρὸς αὐτὸν νυκτὸς τὸ πρῶτον, φέρων μίγμα σμύρνης καὶ ἀλόης ὡς λίτρας ἑκατόν.
+[40] ἔλαβον οὖν τὸ σῶμα τοῦ Ἰησοῦ καὶ ἔδησαν αὐτὸ ὀθονίοις μετὰ τῶν ἀρωμάτων, καθὼς ἔθος ἐστὶν τοῖς Ἰουδαίοις ἐνταφιάζειν.
+[41] ἦν δὲ ἐν τῷ τόπῳ ὅπου ἐσταυρώθη κῆπος, καὶ ἐν τῷ κήπῳ μνημεῖον καινὸν ἐν ᾧ οὐδέπω οὐδεὶς ἦν τεθειμένος·
+[42] ἐκεῖ οὖν διὰ τὴν παρασκευὴν τῶν Ἰουδαίων, ὅτι ἐγγὺς ἦν τὸ μνημεῖον, ἔθηκαν τὸν Ἰησοῦν.
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+Several hymns are sung around the Seven Last words (see above).
+
+* Closing hymn: _TLH_ 167 _O Darkest Woe_ st 1‑2, 6‑7
+
+## Sermon
+
+Beloved in the Lord,
+
+> *A Lamb goes uncomplaining forth,*\
+> *The guilt of all men bearing;*\
+> *And laden with the sins of earth,*\
+> *None else the burden sharing!*
+
+Alone, forsaken by His Father, and bearing your sin is Jesus Christ, the Son of God.
+Tonight, He faces death.
+
+Be careful to not become numb to death, for it is all around you: another shooting, another overdose, not to mention cancer and diabetes.
+People nearby die all the time.
+People closer and closer to you die and you mourn too often.
+Tonight, however, do not so much listen to the report of another death as *behold* the death of Jesus Christ *laden with the sins of earth, none else the burden sharing*.
+
+It is one thing to die supported by family and caregivers, but it is quite another thing to die *forsaken*.
+*[Illustration]* To take an illustration from what has infected our city,
+suppose your drug problem causes you to be forsaken by your family.
+And then suppose you get into a relationship with a violent man who murders you and dumps your body at the side of I‑90---*that* is to die forsaken.
+
+In the Bible, many die forsaken.
+
+> **The LORD rained on Sodom and Gomorrah sulfur and fire.** [(Gn 19:24 ESV)](https://www.esv.org/Genesis+19/)
+
+He spares only four people from those cities; the rest die forsaken by God.
+
+> **“Seize the prophets of Baal; let not one of them escape.” And they seized them. And Elijah brought them down to the brook Kishon and slaughtered them there.** [(1Ki 18:40 ESV)](https://www.esv.org/1+Kings+18/)
+
+The prophets of Baal die forsaken by God.
+
+> **And [Jehu] lifted up his face to the window and said, “Who is on my side? Who?” Two or three eunuchs looked out at him. He said, “Throw her down.” So they threw [Jezebel] down. And some of her blood spattered on the wall and on the horses, and they trampled on her. ... But when they went to bury her, they found no more of her than the skull and the feet and the palms of her hands.** [(2Ki 9:32‑33, 35 ESV)](https://www.esv.org/2+Kings+9/)
+
+For dogs had eaten wicked Jezebel, patroness of the prophets of Baal; the dogs ate her as Elijah had prophesied.
+Jezebel dies forsaken by God.
+
+Our Lord Jesus, the Lamb of God, also dies forsaken by God.
+
+> **My God, my God, why have you forsaken me? ...**\
+> **For dogs encompass me;**\
+> **a company of evildoers encircles me;**\
+> **they have pierced my hands and feet.** [(Ps 22:1, 16 ESV)](https://www.esv.org/Psalm+22/)
+
+As idolatrous Jezebel, as sexually immoral Sodom, *[Point to Crucifixion window.]* our Lord Jesus dies forsaken by His Father.
+Jesus drinks the cup of his Father's wrath against sin (Ps 75:8): sulfur and tearing dogs are all wrapped up in His tortuous death by crucifixion.
+
+*[Point to the thief.]* Yet here is the thief on the right side of Jesus---on His left as you look at the window.
+Do you see him looking up at Jesus?
+This forsaken man says to the one on the left who has mocked Jesus, saying, **"Are you not the Christ? Save yourself and us!"**---the thief on the right rebukes the one one the left, **"Do you not fear God, since you are under the same sentence of condemnation? And we indeed justly, for we are receiving the due reward of our deeds; but this man has done nothing wrong"** [(Lk 23:40‑41 ESV)](https://www.esv.org/Luke+23/).
+
+Beloved in the Lord, by the grace of the Holy Spirit, do not *watch* Jesus die: *behold* Him as the thief on the right beholds Him.
+*Hold* Him in faith that His death is the one you deserve.
+But He dies blameless, put there by His Father in your place; a place He willingly and uncomplainingly accepts because He loves both you and His *heavenly* Father.
+Behold Him loving His *earthly* mother even as He suffers: you cannot stop this man from loving!
+Behold Him praying to His heavenly Father even though He perishes: **“Father, into your hands I commit my spirit!”**
+Follow the thief: Fear God, confess your sins, and acknowledge your own condemnation by God's holy Law.
+Then behold Jesus, the Lamb of God who takes away *your* sin.
+He is humiliated and put to death not to condemn you, but that you be saved by faith in Him.
+
+To the thief who believes, and to you who believe that Jesus suffers on the Cross on your behalf, He says, **"Truly, I say to you, today you will be with me in Paradise"** [(Lk 23:43 ESV)](https://www.esv.org/Luke+23/).
+The thief might have feared death when he was sentenced to die for his crime.
+But when he beholds the death of Jesus, he receives life in Paradise instead; this promise of life in Paradise erases his fear of death.
+
+Beloved in the Lord, when you face death, remember Christ forsaken and crucified for you;
+remember Christ, whose blood has won the forgiveness of your sins.
+Behold Christ forsaken and crucified for you and by the grace of the Holy Spirit you will not fear death but rather eagerly anticipate life in heaven according to His promise.
+
+> *This Lamb is Christ, the soul's great Friend,*\
+> *The Lamb of God, our Savior;*\
+> *Him God the Father chose to send*\
+> *To gain for us His favor.*\
+> *"Go forth, My Son," the Father saith.*\
+> *“And free men from the fear of death,*\
+> *From guilt and condemnation.”*
+
+Behold, He has done it.
+AMEN.
+
+## Outline
+
+|       FORSAKEN BY GOD NO LONGER         |
+|:-----------------------------------------------:|
+
+1. Forsaken
+    1. Biblical examples of dying forsaken by God.
+1. Protected
+
+## Notes
