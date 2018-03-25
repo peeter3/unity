@@ -1,12 +1,9 @@
 % Palm Sunday
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
-## During the service
-
-* ZZZ
-
 ## Announcements
 
+* I heard a bird singing this morning: it won't be long.
 * Maundy Thursday: foot washing at 5, Communion service at 7.
 * Good Friday: Tenebrae service at 7.
 * Saturday: Altar Guild adorns at 10; CLEAN UP IN & AROUND CHURCH at 11.
@@ -89,39 +86,96 @@ Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesu
 > **_humble and mounted on a donkey_,**\
 > **on a colt, the foal of a donkey.** [(Zec 9:9 ESV)](https://www.esv.org/Zechariah+9/)
 
-Palm Sunday is here, but it was foretold by the prophet Zechariah 550 years before.
-For 550 years the Israelites waited for their King to enter triumphantly into Jerusalem on a donkey---*550 years*---it was worth the wait. ...
+Palm Sunday is here, and it was foretold by the prophet Zechariah 550 years before.
+For 550 years the Israelites waited for their King to enter triumphantly into Jerusalem on a donkey---they waited *550 years*---it was worth the wait. ...
 But wait! **Humble and mounted on a donkey**?
-If this King were a military leader who has come to throw off the Roman domination of the Jewish people, He would ride on a *horse*---a military leader rides on a horse.
-Average Joe rides a donkey,
-and Jesus rides a donkey---not a horse---a *donkey*---the same beast of burden the average person rides on.
-Indeed, Jesus is **humble and mounted on a _donkey_, on a colt, the foal of a donkey**, just as it has been prophesied.
-But it begs the question: *What kind of a King is Jesus?*
+A *donkey*?
+If this King were a military leader, He would ride on a *horse*---a military leader rides on a horse.
+Average Joe rides a donkey.
+Jesus rides a donkey---not a horse---a *donkey*---the same beast of burden any average person rides on.
+Indeed, Jesus is **_humble_ and mounted on a _donkey_, on a colt, the foal of a donkey**, just as it has been prophesied by Zechariah.
+We learn from the donkey that Jesus is humble, but, beloved in the Lord, we only *begin* to learn how humble He is.
+And it begs the question: *What kind of a King is Jesus?*
 But the real question is *What kind of a **God** is Jesus?*
 
-St. Paul answers this question in his letter to the Philippians:
+Hear what St. Paul writes to the Philippians in our Epistle reading:
 
 > **Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count _equality with God_ a thing to be grasped.**
 
 Yes, that is an equals sign: Jesus = God. Jesus is God and He *knows* it.
-But how does he show it?
+How does he show it?
 Jesus does not count being God a thing to be grasped, and His entrance into Jerusalem *shows* it.
-God comes into Jerusalem *on a donkey*, a beast of burden.
+God rides into Jerusalem *on a donkey*, a beast of burden---the same animal anyone else would ride.
 Now what else is He going to show?
 
-Let us stick for now with the donkey on which our Lord rides.
-The donkey that Jesus rides on Palm Sunday may be the *second* most famous donkey in the Bible; Balaam's donkey is the first.
-Beloved in the Lord, do you remember Balaam's donkey?
-Balaam back in the book of Numbers was a prophet-for-hire who was called upon by Balak, king of Moab, to curse the Israelites.
-Balaam, the Bible teaches us elsewhere, was not an honorable prophet, but in Numbers, chapters 23‑24 he nevertheless refused to curse the Israelites there in the wilderness for Balak---even though Balak was paying him to curse them---he refused to curse but rather Balaam *blessed* the Israelites as the LORD wanted him to do.
-*Afterward*, however, Balaam would lead the Israelites into idolatry, in Numberse, chapter 25 [(Rv 2:14)](https://www.esv.org/Revelation+2/), but not for now.
-On his way to see Balak, though, you already heard that Balaam was not a very nice man. Do you remember how Balaam treated his donkey as he rode his donkey to go see Balak?
+Let us stick with the donkey.
+The donkey that Jesus rides on Palm Sunday may be the *second* most famous donkey in the Bible; the most famous donkey in the Bible is probably *Balaam's donkey*.
+Do you remember Balaam's donkey?
+Balaam's donkey is the donkey that talked.
+Balaam, back in the book of Numbers, was a prophet-for-hire---"Pay me, and I'll tell you what you want to hear"---a prophet-for-hire who was called upon by Balak, king of Moab, to curse the Israelites, who were being led by Moses through the wilderness to the Promised Land.
+Balak wanted to hear God curse the Israelites, so he hired Balaam---Balaam would do it for money.
+The Bible teaches us that Balaam was not an honorable prophet, but in Numbers, chapters 23‑24 he nevertheless refused to curse the Israelites there in the wilderness for Balak---even though Balak was paying him to curse them---he refused to curse, but rather *blessed* the Israelites as the LORD wanted him to do.
+Good for Balaam---he did the right thing.
+*Afterward*, however, Balaam would lead the Israelites into idolatry, in Numbers, chapter 25 [(Rv 2:14)](https://www.esv.org/Revelation+2/), but not for now.
+On his way to see Balak, though, *Balaam treated his donkey badly*.
 
-> **And when the donkey saw the angel of the LORD, she pushed against the wall and pressed Balaam's foot against the wall. So he struck her again. Then the angel of the LORD went ahead and stood in a narrow place, where there was no way to turn either to the right or to the left. When the donkey saw the angel of the LORD, she lay down under Balaam. And Balaam's anger was kindled, and he struck the donkey with his staff. Then the LORD opened the mouth of the donkey, and she said to Balaam, “What have I done to you, that you have struck me these three times?” And Balaam said to the donkey, “Because you have made a fool of me. I wish I had a sword in my hand, for then I would kill you.”** [(Nm 22:25‑29 ESV)]()
+> **And the donkey saw the angel of the LORD standing in the road, with a drawn sword in his hand. And the donkey turned aside out of the road and went into the field. And Balaam struck the donkey, to turn her into the road. ... And when the donkey saw the angel of the LORD, she pushed against the wall and pressed Balaam's foot against the wall. So he struck her again. Then the angel of the LORD went ahead and stood in a narrow place, where there was no way to turn either to the right or to the left. When the donkey saw the angel of the LORD, she lay down under Balaam. And Balaam's anger was kindled, and he struck the donkey with his staff. Then the LORD opened the mouth of the donkey, and she said to Balaam, “What have I done to you, that you have struck me these three times?” And Balaam said to the donkey, “Because you have made a fool of me. I wish I had a sword in my hand, for then I would kill you.”** [(Nm 22:23, 25‑29 ESV)]()
 
-Balaam's donkey took action to save her evil owner, Balaam, from the angel of the LORD.
-Balaam had done something to offend the angel of the LORD, and Balaam would have been killed by the angel of the LORD had not his donkey taken action.
+Balaam beat his donkey and threatened to kill her.
+I suppose if anyone would mistreat anything, it would be a donkey.
+But Balaam's donkey was trying to *save his life*.
+The angel of the LORD was standing there to kill Balaam with a sword---it appears that Balaam had offended the LORD and was going to pay for it with his life.
+The donkey saw the angel of the LORD with a sword and tried to save Balaam.
+Balaam's donkey took action to save her evil owner, Balaam, from being killed by the angel of the LORD.
+For this, Balaam beat his donkey and threatened to kill her.
 
+What could be worse than what Balaam's donkey had to put up with?
+We are about to find out.
+Jesus has entered Jerusalem on a donkey, and He is going to be treated worse than Balaam's donkey.
+Today, Palm Sunday, is a mini day of triumph, but a distant triumph.
+*Now* is the time for Jesus to be betrayed.
+Yes, for as bad as it is about to be for Jesus, there is one who has it worse: Judas.
+**"Woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born"** [(Mk 14:21 ESV)](https://www.esv.org/Mark+14/).
+For Satan is about to enter into Judas [(Jn 13:27)](https://www.esv.org/John+13/), and when Satan is done with Judas, Judas will be in hell, where the worm does not die and the fire is not quenched.
+Satan is about to take over, or so it seems, and get many sinners, not only Judas, to do his bidding.
+God forbid that Satan should enter any of us as he entered Judas so that Jesus says, **"It would have been better for that man if he had not been born."**
+But we must confess that Satan has had his way with us to do his evil bidding.
+At some time---maybe even this week---we did something that extends Satan's kingdom---Satan's power over us and others.
+For this we confess our sin and are ashamed.
+
+And for this we turn to Jesus, and for this Jesus comes to fight. It is against this kingdom, Satan's kingdom ruled by lies and the fear of death, that King Jesus has come to fight, riding on a donkey.
+He comes as one of us, riding on a donkey.
+Jesus could stand up at this point and say, "Satan, you're a liar."
+(Earlier, He did call Satan *the father of lies* [(Jn 8:44)](https://www.esv.org/John+8/).)
+Jesus could stand up and say, "Satan, you're a murderer."
+(Earlier, He did call Satan a murderer [(Jn 8:44)](https://www.esv.org/John+8/).)
+But for now, Jesus will let Satan show who he is, and Jesus will show Himself for who *He* is.
+Jesus lets Satan orchestrate His Crucifixion by false charges, but God's will is done.
+Satan will enter Judas and everything will start rolling toward Christ's Crucifixion, and God's will is done.
+Jesus will be betrayed for money.
+Jesus will be arrested as if He were a criminal.
+Jesus will be mocked and beaten---treated like a donkey.
+But not only will Jesus' enemies, under Satan's control, *threaten* to kill Him: they *will* kill Him.
+Satan will orchestrating the mocking and beating---the guards and the Pharisees and the Sadducees who hate Jesus will do Satan's bidding.
+Satan will orchestrate the trial and Crucifixion---Pontius Pilate and the Roman soldiers will do Satan's bidding.
+They will set a true murderer free, but will crucify Life Himself.
+
+Jesus has *enemies*---Satan has raised up a lot of enemies for Jesus.
+Jesus has come into Jerusalem to give Himself into the hands of His enemies *to save them from what He is about to suffer*.
+Behold our King Jesus, the friend of sinners.
+Jesus has come into Jerusalem to *to save us from what He is about to suffer*, for all of us have done Satan's bidding and deserve death and everalasting condemnation.
+
+> **I will set your prisoners free from the waterless pit.** [(Zec 9:11 ESV)](https://www.esv.org/Zechariah+9/)
+
+We are prisoners of Satan that Jesus has come to set free.
+A pit in Bible days was a cistern.
+You got your water from a cistern and if your cistern leaked, you had no water---nothing to drink and nothing to wash with.
+A cistern that holds not water [(Jer 2:13)](https://www.esv.org/Zechariah+9/) is a useless cistern.
+An idol is useless, and Satan has tricked us into having one.
+Jesus comes to set us free from whatever lie Satan has tricked us to believe and gives us Himself to take the consequences we deserve.
+He will take the consequences for us and die as a result of it.
+He will rise from the dead in three days and show us who He really is: the One who takes death for us sinners and gives us life instead.
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4/).
 AMEN.
 
 ## Outline
