@@ -1,0 +1,189 @@
+% Palm Sunday
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## Announcements
+
+* I heard a bird singing this morning: it won't be long.
+* Maundy Thursday: foot washing at 5, Communion service at 7.
+* Good Friday: Tenebrae service at 7.
+* Saturday: Altar Guild adorns at 10; CLEAN UP IN & AROUND CHURCH at 11.
+* Easter Sunday: sunrise service at 7 am; breakfast at 8; main service at 9:30.
+* Fill out the slip in the bulletin if you plan to attend the breakfast.
+
+## Old Testament [Zechariah 9:9-12 ESV]
+
+> [9] Rejoice greatly, O daughter of Zion!\
+> Shout aloud, O daughter of Jerusalem!\
+> Behold, your king is coming to you;\
+> righteous and having salvation is he,\
+> humble and mounted on a donkey,\
+> on a colt, the foal of a donkey.\
+> [10] I will cut off the chariot from Ephraim\
+> and the war horse from Jerusalem;\
+> and the battle bow shall be cut off,\
+> and he shall speak peace to the nations;\
+> his rule shall be from sea to sea,\
+> and from the River to the ends of the earth.\
+> [11] As for you also, because of the blood of my covenant with you,\
+> I will set your prisoners free from the waterless pit.\
+> [12] Return to your stronghold, O prisoners of hope;\
+> today I declare that I will restore to you double.
+
+## Epistle [Philippians 2:5‑11 ESV; sermon text]
+
+[5] Have this mind among yourselves, which is yours in Christ Jesus, [6] who, though he was in the form of God, did not count equality with God a thing to be grasped,
+[7] but emptied himself, by taking the form of a servant, being born in the likeness of men. [8] And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. [9] Therefore God has highly exalted him and bestowed on him the name that is above every name, [10] so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, [11] and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
+
+## Holy Gospel [Mark 14:1-25 ESV]
+
+[1] It was now two days before the Passover and the Feast of Unleavened Bread. And the chief priests and the scribes were seeking how to arrest him by stealth and kill him, [2] for they said, “Not during the feast, lest there be an uproar from the people.”
+
+[3] And while he was at Bethany in the house of Simon the leper, as he was reclining at table, a woman came with an alabaster flask of ointment of pure nard, very costly, and she broke the flask and poured it over his head. [4] There were some who said to themselves indignantly, “Why was the ointment wasted like that? [5] For this ointment could have been sold for more than three hundred denarii and given to the poor.” And they scolded her. [6] But Jesus said, “Leave her alone. Why do you trouble her? She has done a beautiful thing to me. [7] For you always have the poor with you, and whenever you want, you can do good for them. But you will not always have me. [8] She has done what she could; she has anointed my body beforehand for burial. [9] And truly, I say to you, wherever the gospel is proclaimed in the whole world, what she has done will be told in memory of her.”
+
+[10] Then Judas Iscariot, who was one of the twelve, went to the chief priests in order to betray him to them. [11] And when they heard it, they were glad and promised to give him money. And he sought an opportunity to betray him.
+
+[12] And on the first day of Unleavened Bread, when they sacrificed the Passover lamb, his disciples said to him, “Where will you have us go and prepare for you to eat the Passover?” [13] And he sent two of his disciples and said to them, “Go into the city, and a man carrying a jar of water will meet you. Follow him, [14] and wherever he enters, say to the master of the house, ‘The Teacher says, Where is my guest room, where I may eat the Passover with my disciples?’ [15] And he will show you a large upper room furnished and ready; there prepare for us.” [16] And the disciples set out and went to the city and found it just as he had told them, and they prepared the Passover.
+
+[17] And when it was evening, he came with the twelve. [18] And as they were reclining at table and eating, Jesus said, “Truly, I say to you, one of you will betray me, one who is eating with me.” [19] They began to be sorrowful and to say to him one after another, “Is it I?” [20] He said to them, “It is one of the twelve, one who is dipping bread into the dish with me. [21] For the Son of Man goes as it is written of him, but woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born.”
+
+[22] And as they were eating, he took bread, and after blessing it broke it and gave it to them, and said, “Take; this is my body.” [23] And he took a cup, and when he had given thanks he gave it to them, and they all drank of it. [24] And he said to them, “This is my blood of the covenant, which is poured out for many. [25] Truly, I say to you, I will not drink again of the fruit of the vine until that day when I drink it new in the kingdom of God.”
+
+## Introit [Ps 24:7-10; antiphon: Ps 118:26]
+
+> Blessed is he who comes in the name | of the LORD!\*\
+> We bless you from the house | of the LORD.\
+> Lift up your heads, O gates! And be lifted up, O | ancient doors,\*\
+> that the King of glory | may come in.\
+> Who is this King of | glory?\*\
+> The LORD, strong and mighty, the LORD, mighty in | battle!\
+> Lift up your heads, O gates! And lift them up, O | ancient doors,\*\
+> that the King of glory | may come in.\
+> Who is this King of | glory?\*\
+> The LORD of hosts, he is the King of | glory!\
+> Blessed is he who comes in the name | of the LORD!\*\
+> We bless you from the house | of the LORD.\
+
+
+## Collect
+
+Almighty and everlasting God, You sent Your Son, our Savior Jesus Christ, to take upon Himself our flesh and to suffer death upon the cross. Mercifully grant that we may follow the example of His great humility and patience and be made partakers of His resurrection; through the same Jesus Christ, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 160 _All Glory, Laud and Honor_
+* Sermon hymn: _TLH_ 161 _Hosanna, Loud Hosanna_
+* Communion hymn: _TLH_ 141 _Enslaved by Sin and Bound in Chains_
+* Closing hymn: _LSB_ 444 _No Tramp of Soldiers' Marching Feet_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+ 
+> **Rejoice greatly, O daughter of Zion!**\
+> **Shout aloud, O daughter of Jerusalem!**\
+> **Behold, your king is coming to you;**\
+> **righteous and having salvation is he,**\
+> **_humble and mounted on a donkey_,**\
+> **on a colt, the foal of a donkey.** [(Zec 9:9 ESV)](https://www.esv.org/Zechariah+9/)
+
+Palm Sunday is here, and it was foretold by the prophet Zechariah 550 years before.
+For 550 years the Israelites waited for their King to enter triumphantly into Jerusalem on a donkey---they waited *550 years*---it was worth the wait. ...
+But wait! **Humble and mounted on a donkey**?
+A *donkey*?
+If this King were a military leader, He would ride on a *horse*---a military leader rides on a horse.
+Average Joe rides a donkey.
+Jesus rides a donkey---not a horse---a *donkey*---the same beast of burden any average person rides on.
+Indeed, Jesus is **_humble_ and mounted on a _donkey_, on a colt, the foal of a donkey**, just as it has been prophesied by Zechariah.
+We learn from the donkey that Jesus is humble, but, beloved in the Lord, we only *begin* to learn how humble He is.
+And it begs the question: *What kind of a King is Jesus?*
+But the real question is *What kind of a **God** is Jesus?*
+
+Hear what St. Paul writes to the Philippians in our Epistle reading:
+
+> **Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count _equality with God_ a thing to be grasped.**
+
+Yes, that is an equals sign: Jesus = God. Jesus is God and He *knows* it.
+How does he show it?
+Jesus does not count being God a thing to be grasped, and His entrance into Jerusalem *shows* it.
+God rides into Jerusalem *on a donkey*, a beast of burden---the same animal anyone else would ride.
+Now what else is He going to show?
+
+Let us stick with the donkey.
+The donkey that Jesus rides on Palm Sunday may be the *second* most famous donkey in the Bible; the most famous donkey in the Bible is probably *Balaam's donkey*.
+Do you remember Balaam's donkey?
+Balaam's donkey is the donkey that talked.
+Balaam, back in the book of Numbers, was a prophet-for-hire---"Pay me, and I'll tell you what you want to hear"---a prophet-for-hire who was called upon by Balak, king of Moab, to curse the Israelites, who were being led by Moses through the wilderness to the Promised Land.
+Balak wanted to hear God curse the Israelites, so he hired Balaam---Balaam would do it for money.
+The Bible teaches us that Balaam was not an honorable prophet, but in Numbers, chapters 23‑24 he nevertheless refused to curse the Israelites there in the wilderness for Balak---even though Balak was paying him to curse them---he refused to curse, but rather *blessed* the Israelites as the LORD wanted him to do.
+Good for Balaam---he did the right thing.
+*Afterward*, however, Balaam would lead the Israelites into idolatry, in Numbers, chapter 25 [(Rv 2:14)](https://www.esv.org/Revelation+2/), but not for now.
+On his way to see Balak, though, *Balaam treated his donkey badly*.
+
+> **And the donkey saw the angel of the LORD standing in the road, with a drawn sword in his hand. And the donkey turned aside out of the road and went into the field. And Balaam struck the donkey, to turn her into the road. ... And when the donkey saw the angel of the LORD, she pushed against the wall and pressed Balaam's foot against the wall. So he struck her again. Then the angel of the LORD went ahead and stood in a narrow place, where there was no way to turn either to the right or to the left. When the donkey saw the angel of the LORD, she lay down under Balaam. And Balaam's anger was kindled, and he struck the donkey with his staff. Then the LORD opened the mouth of the donkey, and she said to Balaam, “What have I done to you, that you have struck me these three times?” And Balaam said to the donkey, “Because you have made a fool of me. I wish I had a sword in my hand, for then I would kill you.”** [(Nm 22:23, 25‑29 ESV)]()
+
+Balaam beat his donkey and threatened to kill her.
+I suppose if anyone would mistreat anything, it would be a donkey.
+But Balaam's donkey was trying to *save his life*.
+The angel of the LORD was standing there to kill Balaam with a sword---it appears that Balaam had offended the LORD and was going to pay for it with his life.
+The donkey saw the angel of the LORD with a sword and tried to save Balaam.
+Balaam's donkey took action to save her evil owner, Balaam, from being killed by the angel of the LORD.
+For this, Balaam beat his donkey and threatened to kill her.
+
+What could be worse than what Balaam's donkey had to put up with?
+We are about to find out.
+Jesus has entered Jerusalem on a donkey, and He is going to be treated worse than Balaam's donkey.
+Today, Palm Sunday, is a mini day of triumph, but a distant triumph.
+*Now* is the time for Jesus to be betrayed.
+Yes, for as bad as it is about to be for Jesus, there is one who has it worse: Judas.
+**"Woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born"** [(Mk 14:21 ESV)](https://www.esv.org/Mark+14/).
+For Satan is about to enter into Judas [(Jn 13:27)](https://www.esv.org/John+13/), and when Satan is done with Judas, Judas will be in hell, where the worm does not die and the fire is not quenched.
+Satan is about to take over, or so it seems, and get many sinners, not only Judas, to do his bidding.
+God forbid that Satan should enter any of us as he entered Judas so that Jesus says, **"It would have been better for that man if he had not been born."**
+But we must confess that Satan has had his way with us to do his evil bidding.
+At some time---maybe even this week---we did something that extends Satan's kingdom---Satan's power over us and others.
+For this we confess our sin and are ashamed.
+
+And for this we turn to Jesus, and for this Jesus comes to fight. It is against this kingdom, Satan's kingdom ruled by lies and the fear of death, that King Jesus has come to fight, riding on a donkey.
+He comes as one of us, riding on a donkey.
+Jesus could stand up at this point and say, "Satan, you're a liar."
+(Earlier, He did call Satan *the father of lies* [(Jn 8:44)](https://www.esv.org/John+8/).)
+Jesus could stand up and say, "Satan, you're a murderer."
+(Earlier, He did call Satan a murderer [(Jn 8:44)](https://www.esv.org/John+8/).)
+But for now, Jesus will let Satan show who he is, and Jesus will show Himself for who *He* is.
+Jesus lets Satan orchestrate His Crucifixion by false charges, but God's will is done.
+Satan will enter Judas and everything will start rolling toward Christ's Crucifixion, and God's will is done.
+Jesus will be betrayed for money.
+Jesus will be arrested as if He were a criminal.
+Jesus will be mocked and beaten---treated like a donkey.
+But not only will Jesus' enemies, under Satan's control, *threaten* to kill Him: they *will* kill Him.
+Satan will orchestrating the mocking and beating---the guards and the Pharisees and the Sadducees who hate Jesus will do Satan's bidding.
+Satan will orchestrate the trial and Crucifixion---Pontius Pilate and the Roman soldiers will do Satan's bidding.
+They will set a true murderer free, but will crucify Life Himself.
+
+Jesus has *enemies*---Satan has raised up a lot of enemies for Jesus.
+Jesus has come into Jerusalem to give Himself into the hands of His enemies *to save them from what He is about to suffer*.
+Behold our King Jesus, the friend of sinners.
+Jesus has come into Jerusalem to *to save us from what He is about to suffer*, for all of us have done Satan's bidding and deserve death and everalasting condemnation.
+
+> **I will set your prisoners free from the waterless pit.** [(Zec 9:11 ESV)](https://www.esv.org/Zechariah+9/)
+
+We are prisoners of Satan that Jesus has come to set free.
+A pit in Bible days was a cistern.
+You got your water from a cistern and if your cistern leaked, you had no water---nothing to drink and nothing to wash with.
+A cistern that holds not water [(Jer 2:13)](https://www.esv.org/Zechariah+9/) is a useless cistern.
+An idol is useless, and Satan has tricked us into having one.
+Jesus comes to set us free from whatever lie Satan has tricked us to believe and gives us Himself to take the consequences we deserve.
+He will take the consequences for us and die as a result of it.
+He will rise from the dead in three days and show us who He really is: the One who takes death for us sinners and gives us life instead.
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
