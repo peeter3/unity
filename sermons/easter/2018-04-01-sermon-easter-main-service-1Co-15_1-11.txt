@@ -1,0 +1,73 @@
+% Easter Main Service 
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## Checklist
+* Acolyte #1: process in with lit Christ candle
+* Acolyte #2: process in with Christ candle base
+
+## During the service
+
+* Joan Stefan is reader
+
+## Announcements
+
+* Easter lilies can be picked up after the service. Come to the front of the church and ladies from the Altar Guild will give you your plants at the foot of the chancel. If you wish to watch the Easter Egg Hunt first, the Altar Guild will set your plants to the side and you can retrieve them after the Easter Egg Hunt
+* Children participating in the Easter egg hunt should gather in the lower narthex, in the coat room to pick up their Easter Egg bag.
+
+## Old Testament [Is 25:6‑9 ESV]
+
+
+
+## Epistle [1Co 15:1‑11 ESV; sermon text]
+
+
+
+
+------------
+
+
+
+## Holy Gospel [Mk 16:1‑8 ESV]
+
+
+
+## Introit [Ex 15:2a, 6, 13, 17-18; antiphon: Ex 15:1b]
+
+> I will sing to the LORD, for he has triumphed | gloriously;\*\
+> the horse and his rider he has thrown in- | to the sea.\
+> The LORD is my strength | and my song,\*\
+> and he has become my sal- | vation;\
+> Your right hand, O LORD, glorious | in power,\*\
+> your right hand, O LORD, shatters the | enemy.\
+> You have led in your steadfast love the people whom you | have redeemed;\*\
+> you have guided them by your strength to your ho- | ly abode.\
+> You will bring them in and plant them on your own | mountain,\*\
+> the place, O LORD, which you have made for | your abode,\
+> the sanctuary, O Lord, which your hands have es- | tablished.\*\
+> The LORD will reign forever and | ever."\
+
+
+## Collect
+
+Almighty God the Father, through Your only-begotten Son, Jesus Christ, You have overcome death and opened the gate of everlasting life to us. Grant that we, who celebrate with joy the day of our Lord's resurrection, may be raised from the death of sin by Your life-giving Spirit; through Jesus Christ, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 199 _Jesus Christ is Risen Today, Alleluia!_
+* Sermon hymn: _LSB_ 465 _Now All the Vault of Heaven Resounds_
+* Closing hymn: _TLH_ 200 _I Know that My Redeemer Lives_
+
+## Sermon
+
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
