@@ -1,0 +1,88 @@
+% Easter Sunday
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+
+## Checklist
+
+* check the weather; bring umbrellas if necessary
+
+
+## During the service
+
+* Service at the columbarium at Lutheran Cemetery. Have the congregation face east.
+* Pastor Pirn preacher; Pastor Jablonsky liturgist
+
+## Announcements
+
+## Opening Hymn
+
+* Opening hymn: _LSB_ 461 _I Know That My Redeemer Lives_
+
+## Responsive Reading
+
+>  This is the day which the Lord hath made:\*\
+>  We will rejoice and be glad in it.\
+>  He is risen!\*\
+>  The Lord is risen indeed. Alleluia!\
+>  Oh, sing unto the Lord a new song:\*\
+>  For He hath done marvelous things.\
+>  Our Lord Jesus said: I am the Resurrection and the Life; he that believeth in Me, though he were dead, yet shall he live:\*\
+>  And he that liveth and believeth in Me shall never die.\
+
+
+## First Reading [1Co 5:6b‑8 ESV]
+
+[6b] Do you not know that a little leaven leavens the whole lump? [7] Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed. [8] Let us therefore celebrate the festival, not with the old leaven, the leaven of malice and evil, but with the unleavened bread of sincerity and truth.
+
+## Responsive Reading 2
+
+>  Worthy is the Lamb that was slain to receive power and riches and wisdom:\*\
+>  and strength and honor and glory and blessing.\
+>  Blessing and honor and glory and power be unto Him that sitteth upon the throne:\*\
+>  and unto the Lamb forever and ever.\
+>  Great and marvelous are Thy works, Lord God Almighty;\*\
+>  just and true are Thy ways, Thou King of saints.\
+>  Who shall not fear Thee, O Lord, and glorify Thy name?\*\
+>  For Thou only are holy.\
+>  Praise our God, all ye His servants:\*\
+>  and ye that fear Him, both small and great.\
+>  Alleluia! For the Lord God Omnipotent reigneth.\*\
+>  Alleluia, Alleluia! Amen.\
+
+## Holy Gospel [Jn 20:1‑18 ESV]
+
+[1] Now on the first day of the week Mary Magdalene came to the tomb early, while it was still dark, and saw that the stone had been taken away from the tomb. [2] So she ran and went to Simon Peter and the other disciple, the one whom Jesus loved, and said to them, “They have taken the Lord out of the tomb, and we do not know where they have laid him.” [3] So Peter went out with the other disciple, and they were going toward the tomb. [4] Both of them were running together, but the other disciple outran Peter and reached the tomb first. [5] And stooping to look in, he saw the linen cloths lying there, but he did not go in. [6] Then Simon Peter came, following him, and went into the tomb. He saw the linen cloths lying there, [7] and the face cloth, which had been on Jesus'[a] head, not lying with the linen cloths but folded up in a place by itself. [8] Then the other disciple, who had reached the tomb first, also went in, and he saw and believed; [9] for as yet they did not understand the Scripture, that he must rise from the dead. [10] Then the disciples went back to their homes.
+[11] But Mary stood weeping outside the tomb, and as she wept she stooped to look into the tomb. [12] And she saw two angels in white, sitting where the body of Jesus had lain, one at the head and one at the feet. [13] They said to her, “Woman, why are you weeping?” She said to them, “They have taken away my Lord, and I do not know where they have laid him.” [14] Having said this, she turned around and saw Jesus standing, but she did not know that it was Jesus. [15] Jesus said to her, “Woman, why are you weeping? Whom are you seeking?” Supposing him to be the gardener, she said to him, “Sir, if you have carried him away, tell me where you have laid him, and I will take him away.” [16] Jesus said to her, “Mary.” She turned and said to him in Aramaic,[b] “Rabboni!” (which means Teacher). [17] Jesus said to her, “Do not cling to me, for I have not yet ascended to the Father; but go to my brothers and say to them, ‘I am ascending to my Father and your Father, to my God and your God.’” [18] Mary Magdalene went and announced to the disciples, “I have seen the Lord”—and that he had said these things to her.
+
+------------
+
+[1]
+
+
+## Sermon
+
+Beloved in the Lord, *He is risen! He is risen indeed, Alleuia!*
+
+
+Beloved in the Lord, **"Peace be with you."**
+*You are in as much trouble as Jesus is still in the grave.* Face the future in peace;
+
+## Responsive Reading 3
+>  This is the day which the Lord hath made\*\
+>  Let us rejoice and be glad in it.\
+>  Almighty Father, we praise Thee for the glorious resurrection and exaltation of Thy Son, our Savior\*\
+>  Who was delivered unto death for our offenses, and raised again for our justification.\
+>  Therefore, we beseech Thee, grant us grace to keep the Passover of the New Covenant with solemn joy.\*\
+>  And kindle within us heavenly desires that we may ever thirst for the fountain of Life:\
+>  Lead us to be grateful for our Savior's victory over death and the grave.\*\
+>  That we grow strong in His might, continually subduing the evil within us;\
+>  and make us ever hopeful of our own resurrection, the final casting off of the sinful flesh, the beatific vision, and the marriage supper of the Lamb.\*\
+>  To whom with Thee and the Holy Ghost be honor, power, glory, and dominion, world without end. Amen.\
+
+## Closing Hymn
+
+* Closing hymn: _LSB_ 457 _Jesus Christ Is Risen Today_
+
+## Notes
+
+
