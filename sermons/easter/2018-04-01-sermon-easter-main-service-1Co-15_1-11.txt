@@ -1,4 +1,4 @@
-% Easter Main Service 
+% Easter main service 
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
 ## Checklist
@@ -16,20 +16,31 @@
 
 ## Old Testament [Is 25:6‑9 ESV]
 
-
+> [6] On this mountain the LORD of hosts will make for all peoples\
+> a feast of rich food, a feast of well-aged wine,\
+> of rich food full of marrow, of aged wine well refined.\
+> [7] And he will swallow up on this mountain\
+> the covering that is cast over all peoples,\
+> the veil that is spread over all nations.\
+> [8] 	He will swallow up death forever;\
+> and the Lord GOD will wipe away tears from all faces,\
+> and the reproach of his people he will take away from all the earth,\
+> for the LORD has spoken.\
+> [9] It will be said on that day,\
+> “Behold, this is our God; we have waited for him, that he might save us.\
+> This is the LORD; we have waited for him;\
+> let us be glad and rejoice in his salvation.”
 
 ## Epistle [1Co 15:1‑11 ESV; sermon text]
 
+[1] Now I would remind you, brothers, of the gospel I preached to you, which you received, in which you stand, [2] and by which you are being saved, if you hold fast to the word I preached to you—unless you believed in vain.
 
-
-
-------------
-
+[3] For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, [4] that he was buried, that he was raised on the third day in accordance with the Scriptures, [5] and that he appeared to Cephas, then to the twelve. [6] Then he appeared to more than five hundred brothers at one time, most of whom are still alive, though some have fallen asleep. [7] Then he appeared to James, then to all the apostles. [8] Last of all, as to one untimely born, he appeared also to me. [9] For I am the least of the apostles, unworthy to be called an apostle, because I persecuted the church of God. [10] But by the grace of God I am what I am, and his grace toward me was not in vain. On the contrary, I worked harder than any of them, though it was not I, but the grace of God that is with me. [11] Whether then it was I or they, so we preach and so you believed.
 
 
 ## Holy Gospel [Mk 16:1‑8 ESV]
 
-
+[1] When the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, so that they might go and anoint him. [2] And very early on the first day of the week, when the sun had risen, they went to the tomb. [3] And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?” [4] And looking up, they saw that the stone had been rolled back—it was very large. [5] And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed. [6] And he said to them, “Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him. [7] But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you.” [8] And they went out and fled from the tomb, for trembling and astonishment had seized them, and they said nothing to anyone, for they were afraid.
 
 ## Introit [Ex 15:2a, 6, 13, 17-18; antiphon: Ex 15:1b]
 
@@ -59,7 +70,72 @@ Almighty God the Father, through Your only-begotten Son, Jesus Christ, You have 
 
 ## Sermon
 
+Beloved in the Lord, *He is risen! He is risen indeed, Alleluia!*
+There are so many people in church today that it seems like news of Jesus' Resurrection went viral and everyone wants to be a part of it.
+Believe me, you want to be a part of it, and you are at the right place.
 
+But how can it be that 2,000 years ago, when there was no Internet, that news of Christ's Resurrection went viral?
+It did go viral.
+It is true: by archaeology, when you investigate what happened 2,000 years ago, there are thousands of artifacts, including manuscripts, that proclaim the Resurrection of Jesus of Nazareth from the dead in the Roman province of Judea under the rule of Pontius Pilate and *less artifacts*---far less---that anything else was going on at that time, like, for example, that Caesar Augustus was Emperor of the Roman Empire.
+Jesus was easily bigger news than Caesar Augustus or anyone else---*way bigger*.
+We have the testimony of our Epistle reading that over 500 people saw resurrected Jesus with their own eyes.
+What would *you* be talking about if you saw resurrected Jesus with your own eyes together with hundreds of others?
+And then, what did the apostles do after seeing resurrected Jesus with their own eyes and putting their hands in his wounds [(Jn 20:27)](https://www.esv.org/John+20:27/)?
+They did not stop proclaiming repentance and forgiveness of sin in Jesus' name, and making disciples of all nations by baptizing them in the name of the Father and of the Son and of the Holy Spirit.
+
+Of course, forty days after His Resurrection, Jesus ascended into heaven---again, seen by His disciples.
+And then ten days after that, the Holy Spirit was poured out on Christ's Church, as Jesus had promised [(Jn 14:16‑18)](https://www.esv.org/John+14:16/), with thousands of witnesses being baptized that day [(Ac 2:41)](https://www.esv.org/Acts+2:41/).
+It is not hard to see that news of Jesus spread quickly into the world.
+That is how it went viral, and it has not stopped for 2,000 years.
+The biggest news out there is that Jesus is alive, and He will come again in a cloud to judge the living and the dead.
+
+Jesus is alive---He who once was dead.
+Only two days ago, on Good Friday, Jesus died a horrible death at the hands of Satan, who entered Judas and orchestrated the torment and mockery and death of Him who claimed He was one with the Father [(Jn 10:30)](https://www.esv.org/John+10:30/)---who claimed He was God.
+It looked as if Satan had made a fool of Jesus; it sure looked like it after He who said He was one with the Father *died on a Cross* and was *laid in a tomb*.
+
+> **When it was evening, there came a rich man from Arimathea, named Joseph, who also was a disciple of Jesus. He went to Pilate and asked for the body of Jesus. Then Pilate ordered it to be given to him. And Joseph took the body and wrapped it in a clean linen shroud and laid it in his own new tomb, which he had cut in the rock. _And he rolled a great stone to the entrance of the tomb_ and went away. Mary Magdalene and the other Mary were there, sitting opposite the tomb.** (Mt 27:57‑61 ESV)
+
+The Jewish Council, the Sanhedrin, had conspired against Jesus and condemned Him to death.
+And the Pharisees hated Jesus, too.
+But who are the two who dare to stick their necks out and ask for Jesus' body and give Him a dignified burial?
+Nicodemus, a Pharisee, and Joseph of Arimathea, a member of the Sanhedrin.
+They were not fooled.
+They knew, at least, that Jesus was innocent.
+Being trained in God's Word they may have brought to mind what the prophet Isaiah had proclaimed about the one who was to be pierced for their transgressions:
+
+> **He had done no violence, and there was no deceit in his mouth.** [(Is 53:9 ESV)](https://www.esv.org/Isaiah+53:9/)
+
+But those who wanted Jesus dead made sure there would be no chance of Jesus' disciples taking Him out of the tomb and saying He had risen from the dead.
+
+> **The next day, ... the chief priests and the Pharisees gathered before Pilate and said, “Sir, we remember how that impostor said, while he was still alive, ‘After three days I will rise.’ Therefore order the tomb to be made secure until the third day, lest his disciples go and steal him away and tell the people, ‘He has risen from the dead,’ and the last fraud will be worse than the first.” Pilate said to them, “You have a guard of soldiers. _Go, make it as secure as you can._” So they went and made the tomb secure by sealing the stone and setting a guard.** [(Mt 27:62‑66 ESV)](https://www.esv.org/Matthew+27/)
+
+Beloved in the Lord, according not only to the testimony of the Holy Spirit, but also according to plain old artifacts, Jesus made a fool of the Romans who guarded the tomb, Jesus made a fool of the chief priests and Pharisees who hated Jesus, and Jesus made a fool of Satan who had incited Judas and the Pharisees and the chief priests to put Jesus to death.
+
+Jesus made a fool of Satan when He burst the tomb, for Satan rules by fear of death.
+
+> **Death is swallowed up in victory.**\
+> **O death, where is your victory?**\
+> **O death, where is your sting?** [(1Co 15:54‑55 ESV)](https://www.esv.org/1+Corinthians+15:54/)
+
+Whatever the fear of death once forced us to do, consider that Satan wanted us to fear death and grab life whenever we could.
+I can grab life from you when I put you down to make me look better.
+I can grab life from you when I strike you violently.
+I can grab life when I grab money.
+There are many ways I can grab life from someone or something other than Jesus;
+Satan wants me to try it all.
+But does that fix my fear of death?
+Does sinning give me life?
+No, it gives me more death coated with an illusion of life.
+No, it makes me fear death more when I realize I have sinned.
+If he could, Satan would make me a fool and drive me to despair like he did Judas.
+
+But now, what life is there to grab since Jesus is raised from the dead?
+His very own life---grab it!---He offers His life freely to each of us.
+Jesus, who died as a man, is God who broke the bands of death and hell---overthrew the power exerted by Satan over man---and declares to us, *The death I died was to cover your sin, and the life I live is give you the win.*
+Beloved in the Lord, if you ever rejoiced at your team giving you a win---and, yes, we even know what that feels like in Cleveland---not just the folks in Pittsburgh---if you have ever rejoiced at your team giving you a win, beloved in the Lord, *you are on Jesus' team as sure as He baptizes you*.
+Welcome to Team Jesus in the name of the Father and of the Son and of the Holy Spirit!
+Jesus took to the field where we had always suffered defeat and death---He took the the field for us and gave us the win by His Resurrection from the grave. Allelluia!
+*We win as surely as Jesus is raised from the dead. He is risen! He is risen indeed, Alleluia!*
 AMEN.
 
 ## Outline
