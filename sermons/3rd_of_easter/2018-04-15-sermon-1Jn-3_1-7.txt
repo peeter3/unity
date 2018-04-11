@@ -1,0 +1,57 @@
+% 3rd Sunday of Easter
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## First Reading [Ac 3:11‑21 ESV]
+
+
+## Epistle [1Jn 3:1‑7 ESV; sermon text]
+
+[1] See what kind of love the Father has given to us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him. [2] Beloved, we are God's children now, and what we will be has not yet appeared; but we know that when he appears we shall be like him, because we shall see him as he is. [3] And everyone who thus hopes in him purifies himself as he is pure.
+
+[4] Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. [5] You know that he appeared in order to take away sins, and in him there is no sin. [6] No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. [7] Little children, let no one deceive you. Whoever practices righteousness is righteous, as he is righteous.
+
+------------
+
+
+## Holy Gospel [Lk 24:36‑49 ESV]
+
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 999 _ZZZ_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
