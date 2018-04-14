@@ -7,10 +7,13 @@
 
 ## Announcements
 
-* Please pray for Shirley Prokop
+* Please pray for Shirley.
 
 ## First Reading [Ac 3:11‑21 ESV]
 
+[11] While he clung to Peter and John, all the people, utterly astounded, ran together to them in the portico called Solomon's. [12] And when Peter saw it he addressed the people: “Men of Israel, why do you wonder at this, or why do you stare at us, as though by our own power or piety we have made him walk? [13] The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified his servant Jesus, whom you delivered over and denied in the presence of Pilate, when he had decided to release him. [14] But you denied the Holy and Righteous One, and asked for a murderer to be granted to you, [15] and you killed the Author of life, whom God raised from the dead. To this we are witnesses. [16] And his name—by faith in his name—has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all.
+
+[17] "And now, brothers, I know that you acted in ignorance, as did also your rulers. [18] But what God foretold by the mouth of all the prophets, that his Christ would suffer, he thus fulfilled. [19] Repent therefore, and turn back, that your sins may be blotted out, [20] that times of refreshing may come from the presence of the Lord, and that he may send the Christ appointed for you, Jesus, [21] whom heaven must receive until the time for restoring all the things about which God spoke by the mouth of his holy prophets long ago."
 
 ## Epistle [1Jn 3:1‑7 ESV; sermon text]
 
@@ -20,9 +23,20 @@
 
 ------------
 
+[1] ἴδετε ποταπὴν ἀγάπην δέδωκεν ἡμῖν ὁ πατὴρ ἵνα τέκνα θεοῦ κληθῶμεν: καὶ ἐσμέν. διὰ τοῦτο ὁ κόσμος οὐ γινώσκει ἡμᾶς ὅτι οὐκ ἔγνω αὐτόν. 
+[2] Ἀγαπητοί, νῦν τέκνα θεοῦ ἐσμεν, καὶ οὔπω ἐφανερώθη τί ἐσόμεθα. οἴδαμεν ὅτι ἐὰν φανερωθῇ ὅμοιοι αὐτῷ ἐσόμεθα, ὅτι ὀψόμεθα αὐτὸν καθώς ἐστιν. 
+[3] καὶ πᾶς ὁ ἔχων τὴν ἐλπίδα ταύτην ἐπ' αὐτῷ ἁγνίζει ἑαυτὸν καθὼς ἐκεῖνος ἁγνός ἐστιν. 
+
+[4] Πᾶς ὁ ποιῶν τὴν ἁμαρτίαν καὶ τὴν ἀνομίαν ποιεῖ, καὶ ἡ ἁμαρτία ἐστὶν ἡ ἀνομία. 
+[5] καὶ οἴδατε ὅτι ἐκεῖνος ἐφανερώθη ἵνα τὰς ἁμαρτίας ἄρῃ, καὶ ἁμαρτία ἐν αὐτῷ οὐκ ἔστιν. 
+[6] πᾶς ὁ ἐν αὐτῷ μένων οὐχ ἁμαρτάνει: πᾶς ὁ ἁμαρτάνων οὐχ ἑώρακεν αὐτὸν οὐδὲ ἔγνωκεν αὐτόν. 
+[7] Τεκνία, μηδεὶς πλανάτω ὑμᾶς: ὁ ποιῶν τὴν δικαιοσύνην δίκαιός ἐστιν, καθὼς ἐκεῖνος δίκαιός ἐστιν
 
 ## Holy Gospel [Lk 24:36‑49 ESV]
 
+[36] As they were talking about these things, Jesus himself stood among them, and said to them, “Peace to you!” [37] But they were startled and frightened and thought they saw a spirit. [38] And he said to them, “Why are you troubled, and why do doubts arise in your hearts? [39] See my hands and my feet, that it is I myself. Touch me, and see. For a spirit does not have flesh and bones as you see that I have.” [40] And when he had said this, he showed them his hands and his feet. [41] And while they still disbelieved for joy and were marveling, he said to them, “Have you anything here to eat?” [42] They gave him a piece of broiled fish, [43] and he took it and ate before them.
+
+[44] Then he said to them, “These are my words that I spoke to you while I was still with you, that everything written about me in the Law of Moses and the Prophets and the Psalms must be fulfilled.” [45] Then he opened their minds to understand the Scriptures, [46] and said to them, “Thus it is written, that the Christ should suffer and on the third day rise from the dead, [47] and that repentance for the forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem. [48] You are witnesses of these things. [49] And behold, I am sending the promise of my Father upon you. But stay in the city until you are clothed with power from on high.”
 
 ## Introit [Ps 30:1-5; antiphon: Ps 16:11b]
 
@@ -31,7 +45,7 @@
 > I will extol you, O LORD, for you have | drawn me up\*\
 > and have not let my foes rejoice | over me.\
 > O LORD my God, I cried to | you for help,\*\
-> and you have | healed me.
+> and you have | healed me.\
 > O LORD, you have brought up my soul | from Sheol;\*\
 > you restored me to life from among those who go down | to the pit.\
 > Sing praises to the LORD, O | you his saints,\*\
@@ -64,3 +78,11 @@ AMEN.
     1. ZZZ
 
 ## Notes
+
+Ac 3:2: **a man lame from birth**.
+
+Ac 3:6: **But Peter said, “I have no silver and gold, but what I do have I give to you. In the name of Jesus Christ of Nazareth, rise up and walk!”**
+
+Ac 3:8: **walking and leaping and praising God**.
+
+Ac 3:14: **we are witnesses** (cf. Lk 24:36).
