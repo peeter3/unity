@@ -3,16 +3,22 @@
 
 ## During the service
 
-* ZZZ
-
 ## Announcements
 
+* Thank you for all the help last week.
+* Thank you for all the people who worked at the church this week.
 * Please pray for Shirley.
-* In your bulletins you will find information about two upcoming events: MetroHealth Senior Health Fair on Saturday, April 28, 10am-noon here at Unity in the classroom on the main floor, and CitySERVE on Saturday, May 5, 10am-noon.
+* In your bulletins you will find information about two upcoming events:
+    * MetroHealth Senior Health Fair on Saturday, April 28, 10am-noon here at Unity in the classroom on the main floor
+    * CitySERVE on Saturday, May 5, 10am-noon
 
 ## First Reading [Ac 3:11‑21 ESV]
 
-[11] While he clung to Peter and John, all the people, utterly astounded, ran together to them in the portico called Solomon's. [12] And when Peter saw it he addressed the people: “Men of Israel, why do you wonder at this, or why do you stare at us, as though by our own power or piety we have made him walk? [13] The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified his servant Jesus, whom you delivered over and denied in the presence of Pilate, when he had decided to release him. [14] But you denied the Holy and Righteous One, and asked for a murderer to be granted to you, [15] and you killed the Author of life, whom God raised from the dead. To this we are witnesses. [16] And his name—by faith in his name—has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all.
+[11] While he[^1] clung to Peter and John, all the people, utterly astounded, ran together to them in the portico called Solomon's. [12] And when Peter saw it he addressed the people: “Men of Israel, why do you wonder at this, or why do you stare at us, as though by our own power or piety we have made him walk? [13] The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified his servant Jesus, whom you delivered over and denied in the presence of Pilate, when he had decided to release him. [14] But you denied the Holy and Righteous One, and asked for a murderer to be granted to you,
+[15] and you killed the Author of life, whom God raised from the dead. To this we are witnesses.
+[16] And his name—by faith in his name—has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all.
+
+[^1]: Ac 3:2: **a man lame from birth**.
 
 [17] "And now, brothers, I know that you acted in ignorance, as did also your rulers. [18] But what God foretold by the mouth of all the prophets, that his Christ would suffer, he thus fulfilled. [19] Repent therefore, and turn back, that your sins may be blotted out, [20] that times of refreshing may come from the presence of the Lord, and that he may send the Christ appointed for you, Jesus, [21] whom heaven must receive until the time for restoring all the things about which God spoke by the mouth of his holy prophets long ago."
 
@@ -20,7 +26,8 @@
 
 [1] See what kind of love the Father has given to us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him. [2] Beloved, we are God's children now, and what we will be has not yet appeared; but we know that when he appears we shall be like him, because we shall see him as he is. [3] And everyone who thus hopes in him purifies himself as he is pure.
 
-[4] Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. [5] You know that he appeared in order to take away sins, and in him there is no sin. [6] No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. [7] Little children, let no one deceive you. Whoever practices righteousness is righteous, as he is righteous.
+[4] Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. [5] You know that he appeared in order to take away sins, and in him there is no sin.
+[6] No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. [7] Little children, let no one deceive you. Whoever practices righteousness is righteous, as he is righteous.
 
 ------------
 
@@ -35,9 +42,13 @@
 
 ## Holy Gospel [Lk 24:36‑49 ESV]
 
-[36] As they were talking about these things, Jesus himself stood among them, and said to them, “Peace to you!” [37] But they were startled and frightened and thought they saw a spirit. [38] And he said to them, “Why are you troubled, and why do doubts arise in your hearts? [39] See my hands and my feet, that it is I myself. Touch me, and see. For a spirit does not have flesh and bones as you see that I have.” [40] And when he had said this, he showed them his hands and his feet. [41] And while they still disbelieved for joy and were marveling, he said to them, “Have you anything here to eat?” [42] They gave him a piece of broiled fish, [43] and he took it and ate before them.
+[36] As they were talking about these things, Jesus himself stood among them, and said to them, “Peace to you!”
+[37] But they were startled and frightened and thought they saw a spirit. [38] And he said to them, “Why are you troubled, and why do doubts arise in your hearts? [39] See my hands and my feet, that it is I myself. Touch me, and see. For a spirit does not have flesh and bones as you see that I have.”
+[40] And when he had said this, he showed them his hands and his feet. [41] And while they still disbelieved for joy and were marveling, he said to them, “Have you anything here to eat?” [42] They gave him a piece of broiled fish, [43] and he took it and ate before them.
 
-[44] Then he said to them, “These are my words that I spoke to you while I was still with you, that everything written about me in the Law of Moses and the Prophets and the Psalms must be fulfilled.” [45] Then he opened their minds to understand the Scriptures, [46] and said to them, “Thus it is written, that the Christ should suffer and on the third day rise from the dead, [47] and that repentance for the forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem. [48] You are witnesses of these things. [49] And behold, I am sending the promise of my Father upon you. But stay in the city until you are clothed with power from on high.”
+[44] Then he said to them, “These are my words that I spoke to you while I was still with you, that everything written about me in the Law of Moses and the Prophets and the Psalms must be fulfilled.” [45] Then he opened their minds to understand the Scriptures, [46] and said to them, “Thus it is written, that the Christ should suffer and on the third day rise from the dead, [47] and that repentance for the forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem.
+[48] You are witnesses of these things.
+[49] And behold, I am sending the promise of my Father upon you. But stay in the city until you are clothed with power from on high.”
 
 ## Introit [Ps 30:1-5; antiphon: Ps 16:11b]
 
@@ -66,8 +77,87 @@ O God, through the humiliation of Your Son You raised up the fallen world. Grant
 
 ## Sermon
 
-Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+Beloved in the Lord, He is risen! *[Response]*
+*Joy* ... for having heard and believed that Jesus of Nazareth, who was crucified under Pontius Pilate has risen indeed from the dead---that is what he have---joy for having heard and believed.
+Joy ... for having *seen* and believed is what the disciples have in the Holy Gospel.
 
+> **[The disciples] were startled and frightened and thought they saw a spirit. And [Jesus] said to them, “Why are you troubled, and why do doubts arise in your hearts? _See my hands and my feet_, that it is I myself. _Touch me, and see._ For a spirit does not have flesh and bones as you see that I have.”** [(Lk 24:37‑39 ESV)](https://www.esv.org/Luke+24:37/)
+
+After seeing our resurrected Lord, is was time for the disciples to joy and marvel.
+**"See My hands and My feet"** means that Jesus' wounds which He suffered at His Crucifixion were visible to them. It is possible that a heavenly healing has erased those scars, but on the other hand, it may be that our Lord's wounds are *still visible today* as He lives and reigns at the right hand of the Father.
+I do not know for sure whether Jesus' wounds are still visible, but I think they are.
+It is written in Revelation, chapter 5,
+
+> **Between the throne and the four living creatures and among the elders I saw a Lamb standing, _as though it had been slain_, with seven horns and with seven eyes, which are the seven spirits of God sent out into all the earth.** [(Rv 5:6 ESV)](https://www.esv.org/Revelation+5:6/)
+
+Jesus is seen in heaven visibly *standing, as though He had been slain*, so it may be that *as though He had been slain* means His wounds are still visible.
+But back in the Bible days before Jesus ascended into heaven, there were *many* witnesses of those wounds---those who saw Him receive those wounds and then saw those same wounds on His resurrected body.
+
+The Bible depends on the testimony of these witnesses who have *seen* and believed, and blessed are you, of course, **who have _not seen_ and yet have believed** [(Jn 20:29 ESV)](https://www.esv.org/John+20:29/).
+In our first reading from Acts, chapter 3, St. Peter says, **"You killed the Author of life, whom God raised from the dead. To this we are witnesses"** [(Ac 3:15 ESV)](https://www.esv.org/Acts+3:15/).
+In the Holy Gospel, our Lord tells His disciples, **"You are witnesses of these things"** [(Lk 24:48 ESV)](https://www.esv.org/Luke+24:48/).
+There are hundreds of witnesses of Christ's Resurrection [(1Co 15:6)](https://www.esv.org/1+Corinthians+15:6/).
+We basically congregate every Sunday to hear the testimony of these *eye*witnesses that Jesus has risen from the dead and to recall *this promise* from our Lord:
+**"Blessed are those who have not seen and yet have believed"** (Jn 20:29 ESV).
+Blessed are the *ear*witnesses for believing the preaching that Jesus has been resurrected from the dead for the justification of sinners.
+Blessed are _you_ for believing that He did it for you.
+
+For Christ's Resurrection goes with us wherever we go.
+We start every day waking up with the reminder that waking up in the morning is a picture of how we will wake up from death with a resurrected body.
+
+> **So is it with the resurrection of the dead. What is sown is perishable; what is raised is imperishable. It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power. It is sown a natural body; it is raised a spiritual body.** [(1Co 15:42‑44 ESV)](https://www.esv.org/1+Corinthians+15:42/)
+
+And, of course, how can we forget that our Lord Himself calls natural death *sleep*.
+Do you remember what He said about Lazarus, who was dead in the grave?
+**"Our friend Lazarus has fallen asleep, but I go to awaken him"** [(Jn 11:11)](https://www.esv.org/John+11:11/).
+Natural death is something that we, too, will wake up from by the power of Christ's Word.
+
+But Christ's Resurrection is especially important as we *struggle daily with sin*.
+*Every time we sin is, in fact, a little death*, for **the sting of death is sin** [(1Co 15:56)](https://www.esv.org/1+Corinthians+15:56/).
+Our daily struggle with sin is none other than a struggle with death.
+Our flesh, St. Paul teaches us, fights against the Spirit [(Gal 5:17)](https://www.esv.org/Galatians+5:17/) and causes us to sin.
+It is especially on this point that today we remember to bring Christ's Resurrection with us wherever we go.
+We are helpless against sin without Christ's Resurrection.
+For 
+
+|  WHERE THERE IS FAITH IN CHRIST'S RESURRECTION, THERE IS ALSO A DAILY VICTORY OVER SIN.   |
+|:---------------------------------------------------------------------------:|
+
+Think of your getting up on the morning as a picture of your own resurrection from the dead, and *also of your own resurrection from sin*.
+All day long you will be dying and being raised up by the power of the Holy Spirit.
+And it is here that we listen to the Spirit's words through St. John in our Epistle reading:
+**"And everyone who thus hopes in Him purifies himself as He is pure."**
+Our hope in Jesus purifies us---purifies us from what?---purifies us from sin, of course.
+*Clean* and *unclean* are *holy* and *sinful*.
+If we are to be purified of anything in the Bible, *it is of sin*.
+
+Did you hear what Jesus promised in the Holy Gospel?
+
+> **"And behold, I am sending the promise of my Father upon you. But stay in the city until you are clothed with power from on high."** [(Lk 24:49 ESV)](https://www.esv.org/Luke+24:49/)
+
+Jesus has given us His Holy Spirit, who testifies of Christ's Cross and Resurrection and fights constantly against our flesh.
+The Holy Spirit's constant job in our daily lives is to spring into action when we are tempted and give us a new heart so that by faith in Jesus we do *not* sin, but are *resurrected from sin* at that moment of temptation by the power of the Holy Spirit.
+
+We continue with the Spirit's words in our Epistle reading:
+
+> **Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. You know that he appeared in order to take away sins, and in him there is no sin.**
+
+God forbid, but if we make a practice of sinning, where is our faith in Christ's Resurrection from the dead.
+Cannot He who will raise our mortal bodies to immortality not be able to help us overcome the temptation to sin?
+Beloved in the Lord, it is not even close---*of course He can!*
+
+|  WHERE THERE IS FAITH IN CHRIST'S RESURRECTION, THERE IS ALSO A DAILY VICTORY OVER SIN.   |
+|:---------------------------------------------------------------------------:|
+
+More than just an *idea* of a daily victory over sin, we are pointed to our Baptism by St. Paul:
+
+> *What does such baptizing with water signify?* It signifies that the Old Adam in us should, by daily contrition and repentance, be drowned and die with all sins and evil lusts and, again, a new man daily come forth and arise, who shall live before God in righteousness and purity forever.
+
+> *Where is this written?* St. Paul writes, Romans, chapter sixth: **We are buried with Christ by Baptism into death, that, like as He was raised up from the dead by the glory of the Father, even so _we also should walk in newness of life_** (Rm 6:4 KJV).
+
+How real is your daily victory over your sin? Just as real as you trust the power of your Baptism.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
 AMEN.
 
 ## Outline
@@ -80,7 +170,6 @@ AMEN.
 
 ## Notes
 
-Ac 3:2: **a man lame from birth**.
 
 Ac 3:6: **But Peter said, “I have no silver and gold, but what I do have I give to you. In the name of Jesus Christ of Nazareth, rise up and walk!”**
 
