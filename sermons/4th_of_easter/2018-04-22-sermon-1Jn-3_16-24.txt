@@ -1,0 +1,62 @@
+% 4th of Easter
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* Peeter: I used KJV for the introit.
+* Please plan on saying a special prayer on the occasion of our 104th anniversary
+
+## Announcements
+
+* Thursday, 4/19 was 104th Anniversary of Unity's first Worship Service, join us downstairs in the dining hall following worship today for a celebratory cake.
+
+## First Reading [Ac 4:1-12 ESV]
+
+## Epistle [1Jn 3:16‑24 ESV]
+
+## Holy Gospel [Jn 10:11‑18 ESV; sermon text]
+
+
+## Introit [Ps 23; antiphon: Jn 10:14, 15b]
+
+> I am the good | shepherd.\*\
+> I know my own and my own know me, and I lay down my life | for the sheep.\
+> The LORD is my | shepherd;\*\
+> I | shall not want.\
+> He maketh me to lie down in green | pastures.\*\
+> He leadeth me beside the still | waters.\
+> He re- | storeth my soul.\*\
+> He leadeth me in the paths of righteousness for his | name's sake.\
+> Yea, though I walk through the valley of the shadow of death, I will fear no evil: for Thou art | with me;\*\
+> Thy rod and Thy staff, they | comfort me.\
+> Thou preparest a table before me in the presence of mine | enemies;\*\
+> Thou anointest my head with oil; my cup | runneth over\
+> Surely goodness and mercy shall follow me all the days | of my life:\*\
+> and I shall dwell in the house of the Lord for- | ever.\
+
+## Collect
+
+Almighty God, merciful Father, since You have wakened from death the Shepherd of Your sheep, grant us Your Holy Spirit that when we hear the voice of our Shepherd we may know Him who calls us each by name and follow where He leads; through the same Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TSC_ 155 _The Strife Is O'er, the Battle Done_
+* Sermon hymn: _TSC_ 38 _The Lord's My Shepherd, I'll Not Want_ 
+* Communion hymn: _TSC_ 28 _Great Is Thy Faithfulness_
+* Closing hymn: _TSC_ 352 _Jesus, Thy Boundless Love to Me_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
