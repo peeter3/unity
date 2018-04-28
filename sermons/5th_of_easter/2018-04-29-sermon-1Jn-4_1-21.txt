@@ -1,0 +1,101 @@
+% 5th of Easter
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## First reading [Ac 8:26‑40 ESV]
+
+[26] Now an angel of the Lord said to Philip, “Rise and go toward the south to the road that goes down from Jerusalem to Gaza.” This is a desert place. [27] And he rose and went. And there was an Ethiopian, a eunuch, a court official of Candace, queen of the Ethiopians, who was in charge of all her treasure. He had come to Jerusalem to worship [28] and was returning, seated in his chariot, and he was reading the prophet Isaiah. [29] And the Spirit said to Philip, “Go over and join this chariot.” [30] So Philip ran to him and heard him reading Isaiah the prophet and asked, “Do you understand what you are reading?” [31] And he said, “How can I, unless someone guides me?” And he invited Philip to come up and sit with him. [32] Now the passage of the Scripture that he was reading was this:
+
+> “Like a sheep he was led to the slaughter\
+> and like a lamb before its shearer is silent,\
+> so he opens not his mouth.\
+> In his humiliation justice was denied him.\
+> Who can describe his generation?\
+> For his life is taken away from the earth.”
+
+[34] And the eunuch said to Philip, “About whom, I ask you, does the prophet say this, about himself or about someone else?” [35] Then Philip opened his mouth, and beginning with this Scripture he told him the good news about Jesus. [36] And as they were going along the road they came to some water, and the eunuch said, “See, here is water! What prevents me from being baptized?” [38] And he commanded the chariot to stop, and they both went down into the water, Philip and the eunuch, and he baptized him. [39] And when they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch saw him no more, and went on his way rejoicing. [40] But Philip found himself at Azotus, and as he passed through he preached the gospel to all the towns until he came to Caesarea.
+
+
+## Epistle [1Jn 4:1‑21 ESV; sermon text]
+
+[1] Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world. [2] By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God, [3] and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you heard was coming and now is in the world already. [4] Little children, you are from God and have overcome them, for he who is in you is greater than he who is in the world. [5] They are from the world; therefore they speak from the world, and the world listens to them. [6] We are from God. Whoever knows God listens to us; whoever is not from God does not listen to us. By this we know the Spirit of truth and the spirit of error.
+
+[7] Beloved, let us love one another, for love is from God, and whoever loves has been born of God and knows God. [8] Anyone who does not love does not know God, because God is love. [9] In this the love of God was made manifest among us, that God sent his only Son into the world, so that we might live through him. [10] In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins. [11] Beloved, if God so loved us, we also ought to love one another. [12] No one has ever seen God; if we love one another, God abides in us and his love is perfected in us.
+
+[13] By this we know that we abide in him and he in us, because he has given us of his Spirit. [14] And we have seen and testify that the Father has sent his Son to be the Savior of the world. [15] Whoever confesses that Jesus is the Son of God, God abides in him, and he in God. [16] So we have come to know and to believe the love that God has for us. God is love, and whoever abides in love abides in God, and God abides in him. [17] By this is love perfected with us, so that we may have confidence for the day of judgment, because as he is so also are we in this world. [18] There is no fear in love, but perfect love casts out fear. For fear has to do with punishment, and whoever fears has not been perfected in love. [19] We love because he first loved us. [20] If anyone says, “I love God,” and hates his brother, he is a liar; for he who does not love his brother whom he has seen cannot love God whom he has not seen. [21] And this commandment we have from him: whoever loves God must also love his brother.
+
+------------
+
+[1] Ἀγαπητοί, μὴ παντὶ πνεύματι πιστεύετε, ἀλλὰ δοκιμάζετε τὰ πνεύματα εἰ ἐκ τοῦ θεοῦ ἐστιν, ὅτι πολλοὶ ψευδοπροφῆται ἐξεληλύθασιν εἰς τὸν κόσμον. 
+[2] ἐν τούτῳ γινώσκετε τὸ πνεῦμα τοῦ θεοῦ: πᾶν πνεῦμα ὃ ὁμολογεῖ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα ἐκ τοῦ θεοῦ ἐστιν, 
+[3] καὶ πᾶν πνεῦμα ὃ μὴ ὁμολογεῖ τὸν Ἰησοῦν ἐκ τοῦ θεοῦ οὐκ ἔστιν: καὶ τοῦτό ἐστιν τὸ τοῦ ἀντιχρίστου, ὃ ἀκηκόατε ὅτι ἔρχεται, καὶ νῦν ἐν τῷ κόσμῳ ἐστὶν ἤδη. 
+[4] ὑμεῖς ἐκ τοῦ θεοῦ ἐστε, τεκνία, καὶ νενικήκατε αὐτούς, ὅτι μείζων ἐστὶν ὁ ἐν ὑμῖν ἢ ὁ ἐν τῷ κόσμῳ. 
+[5] αὐτοὶ ἐκ τοῦ κόσμου εἰσίν: διὰ τοῦτο ἐκ τοῦ κόσμου λαλοῦσιν καὶ ὁ κόσμος αὐτῶν ἀκούει. 
+[6] ἡμεῖς ἐκ τοῦ θεοῦ ἐσμεν: ὁ γινώσκων τὸν θεὸν ἀκούει ἡμῶν, ὃς οὐκ ἔστιν ἐκ τοῦ θεοῦ οὐκ ἀκούει ἡμῶν. ἐκ τούτου γινώσκομεν τὸ πνεῦμα τῆς ἀληθείας καὶ τὸ πνεῦμα τῆς πλάνης. 
+
+[7] Ἀγαπητοί, ἀγαπῶμεν ἀλλήλους, ὅτι ἡ ἀγάπη ἐκ τοῦ θεοῦ ἐστιν, καὶ πᾶς ὁ ἀγαπῶν ἐκ τοῦ θεοῦ γεγέννηται καὶ γινώσκει τὸν θεόν. 
+[8] ὁ μὴ ἀγαπῶν οὐκ ἔγνω τὸν θεόν, ὅτι ὁ θεὸς ἀγάπη ἐστίν. 
+[9] ἐν τούτῳ ἐφανερώθη ἡ ἀγάπη τοῦ θεοῦ ἐν ἡμῖν, ὅτι τὸν υἱὸν αὐτοῦ τὸν μονογενῆ ἀπέσταλκεν ὁ θεὸς εἰς τὸν κόσμον ἵνα ζήσωμεν δι' αὐτοῦ. 
+[10] ἐν τούτῳ ἐστὶν ἡ ἀγάπη, οὐχ ὅτι ἡμεῖς ἠγαπήκαμεν τὸν θεόν, ἀλλ' ὅτι αὐτὸς ἠγάπησεν ἡμᾶς καὶ ἀπέστειλεν τὸν υἱὸν αὐτοῦ ἱλασμὸν περὶ τῶν ἁμαρτιῶν ἡμῶν. 
+[11] Ἀγαπητοί, εἰ οὕτως ὁ θεὸς ἠγάπησεν ἡμᾶς, καὶ ἡμεῖς ὀφείλομεν ἀλλήλους ἀγαπᾶν. 
+[12] θεὸν οὐδεὶς πώποτε τεθέαται: ἐὰν ἀγαπῶμεν ἀλλήλους, ὁ θεὸς ἐν ἡμῖν μένει καὶ ἡ ἀγάπη αὐτοῦ ἐν ἡμῖν τετελειωμένη ἐστιν. 
+
+[13] Ἐν τούτῳ γινώσκομεν ὅτι ἐν αὐτῷ μένομεν καὶ αὐτὸς ἐν ἡμῖν, ὅτι ἐκ τοῦ πνεύματος αὐτοῦ δέδωκεν ἡμῖν. 
+[14] καὶ ἡμεῖς τεθεάμεθα καὶ μαρτυροῦμεν ὅτι ὁ πατὴρ ἀπέσταλκεν τὸν υἱὸν σωτῆρα τοῦ κόσμου. 
+[15] ὃς ἐὰν ὁμολογήσῃ ὅτι Ἰησοῦς ἐστιν ὁ υἱὸς τοῦ θεοῦ, ὁ θεὸς ἐν αὐτῷ μένει καὶ αὐτὸς ἐν τῷ θεῷ. 
+[16] καὶ ἡμεῖς ἐγνώκαμεν καὶ πεπιστεύκαμεν τὴν ἀγάπην ἣν ἔχει ὁ θεὸς ἐν ἡμῖν. Ὁ θεὸς ἀγάπη ἐστίν, καὶ ὁ μένων ἐν τῇ ἀγάπῃ ἐν τῷ θεῷ μένει καὶ ὁ θεὸς ἐν αὐτῷ μένει. 
+[17] ἐν τούτῳ τετελείωται ἡ ἀγάπη μεθ' ἡμῶν, ἵνα παρρησίαν ἔχωμεν ἐν τῇ ἡμέρᾳ τῆς κρίσεως, ὅτι καθὼς ἐκεῖνός ἐστιν καὶ ἡμεῖς ἐσμεν ἐν τῷ κόσμῳ τούτῳ. 
+[18] φόβος οὐκ ἔστιν ἐν τῇ ἀγάπῃ, ἀλλ' ἡ τελεία ἀγάπη ἔξω βάλλει τὸν φόβον, ὅτι ὁ φόβος κόλασιν ἔχει, ὁ δὲ φοβούμενος οὐ τετελείωται ἐν τῇ ἀγάπῃ. 
+[19] ἡμεῖς ἀγαπῶμεν, ὅτι αὐτὸς πρῶτος ἠγάπησεν ἡμᾶς. 
+[20] ἐάν τις εἴπῃ ὅτι Ἀγαπῶ τὸν θεόν, καὶ τὸν ἀδελφὸν αὐτοῦ μισῇ, ψεύστης ἐστίν: ὁ γὰρ μὴ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ ὃν ἑώρακεν, τὸν θεὸν ὃν οὐχ ἑώρακεν οὐ δύναται ἀγαπᾶν. 
+[21] καὶ ταύτην τὴν ἐντολὴν ἔχομεν ἀπ' αὐτοῦ, ἵνα ὁ ἀγαπῶν τὸν θεὸν ἀγαπᾷ καὶ τὸν ἀδελφὸν αὐτοῦ.
+
+
+## Holy Gospel [Jn 15:1‑8 ESV]
+
+[1] "I am the true vine, and my Father is the vinedresser. 
+[2] Every branch in me that does not bear fruit he takes away, and every branch that does bear fruit he prunes, that it may bear more fruit. 
+[3] Already you are clean because of the word that I have spoken to you. 
+[4] Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me. 
+[5] I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing. 
+[6] If anyone does not abide in me he is thrown away like a branch and withers; and the branches are gathered, thrown into the fire, and burned. 
+[7] If you abide in me, and my words abide in you, ask whatever you wish, and it will be done for you. 
+[8] By this my Father is glorified, that you bear much fruit and so prove to be my disciples."
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 403 _Savior, Thy Dying Love_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
