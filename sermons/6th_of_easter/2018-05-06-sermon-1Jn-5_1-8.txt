@@ -1,0 +1,61 @@
+% 6th of Easter
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* Hymn Sing Sunday
+* Order of Matins
+
+## Announcements
+
+* Shirley Prokop went to sleep on Wednesday, May 2.
+* Thank you to all who helped with CitySERVE.
+
+## First Reading [Ac 10:34-48 ESV]
+
+## Epistle Reading [1Jn 5:1-8]
+
+
+
+## Holy Gospel [Jn 15:9‑17 ESV]
+
+
+## Introit [Ps 66:1-2, 8-9, 20; antiphon: Ps. 66:16]
+
+> Come and hear, all you who | fear God,\*\
+> and I will tell what he has done | for my soul.\
+> Shout for joy to God, | all the earth;\*\
+> sing the glory of his name; give to him | glorious praise!\
+> Bless our God, O | peoples;\*\
+> let the sound of his | praise be heard,\
+> who has kept our soul among the | living\*\
+> and has not let our | feet slip.\
+> Blessed | be God,\*\
+> because he has not rejected my prayer or removed his steadfast | love from me!\
+
+## Collect
+
+O God, the giver of all that is good, by Your holy inspiration grant that we may think those things that are right and by Your merciful guiding accomplish them; through the same Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 202 _Welcome, Happy Morning!_
+* Sermon hymn: _TLH_ 424 _My God, My Father, Make Me Strong_ 
+* Closing hymn: _TLH_ 211 _Lo, Judah's Lion Wins the Strife_ _sts. 1-4, 7_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
