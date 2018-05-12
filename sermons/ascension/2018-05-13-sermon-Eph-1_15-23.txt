@@ -1,0 +1,87 @@
+% Ascension Sunday
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* Prayer for garden out front
+
+## Announcements
+
+* Be sure to take a look outside before going down for coffee. Many hours have gone into removing unwanted growth and preparing the soil for a sustainable garden.
+
+## First reading [Ac 1:1-11 ESV]
+
+[1:1] In the first book, O Theophilus, I have dealt with all that Jesus began to do and teach, [2] until the day when he was taken up, after he had given commands through the Holy Spirit to the apostles whom he had chosen.
+[3] He presented himself alive to them after his suffering by many proofs, appearing to them during forty days and speaking about the kingdom of God.
+[4] And while staying with them he ordered them not to depart from Jerusalem, but to wait for the promise of the Father, which, he said, “you heard from me;
+[5] for John baptized with water, but you will be baptized with the Holy Spirit not many days from now.”
+[6] So when they had come together, they asked him, “Lord, will you at this time restore the kingdom to Israel?”
+[7] He said to them, “It is not for you to know times or seasons that the Father has fixed by his own authority. [8] But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses
+in Jerusalem and in all Judea and Samaria, and to the end of the earth.” [9] And when he had said these things, as they were looking on, he was lifted up, and a cloud took him out of their sight.
+[10] And while they were gazing into heaven as he went, behold, two men stood by them in white robes, [11] and said, “Men of Galilee, why do you stand looking into heaven? This Jesus, who was taken up from you into heaven,
+will come in the same way as you saw him go into heaven.”
+
+
+## Epistle [Eph. 1:15‑23 ESV; sermon text]
+
+Ephesians 1:15-23
+[15] For this reason, because I have heard of your faith in the Lord Jesus and your love toward all the saints, [16] I do not cease to give thanks for you, remembering you in my prayers,
+[17] that the God of our Lord Jesus Christ, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of him, [18] having the eyes of your hearts enlightened, that you may know what is the hope to which he has called you,
+what are the riches of his glorious inheritance in the saints, [19] and what is the immeasurable greatness of his power toward us who believe, according to the working of his great might [20] that he worked in Christ when he raised him from the dead and
+seated him at his right hand in the heavenly places, [21] far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come. [22] And he put all things under his feet and gave him
+as head over all things to the church, [23] which is his body, the fullness of him who fills all in all.
+------------
+
+
+
+## Holy Gospel [Lk 24:44-53 ESV]
+
+[44] Then he said to them, “These are my words that I spoke to you while I was still with you, that everything written about me in the Law of Moses and the Prophets and the Psalms must be fulfilled.”
+[45] Then he opened their minds to understand the Scriptures, [46] and said to them, “Thus it is written, that the Christ should suffer and on the third day rise from the dead, [47] and that repentance and
+forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem. [48] You are witnesses of these things. [49] And behold, I am sending the promise of my Father upon you. But stay in the
+city until you are clothed with power from on high.”
+[50] Then he led them out as far as Bethany, and lifting up his hands he blessed them. [51] While he blessed them, he parted from them and was carried up into heaven. [52] And they worshiped him and returned to Jerusalem with great joy,
+[53] and were continually in the temple blessing God. 
+
+## Introit [Ps 110:1, 4-5; antiphon: Ps 47:5]
+
+> God has gone up | with a shout,\*\
+> the LORD with the sound of a | trumpet.\
+> The LORD says to my Lord: "Sit at my | right hand,\*\
+> until I make your enemies your | footstool."\
+> The LORD has sworn and will not | change his mind,\*\
+> "You are a priest forever after the order of Mel- | chizedek."\
+> The Lord is at your | right hand;\*\
+> he will shatter kings on the day | of his wrath.\
+
+
+
+## Collect
+
+Almighty God,as Your only-begotten Son, our Lord Jesus Christ, ascended into the heavens,
+so may we also ascend in heart and mind and continually dwell there with Him, who lives and reigns with You and the Holy Spirit, one God, now and forever. 
+
+## Hymns
+
+* Opening hymn: _TLH_ 216 _On Christ's Ascension I Now Build_
+* Sermon hymn: _TLH_ 465 _Christ Is Our Corner-Stone_ 
+* Communion hymn: _TLH_ 207 _Like the Golden Sun Ascending_
+* Closing hymn: _TLH_ 200 _I Know that My Redeemer Lives_
+
+## Sermon
+
+
+AMEN.
+
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+
