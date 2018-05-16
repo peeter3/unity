@@ -1,0 +1,111 @@
+% Pentecost Sunday
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* 
+* 
+
+## Announcements
+
+* 
+
+## First Reading [Ezekiel 37:1-14]
+
+[37:1] The hand of the Lord was upon me, and he brought me out in the Spirit of the Lord and set me down in the middle of the valley; it was full of bones. [2] And he led me around among them, and behold, there were very many on the surface of the valley, and behold, they were very dry.
+[3] And he said to me, “Son of man, can these bones live?” And I answered, “O Lord God, you know.” [4] Then he said to me, “Prophesy over these bones, and say to them, O dry bones, hear the word of the Lord.
+[5] Thus says the Lord God to these bones: Behold, I will cause breath to enter you, and you shall live. [6] And I will lay sinews upon you, and will cause flesh to come upon you, and cover you with skin,
+and put breath in you, and you shall live, and you shall know that I am the Lord.”
+[7] So I prophesied as I was commanded. And as I prophesied, there was a sound, and behold, a rattling, and the bones came
+together, bone to its bone. [8] And I looked, and behold, there were sinews on them, and flesh had come upon them, and skin 
+had covered them. But there was no breath in them. [9] Then he said to me, “Prophesy to the breath; prophesy, son of man, and
+say to the breath, Thus says the Lord God: Come from the four winds, O breath, and breathe on these slain, that they may live.”
+[10] So I prophesied as he commanded me, and the breath came into them, and they lived and stood on their feet, an exceedingly
+great army.
+[11] Then he said to me, “Son of man, these bones are the whole house of Israel. Behold, they say, ‘Our bones are dried up,
+and our hope is lost; we are indeed cut off.’ [12] Therefore prophesy, and say to them, Thus says the Lord God: Behold, I will 
+open your graves and raise you from your graves, O my people. And I will bring you into the land of Israel. [13] And you shall 
+know that I am the Lord, when I open your graves, and raise you from your graves, O my people. [14] And I will put my Spirit within you, and you shall live, and I will place you in your own land. Then you shall know that I am the Lord; I have spoken, and I will do it, declares the Lord.”
+
+## Epistle Reading [Acts 2:1-21]
+
+[2:1] When the day of Pentecost arrived, they were all together in one place. [2] And suddenly there came from heaven a sound like a mighty rushing wind, and it filled the entire house where they were sitting. 
+[3] And divided tongues as of fire appeared to them and rested on each one of them. [4] And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit gave them utterance.
+[5] Now there were dwelling in Jerusalem Jews, devout men from every nation under heaven. [6] And at this sound the multitude came together, and they were bewildered, because each one was hearing them speak in
+his own language. [7] And they were amazed and astonished, saying, “Are not all these who are speaking Galileans? [8] And how is it that we hear, each of us in his own native language? [9] Parthians and Medes and Elamites
+and residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia, [10] Phrygia and Pamphylia, Egypt and the parts of Libya belonging to Cyrene, and visitors from Rome, [11] both Jews and proselytes, Cretans and Arabians—we hear
+them telling in our own tongues the mighty works of God.” [12] And all were amazed and perplexed, saying to one another, “What does this mean?” [13] But others mocking said, “They are filled with new wine.”
+[14] But Peter, standing with the eleven, lifted up his voice and addressed them: “Men of Judea and all who dwell in Jerusalem, let this be known to you, and give ear to my words. [15] For these people are not drunk,
+as you suppose, since it is only the third hour of the day. [16] But this is what was uttered through the prophet Joel:
+[17] “‘And in the last days it shall be, God declares,
+that I will pour out my Spirit on all flesh,
+and your sons and your daughters shall prophesy,
+    and your young men shall see visions,
+    and your old men shall dream dreams;
+[18] even on my male servants and female servants
+    in those days I will pour out my Spirit, and they shall prophesy.
+[19] And I will show wonders in the heavens above
+    and signs on the earth below,
+    blood, and fire, and vapor of smoke;
+[20] the sun shall be turned to darkness
+    and the moon to blood,
+    before the day of the Lord comes, the great and magnificent day.
+[21] And it shall come to pass that everyone who calls upon the name of the Lord shall be saved.’ 
+
+## Holy Gospel [Jn 15:26-27, 16:4b-15 ESV]
+
+[26] “But when the Helper comes, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will bear witness about me. 
+[27] And you also will bear witness, because you have been with me from the beginning.
+[16:4b] “I did not say these things to you from the beginning, because I was with you. [5] But now I am going to him who sent me, 
+and none of you asks me, ‘Where are you going?’ [6] But because I have said these things to you, sorrow has filled your heart. [7] Nevertheless,
+I tell you the truth: it is to your advantage that I go away, for if I do not go away, the Helper will not come to you. But if I go, I will send him to you. 
+[8] And when he comes, he will convict the world concerning sin and righteousness and judgment: [9] concerning sin, because they do not believe in me; [10] 
+concerning righteousness, because I go to the Father, and you will see me no longer; [11] concerning judgment, because the ruler of this world is judged.
+[12] “I still have many things to say to you, but you cannot bear them now. [13] When the Spirit of truth comes, he will guide you into all the truth, for he will
+not speak on his own authority, but whatever he hears he will speak, and he will declare to you the things that are to come. [14] He will glorify me, for he will take
+what is mine and declare it to you. [15] All that the Father has is mine; therefore I said that he will take what is mine and declare it to you.
+
+## Introit [Ps 104:24, 27-28,30; antiphon: Liturgical Text]
+
+> Come, Holy Spirit, fill the hearts of the | faithful,\*\
+> and kindle in them the fire of your love. Alle- | luia.\
+> O LORD, how manifold are your works! In wisdom have you | made them all;\*\
+> the earth is full of your | creatures.\
+> These all | look to you,\*\
+> to give them their food in due | season.\
+> When you give it to them, they gath- | er it up;\*\
+> when you open your hand, they are filled with | good things.\
+> When you send forth your Spirit, they are cre- | ated,\*\
+> and you renew the face | of the ground.\
+
+## Collect
+
+O God, on this day You once taught the hearts of Your faithful people by sending them the light of Your Holy Spirit.
+Grant us in our day by the same Spirit to have a right understanding in all things and evermore to rejoice in His
+holy consolation; through the same Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit,
+one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 233 _Come, Holy Ghost, Creator Blest_
+* Sermon hymn: _TLH_ 229 _Holy Spirit, Hear Us_ 
+* Closing hymn: _TLH_ 234 _Holy Ghost, with Light Divine_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
