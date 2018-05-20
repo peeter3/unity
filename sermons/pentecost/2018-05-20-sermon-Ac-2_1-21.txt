@@ -1,9 +1,8 @@
-% Pentecost Sunday
+% Pentecost
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
 ## During the service
 
-* 
 * 
 
 ## Announcements
