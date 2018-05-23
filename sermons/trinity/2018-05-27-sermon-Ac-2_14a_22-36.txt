@@ -1,0 +1,136 @@
+% Trinity Sunday
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* Athanasian Creed
+
+## Announcements
+
+* Pastor Zinkowich, former Unity pastor, will preach next Sunday and Steve Hudak from St. Mark will play organ
+
+## First reading [Is 6:1-8 ESV]
+
+[1] In the year that King Uzziah died I saw the Lord sitting upon a throne, high and lifted up; and the train of his robe filled the temple.
+[2] Above him stood the seraphim. Each had six wings: with two he covered his face, and with two he covered his feet, and with two he flew. 
+[3] And one called to another and said:
+
+“Holy, holy, holy is the Lord of hosts;
+the whole earth is full of his glory!”
+
+[4] And the foundations of the thresholds shook at the voice of him who called, and the house was filled with smoke. [5] 
+And I said: “Woe is me! For I am lost; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; 
+for my eyes have seen the King, the Lord of hosts!”
+
+[6] Then one of the seraphim flew to me, having in his hand a burning coal that he had taken with tongs from the altar. 
+[7] And he touched my mouth and said: “Behold, this has touched your lips; your guilt is taken away, and your sin atoned for.”
+
+[8] And I heard the voice of the Lord saying, “Whom shall I send, and who will go for us?” Then I said, “Here I am! Send me.” 
+
+
+## Epistle [Ac. 2:14a, 22-36 ESV; sermon text]
+
+[14a] But Peter, standing with the eleven, lifted up his voice and addressed them: [22] “Men of Israel, hear these words: 
+Jesus of Nazareth, a man attested to you by God with mighty works and wonders and signs that God did through him in your midst, 
+as you yourselves know— [23] this Jesus, delivered up according to the definite plan and foreknowledge of God, you crucified and
+killed by the hands of lawless men. [24] God raised him up, loosing the pangs of death, because it was not possible for him to 
+be held by it. [25] For David says concerning him,
+
+“‘I saw the Lord always before me,
+    for he is at my right hand that I may not be shaken;
+[26] therefore my heart was glad, and my tongue rejoiced;
+    my flesh also will dwell in hope.
+[27] For you will not abandon my soul to Hades,
+    or let your Holy One see corruption.
+[28] You have made known to me the paths of life;
+    you will make me full of gladness with your presence.’
+
+[29] “Brothers, I may say to you with confidence about the patriarch David that he both died and was buried, and his tomb is 
+with us to this day. [30] Being therefore a prophet, and knowing that God had sworn with an oath to him that he would set one of 
+his descendants on his throne, [31] he foresaw and spoke about the resurrection of the Christ, that he was not abandoned to Hades, 
+nor did his flesh see corruption. [32] This Jesus God raised up, and of that we all are witnesses. [33] Being therefore exalted 
+at the right hand of God, and having received from the Father the promise of the Holy Spirit, he has poured out this that you 
+yourselves are seeing and hearing. [34] For David did not ascend into the heavens, but he himself says,
+
+“‘The Lord said to my Lord,
+“Sit at my right hand,
+[35] until I make your enemies your footstool.”’
+
+[36] Let all the house of Israel therefore know for certain that God has made him both Lord and Christ, this Jesus whom you 
+crucified.”
+------------
+
+
+## Holy Gospel [Jn 3:1-17 ESV]
+
+[1]Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews. [2] This man came to Jesus by night and said to 
+him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do unless God is with him.” 
+[3] Jesus answered him, “Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God.” [4] Nicodemus 
+said to him, “How can a man be born when he is old? Can he enter a second time into his mother's womb and be born?” [5] Jesus 
+answered, “Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God. [6] That 
+which is born of the flesh is flesh, and that which is born of the Spirit is spirit. [7] Do not marvel that I said to you, 
+‘You must be born again.’ [8] The wind blows where it wishes, and you hear its sound, but you do not know where it comes from 
+or where it goes. So it is with everyone who is born of the Spirit.”
+
+[9] Nicodemus said to him, “How can these things be?” [10] Jesus answered him, “Are you the teacher of Israel and yet you do not 
+understand these things? [11] Truly, truly, I say to you, we speak of what we know, and bear witness to what we have seen, 
+but you[f] do not receive our testimony. [12] If I have told you earthly things and you do not believe, how can you believe if 
+I tell you heavenly things? [13] No one has ascended into heaven except he who descended from heaven, the Son of Man. [14] And 
+as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, [15] that whoever believes in him may 
+have eternal life.
+
+[16] “For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal 
+life. [17] For God did not send his Son into the world to condemn the world, but in order that the world might be saved through 
+him. 
+
+## Introit [Ps 16:8-11; antiphon: Liturgical Text]
+
+> Blessed be the Holy Trinity and the undivided | Unity.\*\
+> Let us give glory to him because he has shown his mer- | cy to us.\
+> I have set the Lord always be- | fore me;\*\
+> because he is at my right hand, I shall not be | shaken.\
+> Therefore my heart is glad, and my whole being re- | joices;\*\
+> my flesh also | dwells secure.\
+> For you will not abandon my soul | to Sheol,\*\
+> or let your holy one see cor- | ruption.\
+> You make known to me the | path of life;\*\
+> in your presence there is fullness of joy; at your right hand are pleasures for- | evermore.\
+
+
+
+## Collect
+
+Almighty and everlasting God, You have given us grace to acknowledge the glory of the eternal Trinity
+by the confession of a true faith and to worship the Unity in the power of the Divine Majesty. Keep us steadfast
+in this faith and defend us from all adversities; for You, O Father, Son, and Holy Spirit, live and reign, one God,
+now and forever. 
+
+## Hymns
+
+* Opening hymn: _TLH_ 239 _Come, Thou Almighty King_
+* Sermon hymn: _TLH_ 246 _Holy, Holy, Holy, Lord God Almighty_ 
+* Communion hymn: _TLH_ 315 _I Come, O Savior, to Thy Table_ _st.1-5_
+* Closing hymn: _TLH_ 237 _All Glory Be to God on High_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesu
+s our Lord. 
+
+
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+
+## Outline
+
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
