@@ -1,0 +1,73 @@
+% 3rd after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Gn 3:8‑15 ESV]
+
+[8] And they heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden. [9] But the LORD God called to the man and said to him, “Where are you?” [10] And he said, “I heard the sound of you in the garden, and I was afraid, because I was naked, and I hid myself.” [11] He said, “Who told you that you were naked? Have you eaten of the tree of which I commanded you not to eat?” [12] The man said, “The woman whom you gave to be with me, she gave me fruit of the tree, and I ate.” [13] Then the LORD God said to the woman, “What is this that you have done?” The woman said, “The serpent deceived me, and I ate.”
+
+[14] The LORD God said to the serpent,
+
+> “Because you have done this,\
+> cursed are you above all livestock\
+> and above all beasts of the field;\
+> on your belly you shall go,\
+> and dust you shall eat\
+> all the days of your life.\
+> [15] I will put enmity between you and the woman,\
+> and between your offspring and her offspring;\
+> he shall bruise your head,\
+> and you shall bruise his heel.”
+
+## Epistle [2Co 4:13‑5:1 ESV; sermon text]
+
+[13] Since we have the same spirit of faith according to what has been written, “I believed, and so I spoke,” we also believe, and so we also speak, [14] knowing that he who raised the Lord Jesus will raise us also with Jesus and bring us with you into his presence. [15] For it is all for your sake, so that as grace extends to more and more people it may increase thanksgiving, to the glory of God.
+
+[16] So we do not lose heart. Though our outer self is wasting away, our inner self is being renewed day by day. [17] For this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison, [18] as we look not to the things that are seen but to the things that are unseen. For the things that are seen are transient, but the things that are unseen are eternal. (ESV)
+
+[1] For we know that if the tent that is our earthly home is destroyed, we have a building from God, a house not made with hands, eternal in the heavens. (ESV)
+
+------------
+
+
+## Holy Gospel [Mk 3:20‑35 ESV]
+
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 999 _ZZZ_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
