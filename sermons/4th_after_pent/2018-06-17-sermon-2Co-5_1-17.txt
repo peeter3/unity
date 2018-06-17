@@ -18,7 +18,8 @@
 
 [1] For we know that if the tent that is our earthly home is destroyed, we have a building from God, a house not made with hands, eternal in the heavens. [2] For in this tent we groan, longing to put on our heavenly dwelling, [3] if indeed by putting it on we may not be found naked. [4] For while we are still in this tent, we groan, being burdened—not that we would be unclothed, but that we would be further clothed, so that what is mortal may be swallowed up by life. [5] He who has prepared us for this very thing is God, who has given us the Spirit as a guarantee.
 
-[6] So we are always of good courage. We know that while we are at home in the body we are away from the Lord, [7] for we walk by faith, not by sight. [8] Yes, we are of good courage, and we would rather be away from the body and at home with the Lord. [9] So whether we are at home or away, we make it our aim to please him. [10] For we must all appear before the judgment seat of Christ, so that each one may receive what is due for what he has done in the body, whether good or evil.
+[6] So we are always of good courage. We know that while we are at home in the body we are away from the Lord,
+[7] for we walk by faith, not by sight. [8] Yes, we are of good courage, and we would rather be away from the body and at home with the Lord. [9] So whether we are at home or away, we make it our aim to please him. [10] For we must all appear before the judgment seat of Christ, so that each one may receive what is due for what he has done in the body, whether good or evil.
 
 [11] Therefore, knowing the fear of the Lord, we persuade others. But what we are is known to God, and I hope it is known also to your conscience. [12] We are not commending ourselves to you again but giving you cause to boast about us, so that you may be able to answer those who boast about outward appearance and not about what is in the heart. [13] For if we are beside ourselves, it is for God; if we are in our right mind, it is for you. [14] For the love of Christ controls us, because we have concluded this: that one has died for all, therefore all have died; [15] and he died for all, that those who live might no longer live for themselves but for him who for their sake died and was raised.
 
@@ -26,6 +27,26 @@
 
 ------------
 
+[1] Οἴδαμεν γὰρ ὅτι ἐὰν ἡ ἐπίγειος ἡμῶν οἰκία τοῦ σκήνους καταλυθῇ, οἰκοδομὴν ἐκ θεοῦ ἔχομεν οἰκίαν ἀχειροποίητον αἰώνιον ἐν τοῖς οὐρανοῖς. 
+[2] καὶ γὰρ ἐν τούτῳ στενάζομεν, τὸ οἰκητήριον ἡμῶν τὸ ἐξ οὐρανοῦ ἐπενδύσασθαι ἐπιποθοῦντες, 
+[3] εἴ γε καὶ ἐκδυσάμενοι οὐ γυμνοὶ εὑρεθησόμεθα. 
+[4] καὶ γὰρ οἱ ὄντες ἐν τῷ σκήνει στενάζομεν βαρούμενοι, ἐφ' ᾧ οὐ θέλομεν ἐκδύσασθαι ἀλλ' ἐπενδύσασθαι, ἵνα καταποθῇ τὸ θνητὸν ὑπὸ τῆς ζωῆς. 
+[5] ὁ δὲ κατεργασάμενος ἡμᾶς εἰς αὐτὸ τοῦτο θεός, ὁ δοὺς ἡμῖν τὸν ἀρραβῶνα τοῦ πνεύματος. 
+
+[6] Θαρροῦντες οὖν πάντοτε καὶ εἰδότες ὅτι ἐνδημοῦντες ἐν τῷ σώματι ἐκδημοῦμεν ἀπὸ τοῦ κυρίου, 
+[7] διὰ πίστεως γὰρ περιπατοῦμεν οὐ διὰ εἴδους 
+[8] θαρροῦμεν δὲ καὶ εὐδοκοῦμεν μᾶλλον ἐκδημῆσαι ἐκ τοῦ σώματος καὶ ἐνδημῆσαι πρὸς τὸν κύριον. 
+[9] διὸ καὶ φιλοτιμούμεθα, εἴτε ἐνδημοῦντες εἴτε ἐκδημοῦντες, εὐάρεστοι αὐτῷ εἶναι. 
+[10] τοὺς γὰρ πάντας ἡμᾶς φανερωθῆναι δεῖ ἔμπροσθεν τοῦ βήματος τοῦ Χριστοῦ, ἵνα κομίσηται ἕκαστος τὰ διὰ τοῦ σώματος πρὸς ἃ ἔπραξεν, εἴτε ἀγαθὸν εἴτε φαῦλον. 
+
+[11] Εἰδότες οὖν τὸν φόβον τοῦ κυρίου ἀνθρώπους πείθομεν, θεῷ δὲ πεφανερώμεθα: ἐλπίζω δὲ καὶ ἐν ταῖς συνειδήσεσιν ὑμῶν πεφανερῶσθαι. 
+[12] οὐ πάλιν ἑαυτοὺς συνιστάνομεν ὑμῖν, ἀλλὰ ἀφορμὴν διδόντες ὑμῖν καυχήματος ὑπὲρ ἡμῶν, ἵνα ἔχητε πρὸς τοὺς ἐν προσώπῳ καυχωμένους καὶ μὴ ἐν καρδίᾳ. 
+[13] εἴτε γὰρ ἐξέστημεν, θεῷ: εἴτε σωφρονοῦμεν, ὑμῖν. 
+[14] ἡ γὰρ ἀγάπη τοῦ Χριστοῦ συνέχει ἡμᾶς, κρίναντας τοῦτο, ὅτι εἷς ὑπὲρ πάντων ἀπέθανεν: ἄρα οἱ πάντες ἀπέθανον: 
+[15] καὶ ὑπὲρ πάντων ἀπέθανεν ἵνα οἱ ζῶντες μηκέτι ἑαυτοῖς ζῶσιν ἀλλὰ τῷ ὑπὲρ αὐτῶν ἀποθανόντι καὶ ἐγερθέντι. 
+
+[16] Ὥστε ἡμεῖς ἀπὸ τοῦ νῦν οὐδένα οἴδαμεν κατὰ σάρκα: εἰ καὶ ἐγνώκαμεν κατὰ σάρκα Χριστόν, ἀλλὰ νῦν οὐκέτι γινώσκομεν. 
+[17] ὥστε εἴ τις ἐν Χριστῷ, καινὴ κτίσις: τὰ ἀρχαῖα παρῆλθεν, ἰδοὺ γέγονεν καινά:
 
 ## Holy Gospel [Mk 4:26‑34 ESV]
 
@@ -61,7 +82,46 @@ Blessed Lord, since You have caused all Holy Scriptures to be written for our le
 ## Sermon
 
 Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+**"While we are at home in the body we are away from the Lord."**
+This saying from our Epistle reading today is a good verse to remember---2 Corinthians 5:6---this verse is one to keep in your heart when you are ill or injured and are praying that your heavenly Father heal you.
+"Gracious Father, please heal me of my illness and restore me to health for the sake of Your Son Jesus, in whose name I trust for the forgiveness of my sins. Amen."
+This is a very good prayer, for you can remember that our Lord did say, **"Which is easier, to say to the paralytic, ‘Your sins are forgiven,’ or to say, ‘Rise, take up your bed and walk’?"** ([Mk 2:9 ESV)](https://www.esv.org/Mark+2:9/))
+Yes the paralytic did take up his bed and walk and people were amazed.
+Jesus has authority to forgive sins and the power to heal---they go hand-in hand.
+Make no mistake about this.
+The Bible clearly reveals that Jesus has authority to forgive sins and the power to heal and the power to cast out demons ([Mk 1:32‑34](https://www.esv.org/Mark+1:32/)).
+That power to forgive we already exercised at the beginning of the service today: we confessed our sins and by the authority of Christ I absolved you and you absolved me.
+In the catechism, it is called the Office of the Keys---the authority to forgive and retain sins---and Christ exercised His authority at the beginning of the service to forgive us our sins just like He absolved and healed the paralytic.
+He has complete power over sin, death, and the devil.
+He forgives us freely, and he can just as freely heal us if it is God's good and gracious will.
 
+But---and this is in the back of your mind whether you are the sick person or the one praying for the sick person---but what if it is God's good and gracious will that the Christian die?
+For **"while we are at home in the body we are away from the Lord."**
+We believe in the resurrection of the body and the life everlasting.
+Furthermore, St. Paul teaches us in 1 Corinthians 15,
+
+> **So is it with the resurrection of the dead. What is sown is perishable; what is raised is imperishable. It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power. It is sown a natural body; it is raised a spiritual body. If there is a natural body, there is also a spiritual body.** ([1Co 15:42‑44 ESV](https://www.esv.org/1+Corinthians+15:42/))
+
+When we pray for the healing of our natural body, we know that it is not our goal---for God has told us that this is not our goal---it is not our goal that our natural body---your earthly body that sits in the pew this morning---it is not my goal that *[Point to your own body.]* *this* body inherit everlasting life.
+*This* body is a mortal seed to be planted by death into the ground and then arise by the power of God's Word as an immortal body.
+
+> **Behold! I tell you a mystery. We shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we shall be changed. For this perishable body must put on the imperishable, and _this mortal body must put on immortality_.** ([1Co 15:51‑53 ESV](https://www.esv.org/1+Corinthians+15:51/))
+
+The trumpet sound will be God's command to rise, *and you will rise*.
+By faith in Jesus you will rise with an immortal body different from the one  that sits in the pew today---an immortal body just like the one Jesus has right now.
+
+But do not throw away your mortal body yet.
+We are thankful for our mortal bodies, for God has knit us together in our mothers' wombs and we are fearfully and wonderfully made ([Ps 139:13‑14](https://www.esv.org/Psalm+139:13/)).
+But while we are in *[Point to self.]* *this* body, we are in an intermediate stage.
+We are baptized and sealed with the Holy Spirit---yes, *[Point to congregation.]* *this* mortal body is marked as a seed that will pass through death to become an immortal body and also *this mortal body right now* is *a new creation, the temple of the Holy Spirit* ([1Co 6:19](https://www.esv.org/1+Corinthians+6:19/)).
+Honor your mortal body not as what to cling to, but as a temple of the Holy Spirit.
+*God lives in your mortal body---Jesus lives in your heart.*
+So do take care of your mortal body even though it is better to be with the Lord in heaven, and do not grieve the Holy Spirit with your flesh.
+Beloved in the Lord, pray for the Holy Spirit ([Lk 11:13](https://www.esv.org/Luke+11:13/)), that you may have Him abundantly in your hearts and that the Spirit may have power over your flesh.
+
+> **But I say, walk by the Spirit, and you will not gratify the desires of the flesh. For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do.** ([Gal 5:16‑17 ESV](https://www.esv.org/Galatians+5:16/))
+
+And when our final hour comes, our outer bodies will become weaker and weaker---maybe with a bit of groaning---but groaning that the new beginning be soon upon us when we will be clothed with our resurrected bodies.
 AMEN.
 
 ## Outline
