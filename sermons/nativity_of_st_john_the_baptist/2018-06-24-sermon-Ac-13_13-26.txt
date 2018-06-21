@@ -11,23 +11,23 @@
 
 ## Old Testament [Is 40:1-5 ESV]
 
-[1] Comfort, comfort my people, says your God.
-[2] Speak tenderly to Jerusalem,
-    and cry to her that her warfare is ended,
-    that her iniquity is pardoned,
-that she has received from the Lord's hand
-    double for all her sins.
+> [1] Comfort, comfort my people, says your God.\
+> [2] Speak tenderly to Jerusalem,\
+> and cry to her that her warfare is ended,\
+> that her iniquity is pardoned,\
+> that she has received from the Lord's hand\
+> double for all her sins.
 
-[3] A voice cries:
-“In the wilderness prepare the way of the Lord;
-    make straight in the desert a highway for our God.
-[4] Every valley shall be lifted up,
-    and every mountain and hill be made low;
-the uneven ground shall become level,
-    and the rough places a plain.
-[5] And the glory of the Lord shall be revealed,
-    and all flesh shall see it together,
-    for the mouth of the Lord has spoken.”
+> [3] A voice cries:\
+> “In the wilderness prepare the way of the Lord;\
+> make straight in the desert a highway for our God.\
+> [4] Every valley shall be lifted up,\
+> and every mountain and hill be made low;\
+> the uneven ground shall become level,\
+> and the rough places a plain.\
+> [5] And the glory of the Lord shall be revealed,\
+> and all flesh shall see it together,\
+> for the mouth of the Lord has spoken.”
 
 ## Epistle [Ac 13:13‑26 ESV; sermon text]
 
@@ -35,10 +35,27 @@ the uneven ground shall become level,
 
 “Men of Israel and you who fear God, listen. [17] The God of this people Israel chose our fathers and made the people great during their stay in the land of Egypt, and with uplifted arm he led them out of it. [18] And for about forty years he put up with them in the wilderness. [19] And after destroying seven nations in the land of Canaan, he gave them their land as an inheritance. [20] All this took about 450 years. And after that he gave them judges until Samuel the prophet. [21] Then they asked for a king, and God gave them Saul the son of Kish, a man of the tribe of Benjamin, for forty years. [22] And when he had removed him, he raised up David to be their king, of whom he testified and said, ‘I have found in David the son of Jesse a man after my heart, who will do all my will.’ [23] Of this man's offspring God has brought to Israel a Savior, Jesus, as he promised. [24] Before his coming, John had proclaimed a baptism of repentance to all the people of Israel. [25] And as John was finishing his course, he said, ‘What do you suppose that I am? I am not he. No, but behold, after me one is coming, the sandals of whose feet I am not worthy to untie.’
 
-[26] “Brothers, sons of the family of Abraham, and those among you who fear God, to us has been sent the message of this salvation. 
+[26] "Brothers, sons of the family of Abraham, and those among you who fear God, to us has been sent the message of this salvation."
 
 ------------
 
+[13] Ἀναχθέντες δὲ ἀπὸ τῆς Πάφου οἱ περὶ Παῦλον ἦλθον εἰς Πέργην τῆς Παμφυλίας: Ἰωάννης δὲ ἀποχωρήσας ἀπ' αὐτῶν ὑπέστρεψεν εἰς Ἱεροσόλυμα. 
+[14] αὐτοὶ δὲ διελθόντες ἀπὸ τῆς Πέργης παρεγένοντο εἰς Ἀντιόχειαν τὴν Πισιδίαν, καὶ [εἰς]ελθόντες εἰς τὴν συναγωγὴν τῇ ἡμέρᾳ τῶν σαββάτων ἐκάθισαν. 
+[15] μετὰ δὲ τὴν ἀνάγνωσιν τοῦ νόμου καὶ τῶν προφητῶν ἀπέστειλαν οἱ ἀρχισυνάγωγοι πρὸς αὐτοὺς λέγοντες, Ἄνδρες ἀδελφοί, εἴ τίς ἐστιν ἐν ὑμῖν λόγος παρακλήσεως πρὸς τὸν λαόν, λέγετε. 
+[16] ἀναστὰς δὲ Παῦλος καὶ κατασείσας τῇ χειρὶ εἶπεν:
+
+ Ἄνδρες Ἰσραηλῖται καὶ οἱ φοβούμενοι τὸν θεόν, ἀκούσατε. 
+[17] ὁ θεὸς τοῦ λαοῦ τούτου Ἰσραὴλ ἐξελέξατο τοὺς πατέρας ἡμῶν, καὶ τὸν λαὸν ὕψωσεν ἐν τῇ παροικίᾳ ἐν γῇ Αἰγύπτου, καὶ μετὰ βραχίονος ὑψηλοῦ ἐξήγαγεν αὐτοὺς ἐξ αὐτῆς, 
+[18] καὶ ὡς τεσσερακονταετῆ χρόνον ἐτροποφόρησεν αὐτοὺς ἐν τῇ ἐρήμῳ, 
+[19] καὶ καθελὼν ἔθνη ἑπτὰ ἐν γῇ Χανάαν κατεκληρονόμησεν τὴν γῆν αὐτῶν 
+[20] ὡς ἔτεσιν τετρακοσίοις καὶ πεντήκοντα. καὶ μετὰ ταῦτα ἔδωκεν κριτὰς ἕως Σαμουὴλ [τοῦ] προφήτου. 
+[21] κἀκεῖθεν ᾐτήσαντο βασιλέα, καὶ ἔδωκεν αὐτοῖς ὁ θεὸς τὸν Σαοὺλ υἱὸν Κίς, ἄνδρα ἐκ φυλῆς Βενιαμίν, ἔτη τεσσεράκοντα. 
+[22] καὶ μεταστήσας αὐτὸν ἤγειρεν τὸν Δαυὶδ αὐτοῖς εἰς βασιλέα, ᾧ καὶ εἶπεν μαρτυρήσας, Εὗρον Δαυὶδ τὸν τοῦ Ἰεσσαί, ἄνδρα κατὰ τὴν καρδίαν μου, ὃς ποιήσει πάντα τὰ θελήματά μου. 
+[23] τούτου ὁ θεὸς ἀπὸ τοῦ σπέρματος κατ' ἐπαγγελίαν ἤγαγεν τῷ Ἰσραὴλ σωτῆρα Ἰησοῦν, 
+[24] προκηρύξαντος Ἰωάννου πρὸ προσώπου τῆς εἰσόδου αὐτοῦ βάπτισμα μετανοίας παντὶ τῷ λαῷ Ἰσραήλ. 
+[25] ὡς δὲ ἐπλήρου Ἰωάννης τὸν δρόμον, ἔλεγεν, Τί ἐμὲ ὑπονοεῖτε εἶναι; οὐκ εἰμὶ ἐγώ: ἀλλ' ἰδοὺ ἔρχεται μετ' ἐμὲ οὗ οὐκ εἰμὶ ἄξιος τὸ ὑπόδημα τῶν ποδῶν λῦσαι. 
+
+[26] Ἄνδρες ἀδελφοί, υἱοὶ γένους Ἀβραὰμ καὶ οἱ ἐν ὑμῖν φοβούμενοι τὸν θεόν, ἡμῖν ὁ λόγος τῆς σωτηρίας ταύτης ἐξαπεστάλη.
 
 ## Holy Gospel [Lk 1:57‑80 ESV]
 
@@ -90,6 +107,12 @@ Footnotes:
 
 Almighty God, through John the Baptist, the forerunner of Christ, You once proclaimed salvation. Now grant that we may know this salvation and serve You in holiness and righteousness all the days of our life; through Jesus Christ, Your Son, who lives and reigns with You and the Holy Spirit, one God, now and forever.
 
+## Prayer for Separated Families[^1]
+
+[^1]: Prayer supplied by the Synod.
+
+Heavenly Father, You are our great provider and protector. Be with families throughout our world who are facing difficulties and separation. Comfort and bless children separated from their parents. Guide all parents in their calling to care for their children in obedience to You. Give the governing authorities the wisdom to make and enforce just laws that foster security and the common good, and to look with compassion and mercy on those who seek protection and provision. Strengthen those who work with immigrants and refugees with the endurance needed to fulfill their calling with compassion and wisdom. Grant insight, understanding and patience to the citizens of our nation as we wrestle with the many difficult and divisive issues that confront us daily. Draw all to the cross of Jesus, that the love of Your Son might reign over all things; through Christ Jesus, our Lord. Amen.
+
 ## Hymns
 
 * Opening hymn: _TLH_ 250 _Holy God, We Praise Thy Name_
@@ -115,3 +138,5 @@ AMEN.
     1. ZZZ
 
 ## Notes
+
+Ac 13. This describes Paul's first missionary journey.
