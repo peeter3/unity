@@ -1,0 +1,107 @@
+% 6th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Lm 3:22‑33 ESV]
+
+> [22] The steadfast love of the LORD never ceases;\
+> his mercies never come to an end;\
+> [23] they are new every morning;\
+> great is your faithfulness.\
+> [24] “The LORD is my portion,” says my soul,\
+> “therefore I will hope in him.”
+
+
+> [25] The LORD is good to those who wait for him,\
+> to the soul who seeks him.\
+> [26] It is good that one should wait quietly\
+> for the salvation of the LORD.\
+> [27] It is good for a man that he bear\
+> the yoke in his youth.
+
+
+> [28] Let him sit alone in silence\
+> when it is laid on him;\
+> [29] let him put his mouth in the dust—\
+> there may yet be hope;\
+> [30] let him give his cheek to the one who strikes,\
+> and let him be filled with insults.
+
+
+> [31] For the Lord will not\
+> cast off forever,\
+> [32] but, though he cause grief, he will have compassion\
+> according to the abundance of his steadfast love;\
+> [33] for he does not afflict from his heart\
+> or grieve the children of men.
+
+## Epistle [2Co 8:1‑9, 13‑15 ESV; sermon text]
+
+[1] We want you to know, brothers, about the grace of God that has been given among the churches of Macedonia, [2] for in a severe test of affliction, their abundance of joy and their extreme poverty have overflowed in a wealth of generosity on their part. [3] For they gave according to their means, as I can testify, and beyond their means, of their own accord, [4] begging us earnestly for the favor of taking part in the relief of the saints–[5] and this, not as we expected, but they gave themselves first to the Lord and then by the will of God to us. [6] Accordingly, we urged Titus that as he had started, so he should complete among you this act of grace. [7] But as you excel in everything—in faith, in speech, in knowledge, in all earnestness, and in our love for you—see that you excel in this act of grace also.
+
+[8] I say this not as a command, but to prove by the earnestness of others that your love also is genuine. [9] For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich.
+
+[13] For I do not mean that others should be eased and you burdened, but that as a matter of fairness [14] your abundance at the present time should supply their need, so that their abundance may supply your need, that there may be fairness. [15] As it is written, “Whoever gathered much had nothing left over, and whoever gathered little had no lack.”
+
+------------
+
+[1] Γνωρίζομεν δὲ ὑμῖν, ἀδελφοί, τὴν χάριν τοῦ θεοῦ τὴν δεδομένην ἐν ταῖς ἐκκλησίαις τῆς Μακεδονίας, 
+[2] ὅτι ἐν πολλῇ δοκιμῇ θλίψεως ἡ περισσεία τῆς χαρᾶς αὐτῶν καὶ ἡ κατὰ βάθους πτωχεία αὐτῶν ἐπερίσσευσεν εἰς τὸ πλοῦτος τῆς ἁπλότητος αὐτῶν: 
+[3] ὅτι κατὰ δύναμιν, μαρτυρῶ, καὶ παρὰ δύναμιν, αὐθαίρετοι 
+[4] μετὰ πολλῆς παρακλήσεως δεόμενοι ἡμῶν τὴν χάριν καὶ τὴν κοινωνίαν τῆς διακονίας τῆς εἰς τοὺς ἁγίους 
+[5] καὶ οὐ καθὼς ἠλπίσαμεν ἀλλὰ ἑαυτοὺς ἔδωκαν πρῶτον τῷ κυρίῳ καὶ ἡμῖν διὰ θελήματος θεοῦ, 
+[6] εἰς τὸ παρακαλέσαι ἡμᾶς Τίτον ἵνα καθὼς προενήρξατο οὕτως καὶ ἐπιτελέσῃ εἰς ὑμᾶς καὶ τὴν χάριν ταύτην. 
+[7] ἀλλ' ὥσπερ ἐν παντὶ περισσεύετε, πίστει καὶ λόγῳ καὶ γνώσει καὶ πάσῃ σπουδῇ καὶ τῇ ἐξ ἡμῶν ἐν ὑμῖν ἀγάπῃ, ἵνα καὶ ἐν ταύτῃ τῇ χάριτι περισσεύητε. 
+
+[8] Οὐ κατ' ἐπιταγὴν λέγω, ἀλλὰ διὰ τῆς ἑτέρων σπουδῆς καὶ τὸ τῆς ὑμετέρας ἀγάπης γνήσιον δοκιμάζων: 
+[9] γινώσκετε γὰρ τὴν χάριν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ὅτι δι' ὑμᾶς ἐπτώχευσεν πλούσιος ὤν, ἵνα ὑμεῖς τῇ ἐκείνου πτωχείᾳ πλουτήσητε.
+
+[13] οὐ γὰρ ἵνα ἄλλοις ἄνεσις, ὑμῖν θλῖψις: ἀλλ' ἐξ ἰσότητος 
+[14] ἐν τῷ νῦν καιρῷ τὸ ὑμῶν περίσσευμα εἰς τὸ ἐκείνων ὑστέρημα, ἵνα καὶ τὸ ἐκείνων περίσσευμα γένηται εἰς τὸ ὑμῶν ὑστέρημα, ὅπως γένηται ἰσότης: 
+[15] καθὼς γέγραπται, Ὁ τὸ πολὺ οὐκ ἐπλεόνασεν, καὶ ὁ τὸ ὀλίγον οὐκ ἠλαττόνησεν.
+
+## Holy Gospel [Mk 5:21‑43 ESV]
+
+[21] And when Jesus had crossed again in the boat to the other side, a great crowd gathered about him, and he was beside the sea. [22] Then came one of the rulers of the synagogue, Jairus by name, and seeing him, he fell at his feet [23] and implored him earnestly, saying, “My little daughter is at the point of death. Come and lay your hands on her, so that she may be made well and live.” [24] And he went with him.
+
+And a great crowd followed him and thronged about him. [25] And there was a woman who had had a discharge of blood for twelve years, [26] and who had suffered much under many physicians, and had spent all that she had, and was no better but rather grew worse. [27] She had heard the reports about Jesus and came up behind him in the crowd and touched his garment. [28] For she said, “If I touch even his garments, I will be made well.” [29] And immediately the flow of blood dried up, and she felt in her body that she was healed of her disease. [30] And Jesus, perceiving in himself that power had gone out from him, immediately turned about in the crowd and said, “Who touched my garments?” [31] And his disciples said to him, “You see the crowd pressing around you, and yet you say, ‘Who touched me?’” [32] And he looked around to see who had done it. [33] But the woman, knowing what had happened to her, came in fear and trembling and fell down before him and told him the whole truth. [34] And he said to her, “Daughter, your faith has made you well; go in peace, and be healed of your disease.”
+
+[35] While he was still speaking, there came from the ruler's house some who said, “Your daughter is dead. Why trouble the Teacher any further?” [36] But overhearing what they said, Jesus said to the ruler of the synagogue, “Do not fear, only believe.” [37] And he allowed no one to follow him except Peter and James and John the brother of James. [38] They came to the house of the ruler of the synagogue, and Jesus saw a commotion, people weeping and wailing loudly. [39] And when he had entered, he said to them, “Why are you making a commotion and weeping? The child is not dead but sleeping.” [40] And they laughed at him. But he put them all outside and took the child's father and mother and those who were with him and went in where the child was. [41] Taking her by the hand he said to her, “Talitha cumi,” which means, “Little girl, I say to you, arise.” [42] And immediately the girl got up and began walking (for she was twelve years of age), and they were immediately overcome with amazement. [43] And he strictly charged them that no one should know this, and told them to give her something to eat.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 439 _O God of Mercy, God of Might_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
