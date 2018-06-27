@@ -1,0 +1,279 @@
+% Nativity of St. John the Baptist
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Is 40:1-5 ESV]
+
+> [1] Comfort, comfort my people, says your God.\
+> [2] Speak tenderly to Jerusalem,\
+> and cry to her that her warfare is ended,\
+> that her iniquity is pardoned,\
+> that she has received from the Lord's hand\
+> double for all her sins.
+
+> [3] A voice cries:\
+> “In the wilderness prepare the way of the Lord;\
+> make straight in the desert a highway for our God.\
+> [4] Every valley shall be lifted up,\
+> and every mountain and hill be made low;\
+> the uneven ground shall become level,\
+> and the rough places a plain.\
+> [5] And the glory of the Lord shall be revealed,\
+> and all flesh shall see it together,\
+> for the mouth of the Lord has spoken.”
+
+## Epistle [Ac 13:13‑26 ESV; sermon text]
+
+[13] Now Paul and his companions set sail from Paphos and came to Perga in Pamphylia. And John left them and returned to Jerusalem, [14] but they went on from Perga and came to Antioch in Pisidia. And on the Sabbath day they went into the synagogue and sat down. [15] After the reading from the Law and the Prophets, the rulers of the synagogue sent a message to them, saying, “Brothers, if you have any word of encouragement for the people, say it.” [16] So Paul stood up, and motioning with his hand said:
+
+“Men of Israel and you who fear God, listen. [17] The God of this people Israel chose our fathers and made the people great during their stay in the land of Egypt, and with uplifted arm he led them out of it. [18] And for about forty years he put up with them in the wilderness. [19] And after destroying seven nations in the land of Canaan, he gave them their land as an inheritance. [20] All this took about 450 years. And after that he gave them judges until Samuel the prophet. [21] Then they asked for a king, and God gave them Saul the son of Kish, a man of the tribe of Benjamin, for forty years. [22] And when he had removed him, he raised up David to be their king, of whom he testified and said, ‘I have found in David the son of Jesse a man after my heart, who will do all my will.’ [23] Of this man's offspring God has brought to Israel a Savior, Jesus, as he promised. 
+[24] Before his coming, John had proclaimed a baptism of repentance to all the people of Israel. [25] And as John was finishing his course, he said, ‘What do you suppose that I am? I am not he. No, but behold, after me one is coming, the sandals of whose feet I am not worthy to untie.’
+
+[26] "Brothers, sons of the family of Abraham, and those among you who fear God, to us has been sent the message of this salvation."
+
+------------
+
+[13] Ἀναχθέντες δὲ ἀπὸ τῆς Πάφου οἱ περὶ Παῦλον ἦλθον εἰς Πέργην τῆς Παμφυλίας: Ἰωάννης δὲ ἀποχωρήσας ἀπ' αὐτῶν ὑπέστρεψεν εἰς Ἱεροσόλυμα. 
+[14] αὐτοὶ δὲ διελθόντες ἀπὸ τῆς Πέργης παρεγένοντο εἰς Ἀντιόχειαν τὴν Πισιδίαν, καὶ [εἰς]ελθόντες εἰς τὴν συναγωγὴν τῇ ἡμέρᾳ τῶν σαββάτων ἐκάθισαν. 
+[15] μετὰ δὲ τὴν ἀνάγνωσιν τοῦ νόμου καὶ τῶν προφητῶν ἀπέστειλαν οἱ ἀρχισυνάγωγοι πρὸς αὐτοὺς λέγοντες, Ἄνδρες ἀδελφοί, εἴ τίς ἐστιν ἐν ὑμῖν λόγος παρακλήσεως πρὸς τὸν λαόν, λέγετε. 
+[16] ἀναστὰς δὲ Παῦλος καὶ κατασείσας τῇ χειρὶ εἶπεν:
+
+ Ἄνδρες Ἰσραηλῖται καὶ οἱ φοβούμενοι τὸν θεόν, ἀκούσατε. 
+[17] ὁ θεὸς τοῦ λαοῦ τούτου Ἰσραὴλ ἐξελέξατο τοὺς πατέρας ἡμῶν, καὶ τὸν λαὸν ὕψωσεν ἐν τῇ παροικίᾳ ἐν γῇ Αἰγύπτου, καὶ μετὰ βραχίονος ὑψηλοῦ ἐξήγαγεν αὐτοὺς ἐξ αὐτῆς, 
+[18] καὶ ὡς τεσσερακονταετῆ χρόνον ἐτροποφόρησεν αὐτοὺς ἐν τῇ ἐρήμῳ, 
+[19] καὶ καθελὼν ἔθνη ἑπτὰ ἐν γῇ Χανάαν κατεκληρονόμησεν τὴν γῆν αὐτῶν 
+[20] ὡς ἔτεσιν τετρακοσίοις καὶ πεντήκοντα. καὶ μετὰ ταῦτα ἔδωκεν κριτὰς ἕως Σαμουὴλ [τοῦ] προφήτου. 
+[21] κἀκεῖθεν ᾐτήσαντο βασιλέα, καὶ ἔδωκεν αὐτοῖς ὁ θεὸς τὸν Σαοὺλ υἱὸν Κίς, ἄνδρα ἐκ φυλῆς Βενιαμίν, ἔτη τεσσεράκοντα. 
+[22] καὶ μεταστήσας αὐτὸν ἤγειρεν τὸν Δαυὶδ αὐτοῖς εἰς βασιλέα, ᾧ καὶ εἶπεν μαρτυρήσας, Εὗρον Δαυὶδ τὸν τοῦ Ἰεσσαί, ἄνδρα κατὰ τὴν καρδίαν μου, ὃς ποιήσει πάντα τὰ θελήματά μου. 
+[23] τούτου ὁ θεὸς ἀπὸ τοῦ σπέρματος κατ' ἐπαγγελίαν ἤγαγεν τῷ Ἰσραὴλ σωτῆρα Ἰησοῦν, 
+[24] προκηρύξαντος Ἰωάννου πρὸ προσώπου τῆς εἰσόδου αὐτοῦ βάπτισμα μετανοίας παντὶ τῷ λαῷ Ἰσραήλ. 
+[25] ὡς δὲ ἐπλήρου Ἰωάννης τὸν δρόμον, ἔλεγεν, Τί ἐμὲ ὑπονοεῖτε εἶναι; οὐκ εἰμὶ ἐγώ: ἀλλ' ἰδοὺ ἔρχεται μετ' ἐμὲ οὗ οὐκ εἰμὶ ἄξιος τὸ ὑπόδημα τῶν ποδῶν λῦσαι. 
+
+[26] Ἄνδρες ἀδελφοί, υἱοὶ γένους Ἀβραὰμ καὶ οἱ ἐν ὑμῖν φοβούμενοι τὸν θεόν, ἡμῖν ὁ λόγος τῆς σωτηρίας ταύτης ἐξαπεστάλη.
+
+## Holy Gospel [Lk 1:57‑80 ESV]
+
+[57] Now the time came for Elizabeth to give birth, and she bore a son. [58] And her neighbors and relatives heard that the Lord had shown great mercy to her, and they rejoiced with her. [59] And on the eighth day they came to circumcise the child. And they would have called him Zechariah after his father, [60] but his mother answered, “No; he shall be called John.” [61] And they said to her, “None of your relatives is called by this name.” [62] And they made signs to his father, inquiring what he wanted him to be called. [63] And he asked for a writing tablet and wrote, “His name is John.” And they all wondered. [64] And immediately his mouth was opened and his tongue loosed, and he spoke, blessing God. [65] And fear came on all their neighbors. And all these things were talked about through all the hill country of Judea, [66] and all who heard them laid them up in their hearts, saying, “What then will this child be?” For the hand of the Lord was with him.
+
+[67] And his father Zechariah was filled with the Holy Spirit and prophesied, saying,
+
+[68] “Blessed be the Lord God of Israel,
+    for he has visited and redeemed his people
+[69] and has raised up a horn of salvation for us
+    in the house of his servant David,
+[70] as he spoke by the mouth of his holy prophets from of old,
+[71] that we should be saved from our enemies
+    and from the hand of all who hate us;
+[72] to show the mercy promised to our fathers
+    and to remember his holy covenant,
+[73] the oath that he swore to our father Abraham, to grant us
+[74] that we, being delivered from the hand of our enemies,
+might serve him without fear,
+[75] in holiness and righteousness before him all our days.
+[76] And you, child, will be called the prophet of the Most High;
+    for you will go before the Lord to prepare his ways,
+[77] to give knowledge of salvation to his people
+    in the forgiveness of their sins,
+[78] because of the tender mercy of our God,
+    whereby the sunrise shall visit us from on high
+[79] to give light to those who sit in darkness and in the shadow of death,
+    to guide our feet into the way of peace.”
+
+[80] And the child grew and became strong in spirit, and he was in the wilderness until the day of his public appearance to Israel.
+
+## Introit [Lk 1:68, 76-79; antiphon: Mal. 3:1]
+
+> Behold, I send my messenger and he will prepare the way be- | fore me.\*\
+> And the Lord whom you seek will suddenly come to his | temple.\
+> Blessed be the Lord God of | Israel,\*\
+> for he has visited and redeemed his | people.\
+> And you, child, will be called the prophet of the | Most High;\*\
+> for you will go before the Lord to pre- | pare his ways,\
+> to give knowledge of salvation to his | people\*\
+> in the forgiveness | of their sins,\
+> because of the tender mercy | of our God,\*\
+> whereby the sunrise shall visit us | from on high\
+> to give light to those who sit in darkness and in the shad- | ow of death,\*\
+> to guide our feet into the | way of peace.\
+
+## Collect
+
+Almighty God, through John the Baptist, the forerunner of Christ, You once proclaimed salvation in the forgiveness of sins. Now grant that we may know this salvation and serve You in holiness and righteousness all the days of our life; through Jesus Christ, Your Son, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Prayer for Separated Families[^1]
+
+[^1]: Prayer supplied by the Synod.
+
+Heavenly Father, You are our great provider and protector. Be with families throughout our world who are facing difficulties and separation. Comfort and bless children separated from their parents. Guide all parents in their calling to care for their children in obedience to You. Give the governing authorities the wisdom to make and enforce just laws that foster security and the common good, and to look with compassion and mercy on those who seek protection and provision. Strengthen those who work with immigrants and refugees with the endurance needed to fulfill their calling with compassion and wisdom. Grant insight, understanding and patience to the citizens of our nation as we wrestle with the many difficult and divisive issues that confront us daily. Draw all to the cross of Jesus, that the love of Your Son might reign over all things; through Christ Jesus, our Lord. Amen.
+
+## Hymns
+
+* Opening hymn: _TLH_ 250 _Holy God, We Praise Thy Name_
+* Sermon hymn: _TLH_ 61 _Comfort, Comfort, Ye My People_
+* Communion hymn: _TLH_ 304 _An Awe-full Mystery Is Here_  
+* Closing hymn: _TLH_ 409 _Let Us Ever Walk with Jesus_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+What happened in the Bible after Pentecost? After all, we are in the season of Pentecost.
+On the day *of* Pentecost, the multitude gathered in Jerusalem was amazed at the pouring out of the Holy Spirit and His effect on the apostles---they spoke in tongues---foreign languages they had not studied.
+The multitude asked Peter and the rest of the apostles,
+
+> **“Brothers, what shall we do?” And Peter said to them, “Repent and be baptized every one of you in the name of Jesus Christ for the _forgiveness of your sins_, and you will receive the _gift of the Holy Spirit_. For the promise is for you and for your children and for all who are far off, everyone whom the Lord our God calls to himself.”** ([Ac 2:37‑39 ESV](https://www.esv.org/Acts+2:37/))
+
+> **Those who received [Peter's Word] were baptized, and there were added that day about three thousand souls.** ([Ac 2:41 ESV](https://www.esv.org/Acts+2:41/))
+
+Not only were the apostles filled with the gift Holy Spirit, but so were the three thousand souls who were baptized.
+That was Pentecost, but what happened *after* Pentecost?
+Many, many more were baptized and filled with the Holy Spirit, as has continued to this day---all of Christendom baptized and filled with the Holy Spirit.
+
+Were new Christians always baptized *before* they received the Holy Spirit?
+No.
+The book of Acts has the answer:
+Some *were* baptized before ([Ac 8:12‑17](https://www.esv.org/Acts+8:12/)) but others were baptized after having received the gift of the Holy Spirit ([Ac 10:44‑48](https://www.esv.org/Acts+10:44/)).
+But---and note this well---in all cases the Holy Spirit and Baptism are hand-in-hand ([Ac 9:17‑18](https://www.esv.org/Acts+9:17/))---you do not find one without the other---there is no record in the book of Acts of Holy Spirit without Baptism---I mean *Christian* Baptism, not the Baptism of John the Baptist.
+
+There were, you may recall, believers in Ephesus that St. Paul visited on his third missionary journey, but they had not yet received the gift Holy Spirit.
+
+> **And it happened that while Apollos was at Corinth, Paul passed through the inland country and came to Ephesus. There he found some disciples. And he said to them, “Did you receive the Holy Spirit when you believed?” And they said, “No, we have not even heard that there is a Holy Spirit.” And he said, “Into what then were you baptized?” They said, “Into John's baptism.” And Paul said, “John baptized with the baptism of repentance, telling the people to believe in the one who was to come after him, that is, Jesus.” On hearing this, they were baptized in the name of the Lord Jesus. And when Paul had laid his hands on them, the Holy Spirit came on them, and they began speaking in tongues and prophesying.** ([Ac 19:1‑6](https://www.esv.org/Acts+19:1/) ESV)
+
+Note well, beloved in the Lord, that when St. Paul found out that the Ephesian believers had not received the gift the Holy Spirit, he directed them to be baptized in the name of the Lord Jesus, which is greater than being baptized with the baptism of John the Baptist.
+(Poor John the Baptist!)
+St. Paul also laid his hands on the Ephesian believers and they were filled with the Holy Spirit.
+*It bears to reason* that since the Holy Spirit is a gift received with Baptism, then Baptism is also a gift.
+Your Baptism and the Holy Spirit is a gift from God.
+And if there is the Holy Spirit and Baptism, then there is also a preacher of the Gospel, whether an apostle (Ac 10:44‑48) or another Christian, like the deacon Philip in Acts, chapter 8 (Ac 8:12‑17).
+
+But poor John the Baptist!
+Now that Jesus is ascended and the Holy Spirit is poured out with Baptism in the name of the Father and of the Son and of the Holy Spirit, John's baptism is worthless.
+What a postition---to be called to preach repentance and baptize to only have your baptism made obsolete by the Messiah, who was born only six months after you.
+What a postition---to preach repentance so that sinners might repent and live *and to do it when it was hard*, like telling Herod he was and adulterer and deserved God's righteous wrath and punishment.
+John did the right thing, John did the hard thing, John did what God called him to do.
+And what did he get for it?
+Imprisonment and getting his head chopped off.
+Poor John the Baptist!
+
+Yet when Jesus had ascended and poured out the Holy Spirit and sent out the apostles and believers to proclaim the Gospel, St. Paul, speaking in the synagogue in Antioch in Pisidia in our Epistle reading, had to mention John the Baptist. 
+
+> **"And as John was finishing his course, he said, ‘What do you suppose that I am? I am not he. No, but behold, after me one is coming, the sandals of whose feet I am not worthy to untie.’"**
+
+Do not think *Poor John the Baptist!*
+God called him to preach repentance and baptize, and John knew what he was doing: he was in the wilderness preparing the way for the Lord, making straight in the desert a highway for our God *Jesus Christ* ([Is 40:3](https://www.esv.org/Isaiah+40:3/) ESV)!
+What an honor to be the set-up guy for the Son of God who comes to save sinners.
+He knew who was coming after him, and he knew he was not even worthy to untie Christ's sandals.
+John the Baptist---the Old Testament prophet and the greatest born of women---yes, Jesus said of John, **"Truly, I say to you, among those born of women there has arisen no one greater than John the Baptist"** ([Mt 11:11a](https://www.esv.org/Matthew+11:11/) ESV). 
+The prophet Isaiah foretells of John the Baptist in our Old Testament reading:
+
+> **Comfort, comfort my people, says your God.**\
+> **Speak tenderly to Jerusalem,**\
+> **and cry to her that her warfare is ended,**\
+> **that her iniquity is pardoned,**\
+> **that she has received from the Lord's hand**\
+> **_double for all her sins_.**
+
+> **A voice cries [(the voice of John the Baptist)]:**\
+> **“In the wilderness prepare the way of the Lord;**\
+> **make straight in the desert a highway for our God. ...**\
+> **And the glory of the Lord shall be revealed,**\
+> **and all flesh shall see it together,**\
+> **for the mouth of the Lord has spoken.”** ([Is 40:1‑3, 5](https://www.esv.org/Isaiah+40:1/))
+
+Jesus is revealed and John is the set-up man---the set-up man for the Savior of mankind.
+What kind of a Savior?
+
+> **She has received from the Lord's hand**\
+> **_double for all her sins_.**
+
+*That* kind of a Savior.
+Jesus is the Lord who comes to give us *double* for all our sins.
+"Double for all my sins? Double *payback* for all my sins?"
+That would be fair.
+You might remember from the Old Testament that
+
+> **If the stolen beast is found alive in [the thief's] possession, whether it is an ox or a donkey or a sheep, he shall pay _double_.** ([Ex 22:4](https://www.esv.org/Exodus+22:4/) ESV)
+
+It makes sense---and it is in God's Word---that *you* pay double for *your* sin.
+But note well, beloved in the Lord---listen to the Good News!---and never forget this preaching from John the Baptist:
+
+> **Comfort, comfort my people, says your God.**\
+> **Speak _tenderly_ to Jerusalem,**\
+> **and cry to her**\
+> **that her _warfare is ended_,**\
+> **that her _iniquity is pardoned_.** ([Is 40:1‑2a](https://www.esv.org/Isaiah+40:1/) ESV)
+
+Beloved in the Lord, the warfare between you and God---the warfare caused by your sinful rebellion against His Commandments---your warfare *ended* and your iniquity is *pardoned*.
+"How can that be? I never stopped shooting at God. I never stopped breaking His Commandments. How can the warfare be ended and my iniquity pardoned?"
+Because God has declared peace; He speaks *tenderly* to sinners.
+
+Behold the one the sandals of whose feet John the Baptist is not fit to untie: behold the sandals and the feet of Jesus Christ!
+Behold his sandals walking on the plain and hear His tender teaching of comfort:
+
+> **"Blessed are you who are poor, for yours is the kingdom of God. Blessed are you who are hungry now, for you shall be satisfied. Blessed are you who weep now, for you shall laugh.  Blessed are you when people hate you and when they exclude you and revile you and spurn your name as evil, on account of the Son of Man! Rejoice in that day, and leap for joy, for behold, _your reward is great in heaven_; for so their fathers did to the prophets."** ([Lk 6:20‑23](https://www.esv.org/Luke+6:20/) ESV)
+
+*Jesus has come and God is declaring peace with sinners.*
+The warfare is over.
+*Blessed, happy* are *you*, who expect double punishment for your sins but hear His Word and see that God is not angry with you anymore.
+*Blessed, happy* are *you*, whom the Father draws to His Son when you listen to Him ([Jn 6:44](https://www.esv.org/John+6:44/)).
+Now behold the Son's sandals being dragged from the Garden of Gethsemane to stand before Caiaphas and be humiliated ([Mt 26:57](https://www.esv.org/Matthew+26:57/)).
+Behold the Son's sandals removed and a spike driven through His feet.
+Behold the double punishment for your sin, double punishment for my sin, double punishment for everybody's sins.
+It's on Jesus; not on you.
+Behold Jesus, suffering in your place, pleading for your forgiveness: **"Father, forgive them, for they know not what they do"** ([Lk 23:34](https://www.esv.org/Luke+23:34/)).
+
+> **She has received from the Lord's hand**\
+> **_double for all her sins_.**
+
+Double.
+
+* *[Hold up one finger.]* You are forgiven.
+* *[Hold up two fingers.]* You have been given Holy Spirit.
+
+Forgiven and given the Holy Spirit---you are a baptized Christian---double blessing in exchange for your sin.
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       DOUBLE BLESSING         |
+|:-----------------------------------------------:|
+
+1. Baptism and the Holy Spirit
+    1. Which happens first?
+    1. John's baptism less than Christ's Baptism
+1. **Double for all her sins**?
+    1. Double curse?
+    1. No, double *blessing*
+1. (Blessing #1) Forgiveness
+    1. The fear of God is repentance.
+    1. Sins are atoned for.
+1. (Blessing #2) The Holy Spirit
+
+## Notes
+
+Ac 13. This describes Paul's first missionary journey.
+
+Ac 13:13. John Mark return to Jerusalem. Later, Paul and Barnabas have an argument over this (15:37‑40).
+
+Ac 13:19. The seven nations are[^2]
+
+[^2]: [Dt 7:1](https://www.esv.org/Deuteronomy+7:1/)
+
+1. the Hittites (Uriah was a Hittite.)
+1. the Girgashites
+1. the Amorites
+1. the Canaanites
+1. the Perizzites
+1. the Hivites
+1. the Jebusites
+
+Ac 13:20. 430 years in Egypt ([Ex 12:40](https://www.esv.org/Exodus+12:40/)) plus some time in the wilderness?
+
+Lk 1:77. Knowledge of salvation in the forgiveness of sins.
