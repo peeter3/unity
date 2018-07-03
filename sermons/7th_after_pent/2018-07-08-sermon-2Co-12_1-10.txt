@@ -1,0 +1,84 @@
+% 7th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Ezk 2:1‑5 ESV]
+
+[1] And he said to me, "Son of man, stand on your feet, and I will speak with you.” [2] And as he spoke to me, the Spirit entered into me and set me on my feet, and I heard him speaking to me. [3] And he said to me, “Son of man, I send you to the people of Israel, to nations of rebels, who have rebelled against me. They and their fathers have transgressed against me to this very day. [4] The descendants also are impudent and stubborn: I send you to them, and you shall say to them, ‘Thus says the Lord GOD.’ [5] And whether they hear or refuse to hear (for they are a rebellious house) they will know that a prophet has been among them."
+
+## Epistle [2Co 12:1‑10 ESV; sermon text]
+
+[1] I must go on boasting. Though there is nothing to be gained by it, I will go on to visions and revelations of the Lord. [2] I know a man in Christ who fourteen years ago was caught up to the third heaven---whether in the body or out of the body I do not know, God knows. [3] And I know that this man was caught up into paradise---whether in the body or out of the body I do not know, God knows---[4] and he heard things that cannot be told, which man may not utter. [5] On behalf of this man I will boast, but on my own behalf I will not boast, except of my weaknesses---[6] though if I should wish to boast, I would not be a fool, for I would be speaking the truth; but I refrain from it, so that no one may think more of me than he sees in me or hears from me.
+[7] So to keep me from becoming conceited because of the surpassing greatness of the revelations, a thorn was given me in the flesh, a messenger of Satan to harass me, to keep me from becoming conceited.
+[8] Three times I pleaded with the Lord about this, that it should leave me. [9] But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me. [10] For the sake of Christ, then, I am content with weaknesses, insults, hardships, persecutions, and calamities. For when I am weak, then I am strong.
+
+------------
+
+[1] Καυχᾶσθαι δεῖ: οὐ συμφέρον μέν, ἐλεύσομαι δὲ εἰς ὀπτασίας καὶ ἀποκαλύψεις κυρίου. 
+[2] οἶδα ἄνθρωπον ἐν Χριστῷ πρὸ ἐτῶν δεκατεσσάρων εἴτε ἐν σώματι οὐκ οἶδα, εἴτε ἐκτὸς τοῦ σώματος οὐκ οἶδα, ὁ θεὸς οἶδεν ἁρπαγέντα τὸν τοιοῦτον ἕως τρίτου οὐρανοῦ. 
+[3] καὶ οἶδα τὸν τοιοῦτον ἄνθρωπον εἴτε ἐν σώματι εἴτε χωρὶς τοῦ σώματος οὐκ οἶδα, ὁ θεὸς οἶδεν 
+[4] ὅτι ἡρπάγη εἰς τὸν παράδεισον καὶ ἤκουσεν ἄρρητα ῥήματα ἃ οὐκ ἐξὸν ἀνθρώπῳ λαλῆσαι. 
+[5] ὑπὲρ τοῦ τοιούτου καυχήσομαι, ὑπὲρ δὲ ἐμαυτοῦ οὐ καυχήσομαι εἰ μὴ ἐν ταῖς ἀσθενείαις. 
+[6] ἐὰν γὰρ θελήσω καυχήσασθαι, οὐκ ἔσομαι ἄφρων, ἀλήθειαν γὰρ ἐρῶ: φείδομαι δέ, μή τις εἰς ἐμὲ λογίσηται ὑπὲρ ὃ βλέπει με ἢ ἀκούει [τι] ἐξ ἐμοῦ 
+[7] καὶ τῇ ὑπερβολῇ τῶν ἀποκαλύψεων. διό, ἵνα μὴ ὑπεραίρωμαι, ἐδόθη μοι σκόλοψ τῇ σαρκί, ἄγγελος Σατανᾶ, ἵνα με κολαφίζῃ, ἵνα μὴ ὑπεραίρωμαι. 
+[8] ὑπὲρ τούτου τρὶς τὸν κύριον παρεκάλεσα ἵνα ἀποστῇ ἀπ' ἐμοῦ: 
+[9] καὶ εἴρηκέν μοι, Ἀρκεῖ σοι ἡ χάρις μου: ἡ γὰρ δύναμις ἐν ἀσθενείᾳ τελεῖται. ἥδιστα οὖν μᾶλλον καυχήσομαι ἐν ταῖς ἀσθενείαις μου, ἵνα ἐπισκηνώσῃ ἐπ' ἐμὲ ἡ δύναμις τοῦ Χριστοῦ. 
+[10] διὸ εὐδοκῶ ἐν ἀσθενείαις, ἐν ὕβρεσιν, ἐν ἀνάγκαις, ἐν διωγμοῖς καὶ στενοχωρίαις, ὑπὲρ Χριστοῦ: ὅταν γὰρ ἀσθενῶ, τότε δυνατός εἰμι.
+
+## Holy Gospel [Mk 6:1‑13 ESV]
+
+[1] [Jesus] went away from there and came to his hometown, and his disciples followed him. [2] And on the Sabbath he began to teach in the synagogue, and many who heard him were astonished, saying, “Where did this man get these things? What is the wisdom given to him? How are such mighty works done by his hands? [3] Is not this the carpenter, the son of Mary and brother of James and Joses and Judas and Simon? And are not his sisters here with us?” And they took offense at him. [4] And Jesus said to them, “A prophet is not without honor, except in his hometown and among his relatives and in his own household.” [5] And he could do no mighty work there, except that he laid his hands on a few sick people and healed them. [6] And he marveled because of their unbelief.
+
+And he went about among the villages teaching.
+
+[7] And he called the twelve and began to send them out two by two, and gave them authority over the unclean spirits. [8] He charged them to take nothing for their journey except a staff—no bread, no bag, no money in their belts—[9] but to wear sandals and not put on two tunics. [10] And he said to them, “Whenever you enter a house, stay there until you depart from there. [11] And if any place will not receive you and they will not listen to you, when you leave, shake off the dust that is on your feet as a testimony against them.” [12] So they went out and proclaimed that people should repent. [13] And they cast out many demons and anointed with oil many who were sick and healed them.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 413 _I Walk in Danger All the Way_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+You often think of what God is doing in your life---you may even share with others what God is doing in your life.
+But how often do you think of what Satan is doing in your life---would you dare share with others what Satan is doing in your life?
+"I fornicated this week. I was on the phone while I was being paid to work. I called someone a fool ([Mt 5:22](https://www.esv.org/Matthew+5:22/))."
+There is a lot to share, no doubt, and I am sure we have no trouble confessing our sins to God every Sunday morning---that is why we are here.
+
+What we have in our Epistle lesson today is St. Paul *boasting*---of all things---*boasting* of what Satan is doing in his life.
+
+> **So to keep me from becoming conceited because of the surpassing greatness of the revelations, a thorn was given me in the flesh, a messenger of Satan to harass me, to keep me from becoming conceited.**
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+Mk 6:13. The apostles practiced anointing with oil in the name of the Lord (cf. Jas 5:14).
