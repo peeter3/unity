@@ -1,0 +1,72 @@
+% 9th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Jer 23:1‑6 ESV]
+
+[1] “Woe to the shepherds who destroy and scatter the sheep of my pasture!” declares the LORD. [2] Therefore thus says the LORD, the God of Israel, concerning the shepherds who care for my people: “You have scattered my flock and have driven them away, and you have not attended to them. Behold, I will attend to you for your evil deeds, declares the LORD. [3] Then I will gather the remnant of my flock out of all the countries where I have driven them, and I will bring them back to their fold, and they shall be fruitful and multiply. [4] I will set shepherds over them who will care for them, and they shall fear no more, nor be dismayed, neither shall any be missing, declares the LORD.
+
+[5] “Behold, the days are coming, declares the LORD, when I will raise up for David a righteous Branch, and he shall reign as king and deal wisely, and shall execute justice and righteousness in the land. [6] In his days Judah will be saved, and Israel will dwell securely. And this is the name by which he will be called: ‘The LORD is our righteousness.’
+
+## Epistle [Eph 2:11‑22 ESV; sermon text]
+
+[11] Therefore remember that at one time you Gentiles in the flesh, called “the uncircumcision” by what is called the circumcision, which is made in the flesh by hands—[12] remember that you were at that time separated from Christ, alienated from the commonwealth of Israel and strangers to the covenants of promise, having no hope and without God in the world. [13] But now in Christ Jesus you who once were far off have been brought near by the blood of Christ. [14] For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility [15] by abolishing the law of commandments expressed in ordinances, that he might create in himself one new man in place of the two, so making peace, [16] and might reconcile us both to God in one body through the cross, thereby killing the hostility. [17] And he came and preached peace to you who were far off and peace to those who were near. [18] For through him we both have access in one Spirit to the Father. [19] So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God, [20] built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone, [21] in whom the whole structure, being joined together, grows into a holy temple in the Lord. [22] In him you also are being built together into a dwelling place for God by the Spirit.
+
+------------
+
+[11] Διὸ μνημονεύετε ὅτι ποτὲ ὑμεῖς τὰ ἔθνη ἐν σαρκί, οἱ λεγόμενοι ἀκροβυστία ὑπὸ τῆς λεγομένης περιτομῆς ἐν σαρκὶ χειροποιήτου, 
+[12] ὅτι ἦτε τῷ καιρῷ ἐκείνῳ χωρὶς Χριστοῦ, ἀπηλλοτριωμένοι τῆς πολιτείας τοῦ Ἰσραὴλ καὶ ξένοι τῶν διαθηκῶν τῆς ἐπαγγελίας, ἐλπίδα μὴ ἔχοντες καὶ ἄθεοι ἐν τῷ κόσμῳ. 
+[13] νυνὶ δὲ ἐν Χριστῷ Ἰησοῦ ὑμεῖς οἵ ποτε ὄντες μακρὰν ἐγενήθητε ἐγγὺς ἐν τῷ αἵματι τοῦ Χριστοῦ. 
+[14] Αὐτὸς γάρ ἐστιν ἡ εἰρήνη ἡμῶν, ὁ ποιήσας τὰ ἀμφότερα ἓν καὶ τὸ μεσότοιχον τοῦ φραγμοῦ λύσας, τὴν ἔχθραν, ἐν τῇ σαρκὶ αὐτοῦ, 
+[15] τὸν νόμον τῶν ἐντολῶν ἐν δόγμασιν καταργήσας, ἵνα τοὺς δύο κτίσῃ ἐν αὐτῷ εἰς ἕνα καινὸν ἄνθρωπον ποιῶν εἰρήνην, 
+[16] καὶ ἀποκαταλλάξῃ τοὺς ἀμφοτέρους ἐν ἑνὶ σώματι τῷ θεῷ διὰ τοῦ σταυροῦ, ἀποκτείνας τὴν ἔχθραν ἐν αὐτῷ. 
+[17] καὶ ἐλθὼν εὐηγγελίσατο εἰρήνην ὑμῖν τοῖς μακρὰν καὶ εἰρήνην τοῖς ἐγγύς: 
+[18] ὅτι δι' αὐτοῦ ἔχομεν τὴν προσαγωγὴν οἱ ἀμφότεροι ἐν ἑνὶ πνεύματι πρὸς τὸν πατέρα. 
+[19] ἄρα οὖν οὐκέτι ἐστὲ ξένοι καὶ πάροικοι, ἀλλὰ ἐστὲ συμπολῖται τῶν ἁγίων καὶ οἰκεῖοι τοῦ θεοῦ, 
+[20] ἐποικοδομηθέντες ἐπὶ τῷ θεμελίῳ τῶν ἀποστόλων καὶ προφητῶν, ὄντος ἀκρογωνιαίου αὐτοῦ Χριστοῦ Ἰησοῦ, 
+[21] ἐν ᾧ πᾶσα οἰκοδομὴ συναρμολογουμένη αὔξει εἰς ναὸν ἅγιον ἐν κυρίῳ, 
+[22] ἐν ᾧ καὶ ὑμεῖς συνοικοδομεῖσθε εἰς κατοικητήριον τοῦ θεοῦ ἐν πνεύματι.
+
+## Holy Gospel [Mk 6:30‑44 ESV]
+
+[30] The apostles returned to Jesus and told him all that they had done and taught. [31] And he said to them, “Come away by yourselves to a desolate place and rest a while.” For many were coming and going, and they had no leisure even to eat. [32] And they went away in the boat to a desolate place by themselves. [33] Now many saw them going and recognized them, and they ran there on foot from all the towns and got there ahead of them. [34] When he went ashore he saw a great crowd, and he had compassion on them, because they were like sheep without a shepherd. And he began to teach them many things. [35] And when it grew late, his disciples came to him and said, “This is a desolate place, and the hour is now late. [36] Send them away to go into the surrounding countryside and villages and buy themselves something to eat.” [37] But he answered them, “You give them something to eat.” And they said to him, “Shall we go and buy two hundred denarii worth of bread and give it to them to eat?” [38] And he said to them, “How many loaves do you have? Go and see.” And when they had found out, they said, “Five, and two fish.” [39] Then he commanded them all to sit down in groups on the green grass. [40] So they sat down in groups, by hundreds and by fifties. [41] And taking the five loaves and the two fish, he looked up to heaven and said a blessing and broke the loaves and gave them to the disciples to set before the people. And he divided the two fish among them all. [42] And they all ate and were satisfied. [43] And they took up twelve baskets full of broken pieces and of the fish. [44] And those who ate the loaves were five thousand men.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 473 _The Church's One Foundation_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
