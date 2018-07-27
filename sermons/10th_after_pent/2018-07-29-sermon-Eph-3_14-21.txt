@@ -1,0 +1,62 @@
+% 10th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Gn 9:8‑17 ESV]
+
+[8] Then God said to Noah and to his sons with him, [9] “Behold, I establish my covenant with you and your offspring after you, [10] and with every living creature that is with you, the birds, the livestock, and every beast of the earth with you, as many as came out of the ark; it is for every beast of the earth. [11] I establish my covenant with you, that never again shall all flesh be cut off by the waters of the flood, and never again shall there be a flood to destroy the earth.” [12] And God said, “This is the sign of the covenant that I make between me and you and every living creature that is with you, for all future generations: [13] I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth. [14] When I bring clouds over the earth and the bow is seen in the clouds, [15] I will remember my covenant that is between me and you and every living creature of all flesh. And the waters shall never again become a flood to destroy all flesh. [16] When the bow is in the clouds, I will see it and remember the everlasting covenant between God and every living creature of all flesh that is on the earth.” [17] God said to Noah, “This is the sign of the covenant that I have established between me and all flesh that is on the earth.”
+
+## Epistle [Eph 3:14‑21 ESV; sermon text]
+
+[14] For this reason I bow my knees before the Father, [15] from whom every family in heaven and on earth is named, [16] that according to the riches of his glory he may grant you to be strengthened with power through his Spirit in your inner being, [17] so that Christ may dwell in your hearts through faith—that you, being rooted and grounded in love, [18] may have strength to comprehend with all the saints what is the breadth and length and height and depth, [19] and to know the love of Christ that surpasses knowledge, that you may be filled with all the fullness of God.
+
+[20] Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us, [21] to him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.
+
+------------
+
+
+## Holy Gospel [Mk 6:45‑56 ESV]
+
+[45] Immediately he made his disciples get into the boat and go before him to the other side, to Bethsaida, while he dismissed the crowd. [46] And after he had taken leave of them, he went up on the mountain to pray. [47] And when evening came, the boat was out on the sea, and he was alone on the land. [48] And he saw that they were making headway painfully, for the wind was against them. And about the fourth watch of the night he came to them, walking on the sea. He meant to pass by them, [49] but when they saw him walking on the sea they thought it was a ghost, and cried out, [50] for they all saw him and were terrified. But immediately he spoke to them and said, “Take heart; it is I. Do not be afraid.” [51] And he got into the boat with them, and the wind ceased. And they were utterly astounded, [52] for they did not understand about the loaves, but their hearts were hardened.
+
+[53] When they had crossed over, they came to land at Gennesaret and moored to the shore. [54] And when they got out of the boat, the people immediately recognized him [55] and ran about the whole region and began to bring the sick people on their beds to wherever they heard he was. [56] And wherever he came, in villages, cities, or countryside, they laid the sick in the marketplaces and implored him that they might touch even the fringe of his garment. And as many as touched it were made well.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 348 _Jesus, Jesus, Only Jesus_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
