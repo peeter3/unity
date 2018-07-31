@@ -1,0 +1,96 @@
+% 11th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Ex 16:2‑15 ESV]
+
+[2] And the whole congregation of the people of Israel grumbled against Moses and Aaron in the wilderness, [3] and the people of Israel said to them, “Would that we had died by the hand of the LORD in the land of Egypt, when we sat by the meat pots and ate bread to the full, for you have brought us out into this wilderness to kill this whole assembly with hunger.”
+
+[4] Then the LORD said to Moses, “Behold, I am about to rain bread from heaven for you, and the people shall go out and gather a day's portion every day, that I may test them, whether they will walk in my law or not. [5] On the sixth day, when they prepare what they bring in, it will be twice as much as they gather daily.” [6] So Moses and Aaron said to all the people of Israel, “At evening you shall know that it was the LORD who brought you out of the land of Egypt, [7] and in the morning you shall see the glory of the LORD, because he has heard your grumbling against the LORD. For what are we, that you grumble against us?” [8] And Moses said, “When the LORD gives you in the evening meat to eat and in the morning bread to the full, because the LORD has heard your grumbling that you grumble against him—what are we? Your grumbling is not against us but against the LORD.”
+
+[9] Then Moses said to Aaron, “Say to the whole congregation of the people of Israel, ‘Come near before the LORD, for he has heard your grumbling.’” [10] And as soon as Aaron spoke to the whole congregation of the people of Israel, they looked toward the wilderness, and behold, the glory of the LORD appeared in the cloud. [11] And the LORD said to Moses, [12] “I have heard the grumbling of the people of Israel. Say to them, ‘At twilight you shall eat meat, and in the morning you shall be filled with bread. Then you shall know that I am the LORD your God.’”
+
+[13] In the evening quail came up and covered the camp, and in the morning dew lay around the camp. [14] And when the dew had gone up, there was on the face of the wilderness a fine, flake-like thing, fine as frost on the ground. [15] When the people of Israel saw it, they said to one another, “What is it?” For they did not know what it was. And Moses said to them, “It is the bread that the LORD has given you to eat. [16] This is what the LORD has commanded: ‘Gather of it, each one of you, as much as he can eat. You shall each take an omer, according to the number of the persons that each of you has in his tent.’”
+
+## Epistle [Eph 4:1‑16 ESV; sermon text]
+
+[1] I therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called, [2] with all humility and gentleness, with patience, bearing with one another in love, [3] eager to maintain the unity of the Spirit in the bond of peace. [4] There is one body and one Spirit—just as you were called to the one hope that belongs to your call—[5] one Lord, one faith, one baptism, [6] one God and Father of all, who is over all and through all and in all. [7] But grace was given to each one of us according to the measure of Christ's gift. [8] Therefore it says,
+
+> “When he ascended on high he led a host of captives,\
+> and he gave gifts to men.”
+
+[9] (In saying, “He ascended,” what does it mean but that he had also descended into the lower regions, the earth? [10] He who descended is the one who also ascended far above all the heavens, that he might fill all things.) [11] And he gave the apostles, the prophets, the evangelists, the shepherds and teachers, [12] to equip the saints for the work of ministry, for building up the body of Christ, [13] until we all attain to the unity of the faith and of the knowledge of the Son of God, to mature manhood, to the measure of the stature of the fullness of Christ, [14] so that we may no longer be children, tossed to and fro by the waves and carried about by every wind of doctrine, by human cunning, by craftiness in deceitful schemes. [15] Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ, [16] from whom the whole body, joined and held together by every joint with which it is equipped, when each part is working properly, makes the body grow so that it builds itself up in love.
+
+------------
+
+[1] Παρακαλῶ οὖν ὑμᾶς ἐγὼ ὁ δέσμιος ἐν κυρίῳ ἀξίως περιπατῆσαι τῆς κλήσεως ἧς ἐκλήθητε, 
+[2] μετὰ πάσης ταπεινοφροσύνης καὶ πραΰτητος, μετὰ μακροθυμίας, ἀνεχόμενοι ἀλλήλων ἐν ἀγάπῃ, 
+[3] σπουδάζοντες τηρεῖν τὴν ἑνότητα τοῦ πνεύματος ἐν τῷ συνδέσμῳ τῆς εἰρήνης: 
+[4] ἓν σῶμα καὶ ἓν πνεῦμα, καθὼς καὶ ἐκλήθητε ἐν μιᾷ ἐλπίδι τῆς κλήσεως ὑμῶν: 
+[5] εἷς κύριος, μία πίστις, ἓν βάπτισμα: 
+[6] εἷς θεὸς καὶ πατὴρ πάντων, ὁ ἐπὶ πάντων καὶ διὰ πάντων καὶ ἐν πᾶσιν. 
+[7] Ἑνὶ δὲ ἑκάστῳ ἡμῶν ἐδόθη ἡ χάρις κατὰ τὸ μέτρον τῆς δωρεᾶς τοῦ Χριστοῦ. 
+[8] διὸ λέγει,
+
+> Ἀναβὰς εἰς ὕψος ᾐχμαλώτευσεν αἰχμαλωσίαν, ἔδωκεν δόματα τοῖς ἀνθρώποις. 
+
+[9] {τὸ δὲ Ἀνέβη τί ἐστιν εἰ μὴ ὅτι καὶ κατέβη εἰς τὰ κατώτερα [μέρη] τῆς γῆς; 
+[10] ὁ καταβὰς αὐτός ἐστιν καὶ ὁ ἀναβὰς ὑπεράνω πάντων τῶν οὐρανῶν, ἵνα πληρώσῃ τὰ πάντα.} 
+[11] καὶ αὐτὸς ἔδωκεν τοὺς μὲν ἀποστόλους, τοὺς δὲ προφήτας, τοὺς δὲ εὐαγγελιστάς, τοὺς δὲ ποιμένας καὶ διδασκάλους, 
+[12] πρὸς τὸν καταρτισμὸν τῶν ἁγίων εἰς ἔργον διακονίας, εἰς οἰκοδομὴν τοῦ σώματος τοῦ Χριστοῦ, 
+[13] μέχρι καταντήσωμεν οἱ πάντες εἰς τὴν ἑνότητα τῆς πίστεως καὶ τῆς ἐπιγνώσεως τοῦ υἱοῦ τοῦ θεοῦ, εἰς ἄνδρα τέλειον, εἰς μέτρον ἡλικίας τοῦ πληρώματος τοῦ Χριστοῦ, 
+[14] ἵνα μηκέτι ὦμεν νήπιοι, κλυδωνιζόμενοι καὶ περιφερόμενοι παντὶ ἀνέμῳ τῆς διδασκαλίας ἐν τῇ κυβείᾳ τῶν ἀνθρώπων ἐν πανουργίᾳ πρὸς τὴν μεθοδείαν τῆς πλάνης, 
+[15] ἀληθεύοντες δὲ ἐν ἀγάπῃ αὐξήσωμεν εἰς αὐτὸν τὰ πάντα, ὅς ἐστιν ἡ κεφαλή, Χριστός, 
+[16] ἐξ οὗ πᾶν τὸ σῶμα συναρμολογούμενον καὶ συμβιβαζόμενον διὰ πάσης ἁφῆς τῆς ἐπιχορηγίας κατ' ἐνέργειαν ἐν μέτρῳ ἑνὸς ἑκάστου μέρους τὴν αὔξησιν τοῦ σώματος ποιεῖται εἰς οἰκοδομὴν ἑαυτοῦ ἐν ἀγάπῃ.
+
+## Holy Gospel [Jn 6:22‑35 ESV]
+
+[22] On the next day the crowd that remained on the other side of the sea saw that there had been only one boat there, and that Jesus had not entered the boat with his disciples, but that his disciples had gone away alone. [23] Other boats from Tiberias came near the place where they had eaten the bread after the Lord had given thanks. [24] So when the crowd saw that Jesus was not there, nor his disciples, they themselves got into the boats and went to Capernaum, seeking Jesus.
+
+[25] When they found him on the other side of the sea, they said to him, “Rabbi, when did you come here?” [26] Jesus answered them, “Truly, truly, I say to you, you are seeking me, not because you saw signs, but because you ate your fill of the loaves. [27] Do not work for the food that perishes, but for the food that endures to eternal life, which the Son of Man will give to you. For on him God the Father has set his seal.” [28] Then they said to him, “What must we do, to be doing the works of God?” [29] Jesus answered them, “This is the work of God, that you believe in him whom he has sent.” [30] So they said to him, “Then what sign do you do, that we may see and believe you? What work do you perform? [31] Our fathers ate the manna in the wilderness; as it is written, ‘He gave them bread from heaven to eat.’” [32] Jesus then said to them, “Truly, truly, I say to you, it was not Moses who gave you the bread from heaven, but my Father gives you the true bread from heaven. [33] For the bread of God is he who comes down from heaven and gives life to the world.” [34] They said to him, “Sir, give us this bread always.”
+
+[35] Jesus said to them, "I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst."
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 464 _Blest Be the Tie That Binds_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+Eph 4:5; 5:26. Washing of water with the Word. This washing of water with the Word helps us identify *one Baptism*.
+
+Jn 6:29, 44; Eph 2:8‑9. It is a work of God that one can even beleive.
