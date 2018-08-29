@@ -1,0 +1,90 @@
+% 15th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Dt 4:1‑2, 6‑9 ESV]
+
+[1] “And now, O Israel, listen to the statutes and the rules that I am teaching you, and do them, that you may live, and go in and take possession of the land that the LORD, the God of your fathers, is giving you. [2] You shall not add to the word that I command you, nor take from it, that you may keep the commandments of the LORD your God that I command you.
+
+[6] Keep them and do them, for that will be your wisdom and your understanding in the sight of the peoples, who, when they hear all these statutes, will say, ‘Surely this great nation is a wise and understanding people.’ [7] For what great nation is there that has a god so near to it as the LORD our God is to us, whenever we call upon him? [8] And what great nation is there, that has statutes and rules so righteous as all this law that I set before you today?
+
+[9] “Only take care, and keep your soul diligently, lest you forget the things that your eyes have seen, and lest they depart from your heart all the days of your life. Make them known to your children and your children's children.
+
+## Epistle [Eph 6:10‑20 ESV; sermon text]
+
+[10] Finally, be strong in the Lord and in the strength of his might. [11] Put on the whole armor of God, that you may be able to stand against the schemes of the devil. [12] For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places. [13] Therefore take up the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand firm. [14] Stand therefore, having fastened on the belt of truth, and having put on the breastplate of righteousness, [15] and, as shoes for your feet, having put on the readiness given by the gospel of peace. [16] In all circumstances take up the shield of faith, with which you can extinguish all the flaming darts of the evil one; [17] and take the helmet of salvation, and the sword of the Spirit, which is the word of God, [18] praying at all times in the Spirit, with all prayer and supplication. To that end, keep alert with all perseverance, making supplication for all the saints, [19] and also for me, that words may be given to me in opening my mouth boldly to proclaim the mystery of the gospel, [20] for which I am an ambassador in chains, that I may declare it boldly, as I ought to speak.
+
+------------
+
+[10] Τοῦ λοιποῦ ἐνδυναμοῦσθε ἐν κυρίῳ καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ. 
+[11] ἐνδύσασθε τὴν πανοπλίαν τοῦ θεοῦ πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδείας τοῦ διαβόλου: 
+[12] ὅτι οὐκ ἔστιν ἡμῖν ἡ πάλη πρὸς αἷμα καὶ σάρκα, ἀλλὰ πρὸς τὰς ἀρχάς, πρὸς τὰς ἐξουσίας, πρὸς τοὺς κοσμοκράτορας τοῦ σκότους τούτου, πρὸς τὰ πνευματικὰ τῆς πονηρίας ἐν τοῖς ἐπουρανίοις. 
+[13] διὰ τοῦτο ἀναλάβετε τὴν πανοπλίαν τοῦ θεοῦ, ἵνα δυνηθῆτε ἀντιστῆναι ἐν τῇ ἡμέρᾳ τῇ πονηρᾷ καὶ ἅπαντα κατεργασάμενοι στῆναι. 
+[14] στῆτε οὖν περιζωσάμενοι τὴν ὀσφὺν ὑμῶν ἐν ἀληθείᾳ, καὶ ἐνδυσάμενοι τὸν θώρακα τῆς δικαιοσύνης, 
+[15] καὶ ὑποδησάμενοι τοὺς πόδας ἐν ἑτοιμασίᾳ τοῦ εὐαγγελίου τῆς εἰρήνης, 
+[16] ἐν πᾶσιν ἀναλαβόντες τὸν θυρεὸν τῆς πίστεως, ἐν ᾧ δυνήσεσθε πάντα τὰ βέλη τοῦ πονηροῦ [τὰ] πεπυρωμένα σβέσαι: 
+[17] καὶ τὴν περικεφαλαίαν τοῦ σωτηρίου δέξασθε, καὶ τὴν μάχαιραν τοῦ πνεύματος, ὅ ἐστιν ῥῆμα θεοῦ, 
+[18] διὰ πάσης προσευχῆς καὶ δεήσεως προσευχόμενοι ἐν παντὶ καιρῷ ἐν πνεύματι, καὶ εἰς αὐτὸ ἀγρυπνοῦντες ἐν πάσῃ προσκαρτερήσει καὶ δεήσει περὶ πάντων τῶν ἁγίων, 
+[19] καὶ ὑπὲρ ἐμοῦ, ἵνα μοι δοθῇ λόγος ἐν ἀνοίξει τοῦ στόματός μου, ἐν παρρησίᾳ γνωρίσαι τὸ μυστήριον τοῦ εὐαγγελίου 
+[20] ὑπὲρ οὗ πρεσβεύω ἐν ἁλύσει, ἵνα ἐν αὐτῷ παρρησιάσωμαι ὡς δεῖ με λαλῆσαι.
+
+## Holy Gospel [Mk 7:14‑23 ESV]
+
+[14] And he called the people to him again and said to them, “Hear me, all of you, and understand: [15] There is nothing outside a person that by going into him can defile him, but the things that come out of a person are what defile him.” [17] And when he had entered the house and left the people, his disciples asked him about the parable. [18] And he said to them, “Then are you also without understanding? Do you not see that whatever goes into a person from outside cannot defile him, [19] since it enters not his heart but his stomach, and is expelled?” (Thus he declared all foods clean.) [20] And he said, “What comes out of a person is what defiles him. [21] For from within, out of the heart of man, come evil thoughts, sexual immorality, theft, murder, adultery, [22] coveting, wickedness, deceit, sensuality, envy, slander, pride, foolishness. [23] All these evil things come from within, and they defile a person.”
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 445 _Am I a Soldier of the Cross_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+It is one thing to have one person's opinion against another.
+You see things one way and I see them another---this is the arena of ideas.
+It is good to listen to and respect someone else's ideas, and of all the nations in history, we are built to protect each individual's ideas and his or her freedom to express them.
+Now when it comes to *What will we do?*, your idea might win out over mine.
+The way we are set up in America, your idea might get the most votes and that is why it won out over mine.
+But note history quite carefully.
+Ideology has been forced upon people first by coercion, and then by violence.
+People die miserably in masses when ideology is forced opon people first by coercion, and then by violence, and you get the idea that something evil is going on.
+
+Precisely!
+Beloved in the Lord, the devil is involved in ideology.
+Study history---you can see the gruesome videos on YouTube---and there is no doubt that Satan was behind Hitler's national socialism and Satan was behind Stalin's communism.
+You can tell the tree by its fruit.
+Study history and you will see coercion to fall in line with ideology followed by violence and murder to get entire nations to fall in line with ideology.
+There was no victory of ideas---Satan sold ideology in order to lie and to murder.
+Satan sold ideology to Eve in the Garden of Eden: **"For God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil"** ([Gn 3:5](https://www.esv.org/Genesis+3:5/) ESV).
+The idea was equality---equality with God.
+Every one of us can easily agree on equality on many issues---equal opportunity, equal pay, serve everyone the same---but beware that Satan can easily clothe a lie with the language of equality and *watch out*.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
