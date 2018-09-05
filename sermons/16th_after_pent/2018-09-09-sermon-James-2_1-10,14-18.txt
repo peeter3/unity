@@ -1,0 +1,90 @@
+% 16th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* 
+
+## Announcements
+
+* Thank you for welcoming our family in Christ last Sunday. Going forward we will need to get used to a few things. On Sunday mornings to be respectful of 
+the space they are using which is the 2nd floor classroom, the first floor classroom and the restroom on the main floor in the back stairwell.
+Also, since their little children have kid's time in our library between 10:30 and 11:45 which is the time that some of us leave the building
+after drinking some coffee, please try to be very careful to close the Behrwald door tightly behind you as you leave.
+
+## Old Testament [Is 35:4-7a ESV]
+
+[4] Say to those who have an anxious heart, “Be strong; fear not! Behold, your God will come with vengeance, with the recompense of God. He will come and save you.”
+[5] Then the eyes of the blind shall be opened, and the ears of the deaf unstopped;
+[6] then shall the lame man leap like a deer,and the tongue of the mute sing for joy.
+For waters break forth in the wilderness, and streams in the desert;
+[7] the burning sand shall become a pool, and the thirsty ground springs of water;
+
+## Epistle [James 2:1‑10, 14-18 ESV; sermon text]
+
+[2:1]My brothers, show no partiality as you hold the faith in our Lord Jesus Christ, the Lord of glory. [2] For if a man wearing a gold ring and fine clothing comes into your assembly, and a poor man in shabby clothing also comes in, 
+[3] and if you pay attention to the one who wears the fine clothing and say, “You sit here in a good place,” while you say to the poor man, “You stand over there,” or, “Sit down at my feet,” 
+[4] have you not then made distinctions among yourselves and become judges with evil thoughts? [5] Listen, my beloved brothers, has not God chosen those who are poor in the world to be rich in faith and heirs of the kingdom, which he
+has promised to those who love him? [6] But you have dishonored the poor man. Are not the rich the ones who oppress you, and the ones who drag you into court? [7] Are they not the ones who blaspheme the honorable name by which you were called?
+[8] If you really fulfill the royal law according to the Scripture, “You shall love your neighbor as yourself,” you are doing well. [9] But if you show partiality, you are committing sin and are convicted by the law as transgressors. 
+[10] For whoever keeps the whole law but fails in one point has become guilty of all of it.[14] What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him? [15] If a brother or sister is poorly 
+clothed and lacking in daily food, [16] and one of you says to them, “Go in peace, be warmed and filled,” without giving them the things needed for the body, what good is that? [17] So also faith by itself, if it does not have works, is dead.
+[18] But someone will say, “You have faith and I have works.” Show me your faith apart from your works, and I will show you my faith by my works. 
+
+------------
+
+
+## Holy Gospel [Mk 7:(24-30)31-37 ESV]
+
+[24] And from there he arose and went away to the region of Tyre and Sidon. And he entered a house and did not want anyone to know, yet he could not be hidden. [25] But immediately a woman whose little 
+daughter had an unclean spirit heard of him and came and fell down at his feet. [26] Now the woman was a Gentile, a Syrophoenician by birth. And she begged him to cast the demon out of her daughter.
+[27] And he said to her, “Let the children be fed first, for it is not right to take the children's bread and throw it to the dogs.” [28] But she answered him, “Yes, Lord; yet even 
+the dogs under the table eat the children's crumbs.” [29] And he said to her, “For this statement you may go your way; the demon has left your daughter.” [30] And she went home and found the child lying
+in bed and the demon gone. [31] Then he returned from the region of Tyre and went through Sidon to the Sea of Galilee, in the region of the Decapolis. [32] And they brought to him a man who was deaf and 
+had a speech impediment, and they begged him to lay his hand on him. [33] And taking him aside from the crowd privately, he put his fingers into his ears, and after spitting touched his tongue. 
+[34] And looking up to heaven, he sighed and said to him, “Ephphatha,” that is, “Be opened.” [35] And his ears were opened, his tongue was released, and he spoke plainly. [36] And Jesus charged them 
+to tell no one. But the more he charged them, the more zealously they proclaimed it. [37] And they were astonished beyond measure, saying, “He has done all things well. He even makes the deaf hear and the mute speak.”
+
+## Introit [Ps 28:1-2, 6-7; antiphon: Ps 28:8]
+
+> The LORD is the strength of his | people;\*\
+> he is the saving refuge of his a- | nointed.\
+> To you, O LORD, I call; my rock, be not | deaf to me,\*\
+> lest, if you be silent to me, I become like those who go down | to the pit.\
+> Hear the voice of my pleas for mercy, when I cry to | you for help,\*\
+> when I lift up my hands toward your most holy sanctu- | ary.\
+> Blessed | be the LORD!\*\
+> for he has heard the voice of my pleas for | mercy.\
+> The LORD is my strength and my shield; in him my heart trusts, and | I am helped;\*\
+> my heart exults, and with my song I give | thanks to him.\
+
+## Collect
+
+O Lord, let Your merciful ears be open to the prayers of Your humble servants and grant that what they ask may be in accord with Your gracious will; through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 26 _Praise the Almighty, My Soul Adore Him_
+* Sermon hymn: _TLH_  _---_
+* Communion hymn: _TLH_ 315 _I Come O Savior to Thy Table_ _St 6-10_
+* Closing hymn: _TLH_ 51 _Now May He Who from the Dead_
+
+## Sermon
+
+
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+
+Eph 6:20. *ὡς δεῖ με λαλῆσαι*: "I've *got to* proclaim it."
