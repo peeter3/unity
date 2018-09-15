@@ -1,0 +1,94 @@
+% 16th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+## Announcements
+
+* Thank you for welcoming our family in Christ last Sunday. Going forward we will need to get used to a few things. On Sunday mornings to be respectful of 
+the space they are using which is the 2nd floor classroom, the first floor classroom and the restroom on the main floor in the back stairwell.
+Also, since their little children have kid's time in our library between 10:30 and 11:45 which is the time that some of us leave the building
+after drinking some coffee, please try to be very careful to close the Behrwald door tightly behind you as you leave.
+
+## Old Testament [Jer. 11:18-20 ESV]
+
+> [18] The Lord made it known to me and I knew; then you showed me their deeds.\
+> [19] But I was like a gentle lamb led to the slaughter. I did not know it was against me they devised schemes, saying,
+“Let us destroy the tree with its fruit, let us cut him off from the land of the living, that his name be remembered no more.”\
+> [20] But, O Lord of hosts, who judges righteously, who tests the heart and the mind, let me see your vengeance upon them, for to you have I committed my cause.
+
+## Epistle [James 3:13-4:10 ESV; sermon text]
+
+[13] Who is wise and understanding among you? By his good conduct let him show his works in the meekness of wisdom. [14] But if 
+you have bitter jealousy and selfish ambition in your hearts, do not boast and be false to the truth. [15] This is not the wisdom
+that comes down from above, but is earthly, unspiritual, demonic. [16] For where jealousy and selfish ambition exist, there will
+be disorder and every vile practice. [17] But the wisdom from above is first pure, then peaceable, gentle, open to reason, full 
+of mercy and good fruits, impartial and sincere. [18] And a harvest of righteousness is sown in peace by those who make peace.
+[4:1] What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you? [2] You 
+desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do 
+not ask. [3] You ask and do not receive, because you ask wrongly, to spend it on your passions. [4] You adulterous people! Do 
+you not know that friendship with the world is enmity with God? Therefore whoever wishes to be a friend of the world makes 
+himself an enemy of God. [5] Or do you suppose it is to no purpose that the Scripture says, “He yearns jealously over the spirit
+that he has made to dwell in us”? [6] But he gives more grace. Therefore it says, “God opposes the proud, but gives grace to the
+humble.” [7] Submit yourselves therefore to God. Resist the devil, and he will flee from you. [8] Draw near to God, and he will 
+draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded. [9] Be wretched and mourn and weep.
+Let your laughter be turned to mourning and your joy to gloom. [10] Humble yourselves before the Lord, and he will exalt you.
+...
+
+------------
+
+[1] Ἀδελφοί μου, μὴ ἐν προσωπολημψίαις ἔχετε τὴν πίστιν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τῆς δόξης. 
+[2] ἐὰν γὰρ εἰσέλθῃ εἰς συναγωγὴν ὑμῶν ἀνὴρ χρυσοδακτύλιο τῶν ἔργων μου τὴν πίστιν.
+
+## Holy Gospel [Mk 9:30-37 ESV]
+
+[30] They went on from there and passed through Galilee. And he did not want anyone to know, [31] for he was teaching his 
+disciples, saying to them, “The Son of Man is going to be delivered into the hands of men, and they will kill him. And when 
+he is killed, after three days he will rise.” [32] But they did not understand the saying, and were afraid to ask him.
+[33] And they came to Capernaum. And when he was in the house he asked them, “What were you discussing on the way?” [34] But 
+they kept silent, for on the way they had argued with one another about who was the greatest. [35] And he sat down and called 
+the twelve. And he said to them, “If anyone would be first, he must be last of all and servant of all.” [36] And he took a child
+and put him in the midst of them, and taking him in his arms, he said to them, [37] “Whoever receives one such child in my name 
+receives me, and whoever receives me, receives not me but him who sent me.” 
+
+## Introit [Ps 37:5-7; antiphon: Ps 37:4]
+
+> Delight yourself | in the LORD,\*\
+> and he will give you the desires | of your heart.\
+> Commit your way | to the LORD;\*\
+> trust in him, and | he will act.\
+> He will bring forth your righteousness | as the light,\*\
+> and your justice as the | noonday.\
+> Be still before the LORD and wait patiently | for him;\*\
+> fret not yourself over the one who prospers in his way, over the man who carries out evil de- | vices!\
+
+
+## Collect
+
+O God, whose strength is made perfect in weakness, grant us humility and childlike faith that we may please You in both will and deed; through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TSC_ 26 _My God, How Wonderful Thou Art_
+* Sermon hymn: _TLH_ 999 _ZZZ_
+* Communion hymn: _TSC_ 222 _Let Us Break Bread Together_ 
+* Closing hymn: _TSC_ 326 _O for a Faith That Will Not Shrink_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
