@@ -1,4 +1,4 @@
-% 16th after Pentecost
+% 17th after Pentecost
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
 ## During the service
@@ -77,11 +77,11 @@ it seizes him, it throws him down, and he foams and grinds his teeth and becomes
 [20] And they brought the boy to him. And when the spirit saw him, immediately it convulsed the boy, and he fell on the ground and rolled about, 
 foaming at the mouth. [21] And Jesus asked his father, “How long has this been happening to him?” And he said, “From childhood. 
 [22] And it has often cast him into fire and into water, to destroy him. But if you can do anything, have compassion on us and help us.” 
-[23] And Jesus said to him, “‘If you can’! All things are possible for one who believes.” [24] Immediately the father of the child cried out and said, 
-“I believe; help my unbelief!” [25] And when Jesus saw that a crowd came running together, he rebuked the unclean spirit, saying to it, 
+[23] And Jesus said to him, “‘If you can’! **All things are possible for one who believes.**” [24] Immediately the father of the child cried out and said, 
+**“I believe; help my unbelief!”** [25] And when Jesus saw that a crowd came running together, he rebuked the unclean spirit, saying to it, 
 “You mute and deaf spirit, I command you, come out of him and never enter him again.” [26] And after crying out and convulsing him terribly, 
 it came out, and the boy was like a corpse, so that most of them said, “He is dead.” [27] But Jesus took him by the hand and lifted him up, and he arose. 
-[28] And when he had entered the house, his disciples asked him privately, “Why could we not cast it out?” [29] And he said to them, “This kind cannot be driven out by anything but prayer.”
+[28] And when he had entered the house, his disciples asked him privately, “Why could we not cast it out?” [29] And he said to them, **“This kind cannot be driven out by anything but prayer.”**
 
 ## Introit [Ps 31:14-16; antiphon: Ps 31:24]
 
@@ -108,53 +108,120 @@ Lord Jesus Christ, our support and defense in every need, continue to preserve Y
 
 Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
 Who among us is *not* tugged in every which direction?
-Which of these tugs should we pay attention to first?
-There is urgency and there is also priority.
-Which has the highest priority---which should we focus on?
-It is hard to figure out, but, thanks be to God, we have guidance from His Word on this matter of what we should make our priority in today's Epistle reading.
-For here we have teaching on *the tongue*---yes, that little appendage behind our lips and between our teeth that weighs a few ounces at most.
+Which of these tugs should you pay attention to?
+Which of these tugs should you ignore?
+Which of these tugs should receive priority treatment?
+It is hard to figure out, but, thanks be to God, you are given guidance from today's Epistle reading on this matter of what you should make your priority.
+For here we have teaching about *the tongue*---yes, that little appendage behind your lips and between your teeth that weighs a few ounces at most.
 But that few ounces of muscle controls your *whole body*:
 
-> **If anyone does not stumble in _what he says_, he is a perfect man, able also to bridle his whole body.**
+> **If anyone does not stumble in what he _says_, he is a perfect man, able also to bridle his _whole body_.**
 
-I invite you then at this moment to consider every word that you have ever articulated---every syllable that has proceeded from your tongue *and acknowledge that they were all heard by our Father in heaven*.
-*I* did not hear them all, but it may be fair to say, "Dear Lord, are you in trouble!"
-James writes,
+I invite you then at this moment to consider every word that you have ever said---every syllable that has proceeded from your tongue *and acknowledge that they were all heard by God*.
+He heard everything.
+And be reminded that
+
+> **"Nothing is covered up that will not be revealed, or hidden that will not be known. Therefore whatever you have said in the dark shall be heard in the light, and what you have whispered in private rooms shall be proclaimed on the housetops."** ([Lk 12:2‑3](https://www.esv.org/Luke+12:2/) ESV)
+
+says our Lord Jesus.
+
+It may be fair to say, "Dear Lord, I'm in trouble!"
+For James writes in our Epistle reading,
 
 > **The tongue is a fire, a world of unrighteousness. The tongue is set among our members, staining the whole body, setting on fire the entire course of life, and set on fire by hell.**
 
-We are reminded of Christ's teaching in Matthew, chapter 15:
+The tounge is set on fire by hell.
+Your tongue, *my* tongue, I am ashamed to say, has been easily wielded by Satan as an instrument of hell, where I sought to destroy others as Satan wants them destroyed in hell.
+Slandering and gossiping is none other than a taste of hell on earth, where, God forbid, we seek to destroy others---coloring others to make them look less than what God sees them to be.
+And that, of course, is Satan's job---to accuse us before God and make the condemnation stick.
+Let us remember our own Lord's teaching in Matthew, chapter 15:
 
 > **What comes out of the mouth proceeds from the heart, and this defiles a person. For out of the heart come evil thoughts, murder, adultery, sexual immorality, theft, false witness, slander. These are what defile a person. But to eat with unwashed hands does not defile anyone.** ([Mt 15:18‑20](https://www.esv.org/Matthew+15:18/) ESV)
 
-And need I remind you that hell is real?
-For all that has proceeded from *my* mouth, I deserve, according to God's Word, to be in that place where the worm does not die and the fire is not quenched ([Mk 9:48](https://www.esv.org/Mark+9:48/)).
+For all that has proceeded from *my* heart and *my* mouth, I deserve, according to God's Word, to be in that place where the worm does not die and the fire is not quenched ([Mk 9:48](https://www.esv.org/Mark+9:48/)).
+The tongue is terrible.
 
+But before you cut it out, listen to how *God* speaks of sinners who deserve to go to hell.
+I raise before you not and example from a corner of the Bible, but the example that is found *throughout* the Bible, and that is the example of King David.
 How does the Bible speak about King David?
 
-2 Samuel 7:12–13
+The LORD anointed David king of Israel and gave him rest from his enemies, and in 2 Samuel, chapter 7, He promises David,
 
-[12] When your days are fulfilled and you lie down with your fathers, I will raise up your offspring after you, who shall come from your body, and I will establish his kingdom. [13] He shall build a house for my name, and I will establish the throne of his kingdom forever. (ESV)
+> **When your days are fulfilled and you lie down with your fathers, I will raise up your offspring after you, who shall come from your body, and I will establish his kingdom. He shall build a house for my name, and I will establish the throne of his kingdom forever.** ([2Sm 7:12‑13](https://www.esv.org/2+Samuel+7:12/) ESV)
 
-In 2 Samuel, chapter 11, David commits murder and adultery.
-In 2 Samuel, chapter 12, David confesses his sin and the prophet Nathan absolves him, *and David believes it*.
-In 2 Samuel, chapter 24, David sinned by counting the people.
-Again, David confessed his sin and believed God's forgiveness.
+David's kingdom, God promises, will last forever, with a king who has come from his body reigning on the throne.
 
-Soon after his death,
-1 Kings 2:33
+But soon after that, in 2 Samuel, chapter 11, David commits adultery with Batsheba and murders her faithful husband, Uriah.
+David, just like that, has departed the faith, has committed terrible sins and stands condemned to go to hell.
+Adultery and murder---David committed the murder to cover up the fact that Bathsheba was pregnant by him and then married her quickly.
+Though David had been an outstanding believer who stood up against Goliath in the name of the LORD, who had mercy on his enemy Saul,
+*he lost his faith and the Holy Spirit had left him*.
+David was going to hell.
+*If sin does what it wants, the Holy Spirit and faith are **not** present.*[^1]
 
-[33] So shall their blood come back on the head of Joab and on the head of his descendants forever. But for David and for his descendants and for his house and for his throne there shall be peace from the LORD forevermore.” (ESV)
+[^1]: SA III, III 43
 
-1 Kings 3:14
+But thanks be to God that He sent to David the prophet Nathan, who told David of a rich man who grabbed a poor man's dear sheep to kill it and feed it to his friends, as though he did not have enough of his own sheep with which to feed his friends.
+David was enraged, thinking that this really happened in his kingdom and that the rich man deserved to die.
+But Nathan told him, **"You are the man!"** ([2Sm 12:7](https://www.esv.org/2+Samuel+12:7/))
+Nathan had told the story only for David to see that *he deserves to die for his sin*.
+David confessed his sin, **“I have sinned against the LORD.” And Nathan said to David, “The LORD also has put away your sin; you shall not die”** ([2Sm 12:13](https://www.esv.org/2+Samuel+12:13/) ESV).
+*And David believed it*---he believed he was forgiven in the name of the Messiah who was to die on the Cross bearing his sins ([Ps 22](https://www.esv.org/Psalm+22/)).
+*This faith in Jesus---faith in the forgiveness of sins in His name---utterly changes how God treats David and how God now speaks about him.*
 
-[14] And if you will walk in my ways, keeping my statutes and my commandments, as your father David walked, then I will lengthen your days.” (ESV)
+But before David falls asleep in Jesus and goes to heaven, I want to remind you that at the end of his life, in 2 Samuel, chapter 24, David sinned again by counting the people.
+And again, David confessed his sin and believed that he was forgiven for Christ's sake.
 
-1 Kings 8:25
+Now David has died and is buried, yet God does not stop talking about David in the Bible.
+After David's death, his son Adonijah plots to become king in his father's place, but the throne is reserved for Solomon.
+Adonijah is put to death and Solomon is established as king on his father's throne.
+Since Joab was on Adonijah's side, Solomon also puts Joab to death, saying,
+**"So shall their blood come back on the head of Joab and on the head of his descendants forever. But for David and for his descendants and for his house and for his throne there shall be peace from the LORD forevermore"** ([1Ki 2:33](https://www.esv.org/1+Kings+2:33/) ESV),
+recalling that God had, after all, promised to establish David's throne forever.
 
-[25] Now therefore, O LORD, God of Israel, keep for your servant David my father what you have promised him, saying, ‘You shall not lack a man to sit before me on the throne of Israel, if only your sons pay close attention to their way, to walk before me as you have walked before me.’ (ESV)
+Solomon, as you know, asked God for wisdom, not riches.
+This pleased God and He said,
+**"If you will walk in my ways, keeping my statutes and my commandments, _as your father David_ walked, then I will lengthen your days"** ([1Ki 3:14](https://www.esv.org/1+Kings+3:14/) ESV).
+Now is not that the funniest thing you ever heard: **"keeping my statutes and my commandments, _as your father David_ walked"**?
+David did not keep the Commandments, *but this is God speaking and God says he **did** keep the Commandments*!
+David clearly has a righteousness before God that is *not his own*, for David is a famous Commandment-*breaker*, yet God calls him a Commandmnet-*keeper*.
 
-Thank Jesus for His gracioius words to you and pay attention to the words that come from you tongue.
+> **For in Christ Jesus _you_ are all sons of God, through faith. For as many of you as were baptized into Christ have _put on Christ_.** ([Gal 3:26‑27](https://www.esv.org/Galatians+3:26/) ESV)
+
+Beloved in the Lord, you are put in David's position _[Point to the font]_ as surely as you are baptized into Christ.
+God's Word declares that it is so.
+God puts His Son on you and calls you a Commandment-keeper.
+When you are baptized, God no longer sees your sin: *He sees His Son*---there is no sin at all.
+God does not see your righteousness, *He sees His Son's righteousness* which is given for you to wear by your faith that His beloved Son bore the punishment that your sins deserve.
+He does not leave His Son hanging on your *outside*, however.
+He sends His Holy Spirit so that His Son lives on your *inside*, too, and scrubs away your lingering sin.
+(**It is a fearful thing to fall into the hands of the living God** ([Heb 10:31](https://www.esv.org/Hebrews+10:31/) ESV).)
+Will you argue with God if He sees His Son instead of your sin?
+Will you send His Holy Spirit away when evil thoughts are bubbling from your heart to your lips?
+God forbid!
+
+Kings came and went after David and they became more wicked.
+The kingdom split after Solomon and the name of the wicked northern king was Jeroboam.
+The LORD said to Jeroboam, **"You have not been like my servant David, who kept my commandments and followed me with all his heart, doing only that which was right in my eyes"** ([1Ki 14:8](https://www.esv.org/1+Kings+14:8/) ESV).
+Again, is this the David we know?
+It is the David *God knows* by faith in the Son.
+And this is how David is spoken of for the rest of Scripture: **"[He] followed me with all his heart, doing only that which was right in my eyes."**
+
+Beloved in the Lord, if this is how God speaks about David---if this is how God speaks about you---then thank Jesus for it is for His sake that your Father in heaven has only nice things to say about you---nicer than you really are.
+What will you now say about others? 
+I invite you to examine yourself: What words am I preparing on my tongue to say about someone else?
+Can you be merciful just as your Father has been merciful to you?
+Your lips, by the grace of the Holy Spirit, are prepared to speak the words of heaven, not hell.
+Your lips are prepared to *pray*.
+Pray without ceasing ([1Th 5:17](https://www.esv.org/1+Thessalonians+5:17/)), and behold, your tongue is under control.
+Pray, and behold, gracious words are coming from you tongue.
+If you would like some gracious words from the Bible to follow, I invite you to begin with Psalms.
+_[Bring out your psalter]_ Use your psalter.
+This morning's psalm, by the way, is Psalm 19, which ends with these words:
+
+> **Let the words of my mouth and the meditation of my heart**\
+> **be acceptable in your sight,**\
+> **O LORD, my rock and my redeemer.** ([Ps 19:14](https://www.esv.org/Psalm+19:14/) ESV)
 
 **"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
 AMEN.
@@ -168,6 +235,8 @@ AMEN.
     1. ZZZ
 
 ## Notes
+
+Is 50:6. There is no record in the Gospels of Jesus getting His beard pulled out.
 
 Is 50:10. The Servant is Jesus; notice how *servant* and *Lord* are parallel in this verse.
 
