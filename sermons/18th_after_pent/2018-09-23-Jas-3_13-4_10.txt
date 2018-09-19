@@ -12,10 +12,19 @@ after drinking some coffee, please try to be very careful to close the Behrwald 
 
 ## Old Testament [Jer. 11:18-20 ESV]
 
-> [18] The Lord made it known to me and I knew; then you showed me their deeds.\
-> [19] But I was like a gentle lamb led to the slaughter. I did not know it was against me they devised schemes, saying,
-“Let us destroy the tree with its fruit, let us cut him off from the land of the living, that his name be remembered no more.”\
-> [20] But, O Lord of hosts, who judges righteously, who tests the heart and the mind, let me see your vengeance upon them, for to you have I committed my cause.
+> [18] The Lord made it known to me and I knew;\
+> then you showed me their deeds.\
+> [19] But I was like a gentle lamb\
+> led to the slaughter.\
+> I did not know it was against me\
+> they devised schemes, saying,\
+> “Let us destroy the tree with its fruit,\
+> let us cut him off from the land of the living,\
+> that his name be remembered no more.”\
+> [20] But, O Lord of hosts, who judges righteously,\
+> who tests the heart and the mind,\
+> let me see your vengeance upon them,\
+> for to you have I committed my cause.
 
 ## Epistle [James 3:13-4:10 ESV; sermon text]
 
@@ -24,6 +33,7 @@ you have bitter jealousy and selfish ambition in your hearts, do not boast and b
 that comes down from above, but is earthly, unspiritual, demonic. [16] For where jealousy and selfish ambition exist, there will
 be disorder and every vile practice. [17] But the wisdom from above is first pure, then peaceable, gentle, open to reason, full 
 of mercy and good fruits, impartial and sincere. [18] And a harvest of righteousness is sown in peace by those who make peace.
+
 [4:1] What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you? [2] You 
 desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do 
 not ask. [3] You ask and do not receive, because you ask wrongly, to spend it on your passions. [4] You adulterous people! Do 
@@ -33,12 +43,26 @@ that he has made to dwell in us”? [6] But he gives more grace. Therefore it s
 humble.” [7] Submit yourselves therefore to God. Resist the devil, and he will flee from you. [8] Draw near to God, and he will 
 draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded. [9] Be wretched and mourn and weep.
 Let your laughter be turned to mourning and your joy to gloom. [10] Humble yourselves before the Lord, and he will exalt you.
-...
 
 ------------
 
-[1] Ἀδελφοί μου, μὴ ἐν προσωπολημψίαις ἔχετε τὴν πίστιν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τῆς δόξης. 
-[2] ἐὰν γὰρ εἰσέλθῃ εἰς συναγωγὴν ὑμῶν ἀνὴρ χρυσοδακτύλιο τῶν ἔργων μου τὴν πίστιν.
+[13] Τίς σοφὸς καὶ ἐπιστήμων ἐν ὑμῖν; δειξάτω ἐκ τῆς καλῆς ἀναστροφῆς τὰ ἔργα αὐτοῦ ἐν πραΰτητι σοφίας. 
+[14] εἰ δὲ ζῆλον πικρὸν ἔχετε καὶ ἐριθείαν ἐν τῇ καρδίᾳ ὑμῶν, μὴ κατακαυχᾶσθε καὶ ψεύδεσθε κατὰ τῆς ἀληθείας. 
+[15] οὐκ ἔστιν αὕτη ἡ σοφία ἄνωθεν κατερχομένη, ἀλλὰ ἐπίγειος, ψυχική, δαιμονιώδης: 
+[16] ὅπου γὰρ ζῆλος καὶ ἐριθεία, ἐκεῖ ἀκαταστασία καὶ πᾶν φαῦλον πρᾶγμα. 
+[17] ἡ δὲ ἄνωθεν σοφία πρῶτον μὲν ἁγνή ἐστιν, ἔπειτα εἰρηνική, ἐπιεικής, εὐπειθής, μεστὴ ἐλέους καὶ καρπῶν ἀγαθῶν, ἀδιάκριτος, ἀνυπόκριτος: 
+[18] καρπὸς δὲ δικαιοσύνης ἐν εἰρήνῃ σπείρεται τοῖς ποιοῦσιν εἰρήνην.
+
+[1] Πόθεν πόλεμοι καὶ πόθεν μάχαι ἐν ὑμῖν; οὐκ ἐντεῦθεν, ἐκ τῶν ἡδονῶν ὑμῶν τῶν στρατευομένων ἐν τοῖς μέλεσιν ὑμῶν; 
+[2] ἐπιθυμεῖτε, καὶ οὐκ ἔχετε: φονεύετε καὶ ζηλοῦτε, καὶ οὐ δύνασθε ἐπιτυχεῖν: μάχεσθε καὶ πολεμεῖτε. οὐκ ἔχετε διὰ τὸ μὴ αἰτεῖσθαι ὑμᾶς: 
+[3] αἰτεῖτε καὶ οὐ λαμβάνετε, διότι κακῶς αἰτεῖσθε, ἵνα ἐν ταῖς ἡδοναῖς ὑμῶν δαπανήσητε. 
+[4] μοιχαλίδες, οὐκ οἴδατε ὅτι ἡ φιλία τοῦ κόσμου ἔχθρα τοῦ θεοῦ ἐστιν; ὃς ἐὰν οὖν βουληθῇ φίλος εἶναι τοῦ κόσμου, ἐχθρὸς τοῦ θεοῦ καθίσταται. 
+[5] ἢ δοκεῖτε ὅτι κενῶς ἡ γραφὴ λέγει, Πρὸς φθόνον ἐπιποθεῖ τὸ πνεῦμα ὃ κατῴκισεν ἐν ἡμῖν; 
+[6] μείζονα δὲ δίδωσιν χάριν: διὸ λέγει, Ὁ θεὸς ὑπερηφάνοις ἀντιτάσσεται, ταπεινοῖς δὲ δίδωσιν χάριν. 
+[7] ὑποτάγητε οὖν τῷ θεῷ: ἀντίστητε δὲ τῷ διαβόλῳ, καὶ φεύξεται ἀφ' ὑμῶν: 
+[8] ἐγγίσατε τῷ θεῷ, καὶ ἐγγιεῖ ὑμῖν. καθαρίσατε χεῖρας, ἁμαρτωλοί, καὶ ἁγνίσατε καρδίας, δίψυχοι. 
+[9] ταλαιπωρήσατε καὶ πενθήσατε καὶ κλαύσατε: ὁ γέλως ὑμῶν εἰς πένθος μετατραπήτω καὶ ἡ χαρὰ εἰς κατήφειαν. 
+[10] ταπεινώθητε ἐνώπιον κυρίου, καὶ ὑψώσει ὑμᾶς.
 
 ## Holy Gospel [Mk 9:30-37 ESV]
 
@@ -70,7 +94,7 @@ O God, whose strength is made perfect in weakness, grant us humility and childli
 ## Hymns
 
 * Opening hymn: _TSC_ 26 _My God, How Wonderful Thou Art_
-* Sermon hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 423 _Jesus, I My Cross have Taken_
 * Communion hymn: _TSC_ 222 _Let Us Break Bread Together_ 
 * Closing hymn: _TSC_ 326 _O for a Faith That Will Not Shrink_
 
