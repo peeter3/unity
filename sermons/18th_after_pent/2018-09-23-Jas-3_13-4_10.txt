@@ -1,10 +1,11 @@
-% 16th after Pentecost
+% 18th after Pentecost
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
 ## During the service
 
 ## Announcements
 
+* Pray for Kathy.
 * Thank you for welcoming our family in Christ last Sunday. Going forward we will need to get used to a few things. On Sunday mornings to be respectful of 
 the space they are using which is the 2nd floor classroom, the first floor classroom and the restroom on the main floor in the back stairwell.
 Also, since their little children have kid's time in our library between 10:30 and 11:45 which is the time that some of us leave the building
@@ -12,10 +13,19 @@ after drinking some coffee, please try to be very careful to close the Behrwald 
 
 ## Old Testament [Jer. 11:18-20 ESV]
 
-> [18] The Lord made it known to me and I knew; then you showed me their deeds.\
-> [19] But I was like a gentle lamb led to the slaughter. I did not know it was against me they devised schemes, saying,
-“Let us destroy the tree with its fruit, let us cut him off from the land of the living, that his name be remembered no more.”\
-> [20] But, O Lord of hosts, who judges righteously, who tests the heart and the mind, let me see your vengeance upon them, for to you have I committed my cause.
+> [18] The Lord made it known to me and I knew;\
+> then you showed me their deeds.\
+> [19] But I was like a gentle lamb\
+> led to the slaughter.\
+> I did not know it was against me\
+> they devised schemes, saying,\
+> “Let us destroy the tree with its fruit,\
+> let us cut him off from the land of the living,\
+> that his name be remembered no more.”\
+> [20] But, O Lord of hosts, who judges righteously,\
+> who tests the heart and the mind,\
+> let me see your vengeance upon them,\
+> for to you have I committed my cause.
 
 ## Epistle [James 3:13-4:10 ESV; sermon text]
 
@@ -24,21 +34,38 @@ you have bitter jealousy and selfish ambition in your hearts, do not boast and b
 that comes down from above, but is earthly, unspiritual, demonic. [16] For where jealousy and selfish ambition exist, there will
 be disorder and every vile practice. [17] But the wisdom from above is first pure, then peaceable, gentle, open to reason, full 
 of mercy and good fruits, impartial and sincere. [18] And a harvest of righteousness is sown in peace by those who make peace.
-[4:1] What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you? [2] You 
-desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do 
-not ask. [3] You ask and do not receive, because you ask wrongly, to spend it on your passions. [4] You adulterous people! Do 
+
+[4:1] What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you?
+[2] You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do not ask.
+[3] You ask and do not receive, because you ask wrongly, to spend it on your passions.
+[4] You adulterous people! Do 
 you not know that friendship with the world is enmity with God? Therefore whoever wishes to be a friend of the world makes 
 himself an enemy of God. [5] Or do you suppose it is to no purpose that the Scripture says, “He yearns jealously over the spirit
 that he has made to dwell in us”? [6] But he gives more grace. Therefore it says, “God opposes the proud, but gives grace to the
-humble.” [7] Submit yourselves therefore to God. Resist the devil, and he will flee from you. [8] Draw near to God, and he will 
-draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded. [9] Be wretched and mourn and weep.
+humble.” [7] Submit yourselves therefore to God. Resist the devil, and he will flee from you.
+[8] Draw near to God, and he will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded.
+[9] Be wretched and mourn and weep.
 Let your laughter be turned to mourning and your joy to gloom. [10] Humble yourselves before the Lord, and he will exalt you.
-...
 
 ------------
 
-[1] Ἀδελφοί μου, μὴ ἐν προσωπολημψίαις ἔχετε τὴν πίστιν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τῆς δόξης. 
-[2] ἐὰν γὰρ εἰσέλθῃ εἰς συναγωγὴν ὑμῶν ἀνὴρ χρυσοδακτύλιο τῶν ἔργων μου τὴν πίστιν.
+[13] Τίς σοφὸς καὶ ἐπιστήμων ἐν ὑμῖν; δειξάτω ἐκ τῆς καλῆς ἀναστροφῆς τὰ ἔργα αὐτοῦ ἐν πραΰτητι σοφίας. 
+[14] εἰ δὲ ζῆλον πικρὸν ἔχετε καὶ ἐριθείαν ἐν τῇ καρδίᾳ ὑμῶν, μὴ κατακαυχᾶσθε καὶ ψεύδεσθε κατὰ τῆς ἀληθείας. 
+[15] οὐκ ἔστιν αὕτη ἡ σοφία ἄνωθεν κατερχομένη, ἀλλὰ ἐπίγειος, ψυχική, δαιμονιώδης: 
+[16] ὅπου γὰρ ζῆλος καὶ ἐριθεία, ἐκεῖ ἀκαταστασία καὶ πᾶν φαῦλον πρᾶγμα. 
+[17] ἡ δὲ ἄνωθεν σοφία πρῶτον μὲν ἁγνή ἐστιν, ἔπειτα εἰρηνική, ἐπιεικής, εὐπειθής, μεστὴ ἐλέους καὶ καρπῶν ἀγαθῶν, ἀδιάκριτος, ἀνυπόκριτος: 
+[18] καρπὸς δὲ δικαιοσύνης ἐν εἰρήνῃ σπείρεται τοῖς ποιοῦσιν εἰρήνην.
+
+[1] Πόθεν πόλεμοι καὶ πόθεν μάχαι ἐν ὑμῖν; οὐκ ἐντεῦθεν, ἐκ τῶν ἡδονῶν ὑμῶν τῶν στρατευομένων ἐν τοῖς μέλεσιν ὑμῶν; 
+[2] ἐπιθυμεῖτε, καὶ οὐκ ἔχετε: φονεύετε καὶ ζηλοῦτε, καὶ οὐ δύνασθε ἐπιτυχεῖν: μάχεσθε καὶ πολεμεῖτε. οὐκ ἔχετε διὰ τὸ μὴ αἰτεῖσθαι ὑμᾶς: 
+[3] αἰτεῖτε καὶ οὐ λαμβάνετε, διότι κακῶς αἰτεῖσθε, ἵνα ἐν ταῖς ἡδοναῖς ὑμῶν δαπανήσητε. 
+[4] μοιχαλίδες, οὐκ οἴδατε ὅτι ἡ φιλία τοῦ κόσμου ἔχθρα τοῦ θεοῦ ἐστιν; ὃς ἐὰν οὖν βουληθῇ φίλος εἶναι τοῦ κόσμου, ἐχθρὸς τοῦ θεοῦ καθίσταται. 
+[5] ἢ δοκεῖτε ὅτι κενῶς ἡ γραφὴ λέγει, Πρὸς φθόνον ἐπιποθεῖ τὸ πνεῦμα ὃ κατῴκισεν ἐν ἡμῖν; 
+[6] μείζονα δὲ δίδωσιν χάριν: διὸ λέγει, Ὁ θεὸς ὑπερηφάνοις ἀντιτάσσεται, ταπεινοῖς δὲ δίδωσιν χάριν. 
+[7] ὑποτάγητε οὖν τῷ θεῷ: ἀντίστητε δὲ τῷ διαβόλῳ, καὶ φεύξεται ἀφ' ὑμῶν: 
+[8] ἐγγίσατε τῷ θεῷ, καὶ ἐγγιεῖ ὑμῖν. καθαρίσατε χεῖρας, ἁμαρτωλοί, καὶ ἁγνίσατε καρδίας, δίψυχοι. 
+[9] ταλαιπωρήσατε καὶ πενθήσατε καὶ κλαύσατε: ὁ γέλως ὑμῶν εἰς πένθος μετατραπήτω καὶ ἡ χαρὰ εἰς κατήφειαν. 
+[10] ταπεινώθητε ἐνώπιον κυρίου, καὶ ὑψώσει ὑμᾶς.
 
 ## Holy Gospel [Mk 9:30-37 ESV]
 
@@ -70,14 +97,78 @@ O God, whose strength is made perfect in weakness, grant us humility and childli
 ## Hymns
 
 * Opening hymn: _TSC_ 26 _My God, How Wonderful Thou Art_
-* Sermon hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 423 _Jesus, I My Cross have Taken_
 * Communion hymn: _TSC_ 222 _Let Us Break Bread Together_ 
 * Closing hymn: _TSC_ 326 _O for a Faith That Will Not Shrink_
 
 ## Sermon
 
 Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+We know that God hears and answers our prayers, for so He has promised.
 
+> **"You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide, _so that whatever you ask the Father in my name, he may give it to you_."** ([Jn 15:16](https://www.esv.org/John+15:16/) ESV)
+
+> **"Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened. Or which one of you, if his son asks him for bread, will give him a stone? Or if he asks for a fish, will give him a serpent? If you then, who are evil, know how to give good gifts to your children, _how much more_ will your Father who is in heaven give good things to those who ask him!"** ([Mt 7:7‑11](https://www.esv.org/Matthew+7:7/) ESV)
+
+Here we have our Lord's own promise---straight from His lips---*to answer our prayers*---He will do it.
+So what is stopping you? Pray! Ask and you will receive.
+
+Our Epistle reading today continues in the letter of James, chapters 3 and 4, and a famous passage on prayer was already found in James, chapter 1:
+
+> **If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him. But let him ask in faith, with _no doubting_, for the one who doubts is like a wave of the sea that is driven and tossed by the wind. For that person must not suppose that he will receive anything from the Lord; he is a double-minded man, unstable in all his ways.** ([Jas 1:5‑8](https://www.esv.org/James+1:5/) ESV)
+
+James reminds us here to ask for wisdom, but he emphasizes that *doubt hinders our prayers*.
+If we doubt when we pray, it is we who have failed, not our Lord Jesus.
+If we doubt, trouble can overwhelm us.
+Now, speaking of **the sea that is driven and tossed by the wind,**
+
+> **When [Jesus] got into the boat, his disciples followed him. And behold, there arose a great storm on the sea, so that the boat was being swamped by the waves; but he was asleep. And they went and woke him, saying, “Save us, Lord; we are perishing.” And he said to them, “Why are you afraid, _O you of little faith_?” Then he rose and rebuked the winds and the sea, and there was a great calm.** ([Mt 8:23‑26](https://www.esv.org/Matthew+8:23/) ESV)
+
+Jesus calls for faith, no doubt; it is that simple---faith, no doubt.
+If the disciples had trusted for the Lord to save them from the storm even though he was asleep in the boat, *He would have*.
+But they doubted and woke Him up, and Jesus rebuked them, and us, calling us, **"O you of little faith."**
+Faith, no doubt---there is no room for doubt in our faith, and we do well to cry out from last week's Holy Gospel, **“I believe; help my unbelief!”** ([Mk 9:24](https://www.esv.org/Mark+9:24/))
+
+> **Commit your way to the LORD;**\
+> **trust in him, and he will act.** ([Ps 37:5](https://www.esv.org/Psalm+37:5/) ESV)
+
+Doubt is contradictory to our faith and hinders our prayer and hinders our Lord's action on our behalf.
+Faith, no doubt---faith is what pleases Him.
+And, simply, if we please Him, He will do anything for us.
+
+Now moving on to today's Epistle reading, we learn that there is something else that hinders our prayer.
+
+> **You ask and do not receive, because you ask wrongly, to spend it on your passions.**
+
+In the King James Version, it is written,
+
+> **Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your _lusts_.**
+
+If *lust* seems like a strong word, it should be, for it translates the Greek word that means *pleasure or desire for pleasure*.
+God's Word puts us face-to-face with our desire for pleasure; in other words, our lusts---those things that we badly want to feel---those things that the devil knows very well how to manipulate so that before you know it---bang---the only thing that makes sense is *Gratify your desire*.
+I will leave it to your own experience to be reminded of what that is like, and I ask you: Is the gratifying of your desires anything you would like to share in the church newsletter?
+Is the gratifying of your desires anything to boast about before God?
+
+No, we have much to be ashamed of before God, but be reminded that Jesus took our shame upon Him and carried it to the Cross.
+
+> **The soldiers of the governor took Jesus into the governor's headquarters, and they gathered the whole battalion before him. And they stripped him and put a scarlet robe on him, and twisting together a crown of thorns, they put it on his head and put a reed in his right hand. And kneeling before him, they mocked him, saying, “Hail, King of the Jews!” And they spit on him and took the reed and struck him on the head. And when they had mocked him, they stripped him of the robe and put his own clothes on him and led him away to crucify him.** ([Mt 27:27‑31](https://www.esv.org/Matthew+27:27/) ESV)
+
+Behold Jesus bearing our shame.
+And how gloriously He bore it, never complaining, never condemning but rather striving for our forgiveness---striving for our salvation by the forgiveness of our sins, which He accomplished perfectly, for He called out from the Cross, **"It is finished"** ([Jn 19:30](https://www.esv.org/John+19:30/)).
+
+Jesus crossed the finish line of working our salvation. He has called us to Him the Gospel of forgiveness in His name and baptized us and given us the Holy Spirit to live in our hearts.
+
+> **Do you not know that you are God's temple and that God's Spirit dwells in you?** ([1Co 3:16](https://www.esv.org/1+Corinthians+3:16/) ESV)
+
+He has instituted His Holy Supper to feed us with His body and blood so that the new reality---the new reality that we are one body with Christ, not just individuals trying to gratify our desires.
+Where then, if the Holy Spirit dwells in us and we are one body with Christ, is there room for us to spend our prayers on our lusts?
+Nowhere---lusts be gone!
+We would not expect for God to hear our prayers to gratify our desires.
+Let us then praise God, deny our flesh, and resist the devil.
+
+> **Submit yourselves therefore to God. Resist the devil, and he will flee from you. Draw near to God, and he will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded.**
+
+Let us then live as little Christs, not as those who make a facade of Christ only to hide their lusts.
 
 **"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
 AMEN.
@@ -92,3 +183,8 @@ AMEN.
 
 ## Notes
 
+Jas 3:41. ἐριθείαν, according to greekbible.com, is "electioneering or intriguing for office." Theologically, it is to put oneself forward.
+
+Jas 4:1 ἡδονῶν, according to greekbible.com, is "pleasure or desire for pleasure." KJV translates this as *lusts*: **"From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?"**
+
+Jas 4:5. This is no known Bible verse.
