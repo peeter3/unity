@@ -1,0 +1,114 @@
+% 20th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* Hymn Sing, Matins WITH confession & absolution
+
+## Announcements
+
+*  
+
+## Old Testament [Gn 2:18-25 ESV]
+
+[18] Then the Lord God said, “It is not good that the man should be alone; I will make him a helper fit for him.” [19] Now out 
+of the ground the Lord God had formed every beast of the field and every bird of the heavens and brought them to the man to see 
+what he would call them. And whatever the man called every living creature, that was its name. [20]The man gave names to all 
+livestock and to the birds of the heavens and to every beast of the field. But for Adam there was not found a helper fit for him.
+[21] So the Lord God caused a deep sleep to fall upon the man, and while he slept took one of his ribs and closed up its place 
+with flesh. [22] And the rib that the Lord God had taken from the man he made into a woman and brought her to the man. [23] Then
+the man said,
+“This at last is bone of my bones
+    and flesh of my flesh;
+she shall be called Woman,
+    because she was taken out of Man.”
+[24] Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh. [25] 
+And the man and his wife were both naked and were not ashamed.
+
+## Epistle [Hebrews 2:1-18]
+[2:1] Therefore we must pay much closer attention to what we have heard, lest we drift away from it. [2] For since the message 
+declared by angels proved to be reliable, and every transgression or disobedience received a just retribution, [3] how shall we 
+escape if we neglect such a great salvation? It was declared at first by the Lord, and it was attested to us by those who heard,
+[4] while God also bore witness by signs and wonders and various miracles and by gifts of the Holy Spirit distributed according to his will.
+[5] For it was not to angels that God subjected the world to come, of which we are speaking. [6] It has been testified somewhere,
+“What is man, that you are mindful of him,
+    or the son of man, that you care for him?
+[7] You made him for a little while lower than the angels;
+    you have crowned him with glory and honor,
+[8]     putting everything in subjection under his feet.”
+Now in putting everything in subjection to him, he left nothing outside his control. At present, we do not yet see everything in
+subjection to him. [9] But we see him who for a little while was made lower than the angels, namely Jesus, crowned with glory and honor because of the suffering of death, so that by the grace of God he might taste death for everyone.
+[10] For it was fitting that he, for whom and by whom all things exist, in bringing many sons to glory, should make the founder 
+of their salvation perfect through suffering. [11] For he who sanctifies and those who are sanctified all have one source. That 
+is why he is not ashamed to call them brothers, [12] saying,
+“I will tell of your name to my brothers;
+    in the midst of the congregation I will sing your praise.”
+[13] And again,
+“I will put my trust in him.”
+And again,
+“Behold, I and the children God has given me.”
+[14] Since therefore the children share in flesh and blood, he himself likewise partook of the same things, that through death 
+he might destroy the one who has the power of death, that is, the devil, [15] and deliver all those who through fear of death 
+were subject to lifelong slavery. [16] For surely it is not angels that he helps, but he helps the offspring of Abraham. 
+[17] Therefore he had to be made like his brothers in every respect, so that he might become a merciful and faithful high priest
+in the service of God, to make propitiation for the sins of the people. [18] For because he himself has suffered when tempted, 
+he is able to help those who are being tempted.
+
+------------
+
+
+
+## Holy Gospel [Mk 10:2-16 ESV]
+
+[2] And Pharisees came up and in order to test him asked, “Is it lawful for a man to divorce his wife?” [3] He answered them, 
+“What did Moses command you?” [4] They said, “Moses allowed a man to write a certificate of divorce and to send her away.” 
+[5] And Jesus said to them, “Because of your hardness of heart he wrote you this commandment. [6] But from the beginning of 
+creation, ‘God made them male and female.’ [7] ‘Therefore a man shall leave his father and mother and hold fast to his wife, 
+[8] and the two shall become one flesh.’ So they are no longer two but one flesh. [9] What therefore God has joined together, 
+let not man separate.”
+[10] And in the house the disciples asked him again about this matter. [11] And he said to them, “Whoever divorces his wife and 
+marries another commits adultery against her, [12] and if she divorces her husband and marries another, she commits adultery.”
+[13] And they were bringing children to him that he might touch them, and the disciples rebuked them. [14] But when Jesus saw it,
+he was indignant and said to them, “Let the children come to me; do not hinder them, for to such belongs the kingdom of God. 
+[15] Truly, I say to you, whoever does not receive the kingdom of God like a child shall not enter it.” [16] And he took them in
+his arms and blessed them, laying his hands on them.
+
+## Introit [Ps 127:3-5; antiphon: Ps 127:1a]
+
+> Unless the LORD | builds the house,\*\
+> those who build it la- | bor in vain.\
+> Behold, children are a heritage| from the LORD,\*\
+> the fruit of the womb | a reward.\
+> Like arrows in the hand of a  | warrior\*\
+> are the children | of one's youth.\
+> Blessed is the man who fills his quiver | with them!\*\
+> He shall not be put to shame when he speaks with his enemies | in the gate.\
+
+## Collect
+
+Merciful Father, Your patience and loving-kindness toward us have no end. Grant that by Your Holy Spirit we may always think and do those things that are pleasing in your sight; through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 300 _Dearest Jesus, We Are Here_
+* Sermon hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 624 _O Blessed Home Where Man and Wife_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+**
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
