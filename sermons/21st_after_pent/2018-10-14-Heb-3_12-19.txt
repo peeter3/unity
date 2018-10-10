@@ -1,0 +1,111 @@
+% 21st after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+## Announcements
+
+* Gateway will have a Fall Festival next Saturday, October 21 2pm-4pm
+* 
+
+## Old Testament [Amos. 5:6-7, 10-15 ESV]
+
+> [6] Seek the Lord and live,\
+> lest he break out like fire in the house of Joseph,\
+> and it devour, with none to quench it for Bethel,\
+> [7] O you who turn justice to wormwood\
+> and cast down righteousness to the earth!\
+> [10] They hate him who reproves in the gate,\
+> and they abhor him who speaks the truth.\
+> [11] Therefore because you trample on the poor\
+> and you exact taxes of grain from him,\
+> you have built houses of hewn stone,\
+> but you shall not dwell in them;\
+> you have planted pleasant vineyards,\
+> but you shall not drink their wine.\
+> [12] For I know how many are your transgressions\
+> and how great are your sins—\
+> you who afflict the righteous, who take a bribe,\
+> and turn aside the needy in the gate.\
+> [13] Therefore he who is prudent will keep silent in such a time,\
+> for it is an evil time.\
+> [14] Seek good, and not evil,\
+> that you may live;\
+> and so the Lord, the God of hosts, will be with you,\
+> as you have said.\
+> [15] Hate evil, and love good,\
+> and establish justice in the gate;\
+> it may be that the Lord, the God of hosts,\
+> will be gracious to the remnant of Joseph.\
+
+
+## Epistle [Heb. 3:12-19 ESV; sermon text]
+
+[12] Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God. 
+[13] But exhort one another every day, as long as it is called “today,” that none of you may be hardened by the deceitfulness 
+of sin. [14] For we have come to share in Christ, if indeed we hold our original confidence firm to the end. [15] As it is said,
+“Today, if you hear his voice,
+do not harden your hearts as in the rebellion.”
+[16] For who were those who heard and yet rebelled? Was it not all those who left Egypt led by Moses? [17] And with whom was he 
+provoked for forty years? Was it not with those who sinned, whose bodies fell in the wilderness? [18] And to whom did he swear 
+that they would not enter his rest, but to those who were disobedient? [19] So we see that they were unable to enter because of 
+unbelief.
+
+------------
+
+[13] Τίς σοφὸς καὶ ἐπ
+
+## Holy Gospel [Mk 10:17-22 ESV]
+
+[17] And as he was setting out on his journey, a man ran up and knelt before him and asked him, “Good Teacher, what must I do 
+to inherit eternal life?” [18] And Jesus said to him, “Why do you call me good? No one is good except God alone. [19] You know 
+the commandments: ‘Do not murder, Do not commit adultery, Do not steal, Do not bear false witness, Do not defraud, Honor your 
+father and mother.’” [20] And he said to him, “Teacher, all these I have kept from my youth.” [21] And Jesus, looking at him, 
+loved him, and said to him, “You lack one thing: go, sell all that you have and give to the poor, and you will have treasure in 
+heaven; and come, follow me.” [22] Disheartened by the saying, he went away sorrowful, for he had great possessions.
+
+## Introit [Ps 112:3-6; antiphon: Ps 112:1]
+
+> Praise the LORD! Blessed is the man who | fears the LORD,\*\
+> who greatly delights in his com- | mandments!\
+> Wealth and riches are | in his house,\*\
+> and his righteousness endures for- | ever.\
+> Light dawns in the darkness for the | upright;\*\
+> he is gracious, merciful, and | righteous.\
+> It is well with the man who deals generous- | ly and lends;\*\
+> who conducts his affairs with | justice.\
+> For the righteous will nev- | er be moved;\*\
+> he will be remembered for- | ever.\
+
+
+## Collect
+Lord Jesus Christ, whose grace always precedes and follows us, help us to forsake all trust in earthly gain and to find in You our heavenly treasure;
+	for You live and reign with the Father and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 347 _Jesus, Priceless Treasure_
+* Sermon hymn: _TLH_ ZZZ _ZZZ_
+* Communion hymn: _TLH_ 315 _I Come, O Savior to Thy Table_ _st. 11-15_
+* Closing hymn: _TLH_ 53 _Abide, O Dearest Jesus_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+We know that God hears and answers our prayers, for so He has promised.
+
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+Jas 3:41. ἐριθείαν, according to greekbible.com, is "electioneering or intriguing for office." Theologically, it is to put oneself forward.
