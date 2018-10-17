@@ -1,0 +1,124 @@
+% Holy Cross chapel
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## Bring along
+
+* Bible
+* Stuffed animals
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Scripture reading [Ps 54:6‑7 ESV]
+
+> [6] With a freewill offering I will sacrifice to you;\
+> I will give thanks to your name, O LORD, for it is good.\
+> [7] For he has delivered me from every trouble,\
+> and my eye has looked in triumph on my enemies.
+
+## Catechism
+
+* 7th Commandment
+* 8th Commandment
+
+## Hymns
+
+* _LSB_ 712 _Seek Ye First_
+
+## Sermon
+
+Good morning, students and teachers!
+When we read in the Psalms, where in the Bible are we reading?
+Take out your Bibles and I'll show you where Psalms is.
+Psalms is in the *middle of the Bible*.
+*[Take out your Bible and invite the children to take out pew Bibles]*
+When you open up you Bible to the middle, what book do you find?
+*[Open up your Bible and see what you get. Ask students to tell what book of the Bible they found.]*
+
+Now find Psalm 54.
+*[Give them time]*
+Now find verses 6‑7.
+Do you see the word *sacrifice* in verse 6?
+What does *sacrifice* mean?
+Our first clue is to ask, "Is Psalms in the Old Testament of the New Testament?"
+Are we reading in the Old Testament or the New Testament?
+*[Old Testament]*
+
+In the Old Testament, people knew that *sacrifice* means this: *[Show slide of OT sacrifice]*.
+What is going on?
+What is burning on the fire?
+What are those stains on the stones?
+*[Student responses]*
+An *animal* was sacrificed.
+*[Bring out stuffed doggie toy]*
+Should I sacrifice my doggie?
+*[Bring out stuffed tiger toy]*
+Should I sacrifice my tiger?
+*[Bring out teddy bear]*
+Should I sacrifice my teddy bear?
+No!
+
+In the Old Testament, when I broke a Commandment like the Seventh Commandment, I had to sacrifice an animal because God said so.
+*[Review Seventh Commandment]*
+In the Old Testament, when I broke the Eighth Commandment, I had to sacrifice an animal because God said so.
+*[Review Eighth Commandment]*
+I had to sacrifice an animal *because God was mad*: I broke His Commandments!
+But the animal died in my place.
+God said an animal had to die in my place when I sinned.
+That is what *sacrifice* means in the Old Testament.
+
+But the Old Testament also tells us that Jesus is coming.
+John the Baptist calls Jesus
+**"the Lamb of God, who takes away the sin of the world"** ([Jn 1:29](https://www.esv.org/John+1:29/) ESV).
+Jesus died on the Cross in our place because we have sinned.
+You should be sorry before God if you ever said anything bad about anyone.
+You should be sorry before God if you ever took something that was not yours.
+Your sins get you in big trouble with God,
+but God set His Son to get you out of that trouble: *He dies in your place*!
+*[Show slide of Jesus fulfilling OT sacrifice]*
+
+Now that Jesus has been sacrificed, the animals do not need to be sacrificed anymore.
+Now that Jesus has been sacrificed, believe that He was sacrificed to get *you* out of *your* sin---to get *you* out of *your* trouble.
+Who cares if you have any enemies if Jesus is your friend?
+Jesus is *my* Friend who died for *my* sins in *my* place on the Cross!
+Do I need to sacrifice my teddy bear?
+No!
+My sacrifice is to praise Jesus!
+My sacrifice is to praise His Father who sent His Son to save me from my sins!
+My sacrifice is to praise the Holy Spirit who tells me it is true: by Jesus blood I am surely forgiven!
+AMEN.
+
+## Outline
+
+|       JESUS' SACRIFICE AND OUR SACRIFICE         |
+|:-----------------------------------------------:|
+
+1. Where is Psalms?
+    1. Middle of the Bible
+    1. OT or NT?
+    1. Find Ps 54:6‑7
+        1. v. 6: *Sacrifice*
+1. Is Psalms in the OT or the NT?
+    1. In the OT, sacrifice means *[Show slide]*.
+        1. What's burning on the altar? What are the stains on the altar?
+	1. *[Get stuffed animals]* Should I sacrifice my doggie? Tiger? Teddy Bear? No.
+        1. When I broke the 7th Commandment *[Catechism]*, an animal had to die because God said so. (Sad for the animal, good for me.)
+        1. When I broke the 8th Commandment ...
+    1. God said an animal had to die when I sinned---*sacrifice* in the OT.
+1. But the OT tells us that Jesus is coming.
+    1. John the Baptist: **"the Lamb of God, who takes away the sin of the world"**
+    1. In the NT, we see who the *real* sacrifice is *[Show slide]*.
+    1. Jesus died on the Cross in your place because you sin.
+        1. Sorry before God if you ever said anything bad about anyone
+        1. Sorry before God if you ever took anything that was not yours
+        1. The Holy Spirit tells you, "It's okay, Jesus died in your place. Go, and sin no more."
+    1. Your sins get you in big trouble with God, but *thank you, Father in heaven, for sending Your Son Jesus to save us from our trouble!*
+1. That is your new sacrifice: not to sacrifice your teddy bear, but to offer a sacrifice of praise to your heavenly Father for sending His Son to save us from our sins!
+    1. Let us pray: "Thank you, our heavenly Father, for you saw the trouble we got into when we sin. You did not want us to be punished and die, so you sent Your Son to be punished and die for us. We thank and praise You that His blood forgives all our sins. AMEN."
+
+## Notes
