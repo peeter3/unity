@@ -1,18 +1,16 @@
 % Reformation
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
 ## During the service
-* 
 
 ## Announcements
 
-* Dean Leathers passed away on Tuesday
-* Turn clocks back an hour next Sunday
+* Dean passed away on Tuesday.
+* Turn clocks back an hour next Sunday.
 
 ## First reading [Rv 14:6‑7 ESV]
 
 [6] Then I saw another angel flying directly overhead, with an eternal gospel to proclaim to those who dwell on earth, to every nation and tribe and language and people. [7] And he said with a loud voice, “Fear God and give him glory, because the hour of his judgment has come, and worship him who made heaven and earth, the sea and the springs of water.”
-
-------------
 
 ## Epistle [Rm 3:19‑28 ESV; sermon text]
 
@@ -24,7 +22,16 @@
 
 ------------
 
-
+[19] Οἴδαμεν δὲ ὅτι ὅσα ὁ νόμος λέγει τοῖς ἐν τῷ νόμῳ λαλεῖ, ἵνα πᾶν στόμα φραγῇ καὶ ὑπόδικος γένηται πᾶς ὁ κόσμος τῷ θεῷ: 
+[20] διότι ἐξ ἔργων νόμου οὐ δικαιωθήσεται πᾶσα σὰρξ ἐνώπιον αὐτοῦ, διὰ γὰρ νόμου ἐπίγνωσις ἁμαρτίας. 
+[21] Νυνὶ δὲ χωρὶς νόμου δικαιοσύνη θεοῦ πεφανέρωται, μαρτυρουμένη ὑπὸ τοῦ νόμου καὶ τῶν προφητῶν, 
+[22] δικαιοσύνη δὲ θεοῦ διὰ πίστεως Ἰησοῦ Χριστοῦ, εἰς πάντας τοὺς πιστεύοντας: οὐ γάρ ἐστιν διαστολή: 
+[23] πάντες γὰρ ἥμαρτον καὶ ὑστεροῦνται τῆς δόξης τοῦ θεοῦ, 
+[24] δικαιούμενοι δωρεὰν τῇ αὐτοῦ χάριτι διὰ τῆς ἀπολυτρώσεως τῆς ἐν Χριστῷ Ἰησοῦ: 
+[25] ὃν προέθετο ὁ θεὸς ἱλαστήριον διὰ [τῆς] πίστεως ἐν τῷ αὐτοῦ αἵματι εἰς ἔνδειξιν τῆς δικαιοσύνης αὐτοῦ διὰ τὴν πάρεσιν τῶν προγεγονότων ἁμαρτημάτων 
+[26] ἐν τῇ ἀνοχῇ τοῦ θεοῦ, πρὸς τὴν ἔνδειξιν τῆς δικαιοσύνης αὐτοῦ ἐν τῷ νῦν καιρῷ, εἰς τὸ εἶναι αὐτὸν δίκαιον καὶ δικαιοῦντα τὸν ἐκ πίστεως Ἰησοῦ. 
+[27] Ποῦ οὖν ἡ καύχησις; ἐξεκλείσθη. διὰ ποίου νόμου; τῶν ἔργων; οὐχί, ἀλλὰ διὰ νόμου πίστεως. 
+[28] λογιζόμεθα γὰρ δικαιοῦσθαι πίστει ἄνθρωπον χωρὶς ἔργων νόμου.
 
 ## Holy Gospel [Jn 8:31‑36 ESV]
 
@@ -62,9 +69,9 @@ Almighty and gracious Lord, pour out Your Holy Spirit on Your faithful people. K
 
 ## Hymns
 
-* Opening hymn: _TLH_ 283 _God's Word is Our Great Heritage
-* Sermon hymn: _TLH_ 999 _ZZZ_ 
-* Communion hymn: _TLH_ 261 _Lord, Keep Us Steadfast in Thy Word
+* Opening hymn: _TLH_ 283 _God's Word is Our Great Heritage_
+* Sermon hymn: _TLH_ 377 _Salvation unto Us has Come_  st. 1, 3‑4, 8‑10
+* Communion hymn: _TLH_ 261 _Lord, Keep Us Steadfast in Thy Word_
 * Closing hymn: _TLH_ 262 _A Mighty Fortress is Our God_
 
 ## Sermon
