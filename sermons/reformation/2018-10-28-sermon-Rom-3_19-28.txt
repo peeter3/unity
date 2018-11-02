@@ -1,18 +1,20 @@
 % Reformation
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
 ## During the service
-* 
+
+Prayer for victims and families in Pittsburgh:
+
+> Gracious Father, we come before you with sorrow and anguish over the slaughter of Jews at the hands of a deranged man yesterday in Pittsburgh. We pray for those who died not to have died without faith in Jesus Christ, their Messiah, in their hearts. For we know of Your friendship with their father Abraham, and that to them belong the adoption, the glory, the covenants, the giving of the Law, and the promises. For those who mourn, bless them by the grace of the Holy Spirit to recount the promise of the Messiah to come from the line of David, and to rejoice that He is Jesus of Nazareth, in whose name they have the forgiveness of sin, and redemption from death and hell. In His name of Jesus Christ the King of the Jews we pray. Amen.
 
 ## Announcements
 
-* Dean Leathers passed away on Tuesday
-* Turn clocks back an hour next Sunday
+* Dean passed away on Tuesday.
+* Turn clocks back an hour next Sunday.
 
 ## First reading [Rv 14:6‑7 ESV]
 
 [6] Then I saw another angel flying directly overhead, with an eternal gospel to proclaim to those who dwell on earth, to every nation and tribe and language and people. [7] And he said with a loud voice, “Fear God and give him glory, because the hour of his judgment has come, and worship him who made heaven and earth, the sea and the springs of water.”
-
-------------
 
 ## Epistle [Rm 3:19‑28 ESV; sermon text]
 
@@ -24,7 +26,18 @@
 
 ------------
 
+[19] Οἴδαμεν δὲ ὅτι ὅσα ὁ νόμος λέγει τοῖς ἐν τῷ νόμῳ λαλεῖ, ἵνα πᾶν στόμα φραγῇ καὶ ὑπόδικος γένηται πᾶς ὁ κόσμος τῷ θεῷ: 
+[20] διότι ἐξ ἔργων νόμου οὐ δικαιωθήσεται πᾶσα σὰρξ ἐνώπιον αὐτοῦ, διὰ γὰρ νόμου ἐπίγνωσις ἁμαρτίας. 
 
+[21] Νυνὶ δὲ χωρὶς νόμου δικαιοσύνη θεοῦ πεφανέρωται, μαρτυρουμένη ὑπὸ τοῦ νόμου καὶ τῶν προφητῶν, 
+[22] δικαιοσύνη δὲ θεοῦ διὰ πίστεως Ἰησοῦ Χριστοῦ, εἰς πάντας τοὺς πιστεύοντας: οὐ γάρ ἐστιν διαστολή: 
+[23] πάντες γὰρ ἥμαρτον καὶ ὑστεροῦνται τῆς δόξης τοῦ θεοῦ, 
+[24] δικαιούμενοι δωρεὰν τῇ αὐτοῦ χάριτι διὰ τῆς ἀπολυτρώσεως τῆς ἐν Χριστῷ Ἰησοῦ: 
+[25] ὃν προέθετο ὁ θεὸς ἱλαστήριον διὰ [τῆς] πίστεως ἐν τῷ αὐτοῦ αἵματι εἰς ἔνδειξιν τῆς δικαιοσύνης αὐτοῦ διὰ τὴν πάρεσιν τῶν προγεγονότων ἁμαρτημάτων 
+[26] ἐν τῇ ἀνοχῇ τοῦ θεοῦ, πρὸς τὴν ἔνδειξιν τῆς δικαιοσύνης αὐτοῦ ἐν τῷ νῦν καιρῷ, εἰς τὸ εἶναι αὐτὸν δίκαιον καὶ δικαιοῦντα τὸν ἐκ πίστεως Ἰησοῦ. 
+
+[27] Ποῦ οὖν ἡ καύχησις; ἐξεκλείσθη. διὰ ποίου νόμου; τῶν ἔργων; οὐχί, ἀλλὰ διὰ νόμου πίστεως. 
+[28] λογιζόμεθα γὰρ δικαιοῦσθαι πίστει ἄνθρωπον χωρὶς ἔργων νόμου.
 
 ## Holy Gospel [Jn 8:31‑36 ESV]
 
@@ -62,75 +75,105 @@ Almighty and gracious Lord, pour out Your Holy Spirit on Your faithful people. K
 
 ## Hymns
 
-* Opening hymn: _TLH_ 283 _God's Word is Our Great Heritage
-* Sermon hymn: _TLH_ 999 _ZZZ_ 
-* Communion hymn: _TLH_ 261 _Lord, Keep Us Steadfast in Thy Word
+* Opening hymn: _TLH_ 283 _God's Word is Our Great Heritage_
+* Sermon hymn: _TLH_ 377 _Salvation unto Us has Come_  st. 1, 3‑4, 8‑10
+* Communion hymn: _TLH_ 261 _Lord, Keep Us Steadfast in Thy Word_
 * Closing hymn: _TLH_ 262 _A Mighty Fortress is Our God_
 
 ## Sermon
 
-Beloved in the Lord, we fast approaching the day of our Lord's return, and **there will be signs in sun and moon and stars, and on earth distress of nations in perplexity because of the roaring of the sea and the waves, people fainting with fear and foreboding of what is coming on the world. For the powers of the heavens will be shaken** [(Lk&nbsp;21:25&#x2011;26)](http://www.esvbible.org/Luke%2021%3A25-26/).
+Beloved in the Lord, 
+there are sayings in the Bible that many proclaim but may not understand.
+For example, **"God is love,"** [1 John 4:8](https://www.esv.org/1+John+4:8/).
+**God is love**, but what about the God who put to death the man who picked up sticks on the Sabbath ([Nm 15:32‑36](https://www.esv.org/Numbers+15:32/))?
+We heard what happened to him last week: God had him put to death for picking up sticks on the Sabbath.
+**God is love** but He despises sin---if there is sin going on, he *will* take action---decisive action.
+He warns us not to sin and especially not to be the cause of anyone's temptation to sin:
 
-> **Then I saw another angel flying directly overhead, with an eternal gospel to proclaim to those who dwell on earth, to every nation and tribe and language and people.** [(Rv&nbsp;14:6)](http://www.esvbible.org/Revelation%2014%3A6/)
+> **“Temptations to sin are sure to come, but woe to the one through whom they come! It would be better for him if a millstone were hung around his neck and he were cast into the sea than that he should cause one of these little ones to sin. Pay attention to yourselves! If your brother sins, rebuke him, and if he repents, forgive him, and if he sins against you seven times in the day, and turns to you seven times, saying, ‘I repent,’ you must forgive him.”** ([Lk 17:1‑4](https://www.esv.org/Luke+17/) ESV)
 
-Yes, Satan will be thrown down&mdash;and already has been thrown down&mdash;to make war on Christians.
-There are two beasts that will appear&mdash;and may be appearing today&mdash;who worship Satan and prosecute this war against Christians.
-Terrible times in the book of Revelation for Christians, and we should be ready&mdash;we should be ready for God's victory.
-The victory of the Cross of Jesus *is* the final victory, *and* our Lord Jesus will return to this earth to wipe out all idolatry and evil once and for all and to throw Satan and those who follow him into the lake of fire.
-The opportunity for repentance of sin is great, but the time is short.
-Lord, help us to repent of our sins daily and to focus on that angel flying directly overhead with an eternal Gospel to proclaim to those who dwell on earth. And the eternal Gospel is this:
+Yes, as you heard, forgiveness is the final word from the God of love.
+But whether through the words of the Bible or from the lips of a preacher or from the lips of any Christian He calls us to repentance: "Despise your sin like I do and stop doing it---**'Go and sin no more'**" ([Jn 8:11](https://www.esv.org/John+8:11/)).
+You cannot say, "**God is love**," and say nothing about God despising sin.
 
-> &ldquo;I believe that Jesus Christ, true God, begotten of the Father from eternity ... *is my Lord,* who has redeemed me, ... that I may be His own *and live under Him* in everlasting ... This is most certainly true.&rdquo;
+In our Holy Gospel today, we have this Word of Christ: **"The truth will set you free"** ([Jn 8:32](https://www.esv.org/John+8:32/)).
+A drug dealer could say, **"The truth will set you free"** as in "You will experience the truth when you take these drugs, so buy these drugs for the experience."
+And, tragically, many do.
+Pontius Pilate asked a good question on Good Friday: 
+**“What is truth?”** ([Jn 18:38](https://www.esv.org/John+18:38/))
+You may get as many answers for *What is truth?* as you would for *What is love?*.
+Yet if you would listen to God---if you would listen the Bible---you would know what love is, and if you would listen to the Bible, you would know what truth is as well.
 
-Beloved in the Lord, this is the eternal Gospel in a nutshell to which we cling in these last days; this is the eternal Gospel for which Satan afflicts us; this is the eternal Gospel which alone saves us from Satan, sin, death, and hell.
+The truth is that we all understand what is good and what is evil.
+The tragic news out of Pittsburgh is evil.
+A blood donor does good.
+The Bible clearly teaches that we are born with consciences which know the difference between good and evil, right and wrong ([Rm 2:14‑15](https://www.esv.org/Romans+2:14/)).
+Killing is evil; healing is good.
+Stealing is evil; giving is good.
+We all believe this about God, too: God rewards good and punishes evil.
+(I do recall ever meeting anyone who believed there is no God and He does not reward of good and punish of evil.)
 
-And what would threaten us from being saved by this eternal Gospel are our works.
-Satan wants none other than for us to do evil works and then to call them good.
-That has always been his game plan.
-What we think of our works is serious business with which the devil seeks to topple us to our destruction.
+But here it gets tricky and the devil is ready with his tricks.
+Here our flesh is aroused and leads us down the wrong path.
+We are tempted to follow a truth that is no truth at all.
+We may follow a lie that can never set us free but only lead us to the chains of hell.
+What is this deception?
+That we can boast before God in a law of works: "I have done well and God must show me His favor."
 
-We know exactly what he tried with Job.
-*God gave Satan permission to afflict Job.*
-The book of Revelation clearly teaches that God continues to give Satan permission to afflict us&mdash;not that He leaves us without help, but that we *cling to His help* and cling to Him alone.
-That is faith.
-God has blessed Job because Job was a righteous man, but Satan told God,
+For God has been to kind to document what is good and what is evil.
 
+1. **You shall have no other gods.**
+1. **You shall not misuse the name of the Lord your God.**
+1. **Remember the Sabbath day by keeping it holy.**
+1. **Honor your father and your mother.**
+1. **You shall not murder.**
+1. **You shall not commit adultery.**
+1. **You shall not steal.**
+1. **You shall not give false testimony against your neighbor.**
+1. **You shall not covet your neighbor's house.**
+1. **You shall not covet your neighbors's wife, or his manservant or his maidservant, his ox or donkey, or anything that belongs to your neighbor.** (It is his; God gave it to him; you cannot have it.)
 
-> **&ldquo;All that a man has he will give for his life. But stretch out your hand and touch his bone and his flesh, and he will curse you to your face.&rdquo; And the LORD said to Satan, &ldquo;Behold, he is in your hand; only spare his life.&rdquo;** [(Job&nbsp;2:4&#x2011;6 ESV)](http://www.esvbible.org/Job%202%3A4-6/)
+After having heard God's *Yes* and God's *No*, which of us can stand before Christ at the Judgment on the last day and say, "I have done well and God must show me His favor"?
+Our Epistle reading from Romans, chapter 3 clearly proclaims, **"By the works of the law _no human being will be justified in his sight_, since through the law comes knowledge of sin."**
+The main thing I know from the Ten Commandments is that I have broken them multiple times.
+It is the truth.
 
-Though Job did not suffer perfectly as our Lord Jesus did, he never blamed God for doing wrong and continued to trust in God's promise of Jesus:
+In the Bible, you may recall, there was the rich man who sincerely believed he had kept God's Law.
 
-> **For I know that my Redeemer lives,**\
-> **And He shall stand at last on the earth;**\
-> **And after my skin is destroyed, this I know,**\
-> **That in my flesh I shall see God,**\
-> **Whom I shall see for myself,**\
-> **And my eyes shall behold, and not another.**\
-> **How my heart yearns within me!** [(Job&nbsp;19:25&#x2011;27 NKJV)](https://www.biblegateway.com/passage/?search=Job+19%3A25-27&version=NKJV)
+> **As [Jesus] was setting out on his journey, a man ran up and knelt before him and asked him, “Good Teacher, what must I do to inherit eternal life?” And Jesus said to him, “Why do you call me good? No one is good except God alone. You know the commandments: ‘Do not murder, Do not commit adultery, Do not steal, Do not bear false witness, Do not defraud, Honor your father and mother.’” And he said to him, _“Teacher, all these I have kept from my youth.”_ And Jesus, looking at him, _loved him_, and said to him, “You lack one thing: go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me.” Disheartened by the saying, he went away sorrowful, for he had great possessions.** ([Mk 10:17‑22](https://www.esv.org/Mark+10:17/) ESV)
 
-Job was not suffering for doing evil.
-Beloved in the Lord, sometimes our Lord allows us to suffer to test our faith in Jesus, *but we know that He lives!*
-What is *excluded* from our faith is the conviction of the heart that we think that we are good people and deserve to go to heaven.
-We have the Ten Commandments to thank for that.
+As sincere as the rich man might have been, thinking he had kept God's Law, Jesus loved him by pointing out that he loved money more than obeying God.
+The rich man, as upstanding as he was, was a straight-up idolater condemned by the First Commandment: **You shall have no other gods.**
+On a side note, if you have been drawn into buying lottery tickets because the jackpots have been huge, beware of the rich man's problem.
 
-> **For by works of the law no human being will be justified in his sight, since through the law comes knowledge of sin.**
+> **"No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money."** ([Mt 6:24](https://www.esv.org/Matthew+6:24/) ESV)
 
-*I know that I am a sinner because I have not kept the Ten Commandments.*
+The truth is **"by the works of the law _no human being will be justified in his sight_, since through the law comes knowledge of sin."**
+The truth is that if we have bought in to "I have done well and God must show me His favor" we have no hope before God.
+If this comes as a surprise to you, it is about time you heard the truth.
 
-> Are you a father, mother, son, daughter, husband, wife, or worker? Have you been disobedient, unfaithful, or lazy? ... Have you stolen, been negligent, wasted anything or done any harm?
+But do not despair, for there is more to the truth: *Jesus is the truth.*
+The person of Jesus Christ is the truth.
+He is God, begotten of the Father from eternity.
+He is man, born of the virgin Mary.
+He has redeemeed you from sin, death, and the devil.
+*Redeem* means He has gotten you out of the biggest trouble imaginable---the trouble that you brought on yourself by your own sins.
+*[Point to the Crucifixion window]* Whatever debt you had to God for breaking the Ten Commandments Jesus paid, not with gold or silver, but with His holy, precious blood and His innocent sufferning and death.
+The truth is *redemption*; the truth is *propitiation*.
+*Redemption* means that Jesus got you out of the trouble for your sins---you gave Him your death *[Point to the altar]* and He gives you His life; your sins are paid for by His holy, precious blood.
+*Propitiation* means that God's anger was spent on His own Son Jesus as He hung on the Cross, crying out, **"My God, My God, why have you forsaken Me?"**
+For you who receive from the Holy Spirit that precious gift of faith in Jesus as *your Savior from sin*, God's anger turns to your favor just as Jesus' death turns to your life.
 
-Yes, I have, and so have you! We stand condemned to die by the Ten Commandments.
-I can *never* say I have been good enough for God to take me&mdash;maybe Enoch and Elijah were, but I am not so sure about that&mdash;I can *never* say I have been good enough for God to take me to heaven. I deserve hell! The Ten Commandments give me knowledge of my own sin.
+This is the **law of faith** of which St. Paul speaks in Romans, chapter 3.
+It is true: **"One is justified by faith apart from works of the law."**
+If God's favor is what you want, now you have it: believe in Christ, and you have God's favor.
+Believe in Christ and He will smile on you.
+Boast in what Christ has done for you, and despair of what you had hoped your good works would do for you.
+For our righteous acts are as filthy rags before God ([Is 64:6](https://www.kingjamesbibleonline.org/Isaiah-Chapter-64/)), but our faith in His Son and in His Baptism wash us white as snow ([Is 1:18](https://www.esv.org/Isaiah+1:18/)).
+This is the truth that sets you free.
 
-> **But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it&mdash;the righteousness of God _through faith in Jesus Christ_ for all who believe.**
-
-This is the faith of Job, who knew His Redeemer lives.
-This is your faith and mine, that Jesus has redeemed me a lost and condemned person, just as He is risen from the dead, lives and reigns to all eternity.
-*This faith* is our righteousness&mdash;*this faith* is our righteousness&mdash;*this faith*&mdash;the faith of Job&mdash;means that we stand before God *justified* with no charge of sin against us.
-If we stand before God with our good works, He charges us with sin.
-If we stand before God with faith in Jesus, He says, &ldquo;Innocent! Holy! My dear child! Look, I have baptized him. Do you see any sin?&rdquo;
-
-This is the eternal Gospel, beloved in the Lord, by which we are saved. This is the eternal Gospel by which we will endure these last days. AMEN.
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
 
 ## Outline
 
