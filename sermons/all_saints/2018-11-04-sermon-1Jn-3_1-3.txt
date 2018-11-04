@@ -1,4 +1,5 @@
 % All Saints
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
 ## During the service
 
@@ -142,12 +143,51 @@ Almighty and everlasting God, You knit together Your faithful people of all time
 ## Hymns
 
 * Opening hymn: _TLH_ 259 _Flung to the Heedless Winds_
-* Sermon hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 656 _Behold a Host, Arrayed in White_
 * Closing hymn: _TLH_ 463 _For All the Saints Who from Their Labors Rest_
 
 ## Sermon
 
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+In case you never heard where *Hallowe'en* came from, it came from *Hallows Even* or something like that.
+*Hallows Even* is *Holy Evening* before ... *All Saints Day*.
+*Hallowe'en* is *Hallowe'en* only because it is the night before *All Saints Day*.
+Now let that sink in for a moment---*Hallows Even*---*Holy Evening*.
+The Lord's Prayer may come to mind because our Lord Jesus taught us to pray: **_Hallowed_ be Thy name**.
 
+> *What does this mean?* God's name is certainly holy in itself, but we pray in this petition that it may be kept holy among us also.
+
+> *How is God's name kept holy?* God's name is kept holy when the Word of God is taught in its truth and purity, and we, as the children of God, also lead holy lives according to it. Help us to do this, dear Father in heaven! But anyone who teaches or lives contrary to God's Word profanes the name of God among us. Protect us from this, heavenly Father!
+
+*Hallowed* means *holy* from the King James Bible, and we say it every time we pray the Lord's Prayer.
+We are reminded when we pray, **"Hallowed by Thy name,"** that what we do as God's children reflects on His name.
+We are His true children and He is our true Father---that is why we are praying to Him.
+What we say and do is a reflection on Him just like
+what we say and do is a reflection on our earthly parents.
+If we do good, someone my call our mother and say, "I am thankful for your daughter. She called me when the power went out and asked if I was okay."
+If we do bad, God forbid, someone may see our father on the street and scowl.
+Who we are and what we do is a reflection on our parents.
+Who we are and what we do is also a reflection on our heavenly Father.
+That is what we pray for when we pray, **"Hallowed by Thy name"**: not only that we only use God's name with reverence to keep the Second Commandment, but that what we say and what we do is according His Word to put His name in a positive light; that others may praise the God and Father of our Lord Jesus Christ ([Rm 15:6](https://www.esv.org/Romans+15:6/)).
+That is what we pray for when we pray, **"Hallowed by Thy name."**
+
+*Hallowe'en*, then means, *Hallowed be this evening*, the evening before All Sainsts Day.
+For *all* saints, even the ones who died in the faith of Jesus, are *alive*.
+*The Word of Christ makes the dead live*.
+Is this not the very thing that God is good at: **"God ..., who gives life to the dead and calls into existence the things that do not exist"** ([Rm 4:17b](https://www.esv.org/Romans+4:17/) ESV)?
+*[Point to the Crucifixion window]* Christ did, in fact exchange His life for our death.
+By faith in His propitiation for our sins, we have not only a good feeling but *a rock-solid fact* that His life is now our life---*[Point to Resurrection window]* He lives and we live---He has a brand-new body and we will get one, too.
+Remember what our Lord clearly told the Sadducees who wanted to argue with Him about the resurrection of the dead:
+
+> **"Is this not the reason you are wrong, because you know neither the Scriptures nor the power of God? For when they rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven. And as for the dead being raised, have you not read in the book of Moses, in the passage about the bush, how God spoke to him, saying, 'I am the God of Abraham, and the God of Isaac, and the God of Jacob'? _He is not God of the dead, but of the living._ You are quite wrong."** ([Mk 12:24‑27](https://www.esv.org/Mark+12:24/) ESV)
+
+And so, on All Saints Day, which was Thursday, but we are observing it today---on All Saints Day we rejoice not only in the sinners who are alive today by the Word of Christ, but sinners who have died in the faith and are alive today by the Word of Christ---the Word in which we trust and the Word that makes everything holy which it touches.
+It makes *Hallowe'en* a *Holy Evening*.
+
+Be amazed on Hallowe'en and rejoce on All Saints Day, for Christ's Word can and does raise the dead---[Point to the cemetery] you will see what will happen in the cemetery soon enough.
+All Saints Day is a reminder of what we are told in Revelation is **a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb, clothed in white robes, with palm branches in their hands, and crying out with a loud voice, "Salvation belongs to our God who sits on the throne, and to the Lamb!"** ([Rv 7:9‑10](https://www.esv.org/Revelation+7:9/)) 
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
 AMEN.
 
 ## Outline
