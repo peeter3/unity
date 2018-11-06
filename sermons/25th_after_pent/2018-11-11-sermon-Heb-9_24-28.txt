@@ -1,0 +1,60 @@
+% 25th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [1Ki 17:8‑16 ESV]
+
+[8] Then the word of the LORD came to him, [9] “Arise, go to Zarephath, which belongs to Sidon, and dwell there. Behold, I have commanded a widow there to feed you.” [10] So he arose and went to Zarephath. And when he came to the gate of the city, behold, a widow was there gathering sticks. And he called to her and said, “Bring me a little water in a vessel, that I may drink.” [11] And as she was going to bring it, he called to her and said, “Bring me a morsel of bread in your hand.” [12] And she said, “As the LORD your God lives, I have nothing baked, only a handful of flour in a jar and a little oil in a jug. And now I am gathering a couple of sticks that I may go in and prepare it for myself and my son, that we may eat it and die.” [13] And Elijah said to her, “Do not fear; go and do as you have said. But first make me a little cake of it and bring it to me, and afterward make something for yourself and your son. [14] For thus says the LORD, the God of Israel, ‘The jar of flour shall not be spent, and the jug of oil shall not be empty, until the day that the LORD sends rain upon the earth.’” [15] And she went and did as Elijah said. And she and he and her household ate for many days. [16] The jar of flour was not spent, neither did the jug of oil become empty, according to the word of the LORD that he spoke by Elijah.
+
+## Epistle [Heb 9:24‑28 ESV; sermon text]
+
+[24] For Christ has entered, not into holy places made with hands, which are copies of the true things, but into heaven itself, now to appear in the presence of God on our behalf. [25] Nor was it to offer himself repeatedly, as the high priest enters the holy places every year with blood not his own, [26] for then he would have had to suffer repeatedly since the foundation of the world. But as it is, he has appeared once for all at the end of the ages to put away sin by the sacrifice of himself. [27] And just as it is appointed for man to die once, and after that comes judgment, [28] so Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him.
+
+------------
+
+
+## Holy Gospel [Mk 12:38‑44 ESV]
+
+[38] And in his teaching he said, “Beware of the scribes, who like to walk around in long robes and like greetings in the marketplaces [39] and have the best seats in the synagogues and the places of honor at feasts, [40] who devour widows' houses and for a pretense make long prayers. They will receive the greater condemnation.”
+
+[41] And he sat down opposite the treasury and watched the people putting money into the offering box. Many rich people put in large sums. [42] And a poor widow came and put in two small copper coins, which make a penny. [43] And he called his disciples to him and said to them, “Truly, I say to you, this poor widow has put in more than all those who are contributing to the offering box. [44] For they all contributed out of their abundance, but she out of her poverty has put in everything she had, all she had to live on.”
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 157 _There Is a Fountain Filled with Blood_
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
