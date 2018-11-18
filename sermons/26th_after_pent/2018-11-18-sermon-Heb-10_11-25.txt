@@ -1,0 +1,105 @@
+% 26th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Dn 12:1‑3 ESV]
+
+[1] “At that time shall arise Michael, the great prince who has charge of your people. And there shall be a time of trouble, such as never has been since there was a nation till that time. But at that time your people shall be delivered, everyone whose name shall be found written in the book. [2] And many of those who sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt. [3] And those who are wise shall shine like the brightness of the sky above; and those who turn many to righteousness, like the stars forever and ever.
+
+## Epistle [Heb 10:11‑25 ESV; sermon text]
+
+[11] And every priest stands daily at his service, offering repeatedly the same sacrifices, which can never take away sins. [12] But when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God, [13] waiting from that time until his enemies should be made a footstool for his feet. [14] For by a single offering he has perfected for all time those who are being sanctified.
+
+[15] And the Holy Spirit also bears witness to us; for after saying,
+
+> [16] “This is the covenant that I will make with them\
+> after those days, declares the Lord:\
+> I will put my laws on their hearts,\
+> and write them on their minds,”
+	
+[17] then he adds,
+
+> “I will remember their sins and their lawless deeds no more.”
+	
+	
+[18] Where there is forgiveness of these, there is no longer any offering for sin.
+
+[19] Therefore, brothers, since we have confidence to enter the holy places by the blood of Jesus, [20] by the new and living way that he opened for us through the curtain, that is, through his flesh, [21] and since we have a great priest over the house of God, [22] let us draw near with a true heart in full assurance of faith, with our hearts sprinkled clean from an evil conscience and our bodies washed with pure water. [23] Let us hold fast the confession of our hope without wavering, for he who promised is faithful. [24] And let us consider how to stir up one another to love and good works, [25] not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near.
+
+------------
+
+[11] Καὶ πᾶς μὲν ἱερεὺς ἕστηκεν καθ' ἡμέραν λειτουργῶν καὶ τὰς αὐτὰς πολλάκις προσφέρων θυσίας, αἵτινες οὐδέποτε δύνανται περιελεῖν ἁμαρτίας. 
+[12] οὗτος δὲ μίαν ὑπὲρ ἁμαρτιῶν προσενέγκας θυσίαν εἰς τὸ διηνεκὲς ἐκάθισεν ἐν δεξιᾷ τοῦ θεοῦ, 
+[13] τὸ λοιπὸν ἐκδεχόμενος ἕως τεθῶσιν οἱ ἐχθροὶ αὐτοῦ ὑποπόδιον τῶν ποδῶν αὐτοῦ: 
+[14] μιᾷ γὰρ προσφορᾷ τετελείωκεν εἰς τὸ διηνεκὲς τοὺς ἁγιαζομένους. 
+
+[15] Μαρτυρεῖ δὲ ἡμῖν καὶ τὸ πνεῦμα τὸ ἅγιον: μετὰ γὰρ τὸ εἰρηκέναι, 
+
+> [16] Αὕτη ἡ διαθήκη ἣν διαθήσομαι πρὸς αὐτοὺς μετὰ τὰς ἡμέρας ἐκείνας, λέγει κύριος, διδοὺς νόμους μου ἐπὶ καρδίας αὐτῶν, καὶ ἐπὶ τὴν διάνοιαν αὐτῶν ἐπιγράψω αὐτούς, 
+
+[17] καὶ
+
+> τῶν ἁμαρτιῶν αὐτῶν καὶ τῶν ἀνομιῶν αὐτῶν οὐ μὴ μνησθήσομαι ἔτι.
+
+[18] ὅπου δὲ ἄφεσις τούτων, οὐκέτι προσφορὰ περὶ ἁμαρτίας. 
+
+[19] Ἔχοντες οὖν, ἀδελφοί, παρρησίαν εἰς τὴν εἴσοδον τῶν ἁγίων ἐν τῷ αἵματι Ἰησοῦ, 
+[20] ἣν ἐνεκαίνισεν ἡμῖν ὁδὸν πρόσφατον καὶ ζῶσαν διὰ τοῦ καταπετάσματος, τοῦτ' ἔστιν τῆς σαρκὸς αὐτοῦ, 
+[21] καὶ ἱερέα μέγαν ἐπὶ τὸν οἶκον τοῦ θεοῦ, 
+[22] προσερχώμεθα μετὰ ἀληθινῆς καρδίας ἐν πληροφορίᾳ πίστεως, ῥεραντισμένοι τὰς καρδίας ἀπὸ συνειδήσεως πονηρᾶς καὶ λελουσμένοι τὸ σῶμα ὕδατι καθαρῷ: 
+[23] κατέχωμεν τὴν ὁμολογίαν τῆς ἐλπίδος ἀκλινῆ, πιστὸς γὰρ ὁ ἐπαγγειλάμενος: 
+[24] καὶ κατανοῶμεν ἀλλήλους εἰς παροξυσμὸν ἀγάπης καὶ καλῶν ἔργων, 
+[25] μὴ ἐγκαταλείποντες τὴν ἐπισυναγωγὴν ἑαυτῶν, καθὼς ἔθος τισίν, ἀλλὰ παρακαλοῦντες, καὶ τοσούτῳ μᾶλλον ὅσῳ βλέπετε ἐγγίζουσαν τὴν ἡμέραν.
+
+## Holy Gospel [Mk 13:1‑13 ESV]
+
+[1] And as he came out of the temple, one of his disciples said to him, “Look, Teacher, what wonderful stones and what wonderful buildings!” [2] And Jesus said to him, “Do you see these great buildings? There will not be left here one stone upon another that will not be thrown down.”
+
+[3] And as he sat on the Mount of Olives opposite the temple, Peter and James and John and Andrew asked him privately, [4] “Tell us, when will these things be, and what will be the sign when all these things are about to be accomplished?” [5] And Jesus began to say to them, “See that no one leads you astray. [6] Many will come in my name, saying, ‘I am he!’ and they will lead many astray. [7] And when you hear of wars and rumors of wars, do not be alarmed. This must take place, but the end is not yet. [8] For nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places; there will be famines. These are but the beginning of the birth pains.
+
+[9] “But be on your guard. For they will deliver you over to councils, and you will be beaten in synagogues, and you will stand before governors and kings for my sake, to bear witness before them. [10] And the gospel must first be proclaimed to all nations. [11] And when they bring you to trial and deliver you over, do not be anxious beforehand what you are to say, but say whatever is given you in that hour, for it is not you who speak, but the Holy Spirit. [12] And brother will deliver brother over to death, and the father his child, and children will rise against parents and have them put to death. [13] And you will be hated by all for my name's sake. But the one who endures to the end will be saved.
+
+## Introit [Ps 48:11-14; antiphon: Mk 13:13b]
+
+> The one who endures | to the end\*\
+> will | be saved.\
+> Let Mount Zion | be glad!\*\
+> Let the daughters of Judah rejoice because of your | judgments!\
+> Walk about Zion, go around her, number her | towers,\*\
+> consider well her ramparts, go through her | citadels,\
+> that you may tell the next generations that this is God, our God forever and | ever.\*\
+> He will guide us for- | ever.
+
+## Collect
+
+Grant, we beseech You, almighty God, unto Your Church the Holy Spirit, and the wisdom which comes down from above, that Your Word, as becomes it, may not be bound, but have free course and be preached to the joy and edifying of Christ’s holy people; that in steadfast faith we may serve You and in the confession of Your Holy Name, abide unto the end; through Jesus Christ, our Lord, Who lives and reigns with You and the Holy Spirit, ever one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 610 _And will the Judge Descend_
+* Sermon hymn: _TLH_ 178 _We Sing the Praise of Him Who Died_
+* Closing hymn: _TLH_ 53 _Abide, O Dearest Jesus_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
