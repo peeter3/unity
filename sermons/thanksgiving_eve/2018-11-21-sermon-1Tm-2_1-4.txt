@@ -1,0 +1,163 @@
+% Thanksgiving Eve
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+## Announcements
+
+* Midweek Advent services begin 12/5, two weeks from tonight. Dinner at 6, service at 7.
+
+## First reading [Dt 8:1‑10 ESV]
+
+[1] “The whole commandment that I command you today you shall be careful to do, that you may live and multiply, and go in and possess the land that the LORD swore to give to your fathers. [2] And you shall remember the whole way that the LORD your God has led you these forty years in the wilderness, that he might humble you, testing you to know what was in your heart, whether you would keep his commandments or not. [3] And he humbled you and let you hunger and fed you with manna, which you did not know, nor did your fathers know, that he might make you know that man does not live by bread alone, but man lives by every word that comes from the mouth of the LORD. [4] Your clothing did not wear out on you and your foot did not swell these forty years. [5] Know then in your heart that, as a man disciplines his son, the LORD your God disciplines you. [6] So you shall keep the commandments of the LORD your God by walking in his ways and by fearing him. [7] For the LORD your God is bringing you into a good land, a land of brooks of water, of fountains and springs, flowing out in the valleys and hills, [8] a land of wheat and barley, of vines and fig trees and pomegranates, a land of olive trees and honey, [9] a land in which you will eat bread without scarcity, in which you will lack nothing, a land whose stones are iron, and out of whose hills you can dig copper. [10] And you shall eat and be full, and you shall bless the LORD your God for the good land he has given you.”
+
+------------
+
+[1]  ΠΑΣΑΣ τὰς ἐντολάς, ἃς ἐγὼ ἐντέλλομαι ὑμῖν σήμερον, φυλάξεσθε ποιεῖν, ἵνα ζῆτε καὶ πολυπλασιασθῆτε καὶ εἰσέλθητε καὶ κληρονομήσητε τὴν γῆν, ἣν ὤμοσε Κύριος ὁ Θεὸς ὑμῶν τοῖς πατράσιν ὑμῶν. 
+[2]  καὶ μνησθήσῃ πᾶσαν τὴν ὁδόν, ἣν ἤγαγέ σε Κύριος ὁ Θεός σου ἐν τῇ ἐρήμῳ, ὅπως ἂν κακώσῃ σε καὶ πειράσῃ σε καὶ διαγνωσθῇ τὰ ἐν τῇ καρδίᾳ σου, εἰ φυλάξῃ τὰς ἐντολὰς αὐτοῦ ἢ οὔ. 
+[3]  καὶ ἐκάκωσέ σε καὶ ἐλιμαγχόνησέ σε καὶ ἐψώμισέ σε τὸ μάννα, ὃ οὐκ ᾔδεισαν οἱ πατέρες σου, ἵνα ἀναγγείλῃ σοι, ὅτι οὐκ ἐπ᾿ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος, ἀλλ᾿ ἐπὶ παντὶ ρήματι τῷ ἐκπορευομένῳ διὰ στόματος Θεοῦ ζήσεται ὁ ἄνθρωπος. 
+[4]  τὰ ἱμάτιά σου οὐκ ἐπαλαιώθη ἀπὸ σοῦ, τὰ ὑποδήματά σου οὐ κατετρίβη ἀπὸ σοῦ, οἱ πόδες σου οὐκ ἐτυλώθησαν, ἰδοὺ τεσσαράκοντα ἔτη. 
+[5]  καὶ γνώσῃ τῇ καρδίᾳ σου ὅτι ὡς εἴ τις ἄνθρωπος παιδεύσῃ τὸν υἱὸν αὐτοῦ, οὕτω Κύριος ὁ Θεός σου παιδεύσει σε, 
+[6]  καὶ φυλάξῃ τὰς ἐντολὰς Κυρίου τοῦ Θεοῦ σου πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ καὶ φοβεῖσθαι αὐτόν· 
+[7]  ὁ γὰρ Κύριος ὁ Θεός σου εἰσάξει σε εἰς γῆν ἀγαθὴν καὶ πολλήν, οὗ χείμαρροι ὑδάτων καὶ πηγαὶ ἀβύσσων ἐκπορευόμεναι διὰ τῶν πεδίων καὶ διὰ τῶν ὀρέων· 
+[8]  γῆ πυροῦ καὶ κριθῆς, ἄμπελοι, συκαῖ, ροαί, γῆ ἐλαίας ἐλαίου καὶ μέλιτος· 
+[9]  γῆ, ἐφ᾿ ἧς οὐ μετὰ πτωχείας φαγῇ τὸν ἄρτον σου καὶ οὐκ ἐνδεηθήσῃ ἐπ᾿ αὐτῆς οὐδέν· γῆ, ἧς οἱ λίθοι σίδηρος, καὶ ἐκ τῶν ὀρέων αὐτῆς μεταλλεύσεις χαλκόν· 
+[10]  καὶ φαγῇ καὶ ἐμπλησθήσῃ καὶ εὐλογήσεις Κύριον τὸν Θεόν σου ἐπὶ τῆς γῆς τῆς ἀγαθῆς, ἧς δέδωκέ σοι.
+
+## Epistle [1Tm 2:1‑4 ESV; sermon text]
+
+[1] First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for all people, [2] for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and dignified in every way. [3] This is good, and it is pleasing in the sight of God our Savior, [4] who desires all people to be saved and to come to the knowledge of the truth.
+
+------------
+
+[1] Παρακαλῶ οὖν πρῶτον πάντων ποιεῖσθαι δεήσεις, προσευχάς, ἐντεύξεις, εὐχαριστίας, ὑπὲρ πάντων ἀνθρώπων, [2] ὑπὲρ βασιλέων καὶ πάντων τῶν ἐν ὑπεροχῇ ὄντων, ἵνα ἤρεμον καὶ ἡσύχιον βίον διάγωμεν ἐν πάσῃ εὐσεβείᾳ καὶ σεμνότητι. [3] τοῦτο καλὸν καὶ ἀπόδεκτον ἐνώπιον τοῦ σωτῆρος ἡμῶν θεοῦ, [4] ὃς πάντας ἀνθρώπους θέλει σωθῆναι καὶ εἰς ἐπίγνωσιν ἀληθείας ἐλθεῖν.
+
+## Holy Gospel [Lk 17:11‑19 ESV]
+
+[11] On the way to Jerusalem he was passing along between Samaria and Galilee.
+[12] And as he entered a village, he was met by ten lepers, who stood at a distance [13] and lifted up their voices, saying, “Jesus, Master, have mercy on us.” [14] When he saw them he said to them, “Go and show yourselves to the priests.” And as they went they were cleansed. [15] Then one of them, when he saw that he was healed, turned back, praising God with a loud voice; [16] and he fell on his face at Jesus' feet, giving him thanks. Now he was a Samaritan. [17] Then Jesus answered, “Were not ten cleansed? Where are the nine? [18] Was no one found to return and give praise to God except this foreigner?”
+[19] And he said to him, “Rise and go your way; your faith has made you well.”
+
+------------
+
+[11] Καὶ ἐγένετο ἐν τῷ πορεύεσθαι εἰς Ἰερουσαλὴμ καὶ αὐτὸς διήρχετο διὰ μέσον Σαμαρείας καὶ Γαλιλαίας. 
+[12] καὶ εἰσερχομένου αὐτοῦ εἴς τινα κώμην ἀπήντησαν [αὐτῷ] δέκα λεπροὶ ἄνδρες, οἳ ἔστησαν πόρρωθεν, 
+[13] καὶ αὐτοὶ ἦραν φωνὴν λέγοντες, Ἰησοῦ ἐπιστάτα, ἐλέησον ἡμᾶς. 
+[14] καὶ ἰδὼν εἶπεν αὐτοῖς, Πορευθέντες ἐπιδείξατε ἑαυτοὺς τοῖς ἱερεῦσιν. καὶ ἐγένετο ἐν τῷ ὑπάγειν αὐτοὺς ἐκαθαρίσθησαν. 
+[15] εἷς δὲ ἐξ αὐτῶν, ἰδὼν ὅτι ἰάθη, ὑπέστρεψεν μετὰ φωνῆς μεγάλης δοξάζων τὸν θεόν, 
+[16] καὶ ἔπεσεν ἐπὶ πρόσωπον παρὰ τοὺς πόδας αὐτοῦ εὐχαριστῶν αὐτῷ: καὶ αὐτὸς ἦν Σαμαρίτης. 
+[17] ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν, Οὐχὶ οἱ δέκα ἐκαθαρίσθησαν; οἱ δὲ ἐννέα ποῦ; 
+[18] οὐχ εὑρέθησαν ὑποστρέψαντες δοῦναι δόξαν τῷ θεῷ εἰ μὴ ὁ ἀλλογενὴς οὗτος; 
+[19] καὶ εἶπεν αὐτῷ, Ἀναστὰς πορεύου: ἡ πίστις σου σέσωκέν σε.
+
+## Introit
+
+*NO INTROIT FOR THIS SERVICE*
+
+## Collect
+
+Almighty God, Your mercies are new every morning and You graciously provide for all our needs of body and soul. Grant us Your Holy Spirit that we may acknowledge Your goodness, give thanks for Your benefits, and serve You in willing obedience all our days; through Jesus Christ, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 568 _We Praise Thee, O God, Our Redeemer, Creator_
+* Sermon hymn: _TLH_ 569 _O Lord, I Sing with Lips and Heart_
+* Closing hymn: _TLH_ 577 _God Bless Our Native Land_
+
+## Sermon
+
+Beloved in the Lord, did the Israelites, wandering through the wilderness and led by Moses, have a right to complain?
+
+> **The people quarreled with Moses and said, &ldquo;Give us water to drink.&rdquo; And Moses said to them, &ldquo;Why do you quarrel with me? Why do you test the LORD?&rdquo;** [(Ex&nbsp;17:2 ESV)](http://www.esvbible.org/Exodus%2017%3A2/)
+
+> **Now the rabble that was among them had a strong craving. And the people of Israel also wept again and said, &ldquo;Oh that we had meat to eat! We remember the fish we ate in Egypt that cost nothing, the cucumbers, the melons, the leeks, the onions, and the garlic. But now our strength is dried up, and there is nothing at all but this manna to look at.&rdquo;** [(Nm&nbsp;11:4&#x2011;6 ESV)](http://www.esvbible.org/Numbers%2011%3A4-6/)
+
+The LORD had supplied the wandering Israelites with daily bread from heaven ... and they complained about it instead of giving thanks!
+There were over a million of them, wandering in a dry, barren wilderness.
+A *million*!
+And not one had ever died of thirst.
+They could have been thankful, they should have been thankful, for God had supplied them with all their needs as they traveled from Egyptian slavery to the Promised Land.
+
+Could it be that if the Israelites had believed in Jesus they would have **learned**, like St&nbsp;Paul, **in whatever situation to be content**?
+But Paul himself clearly points out in 1&nbsp;Corinthians, chapter&nbsp;10 that Jesus *was there* with the Israelites in the wilderness:
+
+> **For I do not want you to be unaware, brothers, that our fathers were all under the cloud, and all passed through the sea, and all were baptized into Moses in the cloud and in the sea, and all ate the same spiritual food, and all drank the same spiritual drink. For they drank from the spiritual Rock that followed them, _and the Rock was Christ_.**
+
+Jesus was in the wilderness! The Holy Spirit revealed to St&nbsp;Paul that Christ Himself was the spiritual Rock that followed the Israelites in the wilderness.
+
+> **Nevertheless, with most of them God was not pleased, for they were overthrown in the wilderness.**
+
+Now here is the lesson behind it all.
+
+> **These things took place as examples for us, that we might not desire evil as they did. Do not be idolaters as some of them were; as it is written, &ldquo;The people sat down to eat and drink and rose up to play.&rdquo; We must not indulge in sexual immorality as some of them did, and twenty-three thousand fell in a single day. _We must not put Christ to the test_, as some of them did and were destroyed by serpents, nor grumble, as some of them did and were destroyed by the Destroyer. Now these things happened to them as an example, but they were written down for our instruction, on whom the end of the ages has come.** [(1Co&nbsp;10:1&#x2011;11 ESV)](http://www.esvbible.org/1%20Corinthians%2010%3A1-11/)
+
+The lesson for us, on whom the end of the ages has come, is to not put Christ to the test.
+But we return to the original question: Did the Israelites have a right to complain?
+Even though none died of hunger or died of thirst, they were hungry and thirsty from time to time. Sure, they had a right to complain.
+But did they have a right *to put Christ to the test*, which they did do? No. You best *not* put Christ to the test,
+_for Christ has already passed the test_.
+He passed the supreme test when He bore our sins on the Cross.
+
+If you were thinking that I would come at you from the angle, &ldquo;You better be thankful for all Christ did for you,&rdquo; think again.
+Instead of thinking of what you ought to do and never do well enough, remember *Christ's own joy and thanksgiving on the Cross*.
+The same Cross for which He prayed in the Garden of Gethsemane, **&ldquo;Father, if you are willing, remove this cup from me&rdquo;** [(Lk&nbsp;22:42 ESV)](http://www.esvbible.org/Luke%2022%3A42/)---the same Cross on which He suffered horribly--**My God, My God, why have You forsaken Me?**---is also the place where our Lord have thanks to His Father in heaven.
+
+For when Jesus cries out on the Cross, **My God, My God, why have You forsaken Me?**, He is starting to proclaim Psalm 22.
+This is the psalm, written by David by the inspiriation of the Holy Spirit, describing *in detail* the Crucifixion of Christ.
+The detail revealed, however, is not that seen by an observer: the detail is the description of Christ Himself.
+Psalm 22 is Christ describing His own Crucifixion.
+
+> **O my God, I cry by day, but you do not answer,**\
+> **and by night, but I find no rest.**\
+> **Yet you are holy,**\
+> **enthroned on the praises of Israel.**\
+> **In you our fathers trusted;**\
+> **they trusted, and you delivered them.**\
+> **To you they cried and were rescued;**\
+> **in you they trusted and were not put to shame.** (Ps&nbsp;22:2&#x2011;5 ESV)
+
+Christ's trust in His Father in Psalm&nbsp;22 turns to praising Him.
+
+> **I will tell of your name to my brothers;**\
+> **in the midst of the congregation I will praise you:**\
+> **You who fear the LORD, praise him!**\
+> **All you offspring of Jacob, glorify him,**\
+> **and stand in awe of him, all you offspring of Israel!**\
+> **For he has not despised or abhorred**\
+> **the affliction of the afflicted,**\
+> **and he has not hidden his face from him,**\
+> **but has heard, when he cried to him.**
+
+> **From you comes my praise in the great congregation;**\
+> **my vows I will perform before those who fear him.**\
+> **The afflicted shall eat and be satisfied;**\
+> **those who seek him shall praise the LORD!**\
+> **May your hearts live forever!** (Ps&nbsp;22:22&#x2011;26 ESV)
+
+Beloved in the Lord, I urge you to pray Psalm&nbsp;22 as a prayer of Thanksgiving, knowing that this is Christ's own prayer of prayer and thanksgiving on the Cross.
+The end of Psalm&nbsp;22 still finds Jesus praising His Father for what He has done for us, a people yet unborn:
+
+> **Posterity shall serve him;**\
+> **it shall be told of the Lord to the coming generation;**\
+> **they shall come and proclaim his righteousness to a people yet unborn,**\
+> **that _he has done it_.** (Ps&nbsp;22:30&#x2011;31 ESV)
+
+There is nothing to test Christ about, for *He has done it*.
+He has won our righteousness before God by atoning for our sins on the Cross!
+Beloved in the Lord, in the light of what Jesus has done for you, you can face hunger and thrist and suffering _with joy and thanksgiving_.
+We take to heart St&nbsp;Paul's instruction:
+
+> **Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.**
+
+AMEN.
+
+## Outline
+
+<center>ZZZ</center>
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+> **And Moses summoned all Israel and said to them: &ldquo;You have seen all that the LORD did before your eyes in the land of Egypt, to Pharaoh and to all his servants and to all his land, the great trials that your eyes saw, the signs, and those great wonders. But to this day the LORD has not given you a heart to understand or eyes to see or ears to hear. I have led you forty years in the wilderness. Your clothes have not worn out on you, and your sandals have not worn off your feet.&rdquo;** [(Dt&nbsp;29:2&#x2011;5 ESV)](http://www.esvbible.org/Deuteronomy%2029%3A2-5/)
