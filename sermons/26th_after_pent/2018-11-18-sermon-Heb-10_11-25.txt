@@ -1,0 +1,179 @@
+% 26th after Pentecost
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Dn 12:1‑3 ESV]
+
+[1] “At that time shall arise Michael, the great prince who has charge of your people. And there shall be a time of trouble, such as never has been since there was a nation till that time. But at that time your people shall be delivered, everyone whose name shall be found written in the book. [2] And many of those who sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt. [3] And those who are wise shall shine like the brightness of the sky above; and those who turn many to righteousness, like the stars forever and ever.
+
+## Epistle [Heb 10:11‑25 ESV; sermon text]
+
+[11] And every priest stands daily at his service, offering repeatedly the same sacrifices, which can never take away sins. [12] But when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God, [13] waiting from that time until his enemies should be made a footstool for his feet. [14] For by a single offering he has perfected for all time those who are being sanctified.
+
+[15] And the Holy Spirit also bears witness to us; for after saying,
+
+> [16] “This is the covenant that I will make with them\
+> after those days, declares the Lord:\
+> I will put my laws on their hearts,\
+> and write them on their minds,”
+	
+[17] then he adds,
+
+> “I will remember their sins and their lawless deeds no more.”
+	
+	
+[18] Where there is forgiveness of these, there is no longer any offering for sin.
+
+[19] Therefore, brothers, since we have confidence to enter the holy places by the blood of Jesus, [20] by the new and living way that he opened for us through the curtain, that is, through his flesh, [21] and since we have a great priest over the house of God, [22] let us draw near with a true heart in full assurance of faith, with our hearts sprinkled clean from an evil conscience and our bodies washed with pure water. [23] Let us hold fast the confession of our hope without wavering, for he who promised is faithful. [24] And let us consider how to stir up one another to love and good works, [25] not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near.
+
+------------
+
+[11] Καὶ πᾶς μὲν ἱερεὺς ἕστηκεν καθ' ἡμέραν λειτουργῶν καὶ τὰς αὐτὰς πολλάκις προσφέρων θυσίας, αἵτινες οὐδέποτε δύνανται περιελεῖν ἁμαρτίας. 
+[12] οὗτος δὲ μίαν ὑπὲρ ἁμαρτιῶν προσενέγκας θυσίαν εἰς τὸ διηνεκὲς ἐκάθισεν ἐν δεξιᾷ τοῦ θεοῦ, 
+[13] τὸ λοιπὸν ἐκδεχόμενος ἕως τεθῶσιν οἱ ἐχθροὶ αὐτοῦ ὑποπόδιον τῶν ποδῶν αὐτοῦ: 
+[14] μιᾷ γὰρ προσφορᾷ τετελείωκεν εἰς τὸ διηνεκὲς τοὺς ἁγιαζομένους. 
+
+[15] Μαρτυρεῖ δὲ ἡμῖν καὶ τὸ πνεῦμα τὸ ἅγιον: μετὰ γὰρ τὸ εἰρηκέναι, 
+
+> [16] Αὕτη ἡ διαθήκη ἣν διαθήσομαι πρὸς αὐτοὺς μετὰ τὰς ἡμέρας ἐκείνας, λέγει κύριος, διδοὺς νόμους μου ἐπὶ καρδίας αὐτῶν, καὶ ἐπὶ τὴν διάνοιαν αὐτῶν ἐπιγράψω αὐτούς, 
+
+[17] καὶ
+
+> τῶν ἁμαρτιῶν αὐτῶν καὶ τῶν ἀνομιῶν αὐτῶν οὐ μὴ μνησθήσομαι ἔτι.
+
+[18] ὅπου δὲ ἄφεσις τούτων, οὐκέτι προσφορὰ περὶ ἁμαρτίας. 
+
+[19] Ἔχοντες οὖν, ἀδελφοί, παρρησίαν εἰς τὴν εἴσοδον τῶν ἁγίων ἐν τῷ αἵματι Ἰησοῦ, 
+[20] ἣν ἐνεκαίνισεν ἡμῖν ὁδὸν πρόσφατον καὶ ζῶσαν διὰ τοῦ καταπετάσματος, τοῦτ' ἔστιν τῆς σαρκὸς αὐτοῦ, 
+[21] καὶ ἱερέα μέγαν ἐπὶ τὸν οἶκον τοῦ θεοῦ, 
+[22] προσερχώμεθα μετὰ ἀληθινῆς καρδίας ἐν πληροφορίᾳ πίστεως, ῥεραντισμένοι τὰς καρδίας ἀπὸ συνειδήσεως πονηρᾶς καὶ λελουσμένοι τὸ σῶμα ὕδατι καθαρῷ: 
+[23] κατέχωμεν τὴν ὁμολογίαν τῆς ἐλπίδος ἀκλινῆ, πιστὸς γὰρ ὁ ἐπαγγειλάμενος: 
+[24] καὶ κατανοῶμεν ἀλλήλους εἰς παροξυσμὸν ἀγάπης καὶ καλῶν ἔργων, 
+[25] μὴ ἐγκαταλείποντες τὴν ἐπισυναγωγὴν ἑαυτῶν, καθὼς ἔθος τισίν, ἀλλὰ παρακαλοῦντες, καὶ τοσούτῳ μᾶλλον ὅσῳ βλέπετε ἐγγίζουσαν τὴν ἡμέραν.
+
+## Holy Gospel [Mk 13:1‑13 ESV]
+
+[1] And as he came out of the temple, one of his disciples said to him, “Look, Teacher, what wonderful stones and what wonderful buildings!” [2] And Jesus said to him, “Do you see these great buildings? There will not be left here one stone upon another that will not be thrown down.”
+
+[3] And as he sat on the Mount of Olives opposite the temple, Peter and James and John and Andrew asked him privately, [4] “Tell us, when will these things be, and what will be the sign when all these things are about to be accomplished?” [5] And Jesus began to say to them, “See that no one leads you astray. [6] Many will come in my name, saying, ‘I am he!’ and they will lead many astray. [7] And when you hear of wars and rumors of wars, do not be alarmed. This must take place, but the end is not yet. [8] For nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places; there will be famines. These are but the beginning of the birth pains.
+
+[9] “But be on your guard. For they will deliver you over to councils, and you will be beaten in synagogues, and you will stand before governors and kings for my sake, to bear witness before them. [10] And the gospel must first be proclaimed to all nations. [11] And when they bring you to trial and deliver you over, do not be anxious beforehand what you are to say, but say whatever is given you in that hour, for it is not you who speak, but the Holy Spirit. [12] And brother will deliver brother over to death, and the father his child, and children will rise against parents and have them put to death. [13] And you will be hated by all for my name's sake. But the one who endures to the end will be saved.
+
+## Introit [Ps 48:11-14; antiphon: Mk 13:13b]
+
+> The one who endures | to the end\*\
+> will | be saved.\
+> Let Mount Zion | be glad!\*\
+> Let the daughters of Judah rejoice because of your | judgments!\
+> Walk about Zion, go around her, number her | towers,\*\
+> consider well her ramparts, go through her | citadels,\
+> that you may tell the next generations that this is God, our God forever and | ever.\*\
+> He will guide us for- | ever.
+
+## Collect
+
+Grant, we beseech You, almighty God, unto Your Church the Holy Spirit, and the wisdom which comes down from above, that Your Word, as becomes it, may not be bound, but have free course and be preached to the joy and edifying of Christ’s holy people; that in steadfast faith we may serve You and in the confession of Your Holy Name, abide unto the end; through Jesus Christ, our Lord, Who lives and reigns with You and the Holy Spirit, ever one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 610 _And will the Judge Descend_
+* Sermon hymn: _TLH_ 178 _We Sing the Praise of Him Who Died_
+* Closing hymn: _TLH_ 53 _Abide, O Dearest Jesus_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+Last week we learned that Christians observe Yom Kippur on Good Friday, for Good Friday is our Day of Atonement.
+Atonement---*at-one-ment*---our sins had separated us from God, making *at-two-ment*.
+What remained is holy God on one side who hates sin, and rebellious sinners on the other side, who could not keep a simple list of Ten Commandments to please God much less acknowledge that we had sinned against Him.
+
+How can we forget that things went from bad to worse after the Garden of Eden.
+It was bad enough that Adam ate the forbidden fruit, but worse when Cain killed Abel and spilled his brother's innocent blood on the ground from which Adam was made.
+**"Am I my brother's keeper?"** ([Gn 4:9](https://www.esv.org/Genesis+4:9/))
+What a sad state of affairs!
+From Cain to Noah, the Bible records that
+
+> **The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually. And the LORD regretted that he had made man on the earth, and it grieved him to his heart.** ([Gn 6:5‑6](https://www.esv.org/Genesis+6:5/) ESV)
+
+That verse encapsultes *at-two-ment*, the opposite of *at-one-ment*,
+and there you have it in black and white: sin grieves God to His heart---sin separates us from God---it always has; it always will.
+Your sin---my sin---our sin offends God deeply.
+It may help to recall that you have no doubt been offended at some point in your life.
+If you have been offended, how, then, have you offended God?
+
+Please allow me to make an illustration.
+This time of the year you see a lot of squirrels.
+(Wait a minute---you see a lot of squirrels around here *any* time of the year.)
+And have you noticed?
+The black squirrels from Kent have made it to Cleveland. I have seen them here in Cleveland.
+Those squirrels, I would have you know, were imported to Kent in 1961, and I am proud to say that they were brought in from Ontario, Canada.[^1] Those are Canadian squirrels.
+Now Rocky is one of the hundreds of squirrels in the Lutheran Cemetery, and he and hundreds of other squirrels are, of course, burying acorns.
+(If you would like to join them, I am sure there are some acorns left over.)
+Rocky sees an acorn that he wants, but Billy the squirrel jumps in and grabs it.
+This is an offense---Billy has offended Rocky, for Rocky really had his mind set on that acorn.
+But in a split second he can always get another one of those thousands of acorns lying on the ground around the acorn that Billy took.
+
+[^1]: [We’re Nuts About Black Squirrels](https://www.kentohio.net/kent-area-outdoor-activities/kent-ohios-black-squirrels), accessed 18 Nov 2018.
+
+Now keeping with our neighbors in the cemetery, Rocky spent days building a nifty nest up in the oak tree, and the weather is getting cold and Rocky and his family are counting on that nest to keep them warm this winter---a nice, cozy nest for the coldest of Cleveland days.
+This time Billy, that troublemaker, runs up that oak tree and out of sheer recklessness---maybe not maliciousness---out of sheer recklessness he destroy's Rocky's nest.
+Which is worse---taking his acorn or wrecking his house?
+
+Rocky cleches his squirrel fist in rage,
+and Billy twitches his tail and chatters, "Is it that bad?"
+
+Though we are but creatures and cannot handle what God can handle---though we are but creatures and cannot know everything God feels, we are still poor at taking our own sins---not someone else's---we are poor at taking *our own* sins seriously and regretting how much we offend God with our sins.
+We twitch our tail at God and chatter, "Is it that bad?"
+Yes, it is that bad.
+We twitch our tail at God and chatter, "Oh, He'll forgive us anyway."
+Well, He will forgive, but who will take the punishment?
+Can we atone for our sins, or must someone else?
+
+We may run into a problem of our own instead of causing one for God and begin to complain to God that He has not taken care of us, like the Israelites in the wilderness complained to God even though God He had brought them through the Red Sea on dry ground, given them water to drink from a rock, and kept their sandals and clothes from wearing out ([Dt 29:5](https://www.esv.org/Deuteronomy+29:5/)).
+We are poor at thanking God for His blessings and rich in grumbling against Him when we have trouble.
+This kind of sheer unbelief offends God as well.
+And because of our lack of faith---because of our sins of commission---because of our sins of *o*mission---things we neglected to do though we were told to do them---our sins make for *at-two-ment*: our sins separate us from God.
+
+> **But when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God, waiting from that time until his enemies should be made a footstool for his feet.**
+
+**Christ's single sacrifice for our sins**---hold on to that moment of atonement---*[Point to Crucifixion window]* hold on to our Lord Jesus hanging on the tree, His head crowned with thorns and His holy, precious blood running down His face.
+**Christ's single sacrifice for our sins**---His hands and feet pierced according to the prophecy of David ([Ps 22:16](https://www.esv.org/Psalm+22:16/)) with more blood shed.
+Christ's blood is shed for what purpose?
+Beloved in the Lord, blessed are ye who believe that Christ's blood is shed for the atonement of your sins!
+*Atonement*---*at-one-ment*---God clearly teaches us in the Old Testament that
+**"the life of the flesh is in the blood, and I have given it for you on the altar to make _atonement_ for your souls, for it is the blood that makes atonement by the life"** ([Lv 17:11](https://www.esv.org/Leviticus+17:11/) ESV).
+For there to be atonement with God, blood must be shed---life has to be given to atone for your sin.
+
+Beloved in the Lord, that is the end of the Ten Commanments: blood must be shed for every commandment you have broken.
+The repeated animal blood sacrifices instituted by God in the Old Testament testify that there are a lot of sins to atone for.
+But rejoice in Christ, whose blood is greater than the blood of goats and bulls and men.
+Yes, Christ is a man, born of the virgin Mary, but also God, begotten of the Father.
+What sin will His blood atone for?
+His own?
+He has no sin.
+Your sin?
+Yes, your sin.
+
+Beloved in the Lord, you may fail to consider the seriousness of your sin, but do not fail to consider the nature of Jesus' blood and the power of His blood to atone for your sin.
+*[Point to the altar]* God forbid that you fail to believe that this same blood is given to you to drink on Communion Sunday.
+There is no greater power over sin, death, and devil than the blood of Jesus!
+Let us not neglect to meet at this altar as we see the Day drawing near.
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
