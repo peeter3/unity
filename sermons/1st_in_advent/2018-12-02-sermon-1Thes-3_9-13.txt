@@ -1,0 +1,100 @@
+% First Sunday in Advent
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* HYMN SING TODAY! 
+* Matins order of service
+
+## Announcements
+
+* Midweek Advent services begin this Wednesday: 12/5. Dinner at 6, service at 7.
+
+## Old Testament reading [Jer 33:14‑16 ESV]
+
+[14] “Behold, the days are coming, declares the Lord, when I will fulfill the promise I made to the house of Israel and the house 
+of Judah. [15] In those days and at that time I will cause a righteous Branch to spring up for David, and he shall execute justice
+and righteousness in the land. [16] In those days Judah will be saved, and Jerusalem will dwell securely. And this is the name by
+which it will be called: ‘The Lord is our righteousness.’
+
+------------
+
+
+## Epistle [1 Thes 3:9‑13 ESV]
+
+[9] For what thanksgiving can we return to God for you, for all the joy that we feel for your sake before our God, [10] as we pray
+most earnestly night and day that we may see you face to face and supply what is lacking in your faith?
+[11] Now may our God and Father himself, and our Lord Jesus, direct our way to you, [12] and may the Lord make you increase and 
+abound in love for one another and for all, as we do for you, [13] so that he may establish your hearts blameless in holiness 
+before our God and Father, at the coming of our Lord Jesus with all his saints.
+
+------------
+
+
+## Holy Gospel [Lk 21:25‑36 ESV; Sermon text]
+
+[25] “And there will be signs in sun and moon and stars, and on the earth distress of nations in perplexity because of the roaring
+of the sea and the waves, [26] people fainting with fear and with foreboding of what is coming on the world. For the powers of the
+heavens will be shaken. [27] And then they will see the Son of Man coming in a cloud with power and great glory. [28] Now when 
+these things begin to take place, straighten up and raise your heads, because your redemption is drawing near.”
+[29] And he told them a parable: “Look at the fig tree, and all the trees. [30] As soon as they come out in leaf, you see for 
+yourselves and know that the summer is already near. [31] So also, when you see these things taking place, you know that the 
+kingdom of God is near. [32] Truly, I say to you, this generation will not pass away until all has taken place. [33] Heaven and 
+earth will pass away, but my words will not pass away.
+[34] “But watch yourselves lest your hearts be weighed down with dissipation and drunkenness and cares of this life, and that day
+come upon you suddenly like a trap. [35] For it will come upon all who dwell on the face of the whole earth. [36] But stay awake 
+at all times, praying that you may have strength to escape all these things that are going to take place, and to stand before the
+Son of Man.”
+
+------------
+
+
+
+## Introit [Ps 89:6, 14-16, 18; antiphon: Zech 9:9b]
+
+> Behold, your king is coming to you;\*\
+> righteous and having salvation.\
+> Who in the skies can be compared to the LORD?\*\
+> Who among the heavenly beings is like the LORD,\
+> Righteousness and justice are the foundation of your throne;\*\
+> steadfast love and faithfulness go before you.\
+> Blessèd are the people who know the festal shout,\*\
+> who walk, O LORD, in the light of your face,\
+> who exult in your name all the day\*\
+> and in your righteousness are exalted.\
+> For our shield belongs to the LORD,\*\
+> our king to the Holy One of Israel.\
+
+
+## Collect
+
+Stir up Your power, O Lord, and come, that by Your protection we may be rescued from the threatening perils of our sins and saved by Your mighty deliverance; for You live and reign with the Father and the Holy Ghost, ever one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 68 _The Advent of Our King_
+* Sermon hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 75 _Ye Sons of Man, Oh, Hearken_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+<center>ZZZ</center>
+
+1. 
+    1. 
+    1. 
+1. 
+    1. 
+    1. 
+    1. 
+
+## Notes
