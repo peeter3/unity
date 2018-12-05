@@ -1,0 +1,47 @@
+% King of Shame
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Zec 9:9b ESV
+
+> Behold, your king is coming to you;\
+> righteous and having salvation is he,\
+> humble and mounted on a donkey,\
+> on a colt, the foal of a donkey.
+
+## Ps 25:1‑3 ESV
+
+> [1] To you, O LORD, I lift up my soul.\
+> [2] O my God, in you I trust;\
+> let me not be put to shame;\
+> let not my enemies exult over me.\
+> [3] Indeed, none who wait for you shall be put to shame;\
+> they shall be ashamed who are wantonly treacherous.
+
+## Hymns
+
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
