@@ -1,0 +1,76 @@
+% 2nd in Advent
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Mal 3:1‑7b ESV; sermon text]
+
+[1] “Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple; and the messenger of the covenant in whom you delight, behold, he is coming, says the LORD of hosts. [2] But who can endure the day of his coming, and who can stand when he appears? For he is like a refiner's fire and like fullers' soap. [3] He will sit as a refiner and purifier of silver, and he will purify the sons of Levi and refine them like gold and silver, and they will bring offerings in righteousness to the LORD. [4] Then the offering of Judah and Jerusalem will be pleasing to the LORD as in the days of old and as in former years.
+
+[5] “Then I will draw near to you for judgment. I will be a swift witness against the sorcerers, against the adulterers, against those who swear falsely, against those who oppress the hired worker in his wages, the widow and the fatherless, against those who thrust aside the sojourner, and do not fear me, says the LORD of hosts.
+
+[6] "For I the LORD do not change; therefore you, O children of Jacob, are not consumed. [7] From the days of your fathers you have turned aside from my statutes and have not kept them. Return to me, and I will return to you, says the LORD of hosts."
+
+## Epistle [Php 4:4‑7 ESV]
+
+[4] Rejoice in the Lord always; again I will say, rejoice. [5] Let your reasonableness be known to everyone. The Lord is at hand; [6] do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. [7] And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.
+
+## Holy Gospel [Lk 3:1‑20 ESV]
+
+[1] In the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene, [2] during the high priesthood of Annas and Caiaphas, the word of God came to John the son of Zechariah in the wilderness. [3] And he went into all the region around the Jordan, proclaiming a baptism of repentance for the forgiveness of sins. [4] As it is written in the book of the words of Isaiah the prophet,
+
+> “The voice of one crying in the wilderness:\
+> ‘Prepare the way of the Lord,\
+> make his paths straight.\
+> [5] Every valley shall be filled,\
+> and every mountain and hill shall be made low,\
+> and the crooked shall become straight,\
+> and the rough places shall become level ways,\
+> [6] and all flesh shall see the salvation of God.’”
+
+[7] He said therefore to the crowds that came out to be baptized by him, “You brood of vipers! Who warned you to flee from the wrath to come? [8] Bear fruits in keeping with repentance. And do not begin to say to yourselves, ‘We have Abraham as our father.’ For I tell you, God is able from these stones to raise up children for Abraham. [9] Even now the axe is laid to the root of the trees. Every tree therefore that does not bear good fruit is cut down and thrown into the fire.”
+
+[10] And the crowds asked him, “What then shall we do?” [11] And he answered them, “Whoever has two tunics is to share with him who has none, and whoever has food is to do likewise.” [12] Tax collectors also came to be baptized and said to him, “Teacher, what shall we do?” [13] And he said to them, “Collect no more than you are authorized to do.” [14] Soldiers also asked him, “And we, what shall we do?” And he said to them, “Do not extort money from anyone by threats or by false accusation, and be content with your wages.”
+
+[15] As the people were in expectation, and all were questioning in their hearts concerning John, whether he might be the Christ, [16] John answered them all, saying, “I baptize you with water, but he who is mightier than I is coming, the strap of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and fire. [17] His winnowing fork is in his hand, to clear his threshing floor and to gather the wheat into his barn, but the chaff he will burn with unquenchable fire.”
+
+[18] So with many other exhortations he preached good news to the people. [19] But Herod the tetrarch, who had been reproved by him for Herodias, his brother's wife, and for all the evil things that Herod had done, [20] added this to them all, that he locked up John in prison.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 63 _On Jordan's Bank the Baptist's Cry_
+* Sermon hymn: _TLH_ 272 _When All the World was Cursed_
+* Communion hymn: _TLH_ 85 _From Heaven Above to Earth I Come_
+* Closing hymn: _TLH_ 60 _Hark, a Thrilling Voice is Sounding_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
