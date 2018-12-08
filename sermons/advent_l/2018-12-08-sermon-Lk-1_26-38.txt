@@ -1,0 +1,22 @@
+% Advent
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Evangeelium [Lk 1:26‑38]
+
+Aga kuuendas kuus läkitas Jumal ingel Gabrieli Galilea linna, mille nimi on Naatsaret, neitsi juure, kes oli kihlatud Joosepi-nimelise mehega Taaveti soost. Ja neitsi nimi oli Maarja. Ja tulles sisse tema juure, ütles ingel: “Tere, sa armuleidnu, Issand olgu sinuga!” Aga tema ehmus väga sellest sõnast ja mõtles, mis see teretus võiks tähendada. Siis ingel ütles temale: “Ära karda, Maarja, sest sa oled leidnud armu Jumala juures! Ja vaata, sa saad käima peale ning tood ilmale poja ja paned temale nimeks Jeesus. Tema saab suur olema ja teda peab hüütama Kõigekõrgema Pojaks, ja Issand Jumal annab temale ta isa Taaveti aujärje, ja ta valitseb igavesti Jaakobi soo üle ning tema kuningriigil ei ole otsa!” Aga Maarja ütles inglile: “Kuidas see võib sündida, kuna ma mehest ei tea?” Ingel vastas ning ütles temale: “Püha Vaim tuleb su peale ja Kõigekõrgema vägi varjab sind; sellepärast peab ka Püha, kes sinust sünnib, nimetama Jumala Pojaks. Ja vaata, su sugulane Eliisabet, temagi on pojaga käima peal oma vanas eas, ja see on kuues kuu temal, keda üteldi olevat sigimatu, sest Jumalal ei ole ükski asi võimatu!” Aga Maarja ütles: “Vaata, siin on Issanda ümmaradaja; mulle sündigu su sõna järele!” Ja ingel läks ära tema juurest.
+
+## Kõne
+
+Issandas armastatud õed ja vennad, armu, halastust ja rahu Jumalalt, meie Isalt, ja Kristuselt Jeesuselt, meie Issandalt!
+
+
+**"Ja Jumala rahu, mis on ülem kõigest mõistusest, hoiab teie südamed ja mõtted Kristuses Jeesuses"** (Filiplastele 4:7).
+AAMEN.
