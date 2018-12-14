@@ -1,0 +1,37 @@
+% Jõuluöö
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Evangeelium [Lk. 1:39‑45 ESV]
+
+[39] Neil päevil asus Maarja teele ja läks rutuga mäestikku Juuda linna.
+[40] Ja ta tuli Sakariase kotta ja teretas Eliisabetti.
+[41] Ja sündis, kui Eliisabet kuulis Maarja teretust, et laps hüppas tema ihus. Ja Eliisabet sai täis Püha Vaimu
+[42] ja hüüdis suure häälega ning ütles: "Õnnistatud oled sina naiste seas ja õnnistatud on sinu ihu sugu!
+[43] Kust see tuleb, et minu Issanda ema on tulnud minu juurde?
+[44] Sest vaata, kui su teretuse hääl kostis mu kõrvu, siis hüppas lapsuke suurest rõõmust mu ihus!
+[45] Ja õnnis see, kes on uskunud, et läheb täide, mis Issand temale on öelnud!"
+
+## Jutlus
+
+Issandas armastatud õed ja vennad, armu, halastust ja rahu Jumalalt, meie Isalt, ja Kristuselt Jeesuselt, meie Issandalt!
+
+**"Ja Jumala rahu, mis on ülem kõigest mõistusest, hoiab teie südamed ja mõtted Kristuses Jeesuses"** ([Fi. 4:7](http://piibel.net/#q=Fl%204&bv=EST_68)).
+AAMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
