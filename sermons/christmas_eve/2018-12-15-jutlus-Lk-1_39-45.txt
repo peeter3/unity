@@ -1,13 +1,13 @@
 % Jõuluöö
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
-## During the service
+## Liturgia
 
-* ZZZ
+* Issand õnnistagu teid ja hoidku teid, Issand lasku oma pale paista teie peale ja olgu teile armuline!
 
 ## Announcements
 
-* ZZZ
+* Palume teid kõik pärast jumalteenistust saalis jõulukoosviibimisest osa võtma.
 
 ## Evangeelium [Lk. 1:39‑45 ESV]
 
