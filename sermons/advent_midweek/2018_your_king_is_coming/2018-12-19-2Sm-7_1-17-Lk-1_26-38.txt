@@ -1,0 +1,47 @@
+% King of the Low
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## 2Sm 7:1‑17 ESV
+
+[1] Now when the king lived in his house and the LORD had given him rest from all his surrounding enemies, [2] the king said to Nathan the prophet, “See now, I dwell in a house of cedar, but the ark of God dwells in a tent.” [3] And Nathan said to the king, “Go, do all that is in your heart, for the LORD is with you.”
+
+[4] But that same night the word of the LORD came to Nathan, [5] “Go and tell my servant David, ‘Thus says the LORD: Would you build me a house to dwell in? [6] I have not lived in a house since the day I brought up the people of Israel from Egypt to this day, but I have been moving about in a tent for my dwelling. [7] In all places where I have moved with all the people of Israel, did I speak a word with any of the judges of Israel, whom I commanded to shepherd my people Israel, saying, “Why have you not built me a house of cedar?”’ [8] Now, therefore, thus you shall say to my servant David, ‘Thus says the LORD of hosts, I took you from the pasture, from following the sheep, that you should be prince over my people Israel. [9] And I have been with you wherever you went and have cut off all your enemies from before you. And I will make for you a great name, like the name of the great ones of the earth. [10] And I will appoint a place for my people Israel and will plant them, so that they may dwell in their own place and be disturbed no more. And violent men shall afflict them no more, as formerly, [11] from the time that I appointed judges over my people Israel. And I will give you rest from all your enemies. Moreover, the LORD declares to you that the LORD will make you a house. [12] When your days are fulfilled and you lie down with your fathers, I will raise up your offspring after you, who shall come from your body, and I will establish his kingdom. [13] He shall build a house for my name, and I will establish the throne of his kingdom forever. [14] I will be to him a father, and he shall be to me a son. When he commits iniquity, I will discipline him with the rod of men, with the stripes of the sons of men, [15] but my steadfast love will not depart from him, as I took it from Saul, whom I put away from before you. [16] And your house and your kingdom shall be made sure forever before me. Your throne shall be established forever.’” [17] In accordance with all these words, and in accordance with all this vision, Nathan spoke to David.
+
+## Lk 1:26‑38 ESV
+
+[26] In the sixth month the angel Gabriel was sent from God to a city of Galilee named Nazareth, [27] to a virgin betrothed to a man whose name was Joseph, of the house of David. And the virgin's name was Mary. [28] And he came to her and said, “Greetings, O favored one, the Lord is with you!” [29] But she was greatly troubled at the saying, and tried to discern what sort of greeting this might be. [30] And the angel said to her, “Do not be afraid, Mary, for you have found favor with God. [31] And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus. [32] He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David, [33] and he will reign over the house of Jacob forever, and of his kingdom there will be no end.”
+
+[34] And Mary said to the angel, “How will this be, since I am a virgin?”
+
+[35] And the angel answered her, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the child to be born will be called holy—the Son of God. [36] And behold, your relative Elizabeth in her old age has also conceived a son, and this is the sixth month with her who was called barren. [37] For nothing will be impossible with God.” [38] And Mary said, “Behold, I am the servant of the Lord; let it be to me according to your word.” And the angel departed from her.
+
+## Hymns
+
+* _TLH_ 58 _O Lord, How Shall I Meet Thee_ st 1, 4‑7
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+Last week Jesus was our King of Guilt, and the week before that, He was our King of Shame.
+Today He comes to us as our King of the Low.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
