@@ -1,0 +1,153 @@
+% 2nd in Advent
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Mal 3:1‑7b ESV; sermon text]
+
+[1] “Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple; and the messenger of the covenant in whom you delight, behold, he is coming, says the LORD of hosts.
+[2] But who can endure the day of his coming, and who can stand when he appears? For he is like a refiner's fire and like fullers' soap.
+[3] He will sit as a refiner and purifier of silver, and he will purify the sons of Levi and refine them like gold and silver, and they will bring offerings in righteousness to the LORD. [4] Then the offering of Judah and Jerusalem will be pleasing to the LORD as in the days of old and as in former years.
+
+[5] “Then I will draw near to you for judgment. I will be a swift witness against the sorcerers, against the adulterers, against those who swear falsely, against those who oppress the hired worker in his wages, the widow and the fatherless, against those who thrust aside the sojourner, and do not fear me, says the LORD of hosts.
+
+[6] "For I the LORD do not change; therefore you, O children of Jacob, are not consumed. [7] From the days of your fathers you have turned aside from my statutes and have not kept them. Return to me, and I will return to you, says the LORD of hosts."
+
+## Epistle [Php 4:4‑7 ESV]
+
+[4] Rejoice in the Lord always; again I will say, rejoice. [5] Let your reasonableness be known to everyone. The Lord is at hand; [6] do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. [7] And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.
+
+## Holy Gospel [Lk 3:1‑20 ESV]
+
+[1] In the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene, [2] during the high priesthood of Annas and Caiaphas, the word of God came to John the son of Zechariah in the wilderness. [3] And he went into all the region around the Jordan, proclaiming a baptism of repentance for the forgiveness of sins. [4] As it is written in the book of the words of Isaiah the prophet,
+
+> “The voice of one crying in the wilderness:\
+> ‘Prepare the way of the Lord,\
+> make his paths straight.\
+> [5] Every valley shall be filled,\
+> and every mountain and hill shall be made low,\
+> and the crooked shall become straight,\
+> and the rough places shall become level ways,\
+> [6] and all flesh shall see the salvation of God.’”
+
+[7] He said therefore to the crowds that came out to be baptized by him, “You brood of vipers! Who warned you to flee from the wrath to come? [8] Bear fruits in keeping with repentance. And do not begin to say to yourselves, ‘We have Abraham as our father.’ For I tell you, God is able from these stones to raise up children for Abraham. [9] Even now the axe is laid to the root of the trees. Every tree therefore that does not bear good fruit is cut down and thrown into the fire.”
+
+[10] And the crowds asked him, “What then shall we do?” [11] And he answered them, “Whoever has two tunics is to share with him who has none, and whoever has food is to do likewise.” [12] Tax collectors also came to be baptized and said to him, “Teacher, what shall we do?” [13] And he said to them, “Collect no more than you are authorized to do.” [14] Soldiers also asked him, “And we, what shall we do?” And he said to them, “Do not extort money from anyone by threats or by false accusation, and be content with your wages.”
+
+[15] As the people were in expectation, and all were questioning in their hearts concerning John, whether he might be the Christ, [16] John answered them all, saying, “I baptize you with water, but he who is mightier than I is coming, the strap of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and fire. [17] His winnowing fork is in his hand, to clear his threshing floor and to gather the wheat into his barn, but the chaff he will burn with unquenchable fire.”
+
+[18] So with many other exhortations he preached good news to the people. [19] But Herod the tetrarch, who had been reproved by him for Herodias, his brother's wife, and for all the evil things that Herod had done, [20] added this to them all, that he locked up John in prison.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 63 _On Jordan's Bank the Baptist's Cry_
+* Sermon hymn: _TLH_ 272 _When All the World was Cursed_
+* Communion hymn: _TLH_ 85 _From Heaven Above to Earth I Come_
+* Closing hymn: _TLH_ 60 _Hark, a Thrilling Voice is Sounding_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+Jesus is coming and it is best not to be distracted.
+I do not think a week ever passes for me without distraction or dealing with distracted people.
+Most people know that I am a schoolteacher and offer words like, "I feel sorry for children these days because they're glued to their devices."
+
+Well, let us take up this subject: device distraction.
+It is true.
+In my math classroom, phones are put away and my students use Chromebooks for instruction in addition to written work with pencil and paper.
+(For those of you who do no know what a Chromebook is, it is yet another device the size of a mini laptop computer.)
+Even if the students are doing their assigned work on a Chromebook, and I tell them to pause so that I can teach them something important, it is difficult for me to get their attention.
+I can say, for example, "Close your Chromebooks and listen so I can show you how to check you answer by multiplying."
+It may be something as fundamental as that: you can check your answer to a division problem by multiplying your quotient by the divisor to see if you get your dividend back.
+My intention in this example is to teach this with two examples on the whiteboard and then let them return to their work on the Chromebook.
+Checking your division with multiplicaiton is basic mathematical knowledge that can serve you for the rest of your life; not something I want to tell the students on a whim.
+Even if the students are doing their assigned work on their Chromebook, and I give them a couple of minutes to arrive at a reasonable stopping point, some are so attached to the Chromebook once it is open, that they will not be able to understand non-electronic instruction even if their Chromebook is closed.
+One of my goals for my students is simply to get them to write out their math or do it in their heads without interacting with a device.
+
+As it is a bad idea to be distracted by a device and miss math instruction, it is a much *worse* idea to be distracted by sin and miss the coming of our Lord Jesus Christ---that is a *very* bad idea.
+He is coming, and the prophet Malachi has been called to prepare the people for His appearing.
+Malachi is the last of the Old Testament prophets before the very last one, John the Baptist.
+Hear Malachi's message:
+
+> **A son honors his father, and a servant his master. If then I am a father, where is my honor? And if I am a master, where is my fear? says the LORD of hosts to you, O priests, who despise my name. But you say, ‘How have we despised your name?’ By offering polluted food upon my altar. But you say, ‘How have we polluted you?’ By saying that the LORD's table may be despised. *When you offer blind animals in sacrifice, is that not evil?* And when you offer those that are lame or sick, is that not evil? Present that to your governor; will he accept you or show you favor? says the LORD of hosts.** ([Mal 1:6‑8](https://www.esv.org/Malachi+1:6/) ESV)
+
+Blind, lame, and sick animals are being brought to the temple to be sacrificed.
+If they were to eat meat with the governor, only the best animals would be slaughtered, but for the Lord the lame will do.
+However, we should know well that in Leviticus, the priests are commanded to sacrifice animals *without blemish*.
+
+> **If his offering is a burnt offering from the herd, he shall offer a male _without blemish_.** ([Lv 1:3](https://www.esv.org/Leviticus+1:3/) ESV)
+
+> **If his offering is a sacrifice of peace offering, if he offers an animal from the herd, male or female, he shall offer it _without blemish_ before the LORD.** ([Lv 3:1](https://www.esv.org/Leviticus+3:1/) ESV)
+
+> **If it is the anointed priest who sins, thus bringing guilt on the people, then he shall offer for the sin that he has committed a bull from the herd _without blemish_ to the LORD for a sin offering.** ([Lv 4:3](https://www.esv.org/Leviticus+4:3/) ESV)
+
+Dennis has been studying Leviticus recently.
+*[Solicit]* Dennis, can you confirm for me that the animals to be sacrificed were to be without blemish?
+Then why are the priests in Malachi's day sacrificing lame animals?
+Because they are distracted from properly doing what God gave them to do.
+
+As Malachi criticizes the priests for lame sacrifices, he criticizes all the Israelites for their tithes:
+
+> **Will man rob God? Yet you are robbing me. But you say, ‘How have we robbed you?’ _In your tithes and contributions._ You are cursed with a curse, for you are robbing me, the whole nation of you. Bring the full tithe into the storehouse, that there may be food in my house. And thereby put me to the test, says the LORD of hosts, if I will not open the windows of heaven for you and pour down for you a blessing until there is no more need.** ([Mal 3:8‑10](https://www.esv.org/Malachi+3:8/) ESV)
+
+God clearly sees, whether with tithes or with sacrificial animals, whether we are doing from a good conscience what God has given us to do or not.
+Why should we care? Because Christ is coming!
+Malachi is preparing us for Christ.
+God forbid we should be distracted from our ten-percent tithe because we would rather spend our money first on the newest phone.
+(That is a godly thought for Christmastime.)
+And God forbid we should be distracted from God's Word because we would rather see who is texting us or what is happening on social media.
+(It is a good thing to collect cell phones at the beginning of our service.)
+
+Now that God has your attention, *prepare for the coming of Jesus*.
+
+> **But who can endure the day of his coming, and who can stand when he appears? For he is like a refiner's fire and like fullers' soap.**
+
+Now that I have your attention, here comes Jesus.
+Though Jesus comes with the forgiveness of sins, this is going to be no fun as far as your flesh is concerned.
+The refiner's fire melts metal down until the impurities are forced to the top to be scraped away.
+This is God's chose word picture to describe His work in your life.
+I have never refined metal, but metal refining is big business in Cleveland, and I know someone who did refine metal: Ed Kosiba.
+His job was to keep the furnace running at the Schumann foundry.
+I will never forget Ed, and I am blessed by his fine Christian example.
+The refiner's fire is how God explains the work of Jesus Christ in your life: melt you down and scrape away the sin.
+
+If you are going through a meltdown, I will not necessarily say, "God forbid."
+If God is melting you down to force the sin to the top so that it is seen and confessed and scraped away by Holy Absolution, the I say, "God be praised!"
+And one thing I learned from Ed is that furnace is never shut down.
+If you shut down the furnace at Schumann company, then the whole company shuts down because the furnace has to be torn down and rebuilt.
+Scripture teaches us the that work of the Holy Spirit is to fight against our flesh; to refine away the sin.
+
+> **For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do.** ([Gal 5:17](https://www.esv.org/Galatians+5:17/) ESV)
+
+Jesus' Spirit is the Spirit who never shuts down and always burns hot.
+So prepare your hearts for the refiner's fire, for the comes to hear your confession and to declare your forgiven.
+His own body will, by the way, go though much hotter fire than the one He will put You and me through.
+And come to His altar as you are being refined and be fed and strengthened with the best sacrifice of all: His own perfect body and blood given and shed for you for the forgiveness of your sins.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes

@@ -1,0 +1,109 @@
+% 4th in Advent
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* Christmas Eve with Gateway tomorrow at 7
+* Joan update
+
+## Old Testament [Mi 5:2‑5a ESV; sermon text]
+
+> [2]  But you, O Bethlehem Ephrathah,\
+> who are too little to be among the clans of Judah,\
+> from you shall come forth for me\
+> one who is to be ruler in Israel,\
+> whose coming forth is from of old,\
+> from ancient days.\
+> [3] Therefore he shall give them up until the time\
+> when she who is in labor has given birth;\
+> then the rest of his brothers shall return\
+> to the people of Israel.\
+> [4] And he shall stand and shepherd his flock in the strength of the LORD,\
+> in the majesty of the name of the LORD his God.\
+> And they shall dwell secure, for now he shall be great\
+> to the ends of the earth.\
+> [5] And he shall be their peace.
+
+------------
+
+[2] Καὶ σύ, Βηθλεεμ οἶκος τοῦ Εφραθα, ὀλιγοστὸς εἶ τοῦ εἶναι ἐν χιλιάσιν Ιουδα· ἐκ σοῦ μοι ἐξελεύσεται τοῦ εἶναι εἰς ἄρχοντα ἐν τῷ Ισραηλ, καὶ αἱ ἔξοδοι αὐτοῦ ἀπ᾽ ἀρχῆς ἐξ ἡμερῶν αἰῶνος. 
+[3] διὰ τοῦτο δώσει αὐτοὺς ἕως καιροῦ τικτούσης τέξεται, καὶ οἱ ἐπίλοιποι τῶν ἀδελφῶν αὐτῶν ἐπιστρέψουσιν ἐπὶ τοὺς υἱοὺς Ισραηλ. 
+[4] καὶ στήσεται καὶ ὄψεται καὶ ποιμανεῖ τὸ ποίμνιον αὐτοῦ ἐν ἰσχύι κυρίου, καὶ ἐν τῇ δόξῃ τοῦ ὀνόματος κυρίου τοῦ θεοῦ αὐτῶν ὑπάρξουσιν· διότι νῦν μεγαλυνθήσεται ἕως ἄκρων τῆς γῆς. 
+[5] καὶ ἔσται αὕτη εἰρήνη.
+
+## Epistle [Heb 10:5‑10 ESV]
+
+[5] Consequently, when Christ came into the world, he said,
+
+> “Sacrifices and offerings you have not desired,\
+> but a body have you prepared for me;\
+> [6] in burnt offerings and sin offerings\
+> you have taken no pleasure.\
+> [7] Then I said, ‘Behold, I have come to do your will, O God,\
+> as it is written of me in the scroll of the book.’”
+
+[8] When he said above, “You have neither desired nor taken pleasure in sacrifices and offerings and burnt offerings and sin offerings” (these are offered according to the law), [9] then he added, “Behold, I have come to do your will.” He does away with the first in order to establish the second. [10] And by that will we have been sanctified through the offering of the body of Jesus Christ once for all.
+
+## Holy Gospel [Lk 1:39‑56 ESV]
+
+[39] In those days Mary arose and went with haste into the hill country, to a town in Judah, [40] and she entered the house of Zechariah and greeted Elizabeth. [41] And when Elizabeth heard the greeting of Mary, the baby leaped in her womb. And Elizabeth was filled with the Holy Spirit, [42] and she exclaimed with a loud cry, “Blessed are you among women, and blessed is the fruit of your womb! [43] And why is this granted to me that the mother of my Lord should come to me? [44] For behold, when the sound of your greeting came to my ears, the baby in my womb leaped for joy. [45] And blessed is she who believed that there would be a fulfillment of what was spoken to her from the Lord.”
+
+[46] And Mary said,
+
+> “My soul magnifies the Lord,\
+> [47] 	and my spirit rejoices in God my Savior,\
+> [48] for he has looked on the humble estate of his servant.\
+> For behold, from now on all generations will call me blessed;\
+> [49] for he who is mighty has done great things for me,\
+> and holy is his name.\
+> [50] And his mercy is for those who fear him\
+> from generation to generation.\
+> [51] He has shown strength with his arm;\
+> he has scattered the proud in the thoughts of their hearts;\
+> [52] he has brought down the mighty from their thrones\
+> and exalted those of humble estate;\
+> [53] he has filled the hungry with good things,\
+> and the rich he has sent away empty.\
+> [54] He has helped his servant Israel,\
+> in remembrance of his mercy,\
+> [55] as he spoke to our fathers,\
+> to Abraham and to his offspring forever.”
+
+
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _TLH_ 85 _From Heaven Above to Earth I Come_ st 1‑3, 8‑9, 13‑15
+* Communion hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
