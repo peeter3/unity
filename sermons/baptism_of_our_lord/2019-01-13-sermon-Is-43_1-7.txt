@@ -1,0 +1,99 @@
+% Baptism of our Lord
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Is 43:1‑7 ESV; sermon text]
+
+> [1] But now thus says the LORD,\
+> he who created you, O Jacob,\
+> he who formed you, O Israel:\
+> “Fear not, for I have redeemed you;\
+> I have called you by name, you are mine.\
+> [2] When you pass through the waters, I will be with you;\
+> and through the rivers, they shall not overwhelm you;\
+> when you walk through fire you shall not be burned,\
+> and the flame shall not consume you.\
+> [3] For I am the LORD your God,\
+> the Holy One of Israel, your Savior.\
+> I give Egypt as your ransom,\
+> Cush and Seba in exchange for you.\
+> [4] Because you are precious in my eyes,\
+> and honored, and I love you,\
+> I give men in return for you,\
+> peoples in exchange for your life.\
+> [5] Fear not, for I am with you;\
+> I will bring your offspring from the east,\
+> and from the west I will gather you.\
+> [6] I will say to the north, Give up,\
+> and to the south, Do not withhold;\
+> bring my sons from afar\
+> and my daughters from the end of the earth,\
+> [7] everyone who is called by my name,\
+> whom I created for my glory,\
+> whom I formed and made.”
+
+------------
+
+
+## Epistle [Rm 6:1‑11 ESV]
+
+[1] What shall we say then? Are we to continue in sin that grace may abound? [2] By no means! How can we who died to sin still live in it? [3] Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death? [4] We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life.
+
+[5] For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his. [6] We know that our old self was crucified with him in order that the body of sin might be brought to nothing, so that we would no longer be enslaved to sin. [7] For one who has died has been set free from sin. [8] Now if we have died with Christ, we believe that we will also live with him. [9] We know that Christ, being raised from the dead, will never die again; death no longer has dominion over him. [10] For the death he died he died to sin, once for all, but the life he lives he lives to God. [11] So you also must consider yourselves dead to sin and alive to God in Christ Jesus.
+
+## Holy Gospel [Lk 3:15‑22 ESV]
+
+[15] As the people were in expectation, and all were questioning in their hearts concerning John, whether he might be the Christ, [16] John answered them all, saying, “I baptize you with water, but he who is mightier than I is coming, the strap of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and fire. [17] His winnowing fork is in his hand, to clear his threshing floor and to gather the wheat into his barn, but the chaff he will burn with unquenchable fire.”
+
+[18] So with many other exhortations he preached good news to the people. [19] But Herod the tetrarch, who had been reproved by him for Herodias, his brother's wife, and for all the evil things that Herod had done, [20] added this to them all, that he locked up John in prison.
+
+[21] Now when all the people were baptized, and when Jesus also had been baptized and was praying, the heavens were opened, [22] and the Holy Spirit descended on him in bodily form, like a dove; and a voice came from heaven, “You are my beloved Son; with you I am well pleased.”
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _LSB_ 405 _To Jordan's River Came our Lord_
+* Sermon hymn: _TLH_ 298 _Baptized into Thy Name Most Holy_
+* Communion hymn: _TLH_ 126 _Arise and Shine in Splendor_
+* Closing hymn: _TLH_ 131 _The Star Proclaims the King is Here_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and from Christ Jesus our Lord.
+
+We observe that Jesus was baptized, but what does this say of *my* Baptism.
+
+> *And never let my purpose falter,*\
+> *O Father, Son, and Holy Ghost,*\
+> *But keep me faithful to Thine altar*\
+> *Till Thou shalt call me from my post.*
+
+Our faith is fixed on our Baptism and turns to Holy Communion.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
