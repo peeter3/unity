@@ -1,0 +1,96 @@
+% 2nd after the Epiphany
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* Print a map of the Holy Land in the bulletin, including the region of Galilee showing where Nazareth and Cana are.
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Is 62:1‑5 ESV; sermon text]
+
+> [1] For Zion's sake I will not keep silent,\
+> and for Jerusalem's sake I will not be quiet,\
+> until her righteousness goes forth as brightness,\
+> and her salvation as a burning torch.\
+> [2] The nations shall see your righteousness,\
+> and all the kings your glory,\
+> and you shall be called by a new name\
+> that the mouth of the LORD will give.\
+> [3] You shall be a crown of beauty in the hand of the LORD,\
+> and a royal diadem in the hand of your God.\
+> [4] You shall no more be termed Forsaken,\
+> and your land shall no more be termed Desolate,\
+> but you shall be called My Delight Is in Her,\
+> and your land Married;\
+> for the LORD delights in you,\
+> and your land shall be married.\
+> [5] For as a young man marries a young woman,\
+> so shall your sons marry you,\
+> and as the bridegroom rejoices over the bride,\
+> so shall your God rejoice over you.
+
+------------
+
+
+## Epistle [1Co 12:1‑11 ESV]
+
+[1] Now concerning spiritual gifts, brothers, I do not want you to be uninformed. [2] You know that when you were pagans you were led astray to mute idols, however you were led. [3] Therefore I want you to understand that no one speaking in the Spirit of God ever says “Jesus is accursed!” and no one can say “Jesus is Lord” except in the Holy Spirit.
+
+[4] Now there are varieties of gifts, but the same Spirit; [5] and there are varieties of service, but the same Lord; [6] and there are varieties of activities, but it is the same God who empowers them all in everyone. [7] To each is given the manifestation of the Spirit for the common good. [8] For to one is given through the Spirit the utterance of wisdom, and to another the utterance of knowledge according to the same Spirit, [9] to another faith by the same Spirit, to another gifts of healing by the one Spirit, [10] to another the working of miracles, to another prophecy, to another the ability to distinguish between spirits, to another various kinds of tongues, to another the interpretation of tongues. [11] All these are empowered by one and the same Spirit, who apportions to each one individually as he wills.
+
+## Holy Gospel [Jn 2:1‑11 ESV]
+
+[1] On the third day there was a wedding at Cana in Galilee, and the mother of Jesus was there. [2] Jesus also was invited to the wedding with his disciples. [3] When the wine ran out, the mother of Jesus said to him, “They have no wine.” [4] And Jesus said to her, “Woman, what does this have to do with me? My hour has not yet come.” [5] His mother said to the servants, “Do whatever he tells you.”
+
+[6] Now there were six stone water jars there for the Jewish rites of purification, each holding twenty or thirty gallons. [7] Jesus said to the servants, “Fill the jars with water.” And they filled them up to the brim. [8] And he said to them, “Now draw some out and take it to the master of the feast.” So they took it. [9] When the master of the feast tasted the water now become wine, and did not know where it came from (though the servants who had drawn the water knew), the master of the feast called the bridegroom [10] and said to him, “Everyone serves the good wine first, and when people have drunk freely, then the poor wine. But you have kept the good wine until now.” [11] This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory. And his disciples believed in him.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 343 _How Lovely Shines the Morning Star_ st 1‑2, 5‑7
+* Sermon hymn: _TLH_ 999 _ZZZ_
+* Closing hymn: _TLH_ 131 _The Star Proclaims the King is Here_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and from Christ Jesus our Lord.
+
+> **But there will be no gloom for her who was in anguish. In the former time he brought into contempt the land of Zebulun and the land of Naphtali, but in the latter time he has made glorious the way of the sea, the land beyond the Jordan, Galilee of the nations.**\
+> **The people who walked in darkness have seen a great light;**\
+> **those who dwelt in a land of deep darkness,**\
+> **on them has light shone.** ([Is 9:1‑2](https://www.esv.org/Isaiah+9/) ESV)
+
+Picture a map of the Holy Land---no, today you need not picture it---look at the map of the Holy Land in your bulletin. There you see Jerusalem, the Holy City, in the south; that region around Jerusalem is called *Judea*.
+There to the east of Jerusalem you see the Dead Sea.
+Follow the Jordan River north from the Dead Sea to the Sea of Galilee.
+To the west of the Sea of Galilee are the regions of Zebulun and Naphtali, and that is precisely where you find Cana and Nazareth.
+Jesus grew up as the child of Joseph and Mary in Nazareth.
+Cana is where Jesus performs his first miracle: the wedding at Cana.
+
+Marriage.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+Is 9:1. *LSB Study Bible* says that *Galilee of the nations* is east of the Jordan.
