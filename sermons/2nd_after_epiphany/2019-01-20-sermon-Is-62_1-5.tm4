@@ -1,3 +1,5 @@
+include(`quotes.m4')dnl
+include(`preach.m4')dnl
 % 2nd after the Epiphany
 <!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
@@ -11,8 +13,8 @@
 
 ## Old Testament [Is 62:1‑5 ESV; sermon text]
 
-> [1] For Zion's sake I will not keep silent,\
-> and for Jerusalem's sake I will not be quiet,\
+> [1] For Zion`'_RQ()s sake I will not keep silent,\
+> and for Jerusalem`'_RQ()s sake I will not be quiet,\
 > until her righteousness goes forth as brightness,\
 > and her salvation as a burning torch.\
 > [2] The nations shall see your righteousness,\
@@ -77,25 +79,28 @@ Almighty and everlasting God, who governs all things in heaven and on earth, mer
 Beloved in the Lord, grace, mercy, and peace from God the Father and from Christ Jesus our Lord.
 
 > **But there will be no gloom for her who was in anguish. In the former time he brought into contempt the land of Zebulun and the land of Naphtali, but in the latter time he has made glorious the way of the sea, the land beyond the Jordan, Galilee of the nations.**\
-> **The people who walked in darkness have seen a great light;**\
-> **those who dwelt in a land of deep darkness,**\
-> **on them has light shone.** ([Is 9:1‑2](https://www.esv.org/Isaiah+9/) ESV)
+> **The people who walked in darkness have seen a great light; those who dwelt in a land of deep darkness, on them has light shone.** ([Is 9:1‑2](https://www.esv.org/Isaiah+9/) ESV)
 
-Picture a map of the Holy Land---no, today you need not picture it---look at the map of the Holy Land in your bulletin. There you see Jerusalem, the Holy City, in the south; that region around Jerusalem is called *Judea*.
+Picture a map of the Holy Land but today you need not picture it: simply look at the map of the Holy Land in your bulletin.
+There you see Jerusalem, the Holy City, in the south; that region around Jerusalem is called *Judea*.
 There to the east of Jerusalem you see the Dead Sea.
-Follow the Jordan River north from the Dead Sea to the Sea of Galilee.
-To the west of the Sea of Galilee are the regions of Zebulun and Naphtali, and that is precisely where you find Cana and Nazareth.
+Now follow the Jordan River north from the Dead Sea to the Sea of Galilee.
+To the west of the Sea of Galilee are the regions of Zebulun and Naphtali, and that is precisely where you find Nazareth, Jesus`'_RQ hometown, and Cana, where Her performed His first miracle of changing water into wine.
 Jesus grew up as the child of Joseph and Mary in Nazareth.
-Cana is where Jesus performs his first miracle: the wedding at Cana.
+Cana, as you can see, is not far away.
+Jesus and His mother were invited to a wedding at Cana, but there appears to be no mention of Joseph at this point. Perhaps He went to sleep having seen His Savior with his own eyes like Simeon.
 
 Marriage.
+
+He ransoms us _RANSOM_WITH.
+Jesus`'_RQ price is Himself.
 
 **"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
 AMEN.
 
 ## Outline
 
-|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|       THE BRIDEGROOM COMES TO MARRY HIS CHURCH         |
 |:-----------------------------------------------:|
 
 1. ZZZ
