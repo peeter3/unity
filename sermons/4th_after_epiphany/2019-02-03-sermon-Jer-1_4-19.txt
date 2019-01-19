@@ -1,0 +1,85 @@
+% 4th after the Epiphany
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* Hymn sing
+
+## Announcements
+
+* We are in the light of Epiphany for all of February. Ash Wednesday is March 6.
+
+## Old Testament [Jer 1:4‑19 ESV; sermon text]
+
+[4] Now the word of the LORD came to me, saying,
+
+> [5] “Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations.”
+
+[6] Then I said, “Ah, Lord GOD! Behold, I do not know how to speak, for I am only a youth.” [7] But the LORD said to me,
+
+> “Do not say, ‘I am only a youth’; for to all to whom I send you, you shall go, and whatever I command you, you shall speak. [8] Do not be afraid of them, for I am with you to deliver you, declares the LORD.”
+
+[9] Then the LORD put out his hand and touched my mouth. And the LORD said to me,
+
+> “Behold, I have put my words in your mouth. [10] See, I have set you this day over nations and over kingdoms,	to pluck up and to break down, to destroy and to overthrow, to build and to plant.”
+
+[11] And the word of the LORD came to me, saying, “Jeremiah, what do you see?” And I said, “I see an almond branch.” [12] Then the LORD said to me, “You have seen well, for I am watching over my word to perform it.”
+
+[13] The word of the LORD came to me a second time, saying, “What do you see?” And I said, “I see a boiling pot, facing away from the north.” [14] Then the LORD said to me, “Out of the north disaster shall be let loose upon all the inhabitants of the land. [15] For behold, I am calling all the tribes of the kingdoms of the north, declares the LORD, and they shall come, and every one shall set his throne at the entrance of the gates of Jerusalem, against all its walls all around and against all the cities of Judah. [16] And I will declare my judgments against them, for all their evil in forsaking me. They have made offerings to other gods and worshiped the works of their own hands. [17] But you, dress yourself for work; arise, and say to them everything that I command you. Do not be dismayed by them, lest I dismay you before them. [18] And I, behold, I make you this day a fortified city, an iron pillar, and bronze walls, against the whole land, against the kings of Judah, its officials, its priests, and the people of the land. [19] They will fight against you, but they shall not prevail against you, for I am with you, declares the LORD, to deliver you.”
+
+------------
+
+
+## Epistle [1Co 12:31b‑13:13 ESV]
+
+[31b] And I will show you a still more excellent way.
+
+[1] If I speak in the tongues of men and of angels, but have not love, I am a noisy gong or a clanging cymbal. [2] And if I have prophetic powers, and understand all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but have not love, I am nothing. [3] If I give away all I have, and if I deliver up my body to be burned, but have not love, I gain nothing.
+
+[4] Love is patient and kind; love does not envy or boast; it is not arrogant [5] or rude. It does not insist on its own way; it is not irritable or resentful; [6] it does not rejoice at wrongdoing, but rejoices with the truth. [7] Love bears all things, believes all things, hopes all things, endures all things.
+
+[8] Love never ends. As for prophecies, they will pass away; as for tongues, they will cease; as for knowledge, it will pass away. [9] For we know in part and we prophesy in part, [10] but when the perfect comes, the partial will pass away. [11] When I was a child, I spoke like a child, I thought like a child, I reasoned like a child. When I became a man, I gave up childish ways. [12] For now we see in a mirror dimly, but then face to face. Now I know in part; then I shall know fully, even as I have been fully known.
+
+[13] So now faith, hope, and love abide, these three; but the greatest of these is love.
+
+## Holy Gospel [Lk 4:31‑44 ESV]
+
+[31] And he went down to Capernaum, a city of Galilee. And he was teaching them on the Sabbath, [32] and they were astonished at his teaching, for his word possessed authority. [33] And in the synagogue there was a man who had the spirit of an unclean demon, and he cried out with a loud voice, [34] “Ha! What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God.” [35] But Jesus rebuked him, saying, “Be silent and come out of him!” And when the demon had thrown him down in their midst, he came out of him, having done him no harm. [36] And they were all amazed and said to one another, “What is this word? For with authority and power he commands the unclean spirits, and they come out!” [37] And reports about him went out into every place in the surrounding region.
+
+[38] And he arose and left the synagogue and entered Simon's house. Now Simon's mother-in-law was ill with a high fever, and they appealed to him on her behalf. [39] And he stood over her and rebuked the fever, and it left her, and immediately she rose and began to serve them.
+
+[40] Now when the sun was setting, all those who had any who were sick with various diseases brought them to him, and he laid his hands on every one of them and healed them. [41] And demons also came out of many, crying, “You are the Son of God!” But he rebuked them and would not allow them to speak, because they knew that he was the Christ.
+
+[42] And when it was day, he departed and went into a desolate place. And the people sought him and came to him, and would have kept him from leaving them, [43] but he said to them, “I must preach the good news of the kingdom of God to the other towns as well; for I was sent for this purpose.” [44] And he was preaching in the synagogues of Judea.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _LSB_ 578 _Thy Strong Word_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and from Christ Jesus our Lord.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
