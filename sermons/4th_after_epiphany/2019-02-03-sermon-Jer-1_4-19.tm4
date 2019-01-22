@@ -1,5 +1,6 @@
+include(`quotes.m4')dnl
+include(`preach.m4')dnl
 % 4th after the Epiphany
-<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
 
 ## During the service
 
