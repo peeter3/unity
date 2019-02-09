@@ -21,3 +21,5 @@ dnl
 define(`_MARRIAGE_NUMBER_ONE', `marriage is the number one story in the Bible')dnl
 dnl `_HASNT_DISSAPOINTED' quotes Ed Kosiba.
 define(`_HASNT_DISAPPOINTED', `The Lord hasn`'_RQ()t disappointed me yet.')dnl
+dnl `_JUSTIFIED_001' quotes Pastor Bob Green at Bethlehem Parma.
+define(`_JUSTIFIED_001', 'just as if I never sinned')dnl
