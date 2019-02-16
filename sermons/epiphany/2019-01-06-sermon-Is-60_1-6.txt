@@ -1,0 +1,205 @@
+% Epiphany
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* Matins
+
+## Announcements
+
+* Thank you, Pastor Hoffman!
+
+## Old Testament [Is 60:1‑6 ESV; sermon text]
+
+> [1] Arise, shine, for your light has come,\
+> and the glory of the LORD has risen upon you.\
+> [2] For behold, darkness shall cover the earth,\
+> and thick darkness the peoples;\
+> but the LORD will arise upon you,\
+> and his glory will be seen upon you.\
+> [3] And nations shall come to your light,\
+> and kings to the brightness of your rising.
+
+> [4] Lift up your eyes all around, and see;\
+> they all gather together, they come to you;\
+> your sons shall come from afar,\
+> and your daughters shall be carried on the hip.\
+> [5] Then you shall see and be radiant;\
+> your heart shall thrill and exult,\
+> because the abundance of the sea shall be turned to you,\
+> the wealth of the nations shall come to you.\
+> [6] A multitude of camels shall cover you,\
+> the young camels of Midian and Ephah;\
+> all those from Sheba shall come.\
+> They shall bring gold and frankincense,\
+> and shall bring good news, the praises of the LORD.
+
+------------
+
+[1] ΦΩΤΙΖΟΥ φωτίζου ῾Ιερουσαλήμ, ἥκει γάρ σου τὸ φῶς, καὶ ἡ δόξα Κυρίου ἐπὶ σὲ ἀνατέταλκεν.\
+[2]  ἰδοὺ σκότος καλύψει γῆν ὡς γνόφος ἐπ᾿ ἔθνη· ἐπὶ δὲ σὲ φανήσεται Κύριος, καὶ ἡ δόξα αὐτοῦ ἐπὶ σὲ ὀφθήσεται.\
+[3]  καὶ πορεύσονται βασιλεῖς τῷ φωτί σου καὶ ἔθνη τῇ λαμπρότητί σου.\
+[4]  ἆρον κύκλῳ τοὺς ὀφθαλμούς σου καὶ ἰδὲ συνηγμένα τὰ τέκνα σου· ἰδοὺ ἥκασι πάντες οἱ υἱοί σου μακρόθεν, καὶ αἱ θυγατέρες σου ἐπ᾿ ὤμων ἀρθήσονται.\
+[5]  τότε ὄψῃ καὶ φοβηθήσῃ καὶ ἐκστήσῃ τῇ καρδίᾳ, ὅτι μεταβαλεῖ εἰς σὲ πλοῦτος θαλάσσης καὶ ἐθνῶν καὶ λαῶν. καὶ ἥξουσί σοι\
+[6]  ἀγέλαι καμήλων, καὶ καλύψουσί σε κάμηλοι Μαδιὰμ καὶ Γαιφά· πάντες ἐκ Σαβὰ ἥξουσι φέροντες χρυσίον καὶ λίβανον οἴσουσι καὶ λίθον τίμιον καὶ τὸ σωτήριον Κυρίου εὐαγγελιοῦνται.
+
+## Epistle [Eph 3:1‑12 ESV]
+
+[1] For this reason I, Paul, a prisoner of Christ Jesus on behalf of you Gentiles---[2] assuming that you have heard of the stewardship of God's grace that was given to me for you, [3] how the mystery was made known to me by revelation, as I have written briefly. [4] When you read this, you can perceive my insight into the mystery of Christ, [5] which was not made known to the sons of men in other generations as it has now been revealed to his holy apostles and prophets by the Spirit. [6] This mystery is that the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus through the gospel.
+
+[7] Of this gospel I was made a minister according to the gift of God's grace, which was given me by the working of his power. [8] To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, [9] and to bring to light for everyone what is the plan of the mystery hidden for ages in God, who created all things, [10] so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places. [11] This was according to the eternal purpose that he has realized in Christ Jesus our Lord, [12] in whom we have boldness and access with confidence through our faith in him.
+
+## Holy Gospel [Mt 2:1‑12 ESV]
+
+[1] Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the east came to Jerusalem, [2] saying, “Where is he who has been born king of the Jews? For we saw his star when it rose and have come to worship him.” [3] When Herod the king heard this, he was troubled, and all Jerusalem with him; [4] and assembling all the chief priests and scribes of the people, he inquired of them where the Christ was to be born. [5] They told him, “In Bethlehem of Judea, for so it is written by the prophet:
+
+> [6] “‘And you, O Bethlehem, in the land of Judah,\
+> are by no means least among the rulers of Judah;\
+> for from you shall come a ruler who will shepherd my people Israel.’”
+
+[7] Then Herod summoned the wise men secretly and ascertained from them what time the star had appeared. [8] And he sent them to Bethlehem, saying, “Go and search diligently for the child, and when you have found him, bring me word, that I too may come and worship him.” [9] After listening to the king, they went on their way. And behold, the star that they had seen when it rose went before them until it came to rest over the place where the child was. [10] When they saw the star, they rejoiced exceedingly with great joy. [11] And going into the house, they saw the child with Mary his mother, and they fell down and worshiped him. Then, opening their treasures, they offered him gifts, gold and frankincense and myrrh. [12] And being warned in a dream not to return to Herod, they departed to their own country by another way.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 127 _As With Gladness Men of Old_
+* Sermon hymn: _TLH_ 128 _Brightest and Best of the Sons of the Morning_
+* Closing hymn: _TLH_ 129 _Hail, Thou Source of Every Blessing_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and from Christ Jesus our Lord.
+How do you deal with the dark?
+It may come to no surprise to you that our youth are interested in how scary our church building is at night, and yes, we have played hide-and-seek in the dark, but only on the bottom two floors and never, of course, in the sanctuary.
+For we are curious about the dark but behind the curiosity stands the real fear of the dark.
+Nevertheless, when you are surrounded by friends, the dark is not as scary.
+When you are surrounded by friends, you can even play hide-and-seek in the dark and have fun.
+
+But along with playing in the dark, the youth have also asked me,
+"Pastor, have you ever spent the night alone in the church?"
+Yes, I have, and I admit that at first I was afraid in the dark, for there are all kinds of noises here at night.
+There is the church mouse.
+After all, what would a church be without a mouse?
+I may or may not have heard a mouse here at night, but I have heard that little, rapid scratching sound---an animal either scratching or gnawing---I have heard that here at night.
+And if you are lucky, you may even hear a mousetrap snapping shut.
+It is no secret that there was a bat in the church a month or so ago, but I have not seen it since.
+Bats are quiet, but you can see them.
+At night, a bat is scary because if it is flying around the gym, for example, I may have a sense that something is moving but I cannot see it---I might just catch a glimpse of it from the light that comes through the basement windows.
+Finally, there are the pipes.
+If the furnace is running---and it always does this time of year---there is always a little banging or metallic popping noise from the heating pipes---or was that someone in the building tapping on the pipes with a hammer?
+Yes, there are things to hear and see at night at church.
+
+Let us now turn from darkness in the church to darkness in the Bible.
+From our Old Testament reading in Isaiah, chapter 60:
+
+> **For behold, darkness shall cover the earth,**\
+> **and _thick_ darkness the peoples.**
+
+*Thick* darkness is pea soup fog at night---thick darkness is turning off the lights in Mammoth Cave---thick darkness is you cannot see your hand in front of your face---you are *blind*---thick darkness is blindness ([Is 42:19‑20](https://www.esv.org/Isaiah+42:19/)).
+Now take away your friends who are playing hide-and-seek with you in the dark.
+Now leave the church, but not the darkness, and, God forbid, go instead to the psychic on State Road, where, God forbid, you have made contact with the spirit world by satanic arts.
+You are alone in thick darkness not in God's house but in the devil's house---this is not fun anymore for you feel the devil's presence.
+A feeling of dread comes over you when you realize you are too weak to overcome the devil: dread---darkness---the fear of death.
+
+*Spiritual darkness* is real darkness.
+The Bible clearly teaches that the nations living in darkness live without faith in the one true God of Israel.
+They worship idols.
+They do not worship the one true God of Israel: they worship Moloch, Dagon, Baal, Asherah, and the host of heaven ([2Ki 23:4](https://www.esv.org/2+Kings+23:4/)).
+Isaiah makes it clear that God's anger at the Israelites is because even they, God's chosen people, worship these idols on the side.
+"Lord! Lord!" they cry out at the temple, but in the same temple they worship idols on the side.
+But God calls for *unadulterated* worship---no adultery on the side---worship Him and Him alone!
+You cannot worship the one true God and worship an idol on the side.
+And the moment you test the waters of idolatry, you step into spiritual darkness---spiritual darkness where soon you will not be able to see your hand in front of your face.
+For the idols are not the same or even similar to the one true God---the idols are worthless; those who worship them make themselves worthless.
+Has the devil got your self-esteem down?
+The get rid of that idol!
+Keep trusting in your idol and you remain blind in spiritual darkness.
+
+Welcome back to the fear of the dark, but this is the fear you experience in *spiritual* darkness. You are overcome by fear on a sunny day.
+The Holy Spirit has left you like He left Saul, leaving you to your own devices, leaving you to the devil's coercion because you would not listen to God.
+"You won't listen, so I'll stop telling you what you need to hear," that is, "I'll leave you with your idol."
+So you cling to your idol---you do not stop consulting with the psychic, you do not stop indulging in pornography, you do not stop stealing from your employer, and you do not turn to God in repentance.
+And along with that you leave a trail of unrighteous acts of which you should be ashamed.
+God sees your unrighteous acts.
+
+"I confess my sin, Lord! Help me to do better!"
+
+By the grace of the Holy Spirit, I see that my idol is worthless and I turn to God for help.
+I confess that I have done wrong---I want to do better---I acknowledge my sin before God and my *unrighteousness* before God.
+I have done nothing right before Him---I could not see what I was doing and I made a mess---not only for myself but for others, too.
+I confess that the devil has overpowered me and I need God to get the devil off my back!
+I was groping around in darkness and could not see what I was doing.
+The time has come for me to let go of my idol and see the light of Jesus, for He comes to destroy the works of the devil by the forgiveness of my sins.
+
+The most important thing for me as your pastor is to let go of *my* idols so I can care for you as Jesus has called me to do.
+And He has called me to care for you in a way so that you let go of *your* idols and take hold of Jesus, too.
+*[Point to the stained glass window]* But today is Epiphany, and do you see the Magi riding their camels to come and worship Jesus?
+With good hearts and a clear conscience, behold, *these Gentiles are leaving their idols behind* and looking for Jesus!
+Christ is born and He has begun to shine.
+Idolaters living in darkness see the light of Christ!
+Perhaps the Magi who visit Jesus have heard about the Savior of the Jews from Daniel.
+Now they see the star and they have the idea that it is time to give up *their* idols to worship the God who saved Shadrach, Meshach, and Abednego from the fiery furnace.
+The Savior of Israel is born a child, and they must bring Him gifts and worship Him.
+"It is time to leave our idols behind to worship the one true God, and He is the God of Israel."
+God has somehow---we know how---by the grace of the Holy Spirit---God has shined a light in the spiritual darkness of the wise men and told them they need to bring gold, frankinscence and myrrh to Jesus---the finest gifts they can bring.
+
+You may remember how much trouble the Israelites had with worshiping idols on the side.
+The Israelites claimed to worship their God, but chose to worship foreign Gods on the side, thinking the God of Israel would still favor them.
+But behold the wise men of the east coming to Israel.
+Behold, the Gentiles abandon their idols to worship the one true God of Israel---that the God of the Jews is also the God of the Gentiles, and He is the child of Joseph and Mary!
+
+Beloved in the Lord, let go of your idol and follow the Magi to Jesus!
+You were left in darkness by your idol.
+Come to Jesus and walk in His light.
+
+> **Arise, shine, for your light has come,**\
+> **and the glory of the LORD has risen upon you.**
+
+The light prophesied by Isaiah is none other than our Lord Jesus.
+He appears in the darkness of your idolatry to send away your idols and show you what He is worth.
+What He is worth is enough to wipe out any need for an idol *and* take on paying the price for your mountain of unrighteous acts.
+Your unrighteous, idolatrous acts are in His sights---for the Christ Child is God and He sees them.
+He will not take it out on you.
+For you, there is only comfort.
+For Him, it will be battle with the devil.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+> **[10] In that day the root of Jesse, who shall stand as a signal for the peoples—of him shall the nations inquire, and his resting place shall be glorious.**\
+> **[11] In that day the Lord will extend his hand yet a second time to recover the remnant that remains of his people, from Assyria, from Egypt, from Pathros, from Cush, from Elam, from Shinar, from Hamath, and from the coastlands of the sea.** ([Is 11:10‑11](https://www.esv.org/Isaiah+11:10/) ESV)
+
+> **[11] Out of the anguish of his soul he shall see and be satisfied;**\
+> **by his knowledge shall the righteous one, my servant,**\
+> **make many to be accounted righteous,**\
+> **and he shall bear their iniquities.** ([Is 53:11](https://www.esv.org/Isaiah+53:11/) ESV)
+
+Is 60:6. Sheba is believed to be the kingdom of Saba in southern Arabia.
+
+Mt 2:6. The prophecy of Mi 5:2 is quoted.
+
+Does this mean you have a second chance to do right and make it up?
+Your flesh would like to think so.
+The last thing your flesh would do is give a wholehearted confession of sin.
+You flesh says, "Give me a second chance and I'll make it better."
+
+Herod would have come to Jesus, but in unrighteousness.
+The Magi come to Jesus in righteousness---they come to worship Him.

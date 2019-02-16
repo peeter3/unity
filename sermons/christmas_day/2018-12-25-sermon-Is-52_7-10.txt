@@ -1,0 +1,182 @@
+% Christmas Day
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* Pastor Hoffman will lead worship and Bible this Sunday
+
+## Old Testament [Is 52:7‑10 ESV; sermon text]
+
+> [7] How beautiful upon the mountains\
+> are the feet of him who brings good news,\
+> who publishes peace, who brings good news of happiness,\
+> who publishes salvation,\
+> who says to Zion, “Your God reigns.”\
+> [8] The voice of your watchmen—they lift up their voice;\
+> together they sing for joy;\
+> for eye to eye they see\
+> the return of the LORD to Zion.\
+> [9] Break forth together into singing,\
+> you waste places of Jerusalem,\
+> for the LORD has comforted his people;\
+> he has redeemed Jerusalem.\
+> [10] The LORD has bared his holy arm\
+> before the eyes of all the nations,\
+> and all the ends of the earth shall see\
+> the salvation of our God.
+
+------------
+
+[7] ὡς ὥρα ἐπὶ τῶν ὀρέων, ὡς πόδες εὐαγγελιζομένου ἀκοὴν εἰρήνης, ὡς εὐαγγελιζόμενος ἀγαθά, ὅτι ἀκουστὴν ποιήσω τὴν σωτηρίαν σου λέγων Σιων Βασιλεύσει σου ὁ θεός· 
+[8] ὅτι φωνὴ τῶν φυλασσόντων σε ὑψώθη, καὶ τῇ φωνῇ ἅμα εὐφρανθήσονται· ὅτι ὀφθαλμοὶ πρὸς ὀφθαλμοὺς ὄψονται, ἡνίκα ἂν ἐλεήσῃ κύριος τὴν Σιων. 
+[9] ῥηξάτω εὐφροσύνην ἅμα τὰ ἔρημα Ιερουσαλημ, ὅτι ἠλέησεν κύριος αὐτὴν καὶ ἐρρύσατο Ιερουσαλημ. 
+[10] καὶ ἀποκαλύψει κύριος τὸν βραχίονα αὐτοῦ τὸν ἅγιον ἐνώπιον πάντων τῶν ἐθνῶν, καὶ ὄψονται πάντα τὰ ἄκρα τῆς γῆς τὴν σωτηρίαν τὴν παρὰ τοῦ θεοῦ.
+
+## Epistle [Heb 1:1‑12 ESV]
+
+[1] Long ago, at many times and in many ways, God spoke to our fathers by the prophets, [2] but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world. [3] He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high, [4] having become as much superior to angels as the name he has inherited is more excellent than theirs.
+
+[5] For to which of the angels did God ever say,
+
+> “You are my Son, today I have begotten you”?
+
+Or again,
+
+> “I will be to him a father, and he shall be to me a son”?
+
+[6] And again, when he brings the firstborn into the world, he says,
+
+> “Let all God's angels worship him.”
+
+[7] Of the angels he says,
+
+> “He makes his angels winds, and his ministers a flame of fire.”
+
+[8] But of the Son he says,
+
+> “Your throne, O God, is forever and ever,\
+> the scepter of uprightness is the scepter of your kingdom.\
+> [9] You have loved righteousness and hated wickedness;\
+> therefore God, your God, has anointed you with the oil of gladness\
+> beyond your companions.”
+
+[10] And,
+
+> “You, Lord, laid the foundation of the earth in the beginning,\
+> and the heavens are the work of your hands;\
+> [11] they will perish, but you remain;\
+> they will all wear out like a garment,\
+> [12] like a robe you will roll them up,\
+> like a garment they will be changed.\
+> But you are the same, and your years will have no end.”
+
+## Holy Gospel [Jn 1:1‑18 ESV]
+
+[1] In the beginning was the Word, and the Word was with God, and the Word was God.
+[2] He was in the beginning with God. [3] All things were made through him, and without him was not any thing made that was made. [4] In him was life, and the life was the light of men. [5] The light shines in the darkness, and the darkness has not overcome it.
+
+[6] There was a man sent from God, whose name was John. [7] He came as a witness, to bear witness about the light, that all might believe through him. [8] He was not the light, but came to bear witness about the light.
+
+[9] The true light, which gives light to everyone, was coming into the world. [10] He was in the world, and the world was made through him, yet the world did not know him. [11] He came to his own, and his own people did not receive him. [12] But to all who did receive him, who believed in his name, he gave the right to become children of God, [13] who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.
+
+[14] And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.
+[15] (John bore witness about him, and cried out, “This was he of whom I said, ‘He who comes after me ranks before me, because he was before me.’”) [16] For from his fullness we have all received, grace upon grace. [17] For the law was given through Moses; grace and truth came through Jesus Christ. [18] No one has ever seen God; the only God, who is at the Father's side, he has made him known.
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _TLH_ 999 _ZZZ_
+* Sermon hymn: _LSB_ 379 _O Come, All Ye Faithful_
+* Closing hymn: _TLH_ 999 _ZZZ_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and from Christ Jesus our Lord.
+*Come and see! You've got to see this!*
+And people do come and see what it is.
+Some are suspicious, some are occupied with something else, but some go and see what this thing might be.
+*Come and see! You've got to see this!*
+An invitation started over a month ago along the lines of *Come to the Black Friday sale!*
+And if you went, you probably saw a lot of other people who were invited and came, and there you all bought things.
+The store's intention was to have you come and see the deals and part with your money.
+There were decorations in the store, employees trained to motivate you to buy, and carefully selected music intended to get you to relax and part with your money.
+*Come and see these great deals!* is one kind of news.
+*Come and see the babe born in Bethlehem!* is another kind of news.
+
+Now there is probably not one of you who has never taken advantage of a great deal, and there is no sin in saving money.
+But the news of a sale is intended to get you to part with your money,
+and I want you to know that Satan sells hard to get you part with your virtue and buy into sin.
+Satan announces sales all the time and his sales will cost you something, and if you keep shopping at his sales and do not repent, you will find that it will cost you your soul.
+**For what does it profit a man to gain the whole world and forfeit his soul?** ([Mk 8:36](https://www.esv.org/Mark+8:36/) ESV)
+"Come! Money can buy you happiness!
+Come! Physical affection can bring you fulfillment!"
+Satan puts out all his sales as good news.
+But beware of them and you may safely ignore them.
+
+On the other hand, I have truly Good News to offer you today.
+I come to you with no offer of financial success,
+no offer that you will be able to influence people to your advantage, no offer that you will be more attractive.
+In fact, if you hear and believe my Good News, it may cost you much, but not your soul: you will *gain* your soul.
+**"Any one of you who does not renounce all that he has cannot be my disciple"** ([Lk 14:33](https://www.esv.org/Luke+14:33/) ESV), says our Lord Jesus.
+Hear, then, my Good News:
+
+> **For unto you is born this day in the city of David a Savior, who is Christ the Lord.** ([Lk 2:11](https://www.esv.org/Luke+2:11/) ESV)
+
+This is my Good News and here is what Christ the Lord brings to you: *He brings you salvation by the forgiveness of your sins*.
+When Zechariah, the father of John the Baptist, prophesied at the birth of his son, he said,
+
+> **"Blessed be the Lord God of Israel,**\
+> **for he has visited and redeemed his people**\
+> **and has raised up a horn of _salvation_ for us**\
+> **in the house of his servant David, ...**\
+> **And you, child, will be called the prophet of the Most High;**\
+> **for you will go before the Lord to prepare his ways,**\
+> **to give knowledge of _salvation_ to his people**\
+> **_in the forgiveness of their sins_."** ([Lk 1:68‑69, 76‑77](https://www.esv.org/Luke+1:68/) ESV)
+
+The Good News that you do not want to miss---do not stay home and let this  pass by---the Good News is that Jesus is born for you and this little babe in Bethlehem will deliver to you the forgiveness of your sins.
+If you would like to know *how* He will do this, I can tell you this: He will die for your sins.
+But for now, behold the helpless child, lying in the manger, who needs to nurse and be fed and cared for.
+How can He deliver to you the forgiveness of your sins?
+Beloved in the Lord, you have no idea *who this child is*: He is *the Word made flesh*.
+
+> **In the beginning was the Word, and the Word was with God, and _the Word was God_. ... _And the Word became flesh and dwelt among us_, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.** ([Jn 1:1, 14](https://www.esv.org/John+1/) ESV)
+
+Who you see lying in the manger---the babe of Bethlehem---is none other than *the Word made flesh*.
+This child Jesus comes to save you from your sins. He is God---He is the Word made flesh.
+And though He may seem helpless in the manger, *He reigns*!
+There are legions of angels who attend to Him and bow to His command.
+You will see soon enough that the wind and the waves obey Him, for by Him all things were created.
+He is God, and He most certainly *can* deliver to you the forgiveness of your sins.
+
+And lest you forget the debt you got into shopping at the devil's sales,
+Jesus knows about those.
+Oh, He knows where you have shopped and He has measured the depth of your debt to the devil.
+He knows every penny you have wasted, and He comes to pay it all off.
+This is a different kind of Good News, for what it costs you will not leave you not deprived and dying, but full of His Spirit and living.
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
+
+Our Lord warns us in the last days that **false christs and false prophets will arise and perform signs and wonders, to lead astray, if possible, the elect** ([Mk 13:22](https://www.esv.org/Mark+13:22/) ESV).

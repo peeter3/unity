@@ -1,0 +1,171 @@
+% Baptism of our Lord
+<!-- pandoc -s --smart -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## During the service
+
+* ZZZ
+
+## Announcements
+
+* ZZZ
+
+## Old Testament [Is 43:1‑7 ESV; sermon text]
+
+> [1] But now thus says the LORD,\
+> he who created you, O Jacob,\
+> he who formed you, O Israel:\
+> “Fear not, for I have redeemed you;\
+> I have called you by name, you are mine.\
+> [2] When you pass through the waters, I will be with you;\
+> and through the rivers, they shall not overwhelm you;\
+> when you walk through fire you shall not be burned,\
+> and the flame shall not consume you.\
+> [3] For I am the LORD your God,\
+> the Holy One of Israel, your Savior.\
+> I give Egypt as your ransom,\
+> Cush and Seba in exchange for you.\
+> [4] Because you are precious in my eyes,\
+> and honored, and I love you,\
+> I give men in return for you,\
+> peoples in exchange for your life.\
+> [5] Fear not, for I am with you;\
+> I will bring your offspring from the east,\
+> and from the west I will gather you.\
+> [6] I will say to the north, Give up,\
+> and to the south, Do not withhold;\
+> bring my sons from afar\
+> and my daughters from the end of the earth,\
+> [7] everyone who is called by my name,\
+> whom I created for my glory,\
+> whom I formed and made.”
+
+------------
+
+
+## Epistle [Rm 6:1‑11 ESV]
+
+[1] What shall we say then? Are we to continue in sin that grace may abound? [2] By no means! How can we who died to sin still live in it? [3] Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death? [4] We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life.
+
+[5] For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his. [6] We know that our old self was crucified with him in order that the body of sin might be brought to nothing, so that we would no longer be enslaved to sin. [7] For one who has died has been set free from sin. [8] Now if we have died with Christ, we believe that we will also live with him. [9] We know that Christ, being raised from the dead, will never die again; death no longer has dominion over him. [10] For the death he died he died to sin, once for all, but the life he lives he lives to God. [11] So you also must consider yourselves dead to sin and alive to God in Christ Jesus.
+
+## Holy Gospel [Lk 3:15‑22 ESV]
+
+[15] As the people were in expectation, and all were questioning in their hearts concerning John, whether he might be the Christ, [16] John answered them all, saying, “I baptize you with water, but he who is mightier than I is coming, the strap of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and fire. [17] His winnowing fork is in his hand, to clear his threshing floor and to gather the wheat into his barn, but the chaff he will burn with unquenchable fire.”
+
+[18] So with many other exhortations he preached good news to the people. [19] But Herod the tetrarch, who had been reproved by him for Herodias, his brother's wife, and for all the evil things that Herod had done, [20] added this to them all, that he locked up John in prison.
+
+[21] Now when all the people were baptized, and when Jesus also had been baptized and was praying, the heavens were opened, [22] and the Holy Spirit descended on him in bodily form, like a dove; and a voice came from heaven, “You are my beloved Son; with you I am well pleased.”
+
+## Introit [Ps 99:99-99; antiphon: Ps 99:99]
+
+> I will speak of your testimonies before kings, | [O Lord,]\*\
+> and shall not be | put to shame.\
+
+## Collect
+
+Almighty and gracious Lord, ... through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.
+
+## Hymns
+
+* Opening hymn: _LSB_ 405 _To Jordan's River Came our Lord_
+* Sermon hymn: _LSB_ 404 _Jesus, Once with Sinners Numbered_
+* Communion hymn: _TLH_ 126 _Arise and Shine in Splendor_
+* Closing hymn: _TLH_ 131 _The Star Proclaims the King is Here_
+
+## Sermon
+
+Beloved in the Lord, grace, mercy, and peace from God the Father and from Christ Jesus our Lord.
+What are you worth?
+You may find out if see what someone is willing to give up to have *you*.
+In baseball, to have Mike Trout, for example, the Indians might be willing to give up Lonnie Chisenhall, a minor league player, and 10 million dollars.
+Mike Trout would then be worth Lonnie, a prospect, and 10 million.
+But what is someone willing to give up to have *you*?
+Our Lord Jesus teaches us two short parables on this theme, and I will read them now in order to bring them to mind.
+From Matthew, chapter 13, our Lord teaches us,
+
+> **"The kingdom of heaven is like treasure hidden in a field, which a man found and covered up. Then in his joy he goes and sells *all that he has* and buys that field. Again, the kingdom of heaven is like a merchant in search of fine pearls, who, on finding one pearl of great value, went and sold *all that he had* and bought it."** ([Mt 13:44‑46](https://www.esv.org/Matthew+13:44/) ESV)
+
+The merchant gives up everything for *that* pearl, and the man gives up everything for *that* field---everything.
+Who are they---this man and this merchant?
+Do they represent *us* giving up all we have for the kingdom of heaven or do they represent *our heavenly Father* giving up everything for us?
+On the basis of our Old Testament reading today, let us consider that they represent *our heavenly Father*, who gives up everything for us.
+Let us see *whom* our heavenly Father gives up in order to have us.
+
+> **For I am the LORD your God,**\
+> **the Holy One of Israel, your Savior.**\
+> **I give Egypt as your ransom,**\
+> **Cush and Seba in exchange for you.**
+
+This passage refers to the Israelites, but as God's chosen people by faith in Jesus, it can refer to us, too.
+God gives up Egypt as ransom for the Jews, His chosen people.
+And if Egypt is not enough, then He will throw in two more nations---Cush and Seba---*three nations* in exchange for one because that one nation is the apple of His eye ([Zec 2:8](https://www.esv.org/Zechariah+2:8/)).
+Ransoms are huge sums of money.
+Ransoms in the millions have been paid to pirates who have hijacked ships and held the crew hostage.
+Ransoms in the millions have been paid to kidnappers to free the people they have taken captive.
+Ransoms of millions of dollars are paid because the people held captive are precious.
+In Bible times, it was common to pay a ransom to redeem a slave.
+To *redeem* a slave is to pay a *ransom* to the slaveowner in order to free the slave from his or her bondage.
+A *ransom* is a big Bible word for big money paid to set someone free from captivity.
+
+For you and I, because of the sin that we are born with, are captive to the devil; this is most certainly true; big money needs to be paid to release us.
+The Israelites, through their idolatry in Isaiah's day, were also captive to the devil, and for this God would send the Babylonian army to conquer their territory and punish them.
+At the time Isaiah spoke the words of our Old Testament reading, he had already proclaimed that the Israelites would be taken captive to Babylon ([Is 39:6](https://www.esv.org/Isaiah+39:6/)); this was also most certainly true.
+Yet is was God's intention to redeem His people from their Babylonian captivity---to pay a ransom for their release.
+He would give all of Egypt as a ransom to the Babylonians to let go of His chosen people; He would throw in Cush from Africa in Seba from Arabia to boot.
+This is *beyond* paying millions of dollars in ransom money---this is paying *entire nations*---this is paying wealth beyond money.
+God would pay that much for the Jews because He still loved them---they never stopped being the apple of His eye.
+
+> **Because you are precious in my eyes,**\
+> **and honored, and I love you,**\
+> **I give men in return for you,**\
+> **peoples in exchange for your life.**
+
+Clearly, God put the Jews, His chosen people, above all other nations of the earth.
+He would exchange Egypt, Cush, and Seba for little Israel, because they are *His* chosen people, precious in *His* eyes.
+It goes back to the LORD's personal friendship with Abraham.
+Because Abraham believed the LORD, his seed, the Jews, were especially cared for by the LORD, and continue to be cared for today.
+
+But the Israelites were captive to Babylon and we are captive to the devil---this is the parallel, and I would remind you that Babylon does come up in the book of Revelation ([Rv 14‑18](https://www.esv.org/Revelation+14/)) as a symbol of the devil's kingdom.
+You are captive to the devil, and who will pay your ransom?
+Who will pay your ransom and what will the ransom be?
+A hundred dollars?
+A hundred *thousand* dollars?
+A hundred *million* dollars?
+Who will redeem you from Satan's slavery like the LORD redeemed the Israelites from Egyptian slavery?
+Who will redeem you from Satan's slavery like the LORD redeemed the Israelites from Babylonian captivity?
+The LORD will redeem you, now what will He pay?
+Will he sacrifice a nation just so you can live?
+No.
+He will not sacrifice Africa and Arabia because He wants to *save* Africa and Arabia.
+He will not sacrifice Ireland and Slovenia because He wants to *save* Ireland and Slovenia.
+He will not sacrifice *any* nation because He wants to save *all* nations.
+
+Nevertheless a mighty ransom must be paid, and the LORD sent John the Baptist to prepare the way of the Lord and to point you to the ransom that God will pay for you: **"Behold, the Lamb of God, who takes away the sin of the world!"** ([Jn 1:29](https://www.esv.org/John+1:29/) ESV)
+*There* is the ransom that the Father will pay for you.
+On the day that John was baptizing sinners, our Lord Jesus appeared to be baptized *together with sinners*---together with you.
+
+> **John would have prevented him, saying, “I need to be baptized by you, and do you come to me?” Jesus answered him, “Let it be so now, for thus it is fitting for us to fulfill all righteousness.” Then he consented.** ([Mt 3:14‑15](https://www.esv.org/Matthew+3:14/) ESV)
+
+Let it be known, beloved in the Lord, that God's righteousness is revealed in that He marks *His own Son* by Baptism to be the ransom to be paid for you.
+
+> **“You are my beloved Son; with you I am well pleased.”** ([Lk 3:22b](https://www.esv.org/Luke+3:22/) ESV)
+
+How much more precious is His Son to the Father than a million dollars?
+How much more precious is His Son to the Father than a nation?
+There is no one and nothing more precious to our heavenly Father than His Son, with whom He is well pleased.
+He is baptized with sinners to be marked as the ransom to be paid for your freedom.
+
+*[Pray]* Oh, gracious Father, help us to see how precious Your Son is to you, that we will humbly repent of our sins which He comes to pay with His own blood. Oh, gracious Father, You have loved us so by sending Your Son Jesus to redeem us.
+
+**"And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus"** [(Php 4:7 ESV)](https://www.esv.org/Philippians+4:7/).
+AMEN.
+
+## Outline
+
+|       OUR SAVIOR FROM OUR WORST TROUBLE         |
+|:-----------------------------------------------:|
+
+1. ZZZ
+    1. ZZZ
+
+## Notes
