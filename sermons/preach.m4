@@ -33,3 +33,5 @@ dnl
 define(`_ATONEMENT_001', `atonement deals with sin but leaves the sinner unharmed')dnl
 dnl
 define(`_JESUS_SAYS_IT', `Jesus says it, I believe it, that settles it.')dnl
+dnl
+define(`_GLIMMER_OF_GREATER_THINGS', `glimmer of greater things')dnl
