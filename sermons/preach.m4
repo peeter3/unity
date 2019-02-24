@@ -1,4 +1,6 @@
 dnl BEGIN expressions from the Bible
+dnl `_GOD_MEANT_IT_FOR_GOOD' quotes Gn 50:20.
+define(`_GOD_MEANT_IT_FOR_GOOD', `You meant evil against me, but God meant it for good.')dnl
 dnl `_WOE_IS_ME' quotes Is 6:5.
 define(`_WOE_IS_ME', `Woe is me! For I am lost; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips.')dnl
 dnl `_TOUCHED_YOUR_LIPS' quotes Is 6:7.
