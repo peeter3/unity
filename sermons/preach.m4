@@ -15,6 +15,8 @@ dnl `_ANGEL_OF_LIGHT' quotes 2Co 11:14.
 define(`_ANGEL_OF_LIGHT', `Satan disguises himself as an angel of light')dnl
 dnl `_INFANTS_IN_EVIL' quotes 2Co 14:20.
 define(`_INFANTS_IN_EVIL', `infants in evil')dnl
+dnl `_FORGETTING_WHAT_LIES_BEHIND' quotes Php 3:13
+define(`_FORGETTING_WHAT_LIES_BEHIND', 'forgetting what lies behind and straining forward to what lies ahead')dnl
 dnl END expressions from the Bible
 dnl
 dnl BEGIN expressions from the Small Catechism
@@ -33,6 +35,10 @@ dnl
 define(`_NO_DOUBT_001', `there is no doubt where Christ forgives sin')dnl
 dnl
 define(`_ATONEMENT_001', `atonement deals with sin but leaves the sinner unharmed')dnl
+dnl
+define(`_WE_DESERVE_001', `What you and I deserve, our Lord enters Jerusalem to suffer.')dnl
+dnl `THOU_DIDST_CHOOSE_TO_BE_TORMENTED' quotes the hymn "Christ, the Life of All the Living."
+define(`THOU_DIDST_CHOOSE_TO_BE_TORMENTED', 'Thou didst choose to be tormented that my doom should be prevented.')dnl
 dnl
 define(`_JESUS_SAYS_IT', `Jesus says it, I believe it, that settles it.')dnl
 dnl
