@@ -34,6 +34,8 @@ define(`_JUSTIFIED_001', 'just as if I never sinned')dnl
 dnl
 define(`_NO_DOUBT_001', `there is no doubt where Christ forgives sin')dnl
 dnl
+define(`_NO_DOUBT_002', `there is no doubt where Christ fights Satan')dnl
+dnl
 define(`_ATONEMENT_001', `atonement deals with sin but leaves the sinner unharmed')dnl
 dnl
 define(`_WE_DESERVE_001', `What you and I deserve, our Lord enters Jerusalem to suffer.')dnl
